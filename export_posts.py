@@ -92,9 +92,14 @@ def remove_deleted_posts(current_posts):
 
     for root, dirs, files in os.walk(GITHUB_REPO_PATH):
         for file in files:
-            relative_path = Path(root).relative_to(GITHUB_REPO_PATH)
-            if relative_path.parts and (relative_path.parts[-3], relative_path.parts[-2], relative_path.parts[-1]) not in existing_posts:
-                os.remove(os.path.join(root, file))
+            relative_path = Path(root).relative_to(GITHUB_REPO_PATH) / file
+
+            # Ensure the path has at least 3 parts: year/month/slug.json
+            if len(relative_path.parts) >= 3:
+                year, month, slug_json = relative_path.parts[-3], relative_path.parts[-2], relative_path.parts[-1]
+                if (year, month, slug_json) not in existing_posts:
+                    os.remove(os.path.join(root, file))
+                    print(f"Deleted: {relative_path}")
 
 if __name__ == "__main__":
     print("Fetching all posts from WordPress...")
