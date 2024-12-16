@@ -24,9 +24,9 @@ jobs:
 
     - name: Export WordPress posts
       env:
-        WP_API_URL: ${{ secrets.API_URL }}
-        WP_USERNAME: ${{ secrets.WP_USERNAME }}
-        WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
+        API_URL: ${{ secrets.API_URL }}
+        USERNAME: ${{ secrets.USERNAME }}
+        APP_PASSWORD: ${{ secrets.APP_PASSWORD }}
       run: |
         python export_posts.py
 

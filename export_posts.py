@@ -4,13 +4,13 @@ import json
 from datetime import datetime
 from pathlib import Path
 
-WP_API_URL = os.getenv("WP_API_URL") 
-WP_USERNAME = os.getenv("WP_USERNAME")
-WP_APP_PASSWORD = os.getenv("WP_APP_PASSWORD") 
+API_URL = os.getenv("API_URL") 
+USERNAME = os.getenv("USERNAME")
+APP_PASSWORD = os.getenv("APP_PASSWORD") 
 GITHUB_REPO_PATH = "./wordpress-posts"
 
 import base64
-auth_string = f"{WP_USERNAME}:{WP_APP_PASSWORD}"
+auth_string = f"{USERNAME}:{APP_PASSWORD}"
 auth_token = base64.b64encode(auth_string.encode()).decode()
 
 HEADERS = {
@@ -18,7 +18,7 @@ HEADERS = {
 }
 
 def fetch_posts():
-    response = requests.get(WP_API_URL, headers=HEADERS)
+    response = requests.get(API_URL, headers=HEADERS)
     response.raise_for_status()
     return response.json()
 
