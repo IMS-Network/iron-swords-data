@@ -9,7 +9,6 @@ WP_USERNAME = os.getenv("WP_USERNAME")
 WP_APP_PASSWORD = os.getenv("WP_APP_PASSWORD") 
 GITHUB_REPO_PATH = "./wordpress-posts"
 
-# Base64 encode username:application_password
 import base64
 auth_string = f"{WP_USERNAME}:{WP_APP_PASSWORD}"
 auth_token = base64.b64encode(auth_string.encode()).decode()
@@ -18,13 +17,11 @@ HEADERS = {
     "Authorization": f"Basic {auth_token}"
 }
 
-# Fetch posts
 def fetch_posts():
     response = requests.get(WP_API_URL, headers=HEADERS)
     response.raise_for_status()
     return response.json()
 
-# Organize posts into folders by year/month
 def organize_posts(posts):
     base_path = Path(GITHUB_REPO_PATH)
     base_path.mkdir(parents=True, exist_ok=True)
@@ -35,17 +32,14 @@ def organize_posts(posts):
         month = post_date.strftime("%m")
         slug = post["slug"]
 
-        # Create year/month directories
         year_path = base_path / str(year)
         month_path = year_path / month
         month_path.mkdir(parents=True, exist_ok=True)
 
-        # Save post as JSON
         post_path = month_path / f"{slug}.json"
         with open(post_path, "w") as f:
             json.dump(post, f, indent=4)
 
-# Remove posts that no longer exist
 def remove_deleted_posts(current_posts):
     existing_posts = set()
     for post in current_posts:
