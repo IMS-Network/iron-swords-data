@@ -1,0 +1,46 @@
+name: Sync IDF Telegram Messages
+
+on:
+  schedule:
+    - cron: '0 1 * * *'  # Run daily at 1 AM UTC
+  workflow_dispatch:
+
+jobs:
+  sync-telegram:
+    runs-on: ubuntu-latest
+    environment: Telegram
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: pip install telethon requests
+
+    - name: Scrape Telegram messages
+      env:
+        TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
+        TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
+      run: |
+        python export_telegram.py
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.name "${{ secrets.GIT_USER_NAME }}"
+        git config --local user.email "${{ secrets.GIT_USER_EMAIL }}"
+        git add .
+        git commit -m "Sync Telegram messages on $(date)"
+        git push
+
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v5
+      with:
+        branch: sync-telegram-messages
+        commit-message: "Sync Telegram messages"
+        title: "Daily Telegram Messages Sync"
+        body: "This PR syncs messages and media from Telegram."
