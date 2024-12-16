@@ -10,13 +10,16 @@ load_dotenv()
 # Configuration
 API_ID = int(os.getenv("TELEGRAM_API_ID"))  # Your Telegram API ID
 API_HASH = os.getenv("TELEGRAM_API_HASH")  # Your Telegram API Hash
-PHONE_NUMBER = os.getenv("PHONE_NUMBER")  # Your phone number
 CHANNEL = "@idf_telegram"  # Target public channel
 START_DATE = datetime(2023, 10, 7)  # Starting date
 SAVE_PATH = "./IDFspokesman"
+SESSION_FILE = "user_session"  # Session file name
 
-# Initialize client using your phone number
-client = TelegramClient("user_session", API_ID, API_HASH)
+# Initialize client using session file (no interactive login required)
+if not os.path.exists(f"{SESSION_FILE}.session"):
+    raise FileNotFoundError("Session file not found. Generate it locally before running in CI/CD.")
+
+client = TelegramClient(SESSION_FILE, API_ID, API_HASH)
 
 def download_media(media, folder_path, filename_prefix):
     """Download media (photos/videos) to the specified folder."""
@@ -77,8 +80,6 @@ def process_messages():
             print(f"Saved message {message_id} to {md_filename}")
 
 if __name__ == "__main__":
-    print("Logging in...")
-    client.start(phone=PHONE_NUMBER)
     print("Starting Telegram scraping...")
     process_messages()
     print("Telegram scraping completed successfully.")
