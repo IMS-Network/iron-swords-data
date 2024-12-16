@@ -1,0 +1,124 @@
+{
+    "id": 8282,
+    "date": "2024-07-02T17:57:17",
+    "date_gmt": "2024-07-02T14:57:17",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10325-en/"
+    },
+    "modified": "2024-07-02T17:57:17",
+    "modified_gmt": "2024-07-02T14:57:17",
+    "slug": "10325-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10325-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Target in Southern Lebanon: Details and Updates&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked a military structure from which a terrorist of the Hezbollah terror organization was operating in southern Lebanon.</p>\n<p>Forces from Brigade 228 identified earlier today a terrorist entering a military structure of the Hezbollah terror organization in the Yarin area of southern Lebanon. Shortly thereafter, fighter jets attacked the military structure where the terrorist was operating.</p>\n<p>Following alerts activated in the northern part of the country at 5:00 PM and 5:06 PM, about 15 launches were detected crossing from Lebanese territory, ten of which were successfully intercepted by air defense fighters. There are no injuries.</p>\n<p>Attached is documentation from the attack: https://bit.ly/3RPnF6U</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked a military structure from which a terrorist of the <a  href=\"/hezbollah\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> was operating in southern Lebanon. Forces from Brigade 228 identified earlier today a terrorist entering a military structure of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terror organization in the Yarin area of southern Lebanon. Shortly thereafter, fighter jets attacked the military structure where the terrorist was operating. Following alerts activated in the northern part of the country at 5:00 PM and 5:06 PM, about 15 launches were detected crossing from Lebanese territory, ten of which were successfully intercepted by air defense fighters. There are no injuries. Attached</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8282",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8282,
+        "he": 8283,
+        "ru": 8284
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8282",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8282"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8282/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8282"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8282"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8282"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

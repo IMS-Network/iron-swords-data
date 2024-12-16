@@ -1,0 +1,124 @@
+{
+    "id": 9134,
+    "date": "2024-06-08T13:35:16",
+    "date_gmt": "2024-06-08T10:35:16",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10039-en/"
+    },
+    "modified": "2024-06-08T13:35:16",
+    "modified_gmt": "2024-06-08T10:35:16",
+    "slug": "10039-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10039-en/",
+    "title": {
+        "rendered": "&#8220;Successful IDF Operation: Four Israeli Hostages Rescued from Hamas&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint statement from the IDF Spokesperson, Shin Bet Spokesperson, and Police Spokesperson:</p>\n<p>It has been authorized for publication that in a complex operation by the IDF, Shin Bet, and the Israeli Police (Yamam), four Israeli hostages were rescued this morning (Saturday): Noa Argamani (25), Almog Meir (21), Andrei Kozlov (27), and Shlomi Ziv (40), who were kidnapped by Hamas to the Gaza Strip from the &#8216;Nova&#8217; party on October 7. The hostages were rescued by Shin Bet and Yamam fighters from two different locations during an operation in central Nuseirat.</p>\n<p>Their medical condition is stable, and they have been transferred for further medical examinations at the \u2018Sheba\u2019 Medical Center in Tel Hashomer.</p>\n<p>The security forces will continue to operate in all efforts to return the hostages.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint statement from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>, Shin Bet Spokesperson, and Police Spokesperson: It has been authorized for publication that in a complex operation by the IDF, Shin Bet, and the Israeli Police (Yamam), four Israeli <a  href=\"https://iron-swords.co.il/t/hostages/\">hostages</a> were rescued this morning (Saturday): Noa Argamani (25), Almog Meir (21), Andrei Kozlov (27), and Shlomi Ziv (40), who were kidnapped by <a  href=\"/hamas\">Hamas</a> to the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip from the &#8216;Nova&#8217; party on October 7. The hostages were rescued by Shin Bet and Yamam fighters from two different locations during an operation in central Nuseirat. Their medical condition is stable, and they have been transferred</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9134",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9134,
+        "he": 9135,
+        "ru": 9136
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9134",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9134"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9134/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9134"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9134"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9134"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 4144,
+    "date": "2024-01-19T11:30:12",
+    "date_gmt": "2024-01-19T09:30:12",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8655/"
+    },
+    "modified": "2024-01-19T11:30:12",
+    "modified_gmt": "2024-01-19T09:30:12",
+    "slug": "8655",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8655/",
+    "title": {
+        "rendered": "&#8220;Massive Anti-Terror Operation: IDF Thwarts Terror, Seizes Weaponry in Tulkarem Camp&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>After about 45 hours, an operation to thwart terror in the Menashe Brigade command at Tulkarem camp ended: the forces searched about 1000 buildings and found over 400 charges</p>\n<p>Reserve soldiers of the IDF, Border Police, GSS, and National Police in Menashe Brigade command were involved in a broad operation to thwart terror in Tulkarem camp.</p>\n<p>During the operation, engineering equipment revealed dozens of charges that were buried under roads to harm the soldiers.</p>\n<p>The forces searched about 1,000 buildings and investigated hundreds of suspects, of whom over 37 wanted individuals were arrested, some of them senior officials in Tulkarem&#8217;s terror infrastructure.</p>\n<p>The soldiers located and destroyed over 400 charges, confiscated 27 weapons, a large amount of military equipment, and destroyed five factories for charge production and four arms caches.</p>\n<p>As part of the operation, an aircraft of unit 636 eliminated a cell of four terrorists who shot and threw charges at IDF forces and endangered them. The soldiers eliminated a number of terrorists.</p>\n<p>At the beginning of the operation (Wednesday), it was permitted to publish that a reserve soldier was seriously injured from the terrorists\u2019 shooting. The soldier&#8217;s regiment arrived at the terrorists during the operation, eliminated some of them in clashes, and arrested some. On the arrested terrorists, four weapons and magazines were found.</p>\n<p>Pictures of the confiscated weapons and equipment: https://IDFANC.activetrail.biz/ANC18012024.23154</p>\n<p>Pictures from the activities of the forces: https://IDFANC.activetrail.biz/ANC19012024763878120</p>\n<p>Documentation of the activities of the forces and an interview with an officer in the Border Police Regiment 420: https://bit.ly/3OaJuMq</p>\n<p>Documentation of all the confiscated weapons and military equipment: https://bit.ly/3Obkwwt</p>\n<p>Documentation from the location of a factory for making charges: https://bit.ly/3vJrKla</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: After about 45 hours, an operation to thwart terror in the Menashe Brigade command at Tulkarem camp ended: the forces searched about 1000 buildings and found over 400 charges Reserve soldiers of the IDF, Border Police, GSS, and National Police in Menashe Brigade command were involved in a broad operation to thwart terror in Tulkarem camp. During the operation, engineering equipment revealed dozens of charges that were buried under roads to harm the soldiers. The forces searched about 1,000 buildings and investigated hundreds of suspects, of whom over 37 wanted individuals were arrested, some of them senior officials</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4144",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4144
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4144",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4144"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4144/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4144"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4144"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4144"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 3698,
+    "date": "2024-03-12T13:40:12",
+    "date_gmt": "2024-03-12T11:40:12",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9109/"
+    },
+    "modified": "2024-03-12T13:40:12",
+    "modified_gmt": "2024-03-12T11:40:12",
+    "slug": "9109",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9109/",
+    "title": {
+        "rendered": "&#8220;Israeli Fighter Planes Target Hezbollah Strongholds in Lebanon: A Detailed Account of the Strikes&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Fighter planes attacked significant sites of the terrorist organization Hezbollah in the depths of Lebanon.</p>\n<p>Fighter planes attacked a short while ago two military outposts of the terrorist organization Hezbollah in the Beqaa Valley, deep in Lebanon.<br />\nIn these sites, significant supplies were stored, used by the organization in aspects of empowerment in combat.<br />\nThe attacks were carried out in response to the missiles launched by the terrorist organization Hezbollah towards the north of the country this morning. </p>\n<p>In addition, earlier today, a military building in Al-Hiyam area and a terror infrastructure in Bint Jbeil area were attacked.</p>\n<p>Enclosed is documentation of the attacks that occurred earlier today: https://bit.ly/3wSXapO</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Fighter planes attacked significant sites of the terrorist organization <a  href=\"/hezbollah\">Hezbollah</a> in the depths of Lebanon. Fighter planes attacked a short while ago two military outposts of the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in the Beqaa Valley, deep in Lebanon. In these sites, significant supplies were stored, used by the organization in aspects of empowerment in combat. The attacks were carried out in response to the missiles launched by the terrorist organization Hezbollah towards the north of the country this morning. In addition, earlier today, a military building in Al-Hiyam area and a terror infrastructure in Bint Jbeil area were attacked.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3698",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3698
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3698",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3698"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3698/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3698"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3698"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3698"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

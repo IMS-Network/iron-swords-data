@@ -1,0 +1,122 @@
+{
+    "id": 4390,
+    "date": "2023-12-25T16:02:29",
+    "date_gmt": "2023-12-25T14:02:29",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8403/"
+    },
+    "modified": "2023-12-25T16:02:29",
+    "modified_gmt": "2023-12-25T14:02:29",
+    "slug": "8403",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8403/",
+    "title": {
+        "rendered": "&#8220;IDF Neutralizes School-Based Hamas Terrorists: Unearthing Weapons, Explosives, and Jihadist Connections&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>From a school: A terrorist shoots at the combat squad of the Nachal Brigade and is neutralized on the spot. </p>\n<p>The combat team of the Nachal Brigade in the 162nd Division raided the area of the &#8216;Al Rafa&#8217;a&#8217; and &#8216;Zbicha&#8217; schools in Draj Tuffah in the north of the Strip, following information about Hamas terrorists hiding in the schools.</p>\n<p>During clashes with the terrorists, and their neutralization, the fighters found dozens of explosive charges in bags of UNRWA, Kalashnikovs, and 15 explosive belts. In one of the attempts to hit our forces, a terrorist fired an AT missile at an IDF force and was immediately neutralized by a precise hit from the tank shell.</p>\n<p>Many terrorists who were hiding in the schools were identified as activists of Hamas and Islamic Jihad and were brought for interrogation. Some of the terrorists brought for interrogation took part in the attack on October 7th.</p>\n<p>Attached is documentation of the terrorist shooting at IDF forces and their neutralization: https://bit.ly/3vayZCq</p>\n<p>Attached is documentation of the forces&#8217; activity in the field: https://bit.ly/3tl6d1q</p>\n<p>Attached are pictures of the warfare means found in the field: https://idfanc.activetrail.biz/ANC57946</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: From a school: A terrorist shoots at the combat squad of the Nachal Brigade and is neutralized on the spot. The combat team of the Nachal Brigade in the 162nd Division raided the area of the &#8216;Al Rafa&#8217;a&#8217; and &#8216;Zbicha&#8217; schools in Draj Tuffah in the north of the Strip, following information about <a  href=\"/hamas\">Hamas</a> terrorists hiding in the schools. During clashes with the terrorists, and their neutralization, the fighters found dozens of explosive charges in bags of <a  href=\"https://iron-swords.co.il/c/know-your-enemies/unrwa/\">UNRWA</a>, Kalashnikovs, and 15 explosive belts. In one of the attempts to hit our forces, a terrorist fired an AT missile</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4390",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4390
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4390",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4390"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4390/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4390"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4390"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4390"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 4781,
+    "date": "2023-11-27T14:05:46",
+    "date_gmt": "2023-11-27T12:05:46",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8008/"
+    },
+    "modified": "2023-11-27T14:05:46",
+    "modified_gmt": "2023-11-27T12:05:46",
+    "slug": "8008",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8008/",
+    "title": {
+        "rendered": "&#8220;IDF Thwarts Terror: Arrests 20 Wanted Individuals, Seizes War Materials in Sweeping Operations Across Nablus, Ephraim and Jericho&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Last night, IDF forces detained 20 wanted individuals, including 15 terrorists from the Hamas terror organization: in two battalion-wide operations in Nablus and the village of Naama in Ephraim against Hamas activists, about 10 wanted men were arrested, and means of warfare were confiscated.</p>\n<p>In an operation to thwart terror by the Samaria Brigade throughout the city of Nablus and the Askar refugee camp, reservists arrested four wanted persons from the Hamas terror organization, located observation cameras to track our forces, and located and confiscated ammunition and military equipment. As part of this activity, armed men shot and hurled charges at the forces.</p>\n<p>In a mission to thwart terror by the Ephraim Brigade in the village of Naama, reserve soldiers arrested five wanted individuals from the Hamas terror organization, dozens of suspects were investigated, and weapons were confiscated. In operation in the village of Bani Naim in Judea, dozens of additional suspects were investigated.</p>\n<p>In the Etzion Brigade, over 50,000 NIS in terror money and Hamas terror organization incitement materials were confiscated. In addition, the forces confiscated five illegal vehicles.</p>\n<p>In an operation in the Akabat Jaber refugee camp in Jericho as part of the Jordan Valley and Valleys Brigade, a suspect tried to throw a Molotov cocktail at the forces, who responded with gunfire, a hit was identified.</p>\n<p>So far, since the beginning of the war, about 2,000 wanted individuals have been arrested across the Judea and Samaria Division and the Jordan Valley and Valleys Brigade, about 1,100 of them are affiliated with the Hamas terror organization.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Last night, IDF forces detained 20 wanted individuals, including 15 terrorists from the <a  href=\"/hamas\">Hamas</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a>: in two battalion-wide operations in Nablus and the village of Naama in Ephraim against <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> activists, about 10 wanted men were arrested, and means of warfare were confiscated. In an operation to thwart terror by the Samaria Brigade throughout the city of Nablus and the Askar refugee camp, reservists arrested four wanted persons from the Hamas terror organization, located observation cameras to track our forces, and located and confiscated ammunition and military equipment. As part of this activity, armed men shot and</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4781",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4781
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4781",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4781"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4781/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4781"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4781"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4781"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

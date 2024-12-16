@@ -1,0 +1,122 @@
+{
+    "id": 3462,
+    "date": "2024-04-06T17:45:55",
+    "date_gmt": "2024-04-06T14:45:55",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9351/"
+    },
+    "modified": "2024-04-06T17:45:55",
+    "modified_gmt": "2024-04-06T14:45:55",
+    "slug": "9351",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9351/",
+    "title": {
+        "rendered": "&#8220;IDF Discovers Hidden Arsenal in Judea; Arrests Terror Suspects amidst Ongoing Conflict&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Documentation: In the village of Deir Tsamat in Judea, hidden fighting equipment was found; a terrorist was caught while throwing stones at Beit Umar and seven wanted individuals were arrested throughout Judea and Samaria.</p>\n<p>IDF soldiers, the Shin Bet, and Border Police operated last night to arrest seven wanted individuals throughout Judea and Samaria. </p>\n<p>In the village of Deir Tsamat in the Judea Brigade area, soldiers of the Merom Brigade found and confiscated many pieces of fighting equipment hidden in the area. These included two M16 type rifles, a pistol, a Carlo-type submachine gun, ammunition and other combat means. In Nablus in the Samaria Brigade area, Beit Arush and the village of Dura in the Judea Brigade area, the forces arrested four additional wanted individuals. </p>\n<p>During a proactive operation in Beit Umar in the Etzion Brigade area, terrorists threw Molotov cocktails and stoned the soldiers, who responded with crowd control measures and shooting, and a hit was identified. </p>\n<p>Last night (Friday), communication was received about terrorists who had thrown Molotov cocktails in the \u2018Azzun Junction area in the Ephraim Brigade. IDF soldiers were alerted and found a primed explosive device next to Molotov cocktails they had set on fire.</p>\n<p>The arrested suspects and the confiscated fighting equipment have been transferred for further processing by the security forces. No harm was done to our forces.</p>\n<p>To date, since the start of the war,  approximately 3,700 wanted individuals have been arrested across the Judea Brigade and Samaria and in the valley and plains brigades, with about 1,600 of them associated with the Hamas terror organization.</p>\n<p>Attached is documentation from the weapon location in Deir Tsamat village: https://bit.ly/3VJ62IU </p>\n<p>Attached is a picture of the confiscated combat equipment: https://IDFANC.activetrail.biz/ANC06042024874292479420</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Documentation: In the village of Deir Tsamat in Judea, hidden fighting equipment was found; a terrorist was caught while throwing stones at Beit Umar and seven wanted individuals were arrested throughout Judea and Samaria. IDF soldiers, the Shin Bet, and Border Police operated last night to arrest seven wanted individuals throughout Judea and Samaria. In the village of Deir Tsamat in the Judea Brigade area, soldiers of the Merom Brigade found and confiscated many pieces of fighting equipment hidden in the area. These included two M16 type rifles, a pistol, a Carlo-type submachine gun, ammunition and other combat</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3462",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3462
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3462",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3462"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3462/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3462"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3462"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3462"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

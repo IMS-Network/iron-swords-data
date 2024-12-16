@@ -1,0 +1,122 @@
+{
+    "id": 3198,
+    "date": "2024-05-05T11:58:44",
+    "date_gmt": "2024-05-05T08:58:44",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9623/"
+    },
+    "modified": "2024-05-05T11:58:44",
+    "modified_gmt": "2024-05-05T08:58:44",
+    "slug": "9623",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9623/",
+    "title": {
+        "rendered": "&#8220;Decisive Strikes: IDF&#8217;s Brigade 99 Continues Anti-Terrorist Operations in Gaza Strip&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Soldiers of Brigade 99 continue to operate in the center of the Strip, destroying terrorist infrastructures and eliminating terrorists; air force attacks led by Brigade 99, &#8216;Aman&#8217; intelligence corps and &#8216;Shabak&#8217; security agency killed terrorists from the Hamas terrorist organization, among them a key terrorist from the Al-Bureij brigade. </p>\n<p>Forces from Brigade 99, including combat teams of Battalion 2, Battalion 679 and other forces, continue to operate in the center of the Strip to eliminate terrorists and destroy terrorist infrastructures.</p>\n<p>Air Force aircraft directed by Brigade 99, &#8216;Aman&#8217; intelligence corps, and &#8216;Shabak&#8217; security agency attacked and killed the terrorist Salah Jamil Muhammad Amad, the combat aid manager in the Al-Bureij brigade of the Hamas terrorist organization. In the attack, several other terrorists who were with him in the terrorist infrastructure of the organization were killed.</p>\n<p>In another attack, three activists from the Nachba organization in the Hamas terrorist organization were killed, some of whom took part in the terrorist attack on the seventh of October.</p>\n<p>During the night, the Gaza Brigade forces attacked with artillery fire a Hamas terrorist organization launching area with launchers that were ready to fire to the south of the country.</p>\n<p>Combat aircraft and air force vehicles attacked additional targets of terrorist organizations in the strip in recent days, including military buildings, terrorist infrastructures and weapons warehouses. In one of the attacks, a combat aircraft attacked a building where a sniper posing a threat to the forces was staying. In another attack, two terrorists operating near a launching position were attacked.</p>\n<p>Air Force aircraft directed by the Gaza Brigade killed three terrorists from the Hamas terrorist organization in the Jabalia area, including a deputy brigade commander and two other terrorists from the organization.</p>\n<p>Attached is documentation from the activities of Brigade 99 in the center of the Gaza Strip: https://bit.ly/4boPA57</p>\n<p>Attached is documentation from the IDF attacks in the Gaza Strip:  https://bit.ly/3JNVWiL</p>\n<p>Attached are photos from the forces&#8217; operations: https://IDFANC.activetrail.biz/ANC050520248657684687449</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Soldiers of Brigade 99 continue to operate in the center of the Strip, destroying terrorist infrastructures and eliminating terrorists; air force attacks led by Brigade 99, &#8216;Aman&#8217; intelligence corps and &#8216;Shabak&#8217; security agency killed terrorists from the <a  href=\"/hamas\">Hamas</a> terrorist organization, among them a key terrorist from the Al-Bureij brigade. Forces from Brigade 99, including combat teams of Battalion 2, Battalion 679 and other forces, continue to operate in the center of the Strip to eliminate terrorists and destroy terrorist infrastructures. Air Force aircraft directed by Brigade 99, &#8216;Aman&#8217; intelligence corps, and &#8216;Shabak&#8217; security agency attacked and killed the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3198",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3198
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3198",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3198"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3198/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3198"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3198"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3198"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

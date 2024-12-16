@@ -1,0 +1,122 @@
+{
+    "id": 4245,
+    "date": "2024-01-09T05:59:01",
+    "date_gmt": "2024-01-09T03:59:01",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8552/"
+    },
+    "modified": "2024-01-09T05:59:01",
+    "modified_gmt": "2024-01-09T03:59:01",
+    "slug": "8552",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8552/",
+    "title": {
+        "rendered": "&#8220;Remembering IDF Heroes: Details of Four Recent Casualties and Injured Soldiers in Gaza Strip Battles&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Attached is a message from the IDF spokesperson regarding the names of four IDF casualties whose notification has been delivered to their families: https://IDFANC.activetrail.biz/ANC09012024ERJVBNIUFDBVIBU</p>\n<p>Attached is a link to the IDF website, where their details and photos of the casualties are published and updated: https://www.idf.il/59780 </p>\n<p>In the battle in which Maj. (res.) David Schwartz may his memory be a blessing, and Maj. (res.) Yekir Hakst may his memory be a blessing, fell, a reservist from the 8219 Engineering Battalion, Operation &#8216;Half of Fire&#8217; (551), was seriously injured.</p>\n<p>Also, in the battle in which Maj. (res.) Gabriel Blum may his memory be a blessing fell, a combatants officer and two combatants from the engineering unit of Brigade 36 were seriously injured.</p>\n<p>Furthermore, two reserve officers in the 646 Brigade were seriously injured in a battle in the center of the Gaza Strip</p>\n<p>The combatants were evacuated for medical treatment in the hospital and their families were updated.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Attached is a message from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a> regarding the names of four IDF casualties whose notification has been delivered to their families: https://IDFANC.activetrail.biz/ANC09012024ERJVBNIUFDBVIBU Attached is a link to the IDF website, where their details and photos of the casualties are published and updated: https://www.idf.il/59780 In the battle in which Maj. (res.) David Schwartz may his memory be a blessing, and Maj. (res.) Yekir Hakst may his memory be a blessing, fell, a reservist from the 8219 Engineering Battalion, Operation &#8216;Half of Fire&#8217; (551), was seriously injured. Also, in the battle in which Maj. (res.) Gabriel Blum may his memory</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4245",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4245
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4245",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4245"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4245/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4245"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4245"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4245"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

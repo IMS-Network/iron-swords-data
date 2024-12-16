@@ -1,0 +1,122 @@
+{
+    "id": 4276,
+    "date": "2024-01-05T13:19:49",
+    "date_gmt": "2024-01-05T11:19:49",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8521/"
+    },
+    "modified": "2024-01-05T13:19:49",
+    "modified_gmt": "2024-01-05T11:19:49",
+    "slug": "8521",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8521/",
+    "title": {
+        "rendered": "&#8220;Saving Lives with Identification: A Rescue Story by the ROC&#8217;HASH Team and KTM&#8221;"
+    },
+    "content": {
+        "rendered": "<p>&#8220;Thanks to our identification, they were able to rescue them&#8221;:<br />\nWe heard from the ROC&#8217;HASH team &#8211; How do we close fire circles with a KTM&#8221;m?<br />\nhttps://www.idf.il/169604</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>&#8220;Thanks to our identification, they were able to rescue them&#8221;: We heard from the ROC&#8217;HASH team &#8211; How do we close fire circles with a KTM&#8221;m? https://www.idf.il/169604</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4276",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4276
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4276",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4276"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4276/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4276"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4276"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4276"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 4142,
+    "date": "2024-01-19T13:38:27",
+    "date_gmt": "2024-01-19T11:38:27",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8657/"
+    },
+    "modified": "2024-01-19T13:38:27",
+    "modified_gmt": "2024-01-19T11:38:27",
+    "slug": "8657",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8657/",
+    "title": {
+        "rendered": "&#8220;IDF Neutralizes Unmanned Aerial Threat and Targets Hezbollah Infrastructure in Southern Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>An unmanned aerial vehicle shot down in the maritime space in the North; IDF concludes attack wave in the Ramia area in southern Lebanon.</p>\n<p>IDF systems recently identified an unmanned aircraft that crossed into maritime space in the north of the country from Lebanon. Air defense fighters successfully downed the target using the Iron Dome system.</p>\n<p>Before that, fighter jets attacked Hezbollah terror organization&#8217;s launch position, military buildings, and terror infrastructure in the village of Ramia in southern Lebanon.</p>\n<p>In the village and Kfar Kila areas, the IDF attacked this morning using fighter jets, tanks, and mortar fire at observation posts and Hezbollah&#8217;s terror infrastructure.</p>\n<p>Additionally, IDF tanks last night attacked military infrastructure of the Syrian army in response to firing at the Golan Heights.</p>\n<p>Attached is documentation from IDF attacks: https://bit.ly/48ByC2o</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: An unmanned aerial vehicle shot down in the maritime space in the North; IDF concludes attack wave in the Ramia area in southern Lebanon. IDF systems recently identified an unmanned aircraft that crossed into maritime space in the north of the country from Lebanon. Air defense fighters successfully downed the target using the Iron Dome system. Before that, fighter jets attacked <a  href=\"/hezbollah\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a>&#8217;s launch position, military buildings, and terror infrastructure in the village of Ramia in southern Lebanon. In the village and Kfar Kila areas, the IDF attacked this morning using fighter jets, tanks, and mortar fire</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4142",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4142
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4142",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4142"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4142/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4142"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4142"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4142"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

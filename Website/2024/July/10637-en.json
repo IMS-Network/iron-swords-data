@@ -1,0 +1,124 @@
+{
+    "id": 7360,
+    "date": "2024-07-26T08:55:08",
+    "date_gmt": "2024-07-26T05:55:08",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10637-en/"
+    },
+    "modified": "2024-07-26T08:55:08",
+    "modified_gmt": "2024-07-26T05:55:08",
+    "slug": "10637-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10637-en/",
+    "title": {
+        "rendered": "&#8220;50 Years Apart: The Inspiring Reunion of Lider and Samuel in Command and Staff Course&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Follow their path:<br />\n50 years separated Lider and Samuel, may his memory be a blessing &#8211; during a journey of the Command and Staff Course, their paths crossed.<br />\nhttps://www.idf.il/218692</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Follow their path: 50 years separated Lider and Samuel, may his memory be a blessing &#8211; during a journey of the Command and Staff Course, their paths crossed. https://www.idf.il/218692</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7360",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7360,
+        "he": 7361,
+        "ru": 7362
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7360",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7360"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7360/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7360"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7360"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7360"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

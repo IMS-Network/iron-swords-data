@@ -1,0 +1,124 @@
+{
+    "id": 7612,
+    "date": "2024-07-20T19:25:28",
+    "date_gmt": "2024-07-20T16:25:28",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10556-en/"
+    },
+    "modified": "2024-07-20T19:25:28",
+    "modified_gmt": "2024-07-20T16:25:28",
+    "slug": "10556-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10556-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Houthi Targets in Yemen: Response to Ongoing Attacks on Israel&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF fighter jets recently attacked military targets belonging to the Houthi terror regime in the area of the port of Hodeidah in Yemen, in response to hundreds of attacks towards the State of Israel in recent months. There is no change in the Home Front Command&#8217;s instructions. If there are any changes, we will update. Further details will follow.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF fighter jets recently attacked military targets belonging to the <a  href=\"/houthis\">Houthi</a> terror regime in the area of the port of Hodeidah in Yemen, in response to hundreds of attacks towards the State of <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> in recent months. There is no change in the Home Front Command&#8217;s instructions. If there are any changes, we will update. Further details will follow.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7612",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7612,
+        "he": 7613,
+        "ru": 7614
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7612",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7612"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7612/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7612"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7612"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7612"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

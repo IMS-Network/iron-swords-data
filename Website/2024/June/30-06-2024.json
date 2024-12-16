@@ -1,0 +1,140 @@
+{
+    "id": 15857,
+    "date": "2024-06-30T00:00:00",
+    "date_gmt": "2024-06-29T21:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/30-06-2024/"
+    },
+    "modified": "2024-08-27T21:11:29",
+    "modified_gmt": "2024-08-27T18:11:29",
+    "slug": "30-06-2024",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/aid/30-06-2024/",
+    "title": {
+        "rendered": "Israel Aid and Humanitarian Efforts in Gaza: June 30, 2024"
+    },
+    "content": {
+        "rendered": "<h2>Jordanian Route</h2>\n<p>32 aid trucks were coordinated via the Jordanian Route (June 29).</p>\n<h2>Maritime Route (JLOTS)</h2>\n<p>34 aid trucks were offloaded from the JLOTS yesterday.</p>\n<h2>Medical Evacuations</h2>\n<p>So far, 3,292 patients and 803 escorts have left Gaza (June 28).</p>\n<h2>Coordinations for Humanitarian Missions</h2>\n<p>35 coordinations for humanitarian missions were requested, with 32 (91%) approved. 17 coordination requests to northern Gaza were submitted, of which 16 (94%) were approved. Out of 9 UN coordination requests, 8 (89%) were approved (June 29).</p>\n<h2>Local Tactical Pause</h2>\n<p>Today, (June 30) between 10:00 and 14:00, the IDF will pause operations in the Al-Tahrir neighborhood in Khan Younis to enable the movement of humanitarian aid.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Aid trucks and medical evacuations coordinated for <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 15696,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        1338
+    ],
+    "tags": [
+        1352
+    ],
+    "class_list": [
+        "post-15857",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-aid",
+        "tag-daily-humanitarian-aid-update"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 15857,
+        "he": 15858,
+        "ru": 15859
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15857",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=15857"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15857/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 15860,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15857/revisions/15860"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/15696"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=15857"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=15857"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=15857"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

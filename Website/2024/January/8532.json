@@ -1,0 +1,122 @@
+{
+    "id": 4265,
+    "date": "2024-01-06T18:46:03",
+    "date_gmt": "2024-01-06T16:46:03",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8532/"
+    },
+    "modified": "2024-01-06T18:46:03",
+    "modified_gmt": "2024-01-06T16:46:03",
+    "slug": "8532",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8532/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Targets: Inside Israel&#8217;s Broad Attack on Lebanese Terror Infrastructure&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>A terrorist cell, launch site, military compounds, operational command and terror infrastructure; the IDF has completed a broad attack on Lebanese territory</p>\n<p>A short while ago, Israeli Air Force fighter jets attacked two military compounds belonging to the terror organization Hezbollah. The compounds were significant assets for the organization, including a military compound used by Hezbollah&#8217;s ground-to-air missile unit.</p>\n<p>Additionally, a short while ago, fighter jets, aircraft of the air force and other IDF forces attacked a range of targets belonging to the Hezbollah terror organization in over thirty locations &#8211; Al-Tallet, Ramiyah, May al-Jabal and Ayta al-Shaab in southern Lebanon. Among the targets attacked were terror infrastructures, a terrorist cell, a launch site, and an operational command.</p>\n<p>During the day, several launches from Lebanon were detected towards the open areas of Yiftah and Avivim.</p>\n<p>Also, earlier today a surface-to-air missile was launched towards a long-range manned aircraft of the Air Force over Lebanese territory. The aircraft was not damaged and continued its mission, the missile did not cross into Israeli territory.</p>\n<p>Attached is footage from the attacks: https://bit.ly/47vezkS</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: A terrorist cell, launch site, military compounds, operational command and terror infrastructure; the IDF has completed a broad attack on Lebanese territory A short while ago, Israeli Air Force fighter jets attacked two military compounds belonging to the <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> <a  href=\"/hezbollah\">Hezbollah</a>. The compounds were significant assets for the organization, including a military compound used by <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a>&#8217;s ground-to-air missile unit. Additionally, a short while ago, fighter jets, aircraft of the air force and other IDF forces attacked a range of targets belonging to the Hezbollah terror organization in over thirty locations &#8211; Al-Tallet, Ramiyah, May al-Jabal and Ayta al-Shaab</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4265",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4265
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4265",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4265"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4265/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4265"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4265"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4265"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

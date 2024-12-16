@@ -1,0 +1,123 @@
+{
+    "id": 7055,
+    "date": "2024-06-01T19:57:34",
+    "date_gmt": "2024-06-01T16:57:34",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/9958-en/"
+    },
+    "modified": "2024-06-01T19:57:34",
+    "modified_gmt": "2024-06-01T16:57:34",
+    "slug": "9958-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9958-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah: 40+ Targeted Operations in 72 Hours on Northern Border&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>More than 40 air and ground strikes, approximately 10 terrorist cells were attacked; this is what the strikes looked like over the past 72 hours on the northern border.</p>\n<p>The IDF has attacked a number of targets in Lebanon over the past 72 hours. In a joint operation by the Northern Command, the Air Force, and the Intelligence Directorate, military buildings used by terrorists from the Hezbollah terrorist organization were attacked, including significant assets of the organization and launchers from which fire was directed towards the territory of the State of Israel.<br />\nDuring the day, Air Force planes targeted a surface-to-air missile launcher that was used by Hezbollah&#8217;s air defense system, in response to attempts by the terrorist organization to harm aerial operational freedom.</p>\n<p>In a rapid and focused loop of intelligence, fire, and air, approximately 10 terrorist cells belonging to the Hezbollah terrorist organization in southern Lebanon were attacked, and about four terrorists were eliminated.</p>\n<p>Attached is documentation of the strikes over the past 72 hours in Lebanese territory: https://bit.ly/453SDOj</p>\n<p>Attached is an aerial photograph of the strikes over the past 72 hours in Lebanese territory: https://idfanc.activetrail.biz/ANC8047378</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: More than 40 air and ground strikes, approximately 10 terrorist cells were attacked; this is what the strikes looked like over the past 72 hours on the northern border. The IDF has attacked a number of targets in Lebanon over the past 72 hours. In a joint operation by the Northern Command, the Air Force, and the Intelligence Directorate, military buildings used by terrorists from the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization were attacked, including significant assets of the organization and launchers from which fire was directed towards the territory of the State of <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>. During the day, Air Force planes</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7055",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7055,
+        "ru": 7057
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7055",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7055"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7055/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7055"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7055"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7055"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

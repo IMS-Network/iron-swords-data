@@ -1,0 +1,122 @@
+{
+    "id": 3967,
+    "date": "2024-02-10T18:14:10",
+    "date_gmt": "2024-02-10T16:14:10",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8836/"
+    },
+    "modified": "2024-02-10T18:14:10",
+    "modified_gmt": "2024-02-10T16:14:10",
+    "slug": "8836",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8836/",
+    "title": {
+        "rendered": "&#8220;Strategic Elimination of Key Hamas Figures: Ahmed Eliakobi and Iman Rantisi, by IDF and Shin Bet Joint Operation&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint message to the IDF spokesperson and the Shin Bet spokesperson:</p>\n<p>Following the intelligence guidance of Shin Bet and AMAN, an aircraft eliminated earlier today in the Rafah area, Ahmed Eliakobi, a Hamas activist who was responsible for the security arrangements of senior Hamas officials and served as a senior manager in the network of the Rafah district.<br />\nIn addition, Iman Rantisi, a military activist and senior in the investigations department of Hamas&#8217;s general security, was also killed. Another officer in the network of the Rafah district was killed.</p>\n<p>Attached is the documentation of the elimination: https://bit.ly/3utK5lM</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint message to the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a> and the Shin Bet spokesperson: Following the intelligence guidance of Shin Bet and AMAN, an aircraft eliminated earlier today in the Rafah area, Ahmed Eliakobi, a <a  href=\"/hamas\">Hamas</a> activist who was responsible for the security arrangements of senior <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> officials and served as a senior manager in the network of the Rafah district. In addition, Iman Rantisi, a military activist and senior in the investigations department of Hamas&#8217;s general security, was also killed. Another officer in the network of the Rafah district was killed. Attached is the documentation of the elimination: https://bit.ly/3utK5lM</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3967",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3967
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3967",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3967"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3967/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3967"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3967"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3967"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

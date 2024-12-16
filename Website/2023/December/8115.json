@@ -1,0 +1,122 @@
+{
+    "id": 4676,
+    "date": "2023-12-05T09:31:01",
+    "date_gmt": "2023-12-05T07:31:01",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8115/"
+    },
+    "modified": "2023-12-05T09:31:01",
+    "modified_gmt": "2023-12-05T07:31:01",
+    "slug": "8115",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8115/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Back: Demolition of Terrorists&#8217; Homes, Closure of Hamas-Serving Print Houses, and Arrests in Judea and Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF fighters, Shin Bet and Border Police operated last night in a campaign in Jenin refugee camp and demolished two houses of one of the terrorists involved in the attack during which Meir Tamari was murdered; 21 wanted people were arrested last night across Judea and Samaria, and two printing houses that served Hamas were closed.</p>\n<p>In an operation in Jenin refugee camp in the Menashe Brigade, IDF forces last night demolished two houses of the terrorist Ahmad Barakat from the attack at Hares in which Meir Tamari was tragically killed on May 30, 2023.<br />\nDuring the operation, engineering tools revealed roads suspected of having explosives buried under them to harm our forces. In addition, two wanted men were arrested and terrorists fired and threw explosives at the soldiers who responded with fire, a hit was identified.</p>\n<p>During the forces&#8217; activity in the village of Doha in the Etzion Brigade, two printing houses that printed incitement materials, among other things, for the terror organization Hamas, were closed and blocked. During the activity in the village, suspects threw explosives and stones at the forces who responded with fire, a hit was identified. In the village of Tsurif, a type M-4 weapon, magazines, and ammunition were found. Also, in the village of Tel Afith in the Samaria Brigade, the soldiers found and confiscated a &#8220;Carlo&#8221; type weapon.</p>\n<p>During the activity in the Qalandia refugee camp, the forces arrested two wanted people; violent riots broke out at the site, the forces responded with means to disperse protests, hits were identified.</p>\n<p>The wanted people who were arrested were transferred for further investigation by the security forces; there are no casualties to our forces.</p>\n<p>Attached are pictures of the confiscated weapons: https://IDFANC.activetrail.biz/ANC05122023;WEOFHF</p>\n<p>Attached are pictures from the demolition of the terrorist&#8217;s houses: https://IDFANC.activetrail.biz/ANC05122023OIEFHIERFF</p>\n<p>Attached are pictures of the closure of the two print houses: https://IDFANC.activetrail.biz/ANC05122023MEOIRFJDVBV</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF fighters, Shin Bet and Border Police operated last night in a campaign in Jenin refugee camp and demolished two houses of one of the terrorists involved in the attack during which Meir Tamari was murdered; 21 wanted people were arrested last night across Judea and Samaria, and two printing houses that served <a  href=\"/hamas\">Hamas</a> were closed. In an operation in Jenin refugee camp in the Menashe Brigade, IDF forces last night demolished two houses of the terrorist Ahmad Barakat from the attack at Hares in which Meir Tamari was tragically killed on May 30, 2023. During the operation,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4676",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4676
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4676",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4676"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4676/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4676"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4676"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4676"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

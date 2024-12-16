@@ -1,0 +1,124 @@
+{
+    "id": 8711,
+    "date": "2024-06-19T18:05:51",
+    "date_gmt": "2024-06-19T15:05:51",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10180-en/"
+    },
+    "modified": "2024-06-19T18:05:51",
+    "modified_gmt": "2024-06-19T15:05:51",
+    "slug": "10180-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10180-en/",
+    "title": {
+        "rendered": "&#8220;IDF Updates Civil Defense Policy: Easing Restrictions in Gaza Envelope Areas&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Changes in the Civil Defense Policy of the Home Front Command</p>\n<p>Following an assessment by Defense Minister Yoav Gallant and Chief of Staff Lieutenant General Herzl Halevi, it has been decided that starting today (Wednesday) at 18:00, there will be a change in the civil defense policy of the Home Front Command.</p>\n<p>As part of the changes, it has been decided that in some areas of the Gaza Envelope, educational activities can be conducted without restrictions, gatherings of up to 1,000 people, as well as workplaces and essential services without restrictions. This is with the exception of a number of communities where restrictions will continue as detailed concerning educational activities, gatherings, workplaces, and essential services.</p>\n<p>The change in civil defense policy is intended to ease restrictions on the home front based on the operational situation assessment. This change will allow for strengthening agriculture, the economy, and education while maintaining human life.</p>\n<p>Attached is the civil defense policy of the Home Front Command: https://IDFANC.activetrail.biz/ANC190620242983764521354</p>\n<p>It is important to continue monitoring the guidelines published by the Home Front Command through official distribution channels. The complete guidelines are updated on the national emergency portal and in the Home Front Command app.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Changes in the Civil Defense Policy of the Home Front Command Following an assessment by Defense Minister Yoav Gallant and Chief of Staff Lieutenant General Herzl Halevi, it has been decided that starting today (Wednesday) at 18:00, there will be a change in the civil defense policy of the Home Front Command. As part of the changes, it has been decided that in some areas of the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Envelope, educational activities can be conducted without restrictions, gatherings of up to 1,000 people, as well as workplaces and essential services without restrictions. This is with the exception of a</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8711",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8711,
+        "he": 8712,
+        "ru": 8713
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8711",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8711"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8711/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8711"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8711"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8711"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

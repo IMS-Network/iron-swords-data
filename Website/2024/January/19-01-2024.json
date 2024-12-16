@@ -1,0 +1,140 @@
+{
+    "id": 16329,
+    "date": "2024-01-19T00:00:00",
+    "date_gmt": "2024-01-18T22:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/19-01-2024/"
+    },
+    "modified": "2024-08-27T23:26:23",
+    "modified_gmt": "2024-08-27T20:26:23",
+    "slug": "19-01-2024",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/aid/19-01-2024/",
+    "title": {
+        "rendered": "Israel Aid and Humanitarian Efforts in Gaza: Jan. 19, 2024"
+    },
+    "content": {
+        "rendered": "<article>\n<h1>Humanitarian Aid Update: January 18-19, 2023</h1>\n<section>\n<h2>Transfer of Humanitarian Aid Trucks</h2>\n<p>240 humanitarian aid trucks were inspected and transferred to the Gaza Strip yesterday (Jan. 18). Out of these, 101 trucks were inspected at the Nitzana crossing and transferred via the Rafah crossing, while 139 trucks were inspected and transferred via Kerem Shalom. Notably, 133 of the trucks that made the journey carried food supplies.</p>\n</section>\n<section>\n<h2>Fuel and Gas Supplies Enter Gaza</h2>\n<p>On the same day (Jan. 18), 4 tankers of cooking gas and 2 tankers of fuel, designated for the operation of essential infrastructure in Gaza, successfully entered the region.</p>\n</section>\n<section>\n<h2>Establishment of Warehouses</h2>\n<p>Four warehouses are currently in the process of being established to enhance the logistic capacity of the international organizations receiving the humanitarian aid within the Gaza Strip.</p>\n</section>\n<section>\n<h2>Foreign Nationals Exiting Gaza</h2>\n<p>30 foreign nationals exited the Gaza Strip yesterday (Jan. 18), and arrangements are in place for 42 more foreign nationals to exit today.</p>\n</section>\n<section>\n<h2>Repair of Vital Infrastructure</h2>\n<p>The coordination for the repair of vital infrastructure was successfully completed. Additionally, more equipment and personnel for the field hospitals operating in the Gaza Strip have entered the territory. To date, a total of 341 staffers have entered the Gaza Strip to bolster the medical response.</p>\n</section>\n<section>\n<h2>IDF Operations Pause for Humanitarian Aid</h2>\n<p>Looking ahead to today (Jan. 19), between 10:00 and 14:00, the IDF will pause operations in the Al-Shaboura neighborhood of Rafah, southern Gaza, to facilitate the movement of humanitarian aid.</p>\n</section>\n</article>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>240 aid trucks entered <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>; humanitarian support continues.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 15696,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        1338
+    ],
+    "tags": [
+        1352
+    ],
+    "class_list": [
+        "post-16329",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-aid",
+        "tag-daily-humanitarian-aid-update"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 16329,
+        "he": 16330,
+        "ru": 16331
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16329",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=16329"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16329/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 16332,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16329/revisions/16332"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/15696"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=16329"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=16329"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=16329"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

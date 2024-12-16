@@ -1,0 +1,122 @@
+{
+    "id": 4409,
+    "date": "2023-12-23T19:01:20",
+    "date_gmt": "2023-12-23T17:01:20",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8384/"
+    },
+    "modified": "2023-12-23T19:01:20",
+    "modified_gmt": "2023-12-23T17:01:20",
+    "slug": "8384",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8384/",
+    "title": {
+        "rendered": "&#8220;Egoz Unit&#8217;s Clash with Terrorists in Khan Yunis: Inside the IDF&#8217;s Underground Battle&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The terrorist approached IDF forces and was eliminated by Egoz fighters; footage from a camera found on the terrorist&#8217;s body.</p>\n<p>Egoz unit fighters who specialize in guerilla warfare have been fighting with the Givati Brigade for about three weeks in the heart of Hamas&#8217;s stronghold in Khan Yunis. The unit fighters have eliminated dozens of terrorists in clashes, raided and destroyed terror targets above and below ground. In one of the battles in Khan Yunis, the unit fighters identified an armed terrorist who tried to approach the force and harm the soldiers. </p>\n<p>After the identification, they opened fire at him and eliminated the terrorist. In sweeps that were carried out later in the area, the terrorist&#8217;s body with his weapon and his GoPro camera that documented his elimination were found. In addition, the fighters located many weapons and intelligence information in the area. Egoz unit fighters fire accurately using a variety of missiles at their disposal, some of which were carried out for the first time during the fighting. </p>\n<p>Attached is footage of the terrorist&#8217;s elimination by Egoz fighters from a camera found on the terrorist&#8217;s body in Khan Yunis: https://bit.ly/3RQoUmR</p>\n<p>Attached is footage of Egoz fighters&#8217; activity in Khan Yunis: https://bit.ly/3NEDN9A</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The terrorist approached IDF forces and was eliminated by Egoz fighters; footage from a camera found on the terrorist&#8217;s body. Egoz unit fighters who specialize in guerilla warfare have been fighting with the <a  href=\"https://iron-swords.co.il/t/givati-brigade/\">Givati Brigade</a> for about three weeks in the heart of <a  href=\"/hamas\">Hamas</a>&#8217;s stronghold in Khan Yunis. The unit fighters have eliminated dozens of terrorists in clashes, raided and destroyed terror targets above and below ground. In one of the battles in Khan Yunis, the unit fighters identified an armed terrorist who tried to approach the force and harm the soldiers. After the identification, they opened fire</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4409",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4409
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4409",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4409"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4409/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4409"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4409"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4409"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

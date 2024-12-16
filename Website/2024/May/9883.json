@@ -1,0 +1,122 @@
+{
+    "id": 2942,
+    "date": "2024-05-26T21:40:08",
+    "date_gmt": "2024-05-26T18:40:08",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9883/"
+    },
+    "modified": "2024-05-26T21:40:08",
+    "modified_gmt": "2024-05-26T18:40:08",
+    "slug": "9883",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9883/",
+    "title": {
+        "rendered": "&#8220;First Look at Ofer: The New Training Helicopter Set to Replace the Saifan&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Soon to replace the &#8220;Saifan&#8221;:<br />\nThis is what the first flight of the &#8220;Ofer&#8221; &#8211; the new training helicopter looked like</p>\n<p>https://www.idf.il/203906</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Soon to replace the &#8220;Saifan&#8221;: This is what the first flight of the &#8220;Ofer&#8221; &#8211; the new training helicopter looked like https://www.idf.il/203906</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2942",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2942
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2942",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2942"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2942/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2942"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2942"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2942"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

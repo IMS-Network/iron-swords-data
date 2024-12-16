@@ -1,0 +1,124 @@
+{
+    "id": 7252,
+    "date": "2024-07-29T16:32:56",
+    "date_gmt": "2024-07-29T13:32:56",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10673-en/"
+    },
+    "modified": "2024-07-29T16:32:56",
+    "modified_gmt": "2024-07-29T13:32:56",
+    "slug": "10673-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10673-en/",
+    "title": {
+        "rendered": "&#8220;IDF Condemns Breach of Taiman Airbase: A Call for Military Order and Accountability&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>At this time, IDF and police forces are stopping the breach of civilians into the Taiman airbase.</p>\n<p>The Chief of Staff, Lieutenant General Herzi Halevi, addressed the incident and said:</p>\n<p>&#8220;The breach of the Taiman airbase is extremely serious and contrary to the law. The intrusion into a military base and the disruption of order in the area is grave behavior that is unacceptable in any way. We are in a state of war, and actions of this kind jeopardize the security of the state.<br />\nI strongly condemn the incident, and we are working to restore order at the base.</p>\n<p>I fully support the military prosecution and the military police investigating any incident brought to their attention. It is their duty, regardless of rank or position. It is precisely these investigations that protect our soldiers both at home and abroad and uphold the values of the IDF. These investigations are carried out with respect for our soldiers whom we command.&#8221;</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: At this time, IDF and police forces are stopping the breach of civilians into the Taiman airbase. The Chief of Staff, Lieutenant General Herzi Halevi, addressed the incident and said: &#8220;The breach of the Taiman airbase is extremely serious and contrary to the law. The intrusion into a military base and the disruption of order in the area is grave behavior that is unacceptable in any way. We are in a state of war, and actions of this kind jeopardize the security of the state. I strongly condemn the incident, and we are working to restore order at</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7252",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7252,
+        "he": 7253,
+        "ru": 7254
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7252",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7252"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7252/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7252"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7252"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7252"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

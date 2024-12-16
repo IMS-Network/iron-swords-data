@@ -1,0 +1,122 @@
+{
+    "id": 3157,
+    "date": "2024-05-08T15:16:30",
+    "date_gmt": "2024-05-08T12:16:30",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9666/"
+    },
+    "modified": "2024-05-08T15:16:30",
+    "modified_gmt": "2024-05-08T12:16:30",
+    "slug": "9666",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9666/",
+    "title": {
+        "rendered": "&#8220;Decisive IDF Strike: Over 20 Hezbollah Targets Obliterated in Southern Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Over 20 targets in one area within minutes; the IDF attacked terror infrastructures and arms warehouses through combat aircrafts and artillery in the Raymiya area in southern Lebanon. </p>\n<p>The IDF completed earlier today a broad attack on over 20 targets of the Hezbollah terror organization in the area of Raymiya in southern Lebanon through combat aircrafts and artillery. Among the targeted objectives were military buildings and terror infrastructures; secondary explosions were identified during the attacks, indicating the presence of ammunition warehouses at the site.</p>\n<p>In addition, combat aircrafts attacked a short while ago a military building and terror infrastructure of the Hezbollah terror organization in remote areas and in the village of Kila in southern Lebanon.</p>\n<p>Attached is a footage from the attacks: https://bit.ly/4b4GomE</p>\n<p>Attached is a sync of Colonel R&#8217;, Deputy Chief of the Fire Center in the Northern Command: https://bit.ly/3JQx8GL</p>\n<p>Attached is a drone footage from the attacks in the Raymiya area: https://bit.ly/4bsCOCD</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Over 20 targets in one area within minutes; the IDF attacked terror infrastructures and arms warehouses through combat aircrafts and artillery in the Raymiya area in southern Lebanon. The IDF completed earlier today a broad attack on over 20 targets of the <a  href=\"/hezbollah\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> in the area of Raymiya in southern Lebanon through combat aircrafts and artillery. Among the targeted objectives were military buildings and terror infrastructures; secondary explosions were identified during the attacks, indicating the presence of ammunition warehouses at the site. In addition, combat aircrafts attacked a short while ago a military building and terror</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3157",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3157
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3157",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3157"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3157/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3157"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3157"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3157"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 3452,
+    "date": "2024-04-07T12:35:14",
+    "date_gmt": "2024-04-07T09:35:14",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9361/"
+    },
+    "modified": "2024-04-07T12:35:14",
+    "modified_gmt": "2024-04-07T09:35:14",
+    "slug": "9361",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9361/",
+    "title": {
+        "rendered": "&#8220;Breaking News: IDF Soldier Seriously Injured in Nabi Elias Attack, Pursuit of Terrorist Continues&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Following the initial report,<br />\nEarlier today, a terrorist arrived via a dirt road in a vehicle to a junction near Nabi Elias in the Ephraim Brigade.<br />\nThe terrorist disembarked from the vehicle and opened fire towards several vehicles that were present.<br />\nAs a result of the shooting, an IDF soldier was seriously injured and evacuated for medical treatment at a hospital.<br />\nThe soldier&#8217;s family has been updated, the IDF will continue to accompany her and her family members.<br />\nAdditionally, a civilian was lightly injured.</p>\n<p>IDF forces, in cooperation with an Air Force aircraft, were dispatched to the location, cordoning off the village of Nabi Elias and continuing the pursuit of the terrorist.</p>\n<p>Attached are photographs from the situation assessment by the commander of the Judea and Samaria Division and the commander of the Ephraim Brigade at the scene of the attack: https://idfanc.activetrail.biz/ANC07042024785855</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Following the initial report, Earlier today, a terrorist arrived via a dirt road in a vehicle to a junction near Nabi Elias in the Ephraim Brigade. The terrorist disembarked from the vehicle and opened fire towards several vehicles that were present. As a result of the shooting, an IDF soldier was seriously injured and evacuated for medical treatment at a hospital. The soldier&#8217;s family has been updated, the IDF will continue to accompany her and her family members. Additionally, a civilian was lightly injured. IDF forces, in cooperation with an Air Force aircraft, were dispatched to the location,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3452",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3452
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3452",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3452"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3452/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3452"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3452"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3452"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 4715,
+    "date": "2023-12-02T14:38:44",
+    "date_gmt": "2023-12-02T12:38:44",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8075/"
+    },
+    "modified": "2023-12-02T14:38:44",
+    "modified_gmt": "2023-12-02T12:38:44",
+    "slug": "8075",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8075/",
+    "title": {
+        "rendered": "&#8220;IDF Battalion 7037 Foils Knife Attack Near Nablus: A Close Encounter&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF fighters from Battalion 7037 thwarted a stabbing attack near the city of Nablus in the Samaria Brigade area. </p>\n<p>A stabbing attempt occurred a short time ago against an IDF reserve force from the 7037 Battalion operating a checkpoint at the X junction near the city of Nablus in the Samaria Brigade area. </p>\n<p>The force suspected a terrorist who approached the checkpoint and began to check him. The terrorist drew a knife and began to advance towards the force. The soldiers engaged him in close combat and responded by firing towards the terrorist who was killed. There were no casualties among our forces. </p>\n<p>Attached is a photo of the knife: https://IDFANC.activetrail.biz/ANC21202320254</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF fighters from Battalion 7037 thwarted a stabbing attack near the city of Nablus in the Samaria Brigade area. A stabbing attempt occurred a short time ago against an IDF reserve force from the 7037 Battalion operating a checkpoint at the X junction near the city of Nablus in the Samaria Brigade area. The force suspected a terrorist who approached the checkpoint and began to check him. The terrorist drew a knife and began to advance towards the force. The soldiers engaged him in close combat and responded by firing towards the terrorist who was killed. There were</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4715",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4715
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4715",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4715"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4715/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4715"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4715"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4715"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

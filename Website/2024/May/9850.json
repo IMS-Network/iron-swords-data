@@ -1,0 +1,122 @@
+{
+    "id": 2975,
+    "date": "2024-05-23T19:21:56",
+    "date_gmt": "2024-05-23T16:21:56",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9850/"
+    },
+    "modified": "2024-05-23T19:21:56",
+    "modified_gmt": "2024-05-23T16:21:56",
+    "slug": "9850",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9850/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah&#8217;s Military Installations in Southern Lebanon: Unmanned Aircrafts Intercepted&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked Hezbollah&#8217;s military buildings and observation posts in southern Lebanon</p>\n<p>A short time ago, fighter jets attacked a series of targets of the terrorist organization Hezbollah in southern Lebanon. Among the targets attacked were Hezbollah&#8217;s military buildings in the areas of Ita al-Shaab, Arab al-Taitun, and Markaba, a military building, and two observation posts of the organization in the al-Adaisa area in southern Lebanon.</p>\n<p>Following the alerts activated a short time ago in the north of the country due to a trespassing aircraft, two unmanned aircraft that crossed into Lebanese territory were identified. The air force&#8217;s fighter jets successfully downed one of them, another aircraft fell within the Kiryat Shmona area, no injuries were reported.</p>\n<p>Attached is footage of IDF attacks in southern Lebanon: https://bit.ly/3ypb2Zt</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked <a  href=\"/hezbollah\">Hezbollah</a>&#8217;s military buildings and observation posts in southern Lebanon A short time ago, fighter jets attacked a series of targets of the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in southern Lebanon. Among the targets attacked were Hezbollah&#8217;s military buildings in the areas of Ita al-Shaab, Arab al-Taitun, and Markaba, a military building, and two observation posts of the organization in the al-Adaisa area in southern Lebanon. Following the alerts activated a short time ago in the north of the country due to a trespassing aircraft, two unmanned aircraft that crossed into Lebanese territory were identified. The air force&#8217;s</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2975",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2975
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2975",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2975"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2975/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2975"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2975"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2975"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

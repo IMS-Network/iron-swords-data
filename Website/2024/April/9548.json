@@ -1,0 +1,122 @@
+{
+    "id": 3273,
+    "date": "2024-04-24T09:34:48",
+    "date_gmt": "2024-04-24T06:34:48",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9548/"
+    },
+    "modified": "2024-04-24T09:34:48",
+    "modified_gmt": "2024-04-24T06:34:48",
+    "slug": "9548",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9548/",
+    "title": {
+        "rendered": "&#8220;IDF Neutralizes Hamas Rocket Launchers Amid Humanitarian Efforts: Exclusive Breakdown of Southern and Central Strip Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesman:</p>\n<p>The IDF precisely struck rocket launchers that were located in the humanitarian area in the southern Strip; Brigade 162 continues to operate in the central Strip corridor.</p>\n<p>Following information and identification of operations being formulated in the Southern Command, Air Force fighter planes completed several strikes that led to the destruction of two missile launching positions located in the southern Strip at the heart of a humanitarian area, used by the Hamas terrorist organization. The launch sites were armed and attacked before launches were carried out from them on Israeli territory.<br />\nThe strike was carried out after efforts to minimize harm to civilians.</p>\n<p>The combat team of the Nachal Brigade continues to operate in the corridor in the central Strip. Throughout the past day, the force eliminated terrorists and destroyed terrorist infrastructures.<br />\nIn one of the attacks, lookout positions identified a terrorist in the troops&#8217; sector; in cooperation with the forces in the field, the terrorists were killed by tank fire.<br />\nAs part of the operation, fighter planes attacked military targets.</p>\n<p>During the past day, Air Force fighter planes and aircraft attacked more than 50 military targets. As part of the activity of the Gaza Division in the last day, Air Force aircraft attacked an operations point and several terrorist infrastructures in the central Strip.</p>\n<p>Attached are aerial photographs of the launch positions located in the humanitarian area: https://IDFANC.activetrail.biz/ANC24042024.15615156</p>\n<p>Attached is documentation of IDF strikes in the Strip: https://bit.ly/49TjIV7</p>\n<p>Attached are photos from the forces&#8217; operations: https://IDFANC.activetrail.biz/ANC24042024.1515189879</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>IDF spokesman: The IDF precisely struck rocket launchers that were located in the humanitarian area in the southern Strip; Brigade 162 continues to operate in the central Strip corridor. Following information and identification of operations being formulated in the Southern Command, Air Force fighter planes completed several strikes that led to the destruction of two missile launching positions located in the southern Strip at the heart of a humanitarian area, used by the <a  href=\"/hamas\">Hamas</a> terrorist organization. The launch sites were armed and attacked before launches were carried out from them on Israeli territory. The strike was carried out after efforts</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3273",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3273
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3273",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3273"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3273/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3273"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3273"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3273"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

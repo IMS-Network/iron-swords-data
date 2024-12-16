@@ -1,0 +1,122 @@
+{
+    "id": 4116,
+    "date": "2024-01-23T12:04:07",
+    "date_gmt": "2024-01-23T10:04:07",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8683/"
+    },
+    "modified": "2024-01-23T12:04:07",
+    "modified_gmt": "2024-01-23T10:04:07",
+    "slug": "8683",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8683/",
+    "title": {
+        "rendered": "&#8220;Inside IDF&#8217;s Nighttime Rescue Operation: A Detailed Look at the Mobilization and Collaboration of Elite Units&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Fighters of the Rescue and Instruction Brigade of the Home Front Command were mobilized last night (Tuesday) to the scene of the event in which 21 IDF soldiers fell.</p>\n<p>Upon the arrival of the Home Front Command forces at the scene, a situation assessment, scans and rescue efforts were carried out in cooperation with the National Rescue Unit, Unit 669, the Oketz Unit, and the compounded forces 143.</p>\n<p>An attached link on the subject by the commander of the Rescue and Instruction Brigade, Brigadier General Elad Adri: https://bit.ly/491QmDP</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Fighters of the Rescue and Instruction Brigade of the Home Front Command were mobilized last night (Tuesday) to the scene of the event in which 21 IDF soldiers fell. Upon the arrival of the Home Front Command forces at the scene, a situation assessment, scans and rescue efforts were carried out in cooperation with the National Rescue Unit, <a  href=\"https://iron-swords.co.il/t/unit-669/\">Unit 669</a>, the <a  href=\"https://iron-swords.co.il/t/oketz-unit/\">Oketz Unit</a>, and the compounded forces 143. An attached link on the subject by the commander of the Rescue and Instruction Brigade, Brigadier General Elad Adri: https://bit.ly/491QmDP</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4116",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4116
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4116",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4116"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4116/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4116"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4116"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4116"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

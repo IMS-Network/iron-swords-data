@@ -1,0 +1,122 @@
+{
+    "id": 4330,
+    "date": "2023-12-30T22:46:22",
+    "date_gmt": "2023-12-30T20:46:22",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8464/"
+    },
+    "modified": "2023-12-30T22:46:22",
+    "modified_gmt": "2023-12-30T20:46:22",
+    "slug": "8464",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8464/",
+    "title": {
+        "rendered": "&#8220;IDF Plans to Demolish Homes of Trio Behind Fatal Tunnel Checkpoint Attack: A Response to Hamas Terrorism&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF has announced its intention to demolish the homes of the three terrorists who carried out the shooting attack at the tunnels checkpoint.</p>\n<p>Tonight (Saturday), it was announced that there is an intention to confiscate and demolish the homes of the three terrorists, Hassan Kafisha, Nasr Allah Kawasma, and Abed Al Qader Kawasma, who carried out the shooting attack that occurred on November 16, 2023, at the tunnels checkpoint, in which IDF soldier Sgt. Abraham Petna was killed. The attack was carried out by the Hamas terrorist organization.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF has announced its intention to demolish the homes of the three terrorists who carried out the shooting attack at the tunnels checkpoint. Tonight (Saturday), it was announced that there is an intention to confiscate and demolish the homes of the three terrorists, Hassan Kafisha, Nasr Allah Kawasma, and Abed Al Qader Kawasma, who carried out the shooting attack that occurred on November 16, 2023, at the tunnels checkpoint, in which IDF soldier Sgt. Abraham Petna was killed. The attack was carried out by the <a  href=\"/hamas\">Hamas</a> terrorist organization.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4330",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4330
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4330",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4330"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4330/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4330"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4330"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4330"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

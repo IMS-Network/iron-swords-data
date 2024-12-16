@@ -1,0 +1,122 @@
+{
+    "id": 3170,
+    "date": "2024-05-07T14:39:59",
+    "date_gmt": "2024-05-07T11:39:59",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9651/"
+    },
+    "modified": "2024-05-07T14:39:59",
+    "modified_gmt": "2024-05-07T11:39:59",
+    "slug": "9651",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9651/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Terror Targets in Southern Lebanon: Key Details from Latest Operation&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked Hezbollah terror targets in southern Lebanon</p>\n<p>Fighter jets attacked last night (Tue.) a military structure and a terrorist infrastructure of the Hezbollah terrorist organization in the Mizra&#8217;at Akmahta area in southern Lebanon. In addition, IDF forces conducted shooting to remove threats in the Wadi Kateya area earlier today. </p>\n<p>Following warnings about the penetration of aircraft, a number of suspected aerial targets were identified, air defense fighters successfully intercepted one of the targets.<br />\nAnother suspected target fell in the Yiftach area, causing a fire in that place. Two targets fell in an open area, the rest of the targets fell and caused minor damage. No injuries were reported.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked <a  href=\"/hezbollah\">Hezbollah</a> terror targets in southern Lebanon Fighter jets attacked last night (Tue.) a military structure and a terrorist infrastructure of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization in the Mizra&#8217;at Akmahta area in southern Lebanon. In addition, IDF forces conducted shooting to remove threats in the Wadi Kateya area earlier today. Following warnings about the penetration of aircraft, a number of suspected aerial targets were identified, air defense fighters successfully intercepted one of the targets. Another suspected target fell in the Yiftach area, causing a fire in that place. Two targets fell in an open area, the rest</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3170",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3170
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3170",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3170"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3170/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3170"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3170"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3170"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

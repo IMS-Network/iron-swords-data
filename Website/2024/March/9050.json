@@ -1,0 +1,122 @@
+{
+    "id": 3753,
+    "date": "2024-03-05T23:01:18",
+    "date_gmt": "2024-03-05T21:01:18",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9050/"
+    },
+    "modified": "2024-03-05T23:01:18",
+    "modified_gmt": "2024-03-05T21:01:18",
+    "slug": "9050",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9050/",
+    "title": {
+        "rendered": "&#8220;IDF Targets and Neutralizes Launch Sites: A Strategic Response to Attacks on Kiryat Shmona&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>Two strike cycles within an hour; the IDF attacked launch sites from which shots were fired today towards Kiryat Shmona.</p>\n<p>A short while ago, fighter jets attacked a launch site in the Al-Taybeh area from which launches were carried out towards Kiryat Shmona this evening. In addition, an aircraft attacked a launch site in the Arab El-Louiza area from which launches were also carried out towards Kiryat Shmona.</p>\n<p>Earlier today (Tuesday), fighter jets attacked a military building of the Hezbollah terror organization in the Dabieen area and a terror infrastructure of the organization in the Aita Al-Shaab area. </p>\n<p>Attached is documentation from the attacks: https://bit.ly/3TjL8OR</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: Two strike cycles within an hour; the IDF attacked launch sites from which shots were fired today towards Kiryat Shmona. A short while ago, fighter jets attacked a launch site in the Al-Taybeh area from which launches were carried out towards Kiryat Shmona this evening. In addition, an aircraft attacked a launch site in the Arab El-Louiza area from which launches were also carried out towards Kiryat Shmona. Earlier today (Tuesday), fighter jets attacked a military building of the <a  href=\"/hezbollah\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> in the Dabieen area and a terror infrastructure of the organization in the Aita Al-Shaab area.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3753",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3753
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3753",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3753"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3753/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3753"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3753"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3753"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

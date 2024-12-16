@@ -1,0 +1,122 @@
+{
+    "id": 3296,
+    "date": "2024-04-21T16:46:28",
+    "date_gmt": "2024-04-21T13:46:28",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9524/"
+    },
+    "modified": "2024-04-21T16:46:28",
+    "modified_gmt": "2024-04-21T13:46:28",
+    "slug": "9524",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9524/",
+    "title": {
+        "rendered": "&#8220;Massive IDF Operation Thwarts Terror in Nur a-Shams: Inside Look at the Successful Mission&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Documentation from the body cameras of Dovev fighters; after more than two days, IDF soldiers, Shin Bet and Border Police completed an extensive operation to thwart terror in the Nur a-Shams area in Menashe: 14 terrorists were killed, 15 wanted individuals were arrested, explosives were exposed, many means of war were located and destroyed.</p>\n<p>Numerous units of the IDF and Border Police under the direction of Amir and Shin Bet completed a large-scale operation last night to thwart terror in the Nur a-Shams area of \u200b\u200bthe Menashe Brigade.</p>\n<p>During the operation, troops from Haruv, Dovev, LOTAR and Yamaha units eliminated 14 terrorists in close-range encounters, arrested 15 wanted individuals, destroyed a large amount of weaponry, destroyed dozens of explosives, and destroyed two explosives factories.</p>\n<p>All the terrorists were killed during exchanges of fire with the forces during the operation.</p>\n<p>Since the beginning of the operation, nine IDF soldiers and a border guard were injured, some lightly and some moderately. All the fighters were evacuated for medical treatment at the hospital, their families were updated.</p>\n<p>The arrested wanted individuals and the destroyed means of warfare were transferred for further treatment by the security forces.</p>\n<p>Attached is documentation of the forces&#8217; activity: https://bit.ly/49L1FAq</p>\n<p>Attached is a link of the commander of Haruv unit: https://bit.ly/4aPHmDq</p>\n<p>Attached is documentation of the Dovev fighters\u2019 operation:  https://bit.ly/4b4y5H3</p>\n<p>Attached are photos from the activities of the forces: https://IDFANC.activetrail.biz/ANC210420242378432</p>\n<p>Attached are photos of the destroyed weapons: https://IDFANC.activetrail.biz/ANC210420242397832746</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Documentation from the body cameras of Dovev fighters; after more than two days, IDF soldiers, Shin Bet and Border Police completed an extensive operation to thwart terror in the Nur a-Shams area in Menashe: 14 terrorists were killed, 15 wanted individuals were arrested, explosives were exposed, many means of war were located and destroyed. Numerous units of the IDF and Border Police under the direction of Amir and Shin Bet completed a large-scale operation last night to thwart terror in the Nur a-Shams area of \u200b\u200bthe Menashe Brigade. During the operation, troops from Haruv, Dovev, LOTAR and Yamaha</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3296",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3296
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3296",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3296"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3296/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3296"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3296"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3296"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

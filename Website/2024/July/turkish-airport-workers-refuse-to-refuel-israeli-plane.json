@@ -1,0 +1,135 @@
+{
+    "id": 6143,
+    "date": "2024-07-12T07:30:29",
+    "date_gmt": "2024-07-12T04:30:29",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=6143"
+    },
+    "modified": "2024-07-12T07:30:33",
+    "modified_gmt": "2024-07-12T04:30:33",
+    "slug": "turkish-airport-workers-refuse-to-refuel-israeli-plane",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/turkish-airport-workers-refuse-to-refuel-israeli-plane/",
+    "title": {
+        "rendered": "Turkish Airport Workers Refuse to Refuel Israeli Plane"
+    },
+    "content": {
+        "rendered": "\n<p>An El Al aircraft flying from Tel Aviv to Warsaw made an emergency landing in Antalya, Turkey, due to a medical emergency involving a passenger. After landing, the crew attempted to refuel the plane to return to Israel, but local airport staff refused to refuel the aircraft without written authorization. Despite negotiations with Turkish authorities, the plane had to take off for Rhodes to refuel.</p>\n\n\n\n<p>El Al Flight LY5102 landed due to a passenger needing medical attention. El Al stated, &#8220;The flight crew prepared for a return flight to Tel Aviv, but local staff refused to refuel the aircraft, despite the medical emergency. The plane took off for Rhodes for refueling before heading back to Israel.&#8221;</p>\n\n\n\n<p>Investigations revealed that a local official associated with the refueling company refused to refuel the plane without written authorization. Israeli officials were in contact with Turkish authorities, who did not oppose refueling the El Al flight. However, a communication breakdown occurred, leading the local company to refuse refueling, prompting the flight to depart for Rhodes. The passenger was taken to the hospital, conscious and accompanied by a consulate official.</p>\n\n\n\n<p>Refusing to refuel an aircraft, especially one that made an emergency landing, poses significant dangers. Without proper refueling, the plane&#8217;s ability to safely return to its destination is compromised, potentially putting passengers and crew at risk.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Turkish airport workers refused to refuel an El Al plane after an emergency landing, leading it to refuel in Rhodes.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 6195,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 53,
+        "footnotes": ""
+    },
+    "categories": [
+        53
+    ],
+    "tags": [],
+    "class_list": [
+        "post-6143",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-facts"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 6143
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/6143",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=6143"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 3,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/6143/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 6194,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/6143/revisions/6194"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/6195"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=6143"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=6143"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=6143"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

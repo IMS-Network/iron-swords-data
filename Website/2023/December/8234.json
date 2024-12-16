@@ -1,0 +1,122 @@
+{
+    "id": 4559,
+    "date": "2023-12-12T18:30:14",
+    "date_gmt": "2023-12-12T16:30:14",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8234/"
+    },
+    "modified": "2023-12-12T18:30:14",
+    "modified_gmt": "2023-12-12T16:30:14",
+    "slug": "8234",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8234/",
+    "title": {
+        "rendered": "&#8220;Your Unwavering Support: The MDA Attack Flight&#8217;s Commitment to Serving MAOG 98&#8221;"
+    },
+    "content": {
+        "rendered": "<p>&#8220;Together with you in everything, keep going, we are here above you for your service&#8221;:<br />\nVoices of connection from the attack flight of MDA targeting the MAOG 98</p>\n<p>https://www.idf.il/161549</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>&#8220;Together with you in everything, keep going, we are here above you for your service&#8221;: Voices of connection from the attack flight of MDA targeting the MAOG 98 https://www.idf.il/161549</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4559",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4559
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4559",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4559"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4559/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4559"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4559"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4559"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

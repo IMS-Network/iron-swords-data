@@ -1,0 +1,124 @@
+{
+    "id": 7511,
+    "date": "2024-07-22T21:18:30",
+    "date_gmt": "2024-07-22T18:18:30",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10589-en/"
+    },
+    "modified": "2024-07-22T21:18:30",
+    "modified_gmt": "2024-07-22T18:18:30",
+    "slug": "10589-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10589-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah: Targeted Airstrikes and Successful Interceptions in Southern Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked Hezbollah terrorist targets in southern Lebanon in four different areas; a suspicious aerial target was successfully intercepted.</p>\n<p>Following alerts about the infiltration of hostile aircraft activated at 19:31 in the Upper Galilee area, air defense fighters successfully intercepted the target. No damage, no injuries.</p>\n<p>Air Force fighter jets targeted terrorist infrastructure of the Hezbollah terrorist organization in the Ayta ash-Shab area in southern Lebanon.</p>\n<p>Earlier today, fighter jets attacked a military site of the Hezbollah terrorist organization in the Yaatir area, in addition to the organization&#8217;s terrorist infrastructure in the Al-Khiam and Hanin areas in southern Lebanon.</p>\n<p>Attached is documentation of the interception: https://we.tl/t-vEr508zs92</p>\n<p>Attached is documentation of the attacks: https://we.tl/t-eURKdHFLHJ</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked <a  href=\"/hezbollah\">Hezbollah</a> terrorist targets in southern Lebanon in four different areas; a suspicious aerial target was successfully intercepted. Following alerts about the infiltration of hostile aircraft activated at 19:31 in the Upper Galilee area, air defense fighters successfully intercepted the target. No damage, no injuries. Air Force fighter jets targeted terrorist infrastructure of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization in the Ayta ash-Shab area in southern Lebanon. Earlier today, fighter jets attacked a military site of the Hezbollah terrorist organization in the Yaatir area, in addition to the organization&#8217;s terrorist infrastructure in the Al-Khiam and Hanin areas in</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7511",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7511,
+        "he": 7512,
+        "ru": 7513
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7511",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7511"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7511/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7511"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7511"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7511"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

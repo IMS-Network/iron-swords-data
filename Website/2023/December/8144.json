@@ -1,0 +1,122 @@
+{
+    "id": 4648,
+    "date": "2023-12-07T05:58:12",
+    "date_gmt": "2023-12-07T03:58:12",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8144/"
+    },
+    "modified": "2023-12-07T05:58:12",
+    "modified_gmt": "2023-12-07T03:58:12",
+    "slug": "8144",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8144/",
+    "title": {
+        "rendered": "&#8220;Remembering IDF Heroes: Details and Updates on Recent Casualties and Injured Soldiers&#8221;"
+    },
+    "content": {
+        "rendered": "<p>The attached message is from an IDF spokesperson about the names of two IDF casualties whose families have been informed: https://IDFANC.activetrail.biz/ANC0712202353.2</p>\n<p>Attached is a link to the IDF website, where detailed information and pictures of the fallen soldiers are published and updated: https://www.idf.il/59780</p>\n<p>In addition, in the battle in which Staff Sgt. Amit Bonsel was killed, three reserve paratroopers were severely injured. Another reservist from Battalion 7008 was severely injured in a battle in the north of the Gaza Strip.<br />\nThe soldiers were evacuated for medical treatment in the hospital, their families have been updated.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>The attached message is from an <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a> about the names of two IDF casualties whose families have been informed: https://IDFANC.activetrail.biz/ANC0712202353.2 Attached is a link to the IDF website, where detailed information and pictures of the fallen soldiers are published and updated: https://www.idf.il/59780 In addition, in the battle in which Staff Sgt. Amit Bonsel was killed, three reserve paratroopers were severely injured. Another reservist from Battalion 7008 was severely injured in a battle in the north of the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. The soldiers were evacuated for medical treatment in the hospital, their families have been updated.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4648",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4648
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4648",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4648"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4648/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4648"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4648"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4648"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

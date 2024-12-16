@@ -1,0 +1,124 @@
+{
+    "id": 8822,
+    "date": "2024-06-16T15:47:47",
+    "date_gmt": "2024-06-16T12:47:47",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10143-en/"
+    },
+    "modified": "2024-06-16T15:47:47",
+    "modified_gmt": "2024-06-16T12:47:47",
+    "slug": "10143-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10143-en/",
+    "title": {
+        "rendered": "&#8220;IDF Operations: Eight Arrested in Judea, Samaria, and Jordan Valley Amid Ongoing Security Efforts&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF, Shin Bet, and Border Police forces operated last night to arrest eight wanted individuals across Judea and Samaria and in the Jordan Valley and the Valley region; the soldiers fired at a terrorist who threw an explosive device at them, interrogated suspects, and located weapons.</p>\n<p>IDF, Shin Bet, and Border Police forces operated last night to arrest eight wanted individuals across Judea and Samaria and in the Jordan Valley and the Valley region.</p>\n<p>In Shechem in the Samaria Brigade, the soldiers fired at a terrorist who threw an explosive device at them, and a hit was confirmed. In the village of Rojib within the Brigade&#8217;s area, the soldiers arrested a wanted individual and confiscated a handgun and additional weapons.</p>\n<p>IDF soldiers operated in broad daylight in the Far&#8217;ah area of the Jordan Valley and the Valley Brigade. During the operation, the soldiers surrounded a building and arrested two wanted individuals. Additionally, the soldiers confiscated weapons and destroyed an explosive device found in the area.</p>\n<p>In Beit Rima and in the village of Na&#8217;ama in the Ephraim Brigade, the forces arrested two suspects involved in terrorist activity.</p>\n<p>In Alhader in the Etzion region, two wanted individuals were arrested, and in Adna in Judea, the soldiers arrested another wanted individual.</p>\n<p>The arrested individuals and the confiscated weapons were transferred for further handling by the security forces; there are no casualties among our forces.</p>\n<p>To date, approximately 4,150 wanted individuals have been arrested since the start of the war across the Judea and Samaria Division and in the Jordan Valley and the Valley Brigade, with about 1,750 of them affiliated with the Hamas terrorist organization.</p>\n<p>Attached are photos of the weapons discovered in the Samaria and Jordan Valley brigades: https://IDFANC.activetrail.biz/ANC160620248794698563</p>\n<p>Attached is documentation of the forces&#8217; activities across Judea and Samaria: https://we.tl/t-CQvocio6Oh</p>\n<p>Attached are photos from the forces&#8217; activities across Judea and Samaria: https://IDFANC.activetrail.biz/ANC16062024745649537643</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF, Shin Bet, and Border Police forces operated last night to arrest eight wanted individuals across Judea and Samaria and in the Jordan Valley and the Valley region; the soldiers fired at a terrorist who threw an explosive device at them, interrogated suspects, and located weapons. IDF, Shin Bet, and Border Police forces operated last night to arrest eight wanted individuals across Judea and Samaria and in the Jordan Valley and the Valley region. In Shechem in the Samaria Brigade, the soldiers fired at a terrorist who threw an explosive device at them, and a hit was confirmed.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8822",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8822,
+        "he": 8823,
+        "ru": 8824
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8822",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8822"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8822/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8822"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8822"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8822"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

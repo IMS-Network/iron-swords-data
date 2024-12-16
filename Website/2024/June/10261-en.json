@@ -1,0 +1,124 @@
+{
+    "id": 8471,
+    "date": "2024-06-26T17:48:13",
+    "date_gmt": "2024-06-26T14:48:13",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10261-en/"
+    },
+    "modified": "2024-06-26T17:48:13",
+    "modified_gmt": "2024-06-26T14:48:13",
+    "slug": "10261-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10261-en/",
+    "title": {
+        "rendered": "&#8220;IDF Lieutenant Colonel Convicted of Sexual Offenses: A Deep Dive into the Case&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The Military District Court has convicted Lieutenant Colonel Dan Sharoni on dozens of charges related to sexual offenses and invasion of privacy.</p>\n<p>Following the submission of a complaint, a military police investigation was opened into the serious matter, and the officer was arrested on November 9, 2021. As part of the comprehensive investigation, complaints were collected from dozens of victims, and numerous investigative actions were conducted to ensure thorough inquiry into the truth.</p>\n<p>Upon completion of the investigation, on December 22, 2021, the military prosecution filed against the accused an indictment listing numerous charges for offenses related to invasion of privacy, indecent acts, unauthorized access to computer material, and inappropriate behavior. After the indictment was submitted, a complex and lengthy evidentiary hearing was conducted in the military court, during which victims and witnesses testified, and extensive digital evidence was presented.</p>\n<p>Today, the Military District Court convicted Lieutenant Colonel Dan Sharoni on dozens of the charges attributed to him.</p>\n<p>The military court fully accepted the testimonies of the victims and rejected the defendant&#8217;s claim that he acted from a non-sexual motive. The court elaborated on the systematic nature of the acts he committed, regarding his commands, his colleagues, and other victims, as well as the severity of the trauma and loss of trust they felt upon discovering the events.</p>\n<p>A sentencing hearing is expected to be scheduled in due course. Until the next hearing, the defendant is expected to undergo a sexual danger assessment by the risk assessment center in accordance with the law.</p>\n<p>Throughout the ongoing process, the military prosecution has been in contact with the victims, keeping them informed of all stages of the procedure.</p>\n<p>Following the initiation of the investigation, the officer was removed from his position, and his military service was subsequently suspended, remaining on hold to this day.</p>\n<p>The IDF views any sexual-related offense with great severity and will continue to take decisive action to ensure that anyone who commits such acts among its ranks is held accountable.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The Military District Court has convicted Lieutenant Colonel Dan Sharoni on dozens of charges related to sexual offenses and invasion of privacy. Following the submission of a complaint, a military police investigation was opened into the serious matter, and the officer was arrested on November 9, 2021. As part of the comprehensive investigation, complaints were collected from dozens of victims, and numerous investigative actions were conducted to ensure thorough inquiry into the truth. Upon completion of the investigation, on December 22, 2021, the military prosecution filed against the accused an indictment listing numerous charges for offenses related to</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8471",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8471,
+        "he": 8472,
+        "ru": 8473
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8471",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8471"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8471/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8471"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8471"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8471"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

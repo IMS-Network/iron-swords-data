@@ -1,0 +1,124 @@
+{
+    "id": 7566,
+    "date": "2024-07-21T13:00:01",
+    "date_gmt": "2024-07-21T10:00:01",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10571-en/"
+    },
+    "modified": "2024-07-21T13:00:01",
+    "modified_gmt": "2024-07-21T10:00:01",
+    "slug": "10571-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10571-en/",
+    "title": {
+        "rendered": "&#8220;Polio Resurgence in Gaza: Vaccination Campaign Launched to Combat Virus&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Following the discovery of polio remnants in the Gaza Strip:<br />\nA wide vaccination campaign has begun by the maneuvering forces against the virus.<br />\nhttps://www.idf.il/217723</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Following the discovery of polio remnants in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip: A wide vaccination campaign has begun by the maneuvering forces against the virus. https://www.idf.il/217723</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7566",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7566,
+        "he": 7567,
+        "ru": 7568
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7566",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7566"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7566/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7566"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7566"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7566"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

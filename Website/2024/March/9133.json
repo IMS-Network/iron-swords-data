@@ -1,0 +1,122 @@
+{
+    "id": 3675,
+    "date": "2024-03-15T12:16:57",
+    "date_gmt": "2024-03-15T10:16:57",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9133/"
+    },
+    "modified": "2024-03-15T12:16:57",
+    "modified_gmt": "2024-03-15T10:16:57",
+    "slug": "9133",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9133/",
+    "title": {
+        "rendered": "&#8220;IDF&#8217;s Humanitarian Mission Amidst Gaza Chaos: Unraveling Truth from Deception&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesman:</p>\n<p>On Thursday, March 14, 2024, the IDF facilitated the passage of a convoy of 31 humanitarian aid trucks containing food and supplies intended for distribution to Gazans in the northern Gaza Strip.</p>\n<p>About an hour before the arrival of the aid convoy to the humanitarian corridor, armed Palestinians were identified shooting in the vicinity of Gazan civilians waiting for the convoy. As the trucks entered, the gunmen fired as the crowd began to loot the trucks. Also, civilians were identified as being hurt by getting run over by the trucks.</p>\n<p>Based on a preliminary and in-depth investigation that the IDF conducted during the night, it was found that there was no shooting towards the aid convoy in the Khuza&#8217;a square. An examination of the operational systems and IDF forces denied tank shooting, aerial shooting, or ground forces shooting towards the Gazan crowd in the area of the aid convoy in Khuza&#8217;a square.</p>\n<p>The IDF continues the event investigation.</p>\n<p>While the IDF is conducting a significant humanitarian effort and distributing food and humanitarian aid to the residents of the Strip, Hamas terrorists are harming Gaza residents who are trying to obtain food &#8211; and terrorist organizations are spreading lies in order to blame the State of Israel for this.<br />\nThis creates a false media event towards the first Friday of the month of Ramadan, with the aim of inciting emotions in other arenas.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>IDF Spokesman: On Thursday, March 14, 2024, the IDF facilitated the passage of a convoy of 31 humanitarian aid trucks containing food and supplies intended for distribution to Gazans in the northern <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. About an hour before the arrival of the aid convoy to the humanitarian corridor, armed Palestinians were identified shooting in the vicinity of Gazan civilians waiting for the convoy. As the trucks entered, the gunmen fired as the crowd began to loot the trucks. Also, civilians were identified as being hurt by getting run over by the trucks. Based on a preliminary and in-depth investigation that</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3675",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3675
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3675",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3675"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3675/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3675"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3675"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3675"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

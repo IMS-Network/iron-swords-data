@@ -1,0 +1,122 @@
+{
+    "id": 4408,
+    "date": "2023-12-23T19:23:40",
+    "date_gmt": "2023-12-23T17:23:40",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8385/"
+    },
+    "modified": "2023-12-23T19:23:40",
+    "modified_gmt": "2023-12-23T17:23:40",
+    "slug": "8385",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8385/",
+    "title": {
+        "rendered": "&#8220;Remembering the Fallen: IDF Releases Names of Soldiers Lost in Recent Combat&#8221;"
+    },
+    "content": {
+        "rendered": "<p>The following is an IDF spokesperson&#8217;s message regarding the names of five IDF fallen soldiers whose notification has been delivered to their families: https://IDFANC.activetrail.biz/ANC23122023.023164</p>\n<p>Here is a link to the IDF&#8217;s website, where the fallen soldiers&#8217; details and photos are published and updated: https://www.idf.il/59780</p>\n<p>Additionally, during the same combat in which Staff Sergeant Nir Rafael Kanaan and Staff Sergeant Bierhano Kassia died, five Givati Brigade soldiers were severely injured.</p>\n<p>The injured soldiers were taken to receive medical treatment at the hospital and their families have been updated.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>The following is an <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>&#8217;s message regarding the names of five IDF fallen soldiers whose notification has been delivered to their families: https://IDFANC.activetrail.biz/ANC23122023.023164 Here is a link to the IDF&#8217;s website, where the fallen soldiers&#8217; details and photos are published and updated: https://www.idf.il/59780 Additionally, during the same combat in which Staff <a  href=\"https://iron-swords.co.il/t/sergeant/\">Sergeant</a> Nir Rafael Kanaan and Staff Sergeant Bierhano Kassia died, five <a  href=\"https://iron-swords.co.il/t/givati-brigade/\">Givati Brigade</a> soldiers were severely injured. The injured soldiers were taken to receive medical treatment at the hospital and their families have been updated.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4408",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4408
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4408",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4408"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4408/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4408"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4408"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4408"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

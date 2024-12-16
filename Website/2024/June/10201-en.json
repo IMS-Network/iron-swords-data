@@ -1,0 +1,124 @@
+{
+    "id": 8651,
+    "date": "2024-06-21T16:08:52",
+    "date_gmt": "2024-06-21T13:08:52",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10201-en/"
+    },
+    "modified": "2024-06-21T16:08:52",
+    "modified_gmt": "2024-06-21T13:08:52",
+    "slug": "10201-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10201-en/",
+    "title": {
+        "rendered": "&#8220;Inside Division 99: Uncovering Terrorism and Weaponry in Gaza&#8217;s Combat Intelligence Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>&#8220;Alexandroni&#8221;, &#8220;The Elder&#8221; and the Combat Intelligence Collection Unit in Gaza:<br />\nIdentifying weaponry at the university, eliminating armed terrorists, and destroying terrorist infrastructure. Division 99 in the center of the Gaza Strip. </p>\n<p>For all the details: </p>\n<p>https://www.idf.il/210303</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>&#8220;Alexandroni&#8221;, &#8220;The Elder&#8221; and the Combat Intelligence Collection Unit in <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>: Identifying weaponry at the university, eliminating armed terrorists, and destroying terrorist infrastructure. Division 99 in the center of the Gaza Strip. For all the details: https://www.idf.il/210303</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8651",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8651,
+        "he": 8652,
+        "ru": 8653
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8651",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8651"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8651/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8651"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8651"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8651"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": 9050,
+    "date": "2024-06-10T13:31:08",
+    "date_gmt": "2024-06-10T10:31:08",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10067-en/"
+    },
+    "modified": "2024-06-10T13:31:08",
+    "modified_gmt": "2024-06-10T10:31:08",
+    "slug": "10067-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10067-en/",
+    "title": {
+        "rendered": "&#8220;IDF Responds to Hostile Aircraft and Anti-Tank Attacks: Latest Updates from Northern Israel&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Israel Defense Forces Spokesperson:</p>\n<p>Following alerts that were activated in the western Galilee at 12:39 and 12:43 due to concerns of hostile aircraft infiltration, several suspicious aerial targets were identified crossing from Lebanese territory.</p>\n<p>Air defense fighters successfully intercepted two suspicious aerial targets above the sea off the coast of Nahariya; alerts were not activated according to policy.</p>\n<p>Two additional targets that crossed from Lebanon fell in the Kiryat area, resulting in a fire and damage in the vicinity; the incident is under investigation.</p>\n<p>Following alerts that were activated in northern Israel at 13:15 and 13:20 due to concerns of hostile aircraft infiltration, details are currently being checked.</p>\n<p>Earlier today, artillery fire was carried out to neutralize threats towards the areas of A-Talhani, Aitta Ash-Shab, and Haniyyn.</p>\n<p>In recent hours, several anti-tank launches were identified in the areas of Manara, Yeron, Avibim, Margaliyot, and Yiftach.<br />\nSeveral hits were identified in structures in Manara and Yeron. Additionally, fires broke out in the areas of Yeron and Yiftach, and another fire broke out in the Manara area but was extinguished shortly after.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> Defense Forces Spokesperson: Following alerts that were activated in the western Galilee at 12:39 and 12:43 due to concerns of hostile aircraft infiltration, several suspicious aerial targets were identified crossing from Lebanese territory. Air defense fighters successfully intercepted two suspicious aerial targets above the sea off the coast of Nahariya; alerts were not activated according to policy. Two additional targets that crossed from Lebanon fell in the Kiryat area, resulting in a fire and damage in the vicinity; the incident is under investigation. Following alerts that were activated in northern Israel at 13:15 and 13:20 due to concerns of</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9050",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9050,
+        "he": 9051,
+        "ru": 9052
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9050",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9050"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9050/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9050"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9050"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9050"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

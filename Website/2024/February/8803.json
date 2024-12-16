@@ -1,0 +1,122 @@
+{
+    "id": 4000,
+    "date": "2024-02-06T15:12:37",
+    "date_gmt": "2024-02-06T13:12:37",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8803/"
+    },
+    "modified": "2024-02-06T15:12:37",
+    "modified_gmt": "2024-02-06T13:12:37",
+    "slug": "8803",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8803/",
+    "title": {
+        "rendered": "&#8220;IDF Reservists Neutralize Terror Attack Near Shechem: A Close Call With No Casualties&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Reservists thwarted a terror attack at a military post near Shechem</p>\n<p>A short time ago, an armed terrorist arrived at a military post near Shechem in the Samaria Brigade. IDF force from the Reserves Battalion 8109, guarding the post, neutralized the attacker, and opened fire. The terrorist was killed. There were no casualties. The weaponry found on the terrorist was consecrated and handed over for further treatment by security forces.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Reservists thwarted a terror attack at a military post near Shechem A short time ago, an armed terrorist arrived at a military post near Shechem in the Samaria Brigade. IDF force from the Reserves Battalion 8109, guarding the post, neutralized the attacker, and opened fire. The terrorist was killed. There were no casualties. The weaponry found on the terrorist was consecrated and handed over for further treatment by security forces.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4000",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4000
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4000",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4000"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4000/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4000"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4000"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4000"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

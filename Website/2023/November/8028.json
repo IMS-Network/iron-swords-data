@@ -1,0 +1,122 @@
+{
+    "id": 4761,
+    "date": "2023-11-29T16:11:06",
+    "date_gmt": "2023-11-29T14:11:06",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8028/"
+    },
+    "modified": "2023-11-29T16:11:06",
+    "modified_gmt": "2023-11-29T14:11:06",
+    "slug": "8028",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8028/",
+    "title": {
+        "rendered": "&#8220;Every Minute Counts: Unveiling Tense Moments from Gaza&#8217;s Frontline Battles&#8221;"
+    },
+    "content": {
+        "rendered": "<p>&#8220;Every minute is critical &#8211; and could determine the battle&#8221;:<br />\n603 Resurrecting the tense moments from the heart of Gaza<br />\nhttps://www.idf.il/157527</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>&#8220;Every minute is critical &#8211; and could determine the battle&#8221;: 603 Resurrecting the tense moments from the heart of <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> https://www.idf.il/157527</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4761",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4761
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4761",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4761"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4761/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4761"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4761"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4761"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

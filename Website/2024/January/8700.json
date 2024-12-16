@@ -1,0 +1,122 @@
+{
+    "id": 4099,
+    "date": "2024-01-25T11:39:12",
+    "date_gmt": "2024-01-25T09:39:12",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8700/"
+    },
+    "modified": "2024-01-25T11:39:12",
+    "modified_gmt": "2024-01-25T09:39:12",
+    "slug": "8700",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8700/",
+    "title": {
+        "rendered": "&#8220;IDF and Shin Bet Neutralize Threats in Anti-terror Operations: Over 2,700 Arrests and Weapon Seizures Across Judea, Samaria,"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF soldiers, Shin Bet, and Border Police operated in an anti-terror operation in the city and in Jenin camp, arrested wanted individuals, and destroyed explosives that were buried under axes; a terrorist who fired at our forces in Bir al-Basha was eliminated.</p>\n<p>The soldiers arrested 16 wanted individuals across Judea and Samaria last night.</p>\n<p>As part of an anti-terror operation in the city and Jenin camp in the Menashe Brigade that lasted all night, IDF reservists arrested seven wanted individuals. Engineering tools exposed explosives buried under axes intended to harm IDF forces. Also, the soldiers fired at terrorists who shot at them and located and neutralized weapons.</p>\n<p>Undercover Border Police officers operated a short time ago under the direction of Shin Bet in the village of Bir al-Basha in the Menashe Brigade to arrest two wanted individuals suspected of firing at our forces. During the operation, the soldiers fired and eliminated one of the wanted individuals who shot at the forces and neutralized his weapon. The additional wanted individual suspected of firing at our forces was arrested.</p>\n<p>In the city of Nablus in the Samaria Brigade, two wanted individuals were arrested and a 3D printer used for manufacturing weapons was neutralized. </p>\n<p>In Bethlehem and in the village of Harmeley in the Etzion Brigade, the Duvdevan unit&#8217;s soldiers arrested two wanted individuals.</p>\n<p>The wanted individuals and neutralized weapons were transferred for continued treatment by security forces.</p>\n<p>So far, since the start of the war, about 2,700 wanted individuals have been arrested across the Judea and Samaria Division and the Jordan Valley and Valleys Brigade, over 1,300 of them affiliated with the terror organization Hamas.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF soldiers, Shin Bet, and Border Police operated in an anti-terror operation in the city and in Jenin camp, arrested wanted individuals, and destroyed explosives that were buried under axes; a terrorist who fired at our forces in Bir al-Basha was eliminated. The soldiers arrested 16 wanted individuals across Judea and Samaria last night. As part of an anti-terror operation in the city and Jenin camp in the Menashe Brigade that lasted all night, IDF reservists arrested seven wanted individuals. Engineering tools exposed explosives buried under axes intended to harm IDF forces. Also, the soldiers fired at terrorists</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4099",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4099
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4099",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4099"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4099/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4099"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4099"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4099"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

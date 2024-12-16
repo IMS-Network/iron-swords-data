@@ -1,0 +1,122 @@
+{
+    "id": 4533,
+    "date": "2023-12-14T18:45:19",
+    "date_gmt": "2023-12-14T16:45:19",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8260/"
+    },
+    "modified": "2023-12-14T18:45:19",
+    "modified_gmt": "2023-12-14T16:45:19",
+    "slug": "8260",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8260/",
+    "title": {
+        "rendered": "&#8220;Decisive 60-Hour Operation: IDF and ISA Arrest 14 Suspects, Seize Weapons &#038; Thwart Terrorism in Jenin&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint Message to IDF Spokesperson and ISA (Israel Security Agency) Spokesperson:</p>\n<p>After 60 hours &#8211; Operation completed in Jenin; IDF soldiers, ISA and Border Police forces concluded an extensive operation to counter terrorism in the refugee camp and the city of Jenin in the Menashe Brigade.</p>\n<p>The troops arrested last night 14 wanted individuals across Judea and Samaria, three of them are affiliated with the terror organization Hamas.</p>\n<p>After about 60 hours, the security forces completed a significant and extensive operation to thwart terrorism under the command of the Menashe Brigade in the refugee camp and the city of Jenin.</p>\n<p>The forces scanned and reached hundreds of structures, detained suspects among which so far about 60 wanted individuals have been arrested and handed over for further investigation by security forces, found and confiscated over 50 weapons of various types, hundreds of explosives, and terror money worth over 100,000 NIS.</p>\n<p>In addition, the troops found over ten underground tunnels, seven explosives labs, and five HAML observation devices intended to monitor the forces. Some of the terror infrastructures were destroyed by the forces.</p>\n<p>Also, a lot of ammunition was discovered, along with materials for making explosives, military equipment, and many weapon parts. During the operation, an aircraft of the Air Force attacked two terrorist cells that were throwing explosives and shooting at the forces, the aircraft killed seven terrorists and injured others. More than ten terrorists were killed in the whole operation.</p>\n<p>During the activities, seven IDF soldiers and an officer were lightly injured, received initial treatment in the field, and were evacuated for further medical treatment at the hospital.</p>\n<p>Attached is a documentation of the explosives found in the structure and its destruction: https://bit.ly/47TxiHO</p>\n<p>Attached are pictures of the confiscated weaponry in Jenin: https://IDFANC.activetrail.biz/ANC14122023MOIERGUYVSCV</p>\n<p>Attached is documentation of the forces&#8217; activities in Jenin: https://bit.ly/3RHSNFU</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint Message to <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a> and ISA (<a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> Security Agency) Spokesperson: After 60 hours &#8211; Operation completed in Jenin; IDF soldiers, ISA and Border Police forces concluded an extensive operation to counter terrorism in the refugee camp and the city of Jenin in the Menashe Brigade. The troops arrested last night 14 wanted individuals across Judea and Samaria, three of them are affiliated with the <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> <a  href=\"/hamas\">Hamas</a>. After about 60 hours, the security forces completed a significant and extensive operation to thwart terrorism under the command of the Menashe Brigade in the refugee camp and the city of Jenin.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4533",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4533
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4533",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4533"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4533/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4533"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4533"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4533"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

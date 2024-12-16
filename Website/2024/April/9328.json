@@ -1,0 +1,122 @@
+{
+    "id": 3485,
+    "date": "2024-04-03T17:00:07",
+    "date_gmt": "2024-04-03T14:00:07",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9328/"
+    },
+    "modified": "2024-04-03T17:00:07",
+    "modified_gmt": "2024-04-03T14:00:07",
+    "slug": "9328",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9328/",
+    "title": {
+        "rendered": "&#8220;Uncovering and Neutralizing Threats: C4I Corps Forces Destroy IED and Launcher in Northern Khan Yunis&#8221;"
+    },
+    "content": {
+        "rendered": "<p>They located an IED and destroyed a launcher in an olive grove:<br />\nDocumentation of the activity of C4I Corps forces 7 in the north of Khan Yunis<br />\nhttps://www.idf.il/189570</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>They located an IED and destroyed a launcher in an olive grove: Documentation of the activity of C4I Corps forces 7 in the north of Khan Yunis https://www.idf.il/189570</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3485",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3485
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3485",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3485"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3485/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3485"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3485"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3485"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

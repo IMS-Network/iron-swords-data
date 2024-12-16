@@ -1,0 +1,122 @@
+{
+    "id": 4731,
+    "date": "2023-12-01T11:43:50",
+    "date_gmt": "2023-12-01T09:43:50",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8058/"
+    },
+    "modified": "2023-12-01T11:43:50",
+    "modified_gmt": "2023-12-01T09:43:50",
+    "slug": "8058",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8058/",
+    "title": {
+        "rendered": "&#8220;IDF and Security Forces Thwart Terrorism: Seize Weapons, Arrest 15 Suspects Across Judea and Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF soldiers, together with the Shin Bet and the Border Police, arrested 15 wanted persons across Judea and Samaria last night; funds for terrorism were confiscated, as well as an M-16 weapon, incitement materials and dozens of illegal vehicles.</p>\n<p>In operations carried out by reservist soldiers in the villages of the Menashe Brigade, four fugitives were arrested. During sweepings in a building in the village of A&#8217;raaba, materials for creating explosives were found and an explosive was destroyed by the soldiers. Armed individuals shot and threw explosives towards the forces, who returned fire.</p>\n<p>In operations carried out by reservists in the Etzion Brigade, the soldiers located and confiscated military equipment and several incitement materials. During the operations, terrorists threw explosives, set tires on fire and threw stones at the forces, who responded with crowd dispersal means and warning shots in the air.</p>\n<p>In operations in the Judea Brigade, the forces arrested nine fugitives, a M-16 weapon was found in Hebron and approximately NIS 5,000 of terrorism funds were confiscated.<br />\nIn the village of Samoa in the Judea Brigade, dozens of illegal vehicles were confiscated.</p>\n<p>The wanted persons arrested have been handed over for further investigation by the security forces, with no injuries reported among our forces.</p>\n<p>So far, since the beginning of the war, around 2,100 wanted persons have been arrested across the Judea and Samaria Brigade and the Valley and Plains Brigade, about 1,100 of whom are affiliated with the Hamas terrorist organization.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF soldiers, together with the Shin Bet and the Border Police, arrested 15 wanted persons across Judea and Samaria last night; funds for terrorism were confiscated, as well as an M-16 weapon, incitement materials and dozens of illegal vehicles. In operations carried out by reservist soldiers in the villages of the Menashe Brigade, four fugitives were arrested. During sweepings in a building in the village of A&#8217;raaba, materials for creating explosives were found and an explosive was destroyed by the soldiers. Armed individuals shot and threw explosives towards the forces, who returned fire. In operations carried out by</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4731",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4731
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4731",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4731"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4731/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4731"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4731"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4731"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

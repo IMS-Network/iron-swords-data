@@ -1,0 +1,122 @@
+{
+    "id": 2990,
+    "date": "2024-05-23T08:21:59",
+    "date_gmt": "2024-05-23T05:21:59",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9835/"
+    },
+    "modified": "2024-05-23T08:21:59",
+    "modified_gmt": "2024-05-23T05:21:59",
+    "slug": "9835",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9835/",
+    "title": {
+        "rendered": "&#8220;Netzach Yehuda Battalion&#8217;s Strategic Operation in Beit Hanoun: An Inside Look at IDF\u2019s Fight Against Terrorism&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The &#8216;Netzach Yehuda&#8217; Battalion, under the Northern Brigade, conducted a focused operation in the Beit Hanoun area; the fight in the strip continues.</p>\n<p>The &#8216;Netzach Yehuda&#8217; Battalion of the Northern Brigade has recently launched a focused operation in the Beit Hanoun area aimed at eliminating terrorists, finding and destroying terror infrastructure, and underground infrastructure as well. </p>\n<p>During yesterday&#8217;s operations in the area (Wednesday), three IDF soldiers fell, their names have been cleared for publication. The IDF shares the grief of the families and will continue to support them. The forces continue fighting in the area and collaborated with the Air Force to attack many terrorist targets, including anti-tank positions, a military structure, and rocket launching sites.</p>\n<p>In addition, the 414 Battalion soldiers identified a terrorist shooting at the forces from a building close to the forces. An aircraft from the Air Force and a tank eliminated the terrorist after identification. Soon after, another terrorist was identified shooting at the forces from the same building. The forces directed a fighter plane which destroyed the building and eliminated the terrorist.</p>\n<p>Please find attached footage from the identification of shooting from the building and its attack: https://bit.ly/3URnKYv</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The &#8216;Netzach Yehuda&#8217; Battalion, under the Northern Brigade, conducted a focused operation in the Beit Hanoun area; the fight in the strip continues. The &#8216;Netzach Yehuda&#8217; Battalion of the Northern Brigade has recently launched a focused operation in the Beit Hanoun area aimed at eliminating terrorists, finding and destroying terror infrastructure, and underground infrastructure as well. During yesterday&#8217;s operations in the area (Wednesday), three IDF soldiers fell, their names have been cleared for publication. The IDF shares the grief of the families and will continue to support them. The forces continue fighting in the area and collaborated with</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2990",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2990
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2990",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2990"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2990/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2990"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2990"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2990"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

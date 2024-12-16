@@ -1,0 +1,122 @@
+{
+    "id": 3561,
+    "date": "2024-03-26T10:11:11",
+    "date_gmt": "2024-03-26T08:11:11",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9251/"
+    },
+    "modified": "2024-03-26T10:11:11",
+    "modified_gmt": "2024-03-26T08:11:11",
+    "slug": "9251",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9251/",
+    "title": {
+        "rendered": "&#8220;Nighttime IDF Operation: Arrest of 14 Wanted Individuals and Seizure of Weapons in Judea, Samaria, and Nablus&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF soldiers, alongside Shin Bet and Border Police forces, acted in Beit Ummar in Gush Etzion, the village from which a shooting was orchestrated towards Karmei Tzur last night; 14 wanted individuals were arrested across Judea and Samaria and in a brigade operation in Nablus.</p>\n<p>IDF, Shin Bet and Border Police forces worked overnight to arrest 14 wanted individuals across Judea and Samaria.</p>\n<p>The soldiers operated in Beit Ummar in Gush Etzion, the village from which a shooting was carried out towards a house in Karmei Tzur during the night. In their activity in the village, the soldiers located a firearm and ammunition. In the Bait Fajjar region, the soldiers located two additional weapons. Two wanted individuals were arrested in Jenin at Menashe. </p>\n<p>In an operation at Balata refugee camp in Nablus, a suspect attempted to snatch a soldier&#8217;s weapon. The soldier shot at the suspect, a hit was identified. During the operation, the soldiers located and neutralized charges.</p>\n<p>In Mazer&#8217;in-Nubani in the Benjamin region, the soldiers arrested a wanted individual and found a Kalashnikov, a grenade, and a large amount of ammunition. In Jilzoun, the soldiers arrested five wanted individuals.</p>\n<p>The arrested suspects and the weapons found have been handed over for further handling by security forces, no injuries to our forces.</p>\n<p>Since the start of the war, about 3,600 wanted individuals have been arrested across the Judea and Samaria Brigade and the Jordan Valley Brigade, about 1,600 of them are associated with the Hamas terror organization. </p>\n<p>Attached are photos from the forces&#8217; activity: https://IDFANC.activetrail.biz/ANC260320249189</p>\n<p>Attached are photos of the weapons found during the night: https://IDFANC.activetrail.biz/ANC2603202452100</p>\n<p>Attached is documentation from the activity: https://bit.ly/3IOAfi9</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF soldiers, alongside Shin Bet and Border Police forces, acted in Beit Ummar in Gush Etzion, the village from which a shooting was orchestrated towards Karmei Tzur last night; 14 wanted individuals were arrested across Judea and Samaria and in a brigade operation in Nablus. IDF, Shin Bet and Border Police forces worked overnight to arrest 14 wanted individuals across Judea and Samaria. The soldiers operated in Beit Ummar in Gush Etzion, the village from which a shooting was carried out towards a house in Karmei Tzur during the night. In their activity in the village, the soldiers</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3561",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3561
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3561",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3561"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3561/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3561"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3561"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3561"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 4656,
+    "date": "2023-12-06T13:46:45",
+    "date_gmt": "2023-12-06T11:46:45",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8136/"
+    },
+    "modified": "2023-12-06T13:46:45",
+    "modified_gmt": "2023-12-06T11:46:45",
+    "slug": "8136",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8136/",
+    "title": {
+        "rendered": "&#8220;Surge in Female Combat Role Demand: An Insight into the IDF&#8217;s 2023 Enlistment Cycle&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF continues with the November-December 2023 enlistment cycle; high demand among recruits for combat roles</p>\n<p>Last week, an enlistment cycle for female combat soldiers in the IDF took place amidst the war, participating in several combat operations. Approximately 12% of the total recruits for female combat roles, are females who requested to enlist in combat roles since the beginning of the war. Also, in all combat professions in this recruitment, there is a demand higher than 100%.</p>\n<p>In addition, two candidates for the security service recently completed the screenings for Unit 669 and are expected to enlist next month, following the completion of the selection process which includes, among other things, a security qualification and a medical check. The two will be the first to start the unit&#8217;s program, which lasts about eighteen months, and if they succeed, they will be certified as combat soldiers in the unit.</p>\n<p>Women&#8217;s combat enlistment rates relative to targets:<br />\nBorder Infantry Brigade &#8211; 116%<br />\nClose Collection &#8211; 133%<br />\nArtillery &#8211; 132%<br />\nThe Home Front Command &#8211; 101%<br />\nRescue and Training &#8211; 122%<br />\nBorder Police &#8211; 119%</p>\n<p>Attached are archive photos on the subject: https://IDFANC.activetrail.biz/ANCJWDWD</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF continues with the November-December 2023 enlistment cycle; high demand among recruits for combat roles Last week, an enlistment cycle for female combat soldiers in the IDF took place amidst the war, participating in several combat operations. Approximately 12% of the total recruits for female combat roles, are females who requested to enlist in combat roles since the beginning of the war. Also, in all combat professions in this recruitment, there is a demand higher than 100%. In addition, two candidates for the security service recently completed the screenings for <a  href=\"https://iron-swords.co.il/t/unit-669/\">Unit 669</a> and are expected to enlist</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4656",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4656
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4656",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4656"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4656/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4656"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4656"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4656"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

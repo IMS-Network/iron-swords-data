@@ -1,0 +1,124 @@
+{
+    "id": 8294,
+    "date": "2024-07-02T15:29:34",
+    "date_gmt": "2024-07-02T12:29:34",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10321-en/"
+    },
+    "modified": "2024-07-02T15:29:34",
+    "modified_gmt": "2024-07-02T12:29:34",
+    "slug": "10321-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10321-en/",
+    "title": {
+        "rendered": "&#8220;Heroic Observer Thwarts 75-Gun Smuggling Attempt: A Close Call&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Identified suspicious movement &#8211; and helped thwart the smuggling of 75 guns:<br />\n&#8220;When I saw all the weapons, I understood the scale of the event.&#8221; The observer recalls.<br />\nhttps://www.idf.il/212845</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Identified suspicious movement &#8211; and helped thwart the smuggling of 75 guns: &#8220;When I saw all the weapons, I understood the scale of the event.&#8221; The observer recalls. https://www.idf.il/212845</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8294",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8294,
+        "he": 8295,
+        "ru": 8296
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8294",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8294"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8294/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8294"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8294"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8294"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

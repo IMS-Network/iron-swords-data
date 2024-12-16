@@ -1,0 +1,122 @@
+{
+    "id": 3510,
+    "date": "2024-03-31T20:05:18",
+    "date_gmt": "2024-03-31T17:05:18",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9302/"
+    },
+    "modified": "2024-03-31T20:05:18",
+    "modified_gmt": "2024-03-31T17:05:18",
+    "slug": "9302",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9302/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Targets in Southern Lebanon: A Detailed Report on the Recent Attacks&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Launch sites, observation posts, and military buildings where terrorists were stationed; IDF attacked Hezbollah terrorist organization targets in southern Lebanon.</p>\n<p>A short while ago, fighter jets attacked several military buildings of the Hezbollah terrorist organization where terrorists were stationed in the areas of Mis al-Jabal and Blayda in southern Lebanon.</p>\n<p>In recent hours, fighter jets attacked additional launch sites of the Hezbollah terrorist organization in the area of \u200b\u200bMarkaba, as well as the organization&#8217;s observation post in the region of Kfar Kila in southern Lebanon.</p>\n<p>Earlier today, there were several launches from southern Lebanon that reached the areas of Har Dov and Arab al-Aramshe, the air defense soldiers intercepted some of them.</p>\n<p>Attached is documentation of the attacks: https://bit.ly/3IZSalV</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Launch sites, observation posts, and military buildings where terrorists were stationed; IDF attacked <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization targets in southern Lebanon. A short while ago, fighter jets attacked several military buildings of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization where terrorists were stationed in the areas of Mis al-Jabal and Blayda in southern Lebanon. In recent hours, fighter jets attacked additional launch sites of the Hezbollah terrorist organization in the area of \u200b\u200bMarkaba, as well as the organization&#8217;s observation post in the region of Kfar Kila in southern Lebanon. Earlier today, there were several launches from southern Lebanon that reached the areas</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3510",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3510
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3510",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3510"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3510/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3510"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3510"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3510"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 4333,
+    "date": "2023-12-30T18:35:57",
+    "date_gmt": "2023-12-30T16:35:57",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8461/"
+    },
+    "modified": "2023-12-30T18:35:57",
+    "modified_gmt": "2023-12-30T16:35:57",
+    "slug": "8461",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8461/",
+    "title": {
+        "rendered": "&#8220;Remembering IDF Casualties and Updates on Seriously Injured Soldiers in Recent Gaza Strip Conflicts&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Attached is a message from the IDF spokesperson regarding the names of the two IDF casualties for whom notification has been given to their families: https://IDFANC.activetrail.biz/ANC30122023IEURBGIEBV</p>\n<p>Attached is a link to the IDF website, where their details and photos of the casualties are published and updated:<br />\nhttps://www.idf.il/59780</p>\n<p>In addition, in the event in which Konstantin Sushko, may his memory be a blessing, was killed, a reserve soldier from Battalion 7086, Golani Brigade, was seriously injured.</p>\n<p>Additionally, a combat officer in the &#8216;Tzabar&#8217; Battalion (432), Givati Brigade, was seriously injured in a battle in the northern Gaza Strip. A reserve soldier in the Engineering Battalion 7107, Nahal Brigade, was seriously injured in a battle in the northern Gaza Strip.</p>\n<p>Moreover, a reserve soldier in the Paratroopers Brigade 5352, &#8216;Ram&#8217; Formation (179), was seriously injured in a battle in the central Gaza Strip.</p>\n<p>Furthermore, a soldier in Battalion 932, Nahal Brigade, was seriously injured in an operational activity in the vicinity of the Gaza Strip.</p>\n<p>Also, an IDF reserve soldier from Battalion 7018 was seriously injured in a car-ramming attack that occurred today (Saturday) in the Judea Brigade area.</p>\n<p>The injured were evacuated for medical treatment and their families were updated.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Attached is a message from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a> regarding the names of the two IDF casualties for whom notification has been given to their families: https://IDFANC.activetrail.biz/ANC30122023IEURBGIEBV Attached is a link to the IDF website, where their details and photos of the casualties are published and updated: https://www.idf.il/59780 In addition, in the event in which Konstantin Sushko, may his memory be a blessing, was killed, a reserve soldier from Battalion 7086, <a  href=\"https://iron-swords.co.il/t/golani-brigade-2/\">Golani Brigade</a>, was seriously injured. Additionally, a combat officer in the &#8216;Tzabar&#8217; Battalion (432), <a  href=\"https://iron-swords.co.il/t/givati-brigade/\">Givati Brigade</a>, was seriously injured in a battle in the northern <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. A reserve soldier</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4333",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4333
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4333",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4333"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4333/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4333"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4333"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4333"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

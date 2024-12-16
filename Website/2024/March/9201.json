@@ -1,0 +1,122 @@
+{
+    "id": 3608,
+    "date": "2024-03-21T12:32:50",
+    "date_gmt": "2024-03-21T10:32:50",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9201/"
+    },
+    "modified": "2024-03-21T12:32:50",
+    "modified_gmt": "2024-03-21T10:32:50",
+    "slug": "9201",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9201/",
+    "title": {
+        "rendered": "&#8220;IDF Operation Results in Palestinian Fatality: Military Police Investigation Underway&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>A short while ago, during an operational activity, an IDF force fired at a Palestinian who aroused their suspicion at the Alazar junction in the Etzion Brigade area. A hit was identified and subsequently, the death of the Palestinian was confirmed. </p>\n<p>Immediately upon receiving the report about the serious incident, the military prosecution ordered the opening of an investigation by the military police.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: A short while ago, during an operational activity, an IDF force fired at a Palestinian who aroused their suspicion at the Alazar junction in the Etzion Brigade area. A hit was identified and subsequently, the death of the Palestinian was confirmed. Immediately upon receiving the report about the serious incident, the military prosecution ordered the opening of an investigation by the military police.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3608",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3608
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3608",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3608"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3608/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3608"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3608"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3608"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

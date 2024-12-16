@@ -1,0 +1,122 @@
+{
+    "id": 2925,
+    "date": "2024-05-28T00:11:31",
+    "date_gmt": "2024-05-27T21:11:31",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9900/"
+    },
+    "modified": "2024-05-28T00:11:31",
+    "modified_gmt": "2024-05-27T21:11:31",
+    "slug": "9900",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9900/",
+    "title": {
+        "rendered": "&#8220;IDF Successfully Intercepts Two Rockets: Ensuring Israeli Territory&#8217;s Safety&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>The IDF intercepted two rockets that were heading towards Israeli territory.</p>\n<p>Following the alarms that were activated around Eilat a short while ago, a fighter jet along with aerial defense soldiers successfully intercepted two rockets that were heading towards Israeli territory from the east. There are no casualties.</p>\n<p>It is emphasized that the rockets did not cross into Israeli territory.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: The IDF intercepted two rockets that were heading towards Israeli territory. Following the alarms that were activated around Eilat a short while ago, a fighter jet along with aerial defense soldiers successfully intercepted two rockets that were heading towards Israeli territory from the east. There are no casualties. It is emphasized that the rockets did not cross into Israeli territory.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2925",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2925
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2925",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2925"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2925/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2925"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2925"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2925"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

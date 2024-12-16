@@ -1,0 +1,122 @@
+{
+    "id": 3888,
+    "date": "2024-02-19T18:43:32",
+    "date_gmt": "2024-02-19T16:43:32",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8915/"
+    },
+    "modified": "2024-02-19T18:43:32",
+    "modified_gmt": "2024-02-19T16:43:32",
+    "slug": "8915",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8915/",
+    "title": {
+        "rendered": "&#8220;IDF Retaliates Against Hezbollah: Dismantling Weapon Depots in Sidon Following Drone Attack&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked Hezbollah&#8217;s weapon depots near the city of Sidon, in response to the launching of a drone towards the Lower Galilee.</p>\n<p>IDF fighter jets recently attacked, near the city of Sidon, two weapon depots belonging to the Hezbollah terrorist organization.</p>\n<p>The attack was carried out in response to the launch of the unmanned aircraft towards the Lower Galilee. After investigation, it appears that the drone was launched by the Hezbollah terrorist organization from Lebanese territory, probably earlier today (Monday). The circumstances of the event are being investigated.</p>\n<p>In addition, in recent hours, fighter jets attacked Hezbollah&#8217;s terrorist infrastructure in the Mis al-Jabal and al-Adaysa areas.</p>\n<p>Attached is footage of the attack on Hezbollah&#8217;s terrorist infrastructure: https://bit.ly/3T4XE3F</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked <a  href=\"/hezbollah\">Hezbollah</a>&#8217;s weapon depots near the city of Sidon, in response to the launching of a drone towards the Lower Galilee. IDF fighter jets recently attacked, near the city of Sidon, two weapon depots belonging to the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization. The attack was carried out in response to the launch of the unmanned aircraft towards the Lower Galilee. After investigation, it appears that the drone was launched by the Hezbollah terrorist organization from Lebanese territory, probably earlier today (Monday). The circumstances of the event are being investigated. In addition, in recent hours, fighter jets attacked Hezbollah&#8217;s</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3888",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3888
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3888",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3888"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3888/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3888"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3888"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3888"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": 7880,
+    "date": "2024-07-13T21:49:19",
+    "date_gmt": "2024-07-13T18:49:19",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10462-en/"
+    },
+    "modified": "2024-07-13T21:49:19",
+    "modified_gmt": "2024-07-13T18:49:19",
+    "slug": "10462-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10462-en/",
+    "title": {
+        "rendered": "&#8220;Israeli Air Force Strikes Hezbollah Commander Amid Escalating Cross-Border Attacks&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>A short while ago, Israeli Air Force fighter jets attacked a ground commander of the Hezbollah terrorist organization who was located in the Kfar Tabbnit area in southern Lebanon.</p>\n<p>Following alerts that were activated in northern Israel at 19:15, approximately 15 launches were identified crossing from Lebanese territory, and air defense fighters successfully intercepted most of them.</p>\n<p>As a result of debris from the interceptions during the launches, one Israeli soldier was seriously injured, another soldier was moderately injured, and two more soldiers were lightly injured. The soldiers were evacuated for medical treatment at the hospital, and their families were informed.</p>\n<p>Shortly thereafter, additional alerts were activated in northern Israel, during which eight launches were identified crossing from Lebanese territory towards the Kiryat Shmona area.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: A short while ago, Israeli Air Force fighter jets attacked a ground commander of the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization who was located in the Kfar Tabbnit area in southern Lebanon. Following alerts that were activated in northern <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> at 19:15, approximately 15 launches were identified crossing from Lebanese territory, and air defense fighters successfully intercepted most of them. As a result of debris from the interceptions during the launches, one Israeli soldier was seriously injured, another soldier was moderately injured, and two more soldiers were lightly injured. The soldiers were evacuated for medical treatment at the hospital, and their</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7880",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7880,
+        "he": 7881,
+        "ru": 7882
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7880",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7880"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7880/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7880"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7880"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7880"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

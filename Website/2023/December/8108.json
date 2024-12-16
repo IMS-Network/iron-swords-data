@@ -1,0 +1,122 @@
+{
+    "id": 4683,
+    "date": "2023-12-04T18:40:23",
+    "date_gmt": "2023-12-04T16:40:23",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8108/"
+    },
+    "modified": "2023-12-04T18:40:23",
+    "modified_gmt": "2023-12-04T16:40:23",
+    "slug": "8108",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8108/",
+    "title": {
+        "rendered": "&#8220;IDF Forces Intensify Offensive Against Hamas: Inside the Latest Developments in Gaza Strip Conflict&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces continue to fight against Hamas terrorists; fighter jets attack in support of ground forces</p>\n<p>In the past few hours, IDF soldiers and the Air Force continue to battle in the Gaza Strip, attacked rocket launchers, terror infrastructure, weapons warehouses, and killed terrorists from the Hamas terror organization.</p>\n<p>A combat command force from the 7th Brigade located three Hamas terrorists near the soldiers. The force commander quickly directed a remotely piloted aircraft towards the terrorists, who were killed.</p>\n<p>IDF soldiers identified a terrorist firing an RPG at the force. The soldiers responded by shooting and killed two terrorists. Additionally, IDF soldiers located two terrorists shooting at them from a tunnel shaft entrance, the soldiers destroyed the shaft and killed the terrorists. In another incident in fighting in the Gaza Strip, IDF soldiers directed a remotely piloted aircraft towards three terrorists they identified in the area, the aircraft attacked the terrorists.</p>\n<p>Attached is documentation of the IDF&#8217;s attacks in the Gaza Strip: https://bit.ly/3R9ZJdm</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces continue to fight against <a  href=\"/hamas\">Hamas</a> terrorists; fighter jets attack in support of ground forces In the past few hours, IDF soldiers and the Air Force continue to battle in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip, attacked rocket launchers, terror infrastructure, weapons warehouses, and killed terrorists from the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a>. A combat command force from the 7th Brigade located three Hamas terrorists near the soldiers. The force commander quickly directed a remotely piloted aircraft towards the terrorists, who were killed. IDF soldiers identified a terrorist firing an RPG at the force. The soldiers responded by shooting and killed two</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4683",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4683
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4683",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4683"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4683/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4683"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4683"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4683"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

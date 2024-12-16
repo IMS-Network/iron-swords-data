@@ -1,0 +1,122 @@
+{
+    "id": 3748,
+    "date": "2024-03-06T16:01:10",
+    "date_gmt": "2024-03-06T14:01:10",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9057/"
+    },
+    "modified": "2024-03-06T16:01:10",
+    "modified_gmt": "2024-03-06T14:01:10",
+    "slug": "9057",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9057/",
+    "title": {
+        "rendered": "&#8220;Inside Operation &#8216;Western Crown&#8217;: An In-Depth Look at the IDF&#8217;s Raid on Khan Yunis&#8217; Terror Infrastructures&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Operation &#8216;Western Crown&#8217; in Khan Yunis continues:<br />\nDocumentation of the commando raid and Shin Bet on terror infrastructures in &#8216;Hamad Towers&#8217;<br />\nhttps://www.idf.il/184271</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Operation &#8216;Western Crown&#8217; in Khan Yunis continues: Documentation of the commando raid and Shin Bet on terror infrastructures in &#8216;Hamad Towers&#8217; https://www.idf.il/184271</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3748",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3748
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3748",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3748"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3748/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3748"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3748"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3748"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

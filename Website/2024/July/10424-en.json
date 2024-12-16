@@ -1,0 +1,124 @@
+{
+    "id": 7993,
+    "date": "2024-07-10T15:42:51",
+    "date_gmt": "2024-07-10T12:42:51",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10424-en/"
+    },
+    "modified": "2024-07-10T15:42:51",
+    "modified_gmt": "2024-07-10T12:42:51",
+    "slug": "10424-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10424-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Syrian Army Infrastructure Over Golan Heights Violations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked Syrian Army infrastructures that violated the troop separation agreement in the Golan Heights area.</p>\n<p>Earlier today, the IDF attacked military infrastructures of the Syrian Army using tanks and artillery, which violated the troop separation agreement between Israel and Syria (1974) in the demilitarized zone.</p>\n<p>The IDF holds the Syrian Army responsible for everything that occurs in its territory and will not allow attempts to breach the separation agreement.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked Syrian Army infrastructures that violated the troop separation agreement in the Golan Heights area. Earlier today, the IDF attacked military infrastructures of the Syrian Army using tanks and artillery, which violated the troop separation agreement between <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> and Syria (1974) in the demilitarized zone. The IDF holds the Syrian Army responsible for everything that occurs in its territory and will not allow attempts to breach the separation agreement.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7993",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7993,
+        "he": 7994,
+        "ru": 7995
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7993",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7993"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7993/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7993"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7993"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7993"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 4785,
+    "date": "2023-11-26T19:51:11",
+    "date_gmt": "2023-11-26T17:51:11",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8004/"
+    },
+    "modified": "2023-11-26T19:51:11",
+    "modified_gmt": "2023-11-26T17:51:11",
+    "slug": "8004",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8004/",
+    "title": {
+        "rendered": "&#8220;Rescue Mission Success: IDF and Shin Bet Escort Four Abductees to Safety in Israel&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint message to the IDF spokesperson and Shin Bet spokespersons:</p>\n<p>A select IDF unit and a Shin Bet force are currently escorting in the territory of Israel the four abductees, among them an Israeli citizen and three foreign nationals, who are at the Kerem Shalom crossing. They will be directly transported to the hospitals upon their return to the country.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint message to the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a> and Shin Bet spokespersons: A select IDF unit and a Shin Bet force are currently escorting in the territory of <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> the four abductees, among them an Israeli citizen and three foreign nationals, who are at the Kerem Shalom crossing. They will be directly transported to the hospitals upon their return to the country.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4785",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4785
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4785",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4785"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4785/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4785"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4785"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4785"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

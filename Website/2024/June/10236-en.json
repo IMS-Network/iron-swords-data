@@ -1,0 +1,124 @@
+{
+    "id": 8546,
+    "date": "2024-06-24T20:18:50",
+    "date_gmt": "2024-06-24T17:18:50",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10236-en/"
+    },
+    "modified": "2024-06-24T20:18:50",
+    "modified_gmt": "2024-06-24T17:18:50",
+    "slug": "10236-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10236-en/",
+    "title": {
+        "rendered": "&#8220;IAF Strikes Hezbollah Targets in Lebanon: Aerial Assault and Interception Update&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Documentation: Fighter jets attacked terrorist infrastructure used by the aerial division of the Hezbollah terrorist organization deep in Lebanon; a suspicious aerial target was intercepted after crossing into Israeli territory from Lebanon.</p>\n<p>In recent hours, IAF fighter jets attacked several terrorist infrastructures of the Hezbollah terrorist organization in the areas of Aitaroun, Bleidah, and Maroun al-Ras. Additionally, earlier today, IAF fighter jets struck a terrorist infrastructure in the Baalbek area used by Hezbollah&#8217;s air defense system.</p>\n<p>Following the alert about the infiltration of hostile aircraft in northern Israel earlier today, air defense fighters successfully intercepted a suspicious aerial target that crossed into Israeli territory from Lebanon; there were no casualties.</p>\n<p>Furthermore, in response to alerts about rocket and missile fire in northern Israel a short while ago, this was a false identification.</p>\n<p>Attached is documentation from the strike in Baalbek: https://bit.ly/4bcsZbD</p>\n<p>Attached is documentation from the interception: https://bit.ly/45CeM6C</p>\n<p>Attached is documentation from the attacks: https://bit.ly/4bjinrx</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Documentation: Fighter jets attacked terrorist infrastructure used by the aerial division of the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization deep in Lebanon; a suspicious aerial target was intercepted after crossing into Israeli territory from Lebanon. In recent hours, IAF fighter jets attacked several terrorist infrastructures of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization in the areas of Aitaroun, Bleidah, and Maroun al-Ras. Additionally, earlier today, IAF fighter jets struck a terrorist infrastructure in the Baalbek area used by Hezbollah&#8217;s air defense system. Following the alert about the infiltration of hostile aircraft in northern <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> earlier today, air defense fighters successfully intercepted a suspicious aerial</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8546",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8546,
+        "he": 8547,
+        "ru": 8548
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8546",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8546"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8546/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8546"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8546"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8546"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

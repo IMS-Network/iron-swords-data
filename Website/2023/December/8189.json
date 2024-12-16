@@ -1,0 +1,122 @@
+{
+    "id": 4603,
+    "date": "2023-12-09T19:45:07",
+    "date_gmt": "2023-12-09T17:45:07",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8189/"
+    },
+    "modified": "2023-12-09T19:45:07",
+    "modified_gmt": "2023-12-09T17:45:07",
+    "slug": "8189",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8189/",
+    "title": {
+        "rendered": "&#8220;Chief of Staff&#8217;s Insight on Nahal Candle Lighting: Surrendering Terrorists Indicate System Breakdown&#8221;"
+    },
+    "content": {
+        "rendered": "<p>The Chief of Staff at the Nahal candle lighting:<br />\n&#8220;We see terrorists who are surrendering, a sign of a system breakdown, we need to press harder&#8221;<br />\nhttps://www.idf.il/160662</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>The Chief of Staff at the Nahal candle lighting: &#8220;We see terrorists who are surrendering, a sign of a system breakdown, we need to press harder&#8221; https://www.idf.il/160662</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4603",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4603
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4603",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4603"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4603/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4603"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4603"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4603"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

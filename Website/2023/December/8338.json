@@ -1,0 +1,122 @@
+{
+    "id": 4455,
+    "date": "2023-12-20T09:12:00",
+    "date_gmt": "2023-12-20T07:12:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8338/"
+    },
+    "modified": "2023-12-20T09:12:00",
+    "modified_gmt": "2023-12-20T07:12:00",
+    "slug": "8338",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8338/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes 300 Targets in Gaza: Inside the Combat Operations Against Terrorist Infrastructures&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked over 300 targets during the last day; a fighter jet destroyed a stand from where missiles were fired towards Israeli territory yesterday.</p>\n<p>During the last day, over 300 targets were attacked. IDF forces operating in the Gaza Strip continue to engage in face-to-face battles with terrorists, directing aircraft towards armed groups and war implements, alongside airstrikes and the forces of the Sea Arm, during which dozens of terrorists were killed and a series of terrorist infrastructure in the Strip were destroyed.</p>\n<p>Following shooting towards our forces in southern Gaza Strip, IDF soldiers from the 55 brigade combat team raided military headquarters in the Khan Yunis area from where shooting was carried out and many war implements were stored. Among the war implements found were a number of weapons, ammunition, explosives, and about 20 mortar bombs.</p>\n<p>The Gaza Division&#8217;s &#8220;fire blanket&#8221; squadron directed a combat aircraft from the Air Force, which attacked and destroyed a missile stand, from which shots were fired towards Israeli territory yesterday (Tuesday).</p>\n<p>Attached is documentation of the IDF&#8217;s attacks in the Gaza Strip: https://bit.ly/3ttSPb9</p>\n<p>Attached are pictures from the IDF&#8217;s activities in the Strip: https://IDFANC.activetrail.biz/ANC2012202304048369</p>\n<p>Attached are pictures from the location of the war implements at the military headquarters: https://IDFANC.activetrail.biz/ANC2012202359845939</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked over 300 targets during the last day; a fighter jet destroyed a stand from where missiles were fired towards Israeli territory yesterday. During the last day, over 300 targets were attacked. IDF forces operating in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip continue to engage in face-to-face battles with terrorists, directing aircraft towards armed groups and war implements, alongside airstrikes and the forces of the Sea Arm, during which dozens of terrorists were killed and a series of terrorist infrastructure in the Strip were destroyed. Following shooting towards our forces in southern Gaza Strip, IDF soldiers from the 55</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4455",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4455
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4455",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4455"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4455/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4455"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4455"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4455"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

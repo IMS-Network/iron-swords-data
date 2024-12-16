@@ -1,0 +1,122 @@
+{
+    "id": 4499,
+    "date": "2023-12-17T16:01:02",
+    "date_gmt": "2023-12-17T14:01:02",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8294/"
+    },
+    "modified": "2023-12-17T16:01:02",
+    "modified_gmt": "2023-12-17T14:01:02",
+    "slug": "8294",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8294/",
+    "title": {
+        "rendered": "&#8220;Remembering Lt. Col. Moshe Bar-On and Lt. Col. Roi Maldesi: The Fallen Heroes of Givati Brigade in Gaza Strip Battles&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Lt. Col. Moshe Bar-On, may his memory be a blessing, and Lt. Col. Roi Maldesi, may his memory be a blessing:<br />\nThe Givati Brigade soldiers who joined the battle at the end of their fighters&#8217; training &#8211; and fell in battles in the Gaza Strip.<br />\nhttps://www.idf.il/163172</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Lt. Col. Moshe Bar-On, may his memory be a blessing, and Lt. Col. Roi Maldesi, may his memory be a blessing: The <a  href=\"https://iron-swords.co.il/t/givati-brigade/\">Givati Brigade</a> soldiers who joined the battle at the end of their fighters&#8217; training &#8211; and fell in battles in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. https://www.idf.il/163172</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4499",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4499
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4499",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4499"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4499/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4499"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4499"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4499"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

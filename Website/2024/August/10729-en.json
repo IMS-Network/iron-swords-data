@@ -1,0 +1,124 @@
+{
+    "id": 7087,
+    "date": "2024-08-02T20:01:21",
+    "date_gmt": "2024-08-02T17:01:21",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10729-en/"
+    },
+    "modified": "2024-08-02T20:01:21",
+    "modified_gmt": "2024-08-02T17:01:21",
+    "slug": "10729-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10729-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah in Southern Lebanon: Targeting Terrorist Operatives&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked Hezbollah operatives operating in a military structure of the organization in southern Lebanon.</p>\n<p>IDF forces identified terrorist operatives from the Hezbollah organization active in a military structure of the organization in the area of Ayta a-Shaab in southern Lebanon.</p>\n<p>Shortly after the identification, fighter jets attacked the structure where the operatives were operating.</p>\n<p>Following alerts activated at 18:45 in the western Galilee area, a launch was detected crossing from Lebanon and landing in open territory, with no casualties.</p>\n<p>IDF forces targeted the sources of fire with artillery.</p>\n<p>Attached is documentation of the attack: https://bit.ly/4ddegz2</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked <a  href=\"/hezbollah\">Hezbollah</a> operatives operating in a military structure of the organization in southern Lebanon. IDF forces identified terrorist operatives from the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> organization active in a military structure of the organization in the area of Ayta a-Shaab in southern Lebanon. Shortly after the identification, fighter jets attacked the structure where the operatives were operating. Following alerts activated at 18:45 in the western Galilee area, a launch was detected crossing from Lebanon and landing in open territory, with no casualties. IDF forces targeted the sources of fire with artillery. Attached is documentation of the attack: https://bit.ly/4ddegz2</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7087",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7087,
+        "he": 7088,
+        "ru": 7089
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7087",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7087"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7087/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7087"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7087"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7087"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

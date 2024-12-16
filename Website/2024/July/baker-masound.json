@@ -1,0 +1,138 @@
+{
+    "id": 6703,
+    "date": "2024-07-27T19:18:23",
+    "date_gmt": "2024-07-27T16:18:23",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=6703"
+    },
+    "modified": "2024-07-27T19:18:28",
+    "modified_gmt": "2024-07-27T16:18:28",
+    "slug": "baker-masound",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/hamas-supporters/baker-masound/",
+    "title": {
+        "rendered": "Baker Masound"
+    },
+    "content": {
+        "rendered": "\n<p>Meet Baker (Bak\u2019r) Masoud was spotted outside of The Watergate Hotel giving praise to Jihad, inciting violence towards Jews and threatening to kill them.<br>He</p>\n\n\n\n<figure class=\"guten-element guten-video guten-SfHfpA\"><video controls src=\"https://iron-swords.co.il/wp-content/uploads/2024/07/hamas-supporters-right-outside-netanyahu-hotel.mp4\"></video></figure>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Meet Baker (Bak\u2019r) Masoud was spotted outside of The Watergate Hotel giving praise to Jihad, inciting violence towards Jews and threatening to kill them.He</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 6731,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-hams-support",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 12,
+        "footnotes": ""
+    },
+    "categories": [
+        12
+    ],
+    "tags": [
+        97
+    ],
+    "class_list": [
+        "post-6703",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-hamas-supporters",
+        "tag-terrorists-in-the-wild"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 6703
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/6703",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=6703"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 3,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/6703/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 6732,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/6703/revisions/6732"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/6731"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=6703"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=6703"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=6703"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

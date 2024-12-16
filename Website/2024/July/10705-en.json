@@ -1,0 +1,124 @@
+{
+    "id": 7156,
+    "date": "2024-07-31T18:55:22",
+    "date_gmt": "2024-07-31T15:55:22",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10705-en/"
+    },
+    "modified": "2024-07-31T18:55:22",
+    "modified_gmt": "2024-07-31T15:55:22",
+    "slug": "10705-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10705-en/",
+    "title": {
+        "rendered": "&#8220;IDF Detention Appeal Withdrawn: Court Confirms Continued Detention of Eight Detainees&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Today (Wednesday), a hearing was held regarding the appeal against the detention filed by two of the eight detainees who were arrested yesterday by the decision of the military regional court.</p>\n<p>During the hearing, the defense detailed the reasons for the appeal, and the court reviewed the investigation materials that had been collected, including new evidence gathered since yesterday&#8217;s hearing.</p>\n<p>Upon the recommendation of the military appeals court, the defense announced that it was withdrawing the appeal, and as a result, the appeal was dismissed.</p>\n<p>The eight suspects will remain in closed detention until Sunday, in accordance with the decision of the regional court that accepted the request of the military prosecution.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Today (Wednesday), a hearing was held regarding the appeal against the detention filed by two of the eight detainees who were arrested yesterday by the decision of the military regional court. During the hearing, the defense detailed the reasons for the appeal, and the court reviewed the investigation materials that had been collected, including new evidence gathered since yesterday&#8217;s hearing. Upon the recommendation of the military appeals court, the defense announced that it was withdrawing the appeal, and as a result, the appeal was dismissed. The eight suspects will remain in closed detention until Sunday, in accordance with</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7156",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7156,
+        "he": 7157,
+        "ru": 7158
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7156",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7156"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7156/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7156"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7156"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7156"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

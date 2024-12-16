@@ -1,0 +1,140 @@
+{
+    "id": 16025,
+    "date": "2024-05-06T00:00:00",
+    "date_gmt": "2024-05-05T21:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/06-05-2024/"
+    },
+    "modified": "2024-08-27T21:42:31",
+    "modified_gmt": "2024-08-27T18:42:31",
+    "slug": "06-05-2024",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/aid/06-05-2024/",
+    "title": {
+        "rendered": "Israel Aid and Humanitarian Efforts in Gaza: May 6, 2024"
+    },
+    "content": {
+        "rendered": "<h2>Hamas Rocket Attack and Immediate Aftermath</h2>\n<p>Yesterday (May 5), Hamas launched 10 rockets at the area of Kerem Shalom, resulting in 3 fatalities. The Kerem Shalom Crossing was closed. </p>\n<h2>Aid Coordination and Distribution</h2>\n<p>A total of 243 aid trucks were inspected and transferred to the Gaza Strip yesterday (May 5). After the Hamas attack, the Kerem Shalom crossing was closed. 157 trucks were distributed within Gaza, with 131 of those containing food.</p>\n<h2>Airdrops of Food Aid</h2>\n<p>In coordination with partner countries, 185 pallets containing tens of thousands of packages of food aid were airdropped over northern Gaza yesterday (May 5).</p>\n<h2>Further Aid to Northern Gaza</h2>\n<p>On May 5, 39 aid trucks were coordinated to northern Gaza. Additionally, 4 tankers of cooking gas and 4 tankers of fuel designated for the operation of essential infrastructure in Gaza entered the region.</p>\n<h2>Coordination Requests Approval</h2>\n<p>Regarding coordinations on May 5, out of 35 general coordination requests, 30 (86%) were approved. There were 7 UN requests for coordination submitted, with all 7 (100%) being approved. For northern Gaza, 13 coordination requests were made, with 12 (92%) getting the green light. Since January 1, 2024, 88% of all coordination requests have been approved.</p>\n<h2>Aid from Ashdod Port</h2>\n<p>On May 5, 28 trucks of flour were coordinated to enter Gaza. Currently, 26 bakeries in Gaza are operational, providing close to 5 million breads, rolls, and pita breads daily.</p>\n<h2>Evacuations and Humanitarian Efforts</h2>\n<p>So far, 3,204 injured and sick individuals and 725 escorts have been evacuated from the strip. One foreign national was scheduled to exit Gaza on May 5.</p>\n<h2>Water Supply Improvements</h2>\n<p>The northern water pipeline from Israel is now fully operational, providing an average of 50 liters per person per day.</p>\n<h2>Humanitarian Aid Movement Pause</h2>\n<p>Today (May 6), between 10:00 and 14:00, the IDF will pause operations in the Al Majida neighborhood in Khan Yunis to enable the movement of humanitarian aid.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"/hamas\">Hamas</a> rocket attack leads to fatalities; aid efforts continue.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 15696,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        1338
+    ],
+    "tags": [
+        1352
+    ],
+    "class_list": [
+        "post-16025",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-aid",
+        "tag-daily-humanitarian-aid-update"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 16025,
+        "he": 16026,
+        "ru": 16027
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16025",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=16025"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16025/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 16028,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16025/revisions/16028"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/15696"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=16025"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=16025"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=16025"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

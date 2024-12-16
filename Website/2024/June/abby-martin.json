@@ -1,0 +1,138 @@
+{
+    "id": 5523,
+    "date": "2024-06-23T09:21:04",
+    "date_gmt": "2024-06-23T06:21:04",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=5523"
+    },
+    "modified": "2024-06-23T09:21:08",
+    "modified_gmt": "2024-06-23T06:21:08",
+    "slug": "abby-martin",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/hamas-supporters/abby-martin/",
+    "title": {
+        "rendered": "Abby Martin"
+    },
+    "content": {
+        "rendered": "\n<p>Abby Martin is an American journalist, TV presenter, and activist who is known for her controversial views and outspoken stance on various issues. She grew up in Pleasanton, California, and attended San Diego State University, where she graduated with a degree in political science.</p>\n\n\n\n<p>In 2010, she moved to Washington D.C. and became a correspondent for the Russian state-funded network RT America. From 2012 to 2015, she hosted her own show \u201cBreaking the Set\u201d on RT. In 2015, she launched \u201cThe Empire Files\u201d, an investigative documentary and interview series, initially on Telesur and later as a web series.</p>\n\n\n\n<p>Martin is known for her critical views on Western ideologies, supporting communist perspectives, and expressing strong opposition to the policies of the United States. For example, she has been active in the 9/11 truth movement, although she has since stated she no longer subscribes to 9/11 conspiracy theories.</p>\n\n\n\n<p>During the October 7th War, she expressed support for Hamas, using her social media platforms to promote their propaganda. She has shared posts from other pro-Hamas organizations such as Middle East Eye.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>She Stands With <a  href=\"/hamas\">Hamas</a>, She Is <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a></p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 5524,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-hams-support",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 12,
+        "footnotes": ""
+    },
+    "categories": [
+        12
+    ],
+    "tags": [
+        97
+    ],
+    "class_list": [
+        "post-5523",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-hamas-supporters",
+        "tag-terrorists-in-the-wild"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 5523
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/5523",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=5523"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 3,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/5523/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 5527,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/5523/revisions/5527"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/5524"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=5523"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=5523"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=5523"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

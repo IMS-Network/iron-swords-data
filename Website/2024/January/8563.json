@@ -1,0 +1,122 @@
+{
+    "id": 4234,
+    "date": "2024-01-09T21:50:47",
+    "date_gmt": "2024-01-09T19:50:47",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8563/"
+    },
+    "modified": "2024-01-09T21:50:47",
+    "modified_gmt": "2024-01-09T19:50:47",
+    "slug": "8563",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8563/",
+    "title": {
+        "rendered": "&#8220;IDF Orders Demolition of Terrorists&#8217; Homes Following Tunnel Roadblock Attack: A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The commander of the Central Command has signed the demolition orders for the homes of two of the terrorists who carried out the shooting attack at the Tunnel Roadblock.</p>\n<p>The commander of the Central Command signed today on 09.01.24 the confiscation and demolition orders for the homes of the terrorists Natsar Allah Quasmi and Abd al-Qader Quasmi in Hebron. The terrorists, along with another one, carried out the shooting attack at the Tunnel Roadblock on November 16, 2023, in which IDF soldier Sgt. Abraham Patna, may his memory be a blessing, was killed. The orders were issued after the objections submitted by the terrorists&#8217; families were dismissed.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The commander of the Central Command has signed the demolition orders for the homes of two of the terrorists who carried out the shooting attack at the Tunnel Roadblock. The commander of the Central Command signed today on 09.01.24 the confiscation and demolition orders for the homes of the terrorists Natsar Allah Quasmi and Abd al-Qader Quasmi in Hebron. The terrorists, along with another one, carried out the shooting attack at the Tunnel Roadblock on November 16, 2023, in which IDF soldier Sgt. Abraham Patna, may his memory be a blessing, was killed. The orders were issued after</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4234",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4234
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4234",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4234"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4234/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4234"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4234"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4234"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

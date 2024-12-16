@@ -1,0 +1,122 @@
+{
+    "id": 4745,
+    "date": "2023-11-30T16:02:28",
+    "date_gmt": "2023-11-30T14:02:28",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8044/"
+    },
+    "modified": "2023-11-30T16:02:28",
+    "modified_gmt": "2023-11-30T14:02:28",
+    "slug": "8044",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8044/",
+    "title": {
+        "rendered": "&#8220;IDF Thwarts Terrorism: Arrests 23 Suspects, Confiscates Terrorist Funds and Equipment in West Bank Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF Soldiers, members of the Shin Bet and Israel Border Police arrested tonight 23 wanted individuals throughout Judea and Samaria (The West Bank), about ten of them are active in the Hamas terrorist organization. In an operation under the command of the Menashe brigade in the Tul Karm refugee camp, four wanted individuals were arrested. During operations in the Etzion and Judea brigades, approximately 250,000 NIS of terrorist funds were confiscated.</p>\n<p>In a brigade-level action to thwart terrorism under the command of the Menashe Brigade, reserve soldiers, undercover agents of the Israel Police Special Patrol Unit, signal intelligence unit and Border Police operated in the Tul Karm refugee camp. The forces arrested four wanted individuals, seized military equipment, and questioned suspects. During the operation, armed individuals fired and threw explosives at the forces, who returned fire.</p>\n<p>In an operation to thwart popular terrorism in the villages of Yado and Qabiya, in the Binyamin Brigade, the forces arrested eight wanted individuals, investigated dozens of suspects, and confiscated Hamas flags and an Airsoft gun. As the forces left the operation, suspects threw stones at the force which responded with crowd control measures.</p>\n<p>During an extensive thwarting operation in the Etzion Brigade, four wanted individuals were arrested, and terrorist funds were seized. In addition, over 50 illegal vehicles and incitement materials were confiscated. In another operation in the village of Samoa and the city of Hebron in the Judea Brigade, many suspects were questioned and additional terrorist funds, ammunition, and drugs were seized. In total, about 250,000 NIS of terrorist funds were confiscated.</p>\n<p>The arrested individuals have been transferred for further investigation by security forces, there were no casualties to our forces.</p>\n<p>So far, since the beginning of the war, about 2,100 wanted individuals have been arrested across the Judea and Samaria Division and the Jordan Valley and Valleys Brigade, about 1,100 of them are affiliated with the Hamas terrorist organization.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF Soldiers, members of the Shin Bet and <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> Border Police arrested tonight 23 wanted individuals throughout Judea and Samaria (The West Bank), about ten of them are active in the <a  href=\"/hamas\">Hamas</a> terrorist organization. In an operation under the command of the Menashe brigade in the Tul Karm refugee camp, four wanted individuals were arrested. During operations in the Etzion and Judea brigades, approximately 250,000 NIS of terrorist funds were confiscated. In a brigade-level action to thwart terrorism under the command of the Menashe Brigade, reserve soldiers, undercover agents of the Israel Police Special Patrol Unit, signal intelligence</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4745",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4745
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4745",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4745"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4745/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4745"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4745"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4745"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

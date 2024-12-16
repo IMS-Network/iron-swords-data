@@ -1,0 +1,124 @@
+{
+    "id": 8846,
+    "date": "2024-06-15T17:59:36",
+    "date_gmt": "2024-06-15T14:59:36",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10135-en/"
+    },
+    "modified": "2024-06-15T17:59:36",
+    "modified_gmt": "2024-06-15T14:59:36",
+    "slug": "10135-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10135-en/",
+    "title": {
+        "rendered": "&#8220;Honoring Captain Waseem Mahmoud: Remembering Our Fallen Heroes&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Attached is a statement from the IDF Spokesperson regarding the name of a fallen IDF soldier for whom a message has been conveyed to his family: https://IDFANC.activetrail.biz/ANC15062024286738456123424</p>\n<p>A link is included to the IDF website, where the details and pictures of the fallen soldiers are published and updated: https://www.idf.il/59780</p>\n<p>In the incident in which Captain Waseem Mahmoud, may he rest in peace, fell, seven other soldiers also fell. Notifications have been sent to their families, and their names have not yet been released to the public and will be published later.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Attached is a statement from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a> regarding the name of a fallen IDF soldier for whom a message has been conveyed to his family: https://IDFANC.activetrail.biz/ANC15062024286738456123424 A link is included to the IDF website, where the details and pictures of the fallen soldiers are published and updated: https://www.idf.il/59780 In the incident in which Captain Waseem Mahmoud, may he rest in peace, fell, seven other soldiers also fell. Notifications have been sent to their families, and their names have not yet been released to the public and will be published later.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8846",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8846,
+        "he": 8847,
+        "ru": 8848
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8846",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8846"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8846/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8846"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8846"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8846"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

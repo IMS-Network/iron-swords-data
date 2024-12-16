@@ -1,0 +1,122 @@
+{
+    "id": 4120,
+    "date": "2024-01-22T23:31:06",
+    "date_gmt": "2024-01-22T21:31:06",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8679/"
+    },
+    "modified": "2024-01-22T23:31:06",
+    "modified_gmt": "2024-01-22T21:31:06",
+    "slug": "8679",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8679/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Targets in Lebanon: Unveiling Terror Infrastructure and Military Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked targets of the Hezbollah terrorist organization in Lebanon; terror infrastructures, observation posts, and a military building of the organization were attacked.</p>\n<p>Fighter jets of the Air Force attacked this evening terror infrastructures and observation posts of the Hezbollah terrorist organization in the areas of the villages Bliada and Yater in southern Lebanon.</p>\n<p>In addition, the IDF attacked earlier today (Monday) a military building of the organization in the area of Majdal Silm.</p>\n<p>Attached is documentation on the subject: https://bit.ly/3OcFNWM</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked targets of the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization in Lebanon; terror infrastructures, observation posts, and a military building of the organization were attacked. Fighter jets of the Air Force attacked this evening terror infrastructures and observation posts of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization in the areas of the villages Bliada and Yater in southern Lebanon. In addition, the IDF attacked earlier today (Monday) a military building of the organization in the area of Majdal Silm. Attached is documentation on the subject: https://bit.ly/3OcFNWM</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4120",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4120
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4120",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4120"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4120/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4120"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4120"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4120"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

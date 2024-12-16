@@ -1,0 +1,124 @@
+{
+    "id": 9227,
+    "date": "2024-06-05T19:00:09",
+    "date_gmt": "2024-06-05T16:00:09",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10008-en/"
+    },
+    "modified": "2024-06-05T19:00:09",
+    "modified_gmt": "2024-06-05T16:00:09",
+    "slug": "10008-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10008-en/",
+    "title": {
+        "rendered": "&#8220;IDF Dismantles Key Terrorist Tunnel in Rafah: A Major Operational Success&#8221;"
+    },
+    "content": {
+        "rendered": "<p>In the operations of Division 162 in the area:<br />\nA significant tunnel was destroyed that was used for the strengthening and activities of terrorists in Rafah.<br />\nhttps://www.idf.il/206949</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>In the operations of Division 162 in the area: A significant tunnel was destroyed that was used for the strengthening and activities of terrorists in Rafah. https://www.idf.il/206949</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9227",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9227,
+        "he": 9228,
+        "ru": 9229
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9227",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9227"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9227/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9227"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9227"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9227"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

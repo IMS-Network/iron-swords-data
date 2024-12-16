@@ -1,0 +1,122 @@
+{
+    "id": 3532,
+    "date": "2024-03-29T11:23:34",
+    "date_gmt": "2024-03-29T08:23:34",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9280/"
+    },
+    "modified": "2024-03-29T11:23:34",
+    "modified_gmt": "2024-03-29T08:23:34",
+    "slug": "9280",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9280/",
+    "title": {
+        "rendered": "&#8220;IDF and Shabak Joint Operation: Arrest of Wanted Suspects and Seizure of Warfare Equipment in Nablus and Beit Rima&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint message from IDF spokesperson, Shabak spokesperson and Police spokesperson:</p>\n<p>In a swift circle closure, IDF and Shabak soldiers arrested two wanted individuals suspected of shooting at a military post last night in Nablus. Meanwhile, an undercover Border Police unit and IDF members directed by Shabak, arrested a suspect involved in the advancement of shootings and preparation of explosives against IDF forces in Beit Rima.</p>\n<p>The troops worked overnight to arrest six wanted individuals across Judea and Samaria.</p>\n<p>Last night, in a joint operation by the IDF and Shabak in Nablus, two wanted suspects were apprehended believed to have carried out a shooting attack on a military post several hours before they were arrested in Nablus. During the arrest, the weapon presumably used in the attack was seized. The suspects were transferred for further investigation to the Shabak, no harm was done to our forces in the incident.</p>\n<p>In another operation in Beit Rima in the Menashe Brigade, undercover Border Police and IDF units, under Shabak&#8217;s intelligence direction, arrested Omer Abu Halal, identified as an Islamic Jihad operative, who is suspected of involvement in shootings, and preparing explosives taking advantage of a military infrastructure promoting attacks against IDF forces and Israeli civilians. Abu Halal was transferred for further investigation.</p>\n<p>During a comprehensive operation in Madama in Samaria, the troops conducted many searches of the area and located weapons, incitement material, and military equipment.</p>\n<p>In Hebron, in Judea, two wanted individuals were arrested, and in Laqef in Ephraim, another wanted individual was arrested.</p>\n<p>The arrested suspects and seized warfare equipment were handed over for further treatment by the security forces, with no harm done to our forces.</p>\n<p>So far, since the beginning of the war, approximately 3,600 wanted individuals have been arrested across the Judea and Samaria brigade and the Rift Valley and Valleys brigade, about 1,600 of them are affiliated with the Hamas terror organization.</p>\n<p>Attached are photos from the forces&#8217; activities: https://IDFANC.activetrail.biz/ANC290320248726358</p>\n<p>Attached is documentation on the issue: https://bit.ly/3vt9UmH</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint message from <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>, Shabak spokesperson and Police spokesperson: In a swift circle closure, IDF and Shabak soldiers arrested two wanted individuals suspected of shooting at a military post last night in Nablus. Meanwhile, an undercover Border Police unit and IDF members directed by Shabak, arrested a suspect involved in the advancement of shootings and preparation of explosives against IDF forces in Beit Rima. The troops worked overnight to arrest six wanted individuals across Judea and Samaria. Last night, in a joint operation by the IDF and Shabak in Nablus, two wanted suspects were apprehended believed to have carried</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3532",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3532
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3532",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3532"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3532/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3532"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3532"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3532"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

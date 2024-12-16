@@ -1,0 +1,122 @@
+{
+    "id": 3146,
+    "date": "2024-05-09T08:50:53",
+    "date_gmt": "2024-05-09T05:50:53",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9677/"
+    },
+    "modified": "2024-05-09T08:50:53",
+    "modified_gmt": "2024-05-09T05:50:53",
+    "slug": "9677",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9677/",
+    "title": {
+        "rendered": "&#8220;IDF Forces Move to Dismantle Terror Infrastructures: 25 Targets Destroyed in Zeitun Area Operation&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>IDF forces in the transport of Brigade 99 have begun an operation in the Zeitun area; about 25 terror targets were destroyed from the air, our forces are operating on the ground to purify the area.</p>\n<p>IDF and Shin Bet soldiers initiated an operation in the transport of Brigade 99, in the Zeitun area in the center of the strip, for the continued dismantling of terror infrastructures and the elimination of terrorists in the area.</p>\n<p>Following an intelligence directive, the operation began with an airstrike by Air Force jets during which about 25 terror targets were attacked. Among the targets attacked were military buildings, attack tunnels, lookout posts, shooting posts, and other terror infrastructures.</p>\n<p>Coordinated combined fighters from the combat teams of the Nachal Brigade, 679, and number 2 are working to cleanse the area in Zeitun.</p>\n<p>Attached is documentation from the attacks in the Zeitun area: https://bit.ly/4b7dd2w</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: IDF forces in the transport of Brigade 99 have begun an operation in the Zeitun area; about 25 terror targets were destroyed from the air, our forces are operating on the ground to purify the area. IDF and Shin Bet soldiers initiated an operation in the transport of Brigade 99, in the Zeitun area in the center of the strip, for the continued dismantling of terror infrastructures and the elimination of terrorists in the area. Following an intelligence directive, the operation began with an airstrike by Air Force jets during which about 25 terror targets were attacked. Among</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3146",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3146
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3146",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3146"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3146/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3146"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3146"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3146"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

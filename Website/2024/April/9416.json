@@ -1,0 +1,122 @@
+{
+    "id": 3398,
+    "date": "2024-04-12T14:04:52",
+    "date_gmt": "2024-04-12T11:04:52",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9416/"
+    },
+    "modified": "2024-04-12T14:04:52",
+    "modified_gmt": "2024-04-12T11:04:52",
+    "slug": "9416",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9416/",
+    "title": {
+        "rendered": "&#8220;First-Ever Aid Trucks Enter Northern Gaza: A Strategic Move by the IDF and Cogat for Humanitarian Relief&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>In accordance with the decision of the &#8216;state level&#8217;, the IDF and the Cogat coordinated and yesterday (Thursday), for the first time, several aid trucks were allowed to enter the northern part of the Gaza Strip. This was done as part of our efforts to increase humanitarian aid routes to Gaza, particularly Northern Gaza.</p>\n<p>The trucks underwent thorough security checks by security officials from the Ministry of Defence&#8217;s Land Crossing Authority at the Kerem Shalom crossing and were accompanied by IDF forces.</p>\n<p>Attached is documentation on the matter: https://bit.ly/49y2Lzo</p>\n<p>Attached are photos on the topic: https://IDFANC.activetrail.biz/ANC12042458</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: In accordance with the decision of the &#8216;state level&#8217;, the IDF and the Cogat coordinated and yesterday (Thursday), for the first time, several aid trucks were allowed to enter the northern part of the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. This was done as part of our efforts to increase humanitarian aid routes to Gaza, particularly Northern Gaza. The trucks underwent thorough security checks by security officials from the Ministry of Defence&#8217;s Land Crossing Authority at the Kerem Shalom crossing and were accompanied by IDF forces. Attached is documentation on the matter: https://bit.ly/49y2Lzo Attached are photos on the topic: https://IDFANC.activetrail.biz/ANC12042458</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3398",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3398
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3398",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3398"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3398/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3398"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3398"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3398"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

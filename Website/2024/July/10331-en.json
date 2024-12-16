@@ -1,0 +1,124 @@
+{
+    "id": 8264,
+    "date": "2024-07-03T10:52:04",
+    "date_gmt": "2024-07-03T07:52:04",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10331-en/"
+    },
+    "modified": "2024-07-03T10:52:04",
+    "modified_gmt": "2024-07-03T07:52:04",
+    "slug": "10331-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10331-en/",
+    "title": {
+        "rendered": "&#8220;IDF Demolishes Terrorist Home and Arrests Suspects in Judea and Samaria Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesman:</p>\n<p>IDF forces operated last night to demolish the home of the terrorist Ahmad Dawabsha, who murdered the late Benjamin Achimai; IDF soldiers, Shin Bet, and Border Police arrested seven suspects throughout Judea and Samaria.</p>\n<p>IDF forces demolished the home of the terrorist Ahmad Dawabsha in the village of Duma, located in the Benjamin Brigade, who carried out a terrorist attack on April 12, 2024, during which he murdered the teenager Benjamin Achimai.</p>\n<p>In the village of Aqab in the Benjamin Brigade, undercover Border Police from Jerusalem arrested two suspects, identified and confiscated numerous weapons, including three pistols, an M16 rifle, and additional military equipment. In Al-Bireh within the brigade&#8217;s area, the forces arrested another wanted individual.</p>\n<p>In Shechem, Tsurif, Kibiya, and Pahma, the fighters arrested four additional suspects.</p>\n<p>The arrested suspects and the confiscated weapons were transferred to the security forces for further handling; there were no injuries to our forces.</p>\n<p>So far, approximately 4,150 suspects have been arrested since the beginning of the war throughout the Judea and Samaria Division and the Jordan Valley and the Valleys Brigade, about 1,750 of whom are affiliated with the terrorist organization Hamas.</p>\n<p>Attached is documentation of the demolition of the terrorist&#8217;s house: https://bit.ly/3XVkRZM</p>\n<p>Attached are photos from the demolition of the terrorist&#8217;s house: https://IDFANC.activetrail.biz/ANC03072024848</p>\n<p>Attached is a photo of the confiscated weapons in the village of Aqab: https://IDFANC.activetrail.biz/ANC03072024895885</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>IDF Spokesman: IDF forces operated last night to demolish the home of the terrorist Ahmad Dawabsha, who murdered the late Benjamin Achimai; IDF soldiers, Shin Bet, and Border Police arrested seven suspects throughout Judea and Samaria. IDF forces demolished the home of the terrorist Ahmad Dawabsha in the village of Duma, located in the Benjamin Brigade, who carried out a terrorist attack on April 12, 2024, during which he murdered the teenager Benjamin Achimai. In the village of Aqab in the Benjamin Brigade, undercover Border Police from <a  href=\"https://iron-swords.co.il/t/jerusalem/\">Jerusalem</a> arrested two suspects, identified and confiscated numerous weapons, including three pistols, an</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8264",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8264,
+        "he": 8265,
+        "ru": 8266
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8264",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8264"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8264/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8264"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8264"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8264"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

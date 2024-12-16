@@ -1,0 +1,124 @@
+{
+    "id": 9257,
+    "date": "2024-06-04T19:24:30",
+    "date_gmt": "2024-06-04T16:24:30",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/9998-en/"
+    },
+    "modified": "2024-06-04T19:24:30",
+    "modified_gmt": "2024-06-04T16:24:30",
+    "slug": "9998-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9998-en/",
+    "title": {
+        "rendered": "&#8220;IDF Prepares for Offensive: Chief of Staff Highlights Critical Decision Point in Northern Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint message from the IDF Spokesperson and the Israel Fire and Rescue Authority:</p>\n<p>The Chief of Staff in the North: We are approaching a point where a decision will need to be made; the IDF is prepared and ready to transition to an offensive.</p>\n<p>The Chief of Staff, Lieutenant General Herzi Halevi, conducted a tour and situation assessment today (Tuesday) with the Commissioner of the Israel Fire and Rescue Authority, Superintendent Eyal Kaspi, at the &#8220;Gibor&#8221; base near the northern border, along with the commander of Division 91, Brigadier General Shay Klaper, the commander of the Northern District in the Fire and Rescue Authority, Superintendent Yair Alkayam, and other commanders.</p>\n<p>Subsequently, they met with the forces that operated yesterday (Monday) to extinguish the fires in the north, noting the determination and professionalism with which they acted.</p>\n<p>In addition, the Chief of Staff spoke with the commanders of the Golani Brigade who are currently at the northern border.</p>\n<p>From the words of the Chief of Staff, Lieutenant General Herzi Halevi: &#8220;We are approaching a point where a decision will need to be made, and the IDF is organized and very well prepared for this decision. For eight months, we have been attacking here, and Hezbollah is paying a very high price. They have increased their strength in recent days, and we are prepared after a very good training process leading up to a staff exercise for an offensive in the north. Strong defense, readiness for attack; we are approaching a decision point.&#8221;</p>\n<p>From the words of the Commissioner of the Israel Fire and Rescue Authority, Superintendent Eyal Kaspi: &#8220;The collaborations that take place routinely with the IDF lead to the necessary preparations and readiness of both bodies, which are implemented effectively even during wartime, maximizing the relative advantages of each of the systems for the benefit of the State of Israel.&#8221;</p>\n<p>Attached is a video of the Chief of Staff&#8217;s remarks: https://bit.ly/4aLNUC8</p>\n<p>Attached is a video on the topic: https://bit.ly/3Vh8zbA</p>\n<p>Attached are photos on the topic: https://idfanc.activetrail.biz/ANC489694</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint message from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a> and the <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> Fire and Rescue Authority: The Chief of Staff in the North: We are approaching a point where a decision will need to be made; the IDF is prepared and ready to transition to an offensive. The Chief of Staff, Lieutenant General Herzi Halevi, conducted a tour and situation assessment today (Tuesday) with the Commissioner of the Israel Fire and Rescue Authority, Superintendent Eyal Kaspi, at the &#8220;Gibor&#8221; base near the northern border, along with the commander of Division 91, Brigadier General Shay Klaper, the commander of the Northern District in the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9257",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9257,
+        "he": 9258,
+        "ru": 9259
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9257",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9257"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9257/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9257"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9257"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9257"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

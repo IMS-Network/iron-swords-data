@@ -1,0 +1,122 @@
+{
+    "id": 4404,
+    "date": "2023-12-24T11:02:55",
+    "date_gmt": "2023-12-24T09:02:55",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8389/"
+    },
+    "modified": "2023-12-24T11:02:55",
+    "modified_gmt": "2023-12-24T09:02:55",
+    "slug": "8389",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8389/",
+    "title": {
+        "rendered": "&#8220;IDF, Shin Bet, and Border Police Thwart Terror in Nor a-Shams Camp: Arrests &#038; Weapon Seizures in Judea and Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>The IDF, Shin Bet, and Border Police conducted operations last night in the Nor a-Shams refugee camp under the command of the Menashe Brigade; seven wanted individuals were arrested in Judea and Samaria, four of whom are associated with the terrorist organization Hamas.</p>\n<p>IDF, Border Police, and Shin Bet forces conducted an operation last night to thwart terror in the Nor a-Shams refugee camp under the command of the Menashe Brigade. As part of the operation, engineering tools exposed and destroyed charges under and beside roads intended to harm our forces. In addition, a suspect wanted for trafficking in weapons was arrested.</p>\n<p>During the operation, the suspects threw charges and fired at the forces who responded with gunfire. An IDF soldier was lightly injured and evacuated to receive medical treatment in hospital; his family was informed.</p>\n<p>In the village of Karmah under the Judea Brigade, the soldiers arrested two wanted individuals and confiscated weapons. In the village of Sa&#8217;ir under the Etzion Brigade, more weapons were found and confiscated.</p>\n<p>The arrested suspects and the seized weapons were handed over for further handling by the security forces.</p>\n<p>So far, since the beginning of the conflict, approximately 2,450 wanted individuals have been arrested across the Judea and Samaria Brigade and the Rift Valley and Valleys Brigade, of whom approximately 1,210 are affiliated with the terrorist organization Hamas.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>The IDF, Shin Bet, and Border Police conducted operations last night in the Nor a-Shams refugee camp under the command of the Menashe Brigade; seven wanted individuals were arrested in Judea and Samaria, four of whom are associated with the terrorist organization <a  href=\"/hamas\">Hamas</a>. IDF, Border Police, and Shin Bet forces conducted an operation last night to thwart terror in the Nor a-Shams refugee camp under the command of the Menashe Brigade. As part of the operation, engineering tools exposed and destroyed charges under and beside roads intended to harm our forces. In addition, a suspect wanted for trafficking in weapons</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4404",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4404
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4404",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4404"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4404/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4404"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4404"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4404"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

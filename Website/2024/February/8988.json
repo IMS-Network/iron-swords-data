@@ -1,0 +1,122 @@
+{
+    "id": 3815,
+    "date": "2024-02-28T08:01:59",
+    "date_gmt": "2024-02-28T06:01:59",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8988/"
+    },
+    "modified": "2024-02-28T08:01:59",
+    "modified_gmt": "2024-02-28T06:01:59",
+    "slug": "8988",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8988/",
+    "title": {
+        "rendered": "&#8220;IDF&#8217;s Home Front Command Siren Test in Kadmat Tzvi Today: Stay Informed and Prepared&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>The IDF&#8217;s Home Front Command will conduct a siren test today in the moshav Kadmat Tzvi.</p>\n<p>The siren test by the Home Front Command will be conducted today (Monday) at 10:05 in the moshav Kadmat Tzvi.</p>\n<p>If a real alarm is activated, an additional ascending and descending siren will be heard, while simultaneously an alert will also be broadcast on the Home Front Command&#8217;s monitor and through other alert devices.</p>\n<p>Further information can be found at the Home Front Command&#8217;s hotline &#8211; phone 104, via WhatsApp messages to phone 052-9104104, on the national portal at: oref.org.il and on social networks.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: The IDF&#8217;s Home Front Command will conduct a siren test today in the moshav Kadmat Tzvi. The siren test by the Home Front Command will be conducted today (Monday) at 10:05 in the moshav Kadmat Tzvi. If a real alarm is activated, an additional ascending and descending siren will be heard, while simultaneously an alert will also be broadcast on the Home Front Command&#8217;s monitor and through other alert devices. Further information can be found at the Home Front Command&#8217;s hotline &#8211; phone 104, via WhatsApp messages to phone 052-9104104, on the national portal at: oref.org.il and on</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3815",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3815
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3815",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3815"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3815/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3815"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3815"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3815"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

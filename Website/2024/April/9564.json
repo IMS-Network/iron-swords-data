@@ -1,0 +1,122 @@
+{
+    "id": 3257,
+    "date": "2024-04-25T22:09:15",
+    "date_gmt": "2024-04-25T19:09:15",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9564/"
+    },
+    "modified": "2024-04-25T22:09:15",
+    "modified_gmt": "2024-04-25T19:09:15",
+    "slug": "9564",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9564/",
+    "title": {
+        "rendered": "&#8220;IDF Joins US-Led &#8216;JLOTS&#8217; Initiative: Expanding Humanitarian Aid Access to Gaza Strip&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The &#8220;JLOTS&#8221; Initiative; IDF participates in a new US initiative to expand humanitarian aid entry into the Gaza Strip.</p>\n<p>The IDF, through COGAT, has approved a new initiative for a logistical corridor from the coast of Gaza (JLOTS- Joint Logistical Over-the-Shore), led by the United States Central Command (CENTCOM). This initiative will streamline and expand the entry of humanitarian aid into the Gaza Strip.</p>\n<p>The IDF will act to provide security and logistical support for the initiative, which includes building a temporary floating pier on the shores of the Strip and transferring aid from the sea to the Gaza Strip.</p>\n<p>The IDF&#8217;s participation in the initiative underscores the joint work with the international organizations to bring humanitarian aid to the civilian population in the Gaza Strip.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The &#8220;JLOTS&#8221; Initiative; IDF participates in a new US initiative to expand humanitarian aid entry into the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. The IDF, through COGAT, has approved a new initiative for a logistical corridor from the coast of Gaza (JLOTS- Joint Logistical Over-the-Shore), led by the United States Central Command (CENTCOM). This initiative will streamline and expand the entry of humanitarian aid into the Gaza Strip. The IDF will act to provide security and logistical support for the initiative, which includes building a temporary floating pier on the shores of the Strip and transferring aid from the sea to the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3257",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3257
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3257",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3257"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3257/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3257"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3257"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3257"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

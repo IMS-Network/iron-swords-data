@@ -1,0 +1,122 @@
+{
+    "id": 3745,
+    "date": "2024-03-06T19:31:24",
+    "date_gmt": "2024-03-06T17:31:24",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9061/"
+    },
+    "modified": "2024-03-06T19:31:24",
+    "modified_gmt": "2024-03-06T17:31:24",
+    "slug": "9061",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9061/",
+    "title": {
+        "rendered": "&#8220;Decisive Strike: IDF and Shin Bet Dismantle Hamas&#8217;s Central Military Infrastructure; Key Leader Eliminated&#8221;"
+    },
+    "content": {
+        "rendered": "<p>A joint message from the IDF spokesperson and the Shin Bet spokesperson:</p>\n<p>The IDF and Shin Bet have eliminated the head of Hamas&#8217;s military infrastructure in the central camps area; the forces continue in their efforts to dismantle the military infrastructure of terror organizations in the Gaza Strip, and are striking powerfully in response to the firing towards the city of Sderot.</p>\n<p>In the last day, IDF forces led by the Intelligence Directorate and Shin Bet have eliminated Amar Atia Darwish Aladini, the person responsible for the military infrastructure of Hamas in the central camps area.</p>\n<p>Aladini had been active in the organization for decades. As part of his role, he was responsible for hiding rockets and was also in charge of rocket launches, from Operation Cast Lead onwards to the current war. Aladini played a central role in preparations for the lethal attack on 10/7, and during the fighting, he advanced artillery fire against our embattled forces in the Strip and simultaneously launched rockets towards Tel Aviv and additional communities in the surrounding area.</p>\n<p>Additionally, as part of joint operations of the Air Force and the Artillery Corps of Southern Command, a series of targets belonging to the terror organization Hamas and Islamic Jihad in the northern Strip in the Jabalia area have been attacked in recent days in response to the latest launches towards border communities and specifically towards Sderot. Among the targets attacked were underground apartments where many terrorists had fortified themselves and in which war materials were stored, additional weapon stores, missile launching pits and tunnels in the area.</p>\n<p>Attached is footage from the elimination: https://bit.ly/49XL7FQ</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>A joint message from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a> and the Shin Bet spokesperson: The IDF and Shin Bet have eliminated the head of <a  href=\"/hamas\">Hamas</a>&#8217;s military infrastructure in the central camps area; the forces continue in their efforts to dismantle the military infrastructure of terror organizations in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip, and are striking powerfully in response to the firing towards the city of <a  href=\"https://iron-swords.co.il/t/sderot/\">Sderot</a>. In the last day, IDF forces led by the Intelligence Directorate and Shin Bet have eliminated Amar Atia Darwish Aladini, the person responsible for the military infrastructure of <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> in the central camps area. Aladini had been active</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3745",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3745
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3745",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3745"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3745/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3745"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3745"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3745"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

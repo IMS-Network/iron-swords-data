@@ -1,0 +1,122 @@
+{
+    "id": 3421,
+    "date": "2024-04-09T14:48:09",
+    "date_gmt": "2024-04-09T11:48:09",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9392/"
+    },
+    "modified": "2024-04-09T14:48:09",
+    "modified_gmt": "2024-04-09T11:48:09",
+    "slug": "9392",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9392/",
+    "title": {
+        "rendered": "&#8220;Comprehensive Review: Northern Region&#8217;s Multi-Organizational Defense Exercise with 146 Brigade, Navy Arm, Civilian Home Front and Israel Police&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Multi-lateral and multi-organizational end-of-exercise message:<br />\nWide-scale defense exercise of the 146 Brigade, Navy Arm, The Civilian Home Front and Israel police in the northern region concluded.</p>\n<p>For the full information:</p>\n<p>https://www.idf.il/191383</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Multi-lateral and multi-organizational end-of-exercise message: Wide-scale defense exercise of the 146 Brigade, Navy Arm, The Civilian Home Front and <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> police in the northern region concluded. For the full information: https://www.idf.il/191383</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3421",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3421
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3421",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3421"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3421/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3421"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3421"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3421"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

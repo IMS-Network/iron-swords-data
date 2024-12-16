@@ -1,0 +1,124 @@
+{
+    "id": 7398,
+    "date": "2024-07-25T12:37:37",
+    "date_gmt": "2024-07-25T09:37:37",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10626-en/"
+    },
+    "modified": "2024-07-25T12:37:37",
+    "modified_gmt": "2024-07-25T09:37:37",
+    "slug": "10626-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10626-en/",
+    "title": {
+        "rendered": "&#8220;Hamas&#8217; Failed Launches: Civilians Injured Near UNRWA School in Khan Younis&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Failed launches by the terrorist organization Hamas from the humanitarian area led to damage at the &#8216;Al-Karara&#8217; school of UNRWA in the Khan Younis area and injuries to several civilians.</p>\n<p>Last night (Wednesday), the terrorist organization Hamas carried out several launches from the humanitarian area in Khan Younis. The launches did not cross into the territory of the State of Israel and fell in the Khan Younis area near the UNRWA &#8216;Al-Karara&#8217; school.</p>\n<p>As a result of the failed firing, several impacts were identified in the vicinity of the school, and reports were received from representatives of international aid organizations regarding the deaths of two civilians and additional injuries to several other civilians. In light of this, and in coordination with the IDF&#8217;s Coordination and Liaison Administration for Gaza and the World Health Organization (WHO), the injured civilians were evacuated for initial treatment at the international medical corps (IMC) field hospital established during the fighting in the Deir al-Balah area.</p>\n<p>The terrorist organization Hamas regularly violates international law, systematically exploiting civilian structures and the civilian population as human shields for terrorist actions against the State of Israel.</p>\n<p>Attached is infographics on the subject: https://IDFANC.activetrail.biz/ANC24072024543654537</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Failed launches by the terrorist organization <a  href=\"/hamas\">Hamas</a> from the humanitarian area led to damage at the &#8216;Al-Karara&#8217; school of <a  href=\"https://iron-swords.co.il/c/know-your-enemies/unrwa/\">UNRWA</a> in the Khan Younis area and injuries to several civilians. Last night (Wednesday), the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> carried out several launches from the humanitarian area in Khan Younis. The launches did not cross into the territory of the State of <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> and fell in the Khan Younis area near the UNRWA &#8216;Al-Karara&#8217; school. As a result of the failed firing, several impacts were identified in the vicinity of the school, and reports were received from representatives of international</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7398",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7398,
+        "he": 7399,
+        "ru": 7400
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7398",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7398"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7398/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7398"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7398"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7398"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

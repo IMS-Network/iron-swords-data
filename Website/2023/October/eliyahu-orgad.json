@@ -1,0 +1,134 @@
+{
+    "id": 2398,
+    "date": "2023-10-07T08:30:00",
+    "date_gmt": "2023-10-07T05:30:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=2398"
+    },
+    "modified": "2024-05-13T16:36:43",
+    "modified_gmt": "2024-05-13T13:36:43",
+    "slug": "eliyahu-orgad",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/uncategorized/eliyahu-orgad/",
+    "title": {
+        "rendered": "Eliyahu Orgad"
+    },
+    "content": {
+        "rendered": "\n<p>Eliyahu Orgad, 72, was tragically murdered by Hamas terrorists in Kibbutz Kfar Aza on October 7. He was laid to rest in Petah Tikva on October 18, leaving behind his daughter Ori, sons Nitzan and Avner, and several grandchildren. Known for his volunteer work with the Road to Recovery organization, which assisted Palestinian patients, Orgad was also remembered for his intellectual curiosity and active participation in academic and educational settings. Despite not being a formal student, he regularly attended classes at Sapir College and engaged in discussions with professors and students. Described as a lifelong learner with a deep interest in Judaism, Orgad believed in fostering understanding and cooperation among people of different backgrounds. His son Avner highlighted his father&#8217;s unwavering commitment to seeking knowledge and building bridges between communities. Eliyahu Orgad&#8217;s legacy is one of intellectual curiosity, compassion, and a dedication to promoting dialogue and understanding in Israeli society.</p>\n\n\n\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\">\n<p></p>\n<cite>This summary is based on the post found at <a href=\"https://www.timesofisrael.com/eliyahu-orgad-72-grandfather-volunteer-who-was-a-true-intellectual/\" data-type=\"link\" data-id=\"https://www.timesofisrael.com/eliyahu-orgad-72-grandfather-volunteer-who-was-a-true-intellectual/\">timesofisrael</a></cite></blockquote>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Eliyahu Orgad, 72, was tragically murdered by <a  href=\"/hamas\">Hamas</a> terrorists in Kibbutz <a  href=\"https://iron-swords.co.il/t/kfar-aza/\">Kfar Aza</a> on October 7. He was laid to rest in <a  href=\"https://iron-swords.co.il/t/petah-tikva/\">Petah Tikva</a> on October 18, leaving behind his daughter Ori, sons Nitzan and Avner, and several grandchildren. Known for his volunteer work with the Road to Recovery organization, which assisted Palestinian patients, Orgad was also remembered for his intellectual curiosity and active participation in academic and educational settings. Despite not being a formal student, he regularly attended classes at Sapir College and engaged in discussions with professors and students. Described as a lifelong learner with a deep interest</p>\n",
+        "protected": false
+    },
+    "author": 6,
+    "featured_media": 2399,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-october-7th-victims",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        21,
+        1
+    ],
+    "tags": [
+        87
+    ],
+    "class_list": [
+        "post-2398",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-victims",
+        "category-uncategorized",
+        "tag-kfar-aza"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2398
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2398",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/6"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2398"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2398/revisions"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/2399"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2398"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2398"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2398"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

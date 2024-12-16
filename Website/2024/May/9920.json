@@ -1,0 +1,122 @@
+{
+    "id": 2904,
+    "date": "2024-05-29T16:15:01",
+    "date_gmt": "2024-05-29T13:15:01",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9920/"
+    },
+    "modified": "2024-05-29T16:15:01",
+    "modified_gmt": "2024-05-29T13:15:01",
+    "slug": "9920",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9920/",
+    "title": {
+        "rendered": "&#8220;IDF Continues Sweeps: Arrests and Confiscations in Anti-Terrorism Operation Across Judea, Samaria and Jordan Valley&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces continue sweeps for the suspects who fired from Tulkarm earlier today; security forces worked overnight to arrest suspects throughout Judea and Samaria, numerous suspects were investigated and terrorist funds and weapons were confiscated. </p>\n<p>IDF forces continue sweeps for the suspects who fired from Tulkarm earlier today towards nearby Israeli settlements. </p>\n<p>In parallel, IDF soldiers, ISA, and Border Police worked overnight to arrest eight suspects throughout Judea and Samaria. </p>\n<p>During dual-brigade activity in the Sa&#8217;ir and Shuyukh villages in the Etzion and Judea brigades, where numerous forces took part, dozens of suspects were investigated and terrorist funds and weapons were confiscated. </p>\n<p>In Hebron in the Judea brigade, soldiers arrested two suspects who incited terrorist activity, in Dir Zamat an M16 weapon was confiscated and a suspect was arrested, and in the villages of Yatta and Tarqumiya two suspects accused of terrorist activity were arrested. Two more suspects were arrested in Beit Ur al-Tahta in the Binyamin brigade. </p>\n<p>During the overnight activity of the forces in Tubas in the Jordan Valley and the Valleys brigade, three IDF fighters were lightly wounded by an explosive charge. One soldier was treated on the spot, two others were evacuated to receive medical treatment in the hospital, their families were updated.</p>\n<p>The arrested suspects and confiscated weapons were transferred for further processing by security forces.</p>\n<p>So far, since the beginning of the conflict, about 4,000 suspects have been apprehended throughout the Judea and Samaria Division and the Jordan Valley and the Valleys Division, about 1,700 of them are affiliated with the Hamas terrorist organization.</p>\n<p>Attached is a video from the forces&#8217; activity throughout Judea and Samaria: https://bit.ly/3Vg05Cx</p>\n<p>Attached are photos from the forces&#8217; activity throughout Judea and Samaria: https://IDFANC.activetrail.biz/ANC290520248645984536</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces continue sweeps for the suspects who fired from Tulkarm earlier today; security forces worked overnight to arrest suspects throughout Judea and Samaria, numerous suspects were investigated and terrorist funds and weapons were confiscated. IDF forces continue sweeps for the suspects who fired from Tulkarm earlier today towards nearby Israeli settlements. In parallel, IDF soldiers, ISA, and Border Police worked overnight to arrest eight suspects throughout Judea and Samaria. During dual-brigade activity in the Sa&#8217;ir and Shuyukh villages in the Etzion and Judea brigades, where numerous forces took part, dozens of suspects were investigated and terrorist funds</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2904",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2904
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2904",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2904"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2904/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2904"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2904"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2904"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

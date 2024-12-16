@@ -1,0 +1,122 @@
+{
+    "id": 4212,
+    "date": "2024-01-13T08:56:17",
+    "date_gmt": "2024-01-13T06:56:17",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8585/"
+    },
+    "modified": "2024-01-13T08:56:17",
+    "modified_gmt": "2024-01-13T06:56:17",
+    "slug": "8585",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8585/",
+    "title": {
+        "rendered": "&#8220;IDF Reservists Thwart Terrorist Attack Near Adora Settlement: An Inside Look at the Operation&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesman:</p>\n<p>Following a chase by security forces in the Judea Brigade&#8217;s Command yesterday, IDF reservists from Battalion 5060 encountered, engaged and eliminated the three terrorists who carried out the shooting attack in the vicinity of Adora settlement&#8217;s fence.</p>\n<p>After receiving an alert on the community&#8217;s fence yesterday (Friday), an IDF reservist from the regional defense battalion rushed to the area of the perimeter fence of the industrial area adjacent to the Adora settlement. Upon the soldier&#8217;s arrival to check the alert, he was injured by the terrorists&#8217; shooting and summoned many forces for sweeps. The soldier was moderately injured and referred for medical treatment in a hospital, his family has been informed.</p>\n<p>In the course of searches by territorial forces and special forces in the area, IDF reservists from Battalion 5060 eliminated the three terrorists in the area of the industrial zone adjacent to the settlement, a short time after the shooting. An M-16 type rifle, an axe, knives and other combat equipment were found with the terrorists.</p>\n<p>From the words of the Judea Brigade commander, Lieutenant Colonel Yishai Rozilio: &#8220;This is a significant attack that was prevented thanks to the connection between the alertness of the regional defense battalion patrol and the civilian security components who alerted to the event, and the reservists who engaged and eliminated them after many forces were rallied. Recently, we have been extensively training the forces and systems for this moment and in the moment of truth, the terrorists met a sharp, full and powerful end, and so will anyone who seeks to harm us.&#8221;</p>\n<p>Attached is a link to a video by the commander of the company in Battalion 5060 that eliminated the terrorists, Major Ya&#8217;ar: https://bit.ly/3O3WovU</p>\n<p>Attached is a photo of the combat equipment that was found on the terrorists: https://IDFANC.activetrail.biz/ANC12012024.1518189198</p>\n<p>Attached are photos from the situation assessment by the commanders of the Judea and Samaria Division after the attack: https://IDFANC.activetrail.biz/ANC13012024.15618919</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>IDF spokesman: Following a chase by security forces in the Judea Brigade&#8217;s Command yesterday, IDF reservists from Battalion 5060 encountered, engaged and eliminated the three terrorists who carried out the shooting attack in the vicinity of Adora settlement&#8217;s fence. After receiving an alert on the community&#8217;s fence yesterday (Friday), an IDF reservist from the regional defense battalion rushed to the area of the perimeter fence of the industrial area adjacent to the Adora settlement. Upon the soldier&#8217;s arrival to check the alert, he was injured by the terrorists&#8217; shooting and summoned many forces for sweeps. The soldier was moderately injured</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4212",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4212
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4212",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4212"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4212/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4212"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4212"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4212"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

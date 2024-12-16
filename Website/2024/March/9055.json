@@ -1,0 +1,122 @@
+{
+    "id": 3750,
+    "date": "2024-03-06T11:47:08",
+    "date_gmt": "2024-03-06T09:47:08",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9055/"
+    },
+    "modified": "2024-03-06T11:47:08",
+    "modified_gmt": "2024-03-06T09:47:08",
+    "slug": "9055",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9055/",
+    "title": {
+        "rendered": "&#8220;Mastering the Art of Stealth: Northern PALSAR&#8217;s Strategic Equipment Move in Enemy Territory&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Stuck? They knew how to turn the situation around:<br />\nThe Northern &#8220;PALSAR&#8221; went out for an exercise moving equipment deep into enemy territory https://www.idf.il/184181</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Stuck? They knew how to turn the situation around: The Northern &#8220;PALSAR&#8221; went out for an exercise moving equipment deep into enemy territory https://www.idf.il/184181</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3750",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3750
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3750",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3750"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3750/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3750"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3750"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3750"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

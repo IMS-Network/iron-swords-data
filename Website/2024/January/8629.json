@@ -1,0 +1,122 @@
+{
+    "id": 4169,
+    "date": "2024-01-17T05:58:14",
+    "date_gmt": "2024-01-17T03:58:14",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8629/"
+    },
+    "modified": "2024-01-17T05:58:14",
+    "modified_gmt": "2024-01-17T03:58:14",
+    "slug": "8629",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8629/",
+    "title": {
+        "rendered": "&#8220;IDF Reveals Names of Fallen Soldiers and Updates on Injured Reservists in Gaza Conflict&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Attached is a message from the IDF spokesperson regarding the names of two fallen IDF soldiers, which has been conveyed to their families: https://IDFANC.activetrail.biz/ANC17012024OERIGNEUIOIBNUG</p>\n<p>Attached is a link to the IDF website, where their details and photos of the fallen soldiers are published and updated:<br />\nhttps://www.idf.il/59780</p>\n<p>In addition, a reservist fighter in the 52nd battalion, &#8220;Iron Tracks&#8221; Armor Brigade (401), was seriously wounded in a battle in the north of the Gaza Strip.</p>\n<p>Also, a combat medic in 6261 reserve battalion, 261 Brigade, was seriously injured near the Gaza Strip.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Attached is a message from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a> regarding the names of two fallen IDF soldiers, which has been conveyed to their families: https://IDFANC.activetrail.biz/ANC17012024OERIGNEUIOIBNUG Attached is a link to the IDF website, where their details and photos of the fallen soldiers are published and updated: https://www.idf.il/59780 In addition, a reservist fighter in the 52nd battalion, &#8220;Iron Tracks&#8221; Armor Brigade (401), was seriously wounded in a battle in the north of the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. Also, a combat medic in 6261 reserve battalion, 261 Brigade, was seriously injured near the Gaza Strip.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4169",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4169
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4169",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4169"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4169/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4169"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4169"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4169"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

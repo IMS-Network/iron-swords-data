@@ -1,0 +1,138 @@
+{
+    "id": 1357,
+    "date": "2023-10-07T06:30:00",
+    "date_gmt": "2023-10-07T03:30:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=1357"
+    },
+    "modified": "2024-04-18T16:08:35",
+    "modified_gmt": "2024-04-18T13:08:35",
+    "slug": "eden-liz-ohayon",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/victims/eden-liz-ohayon/",
+    "title": {
+        "rendered": "eden liz ohayon"
+    },
+    "content": {
+        "rendered": "\n<p>Eden Liz Ohion, a vibrant 24-year-old originally from Haifa, tragically lost her life at the &#8220;Nova&#8221; festival near Kibbutz Ra&#8217;im. Born as the third child in her family trio, after her brothers Uri and Omari, Eden was a graduate of City School C. About three years ago, she relocated to Carmel Castle with her mother, Iris Nehemu, who works for the Haifa Municipality. Eden&#8217;s untimely death has left a profound void in the hearts of her loved ones and the community. Her funeral will be held this evening at the military cemetery in Neve David, where she will be laid to rest in the plot for victims of terrorism and hostilities.</p>\n\n\n\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\">\n<p></p>\n<cite>This summary is based on the article found at <a href=\"https://laad.btl.gov.il/Web/He/TerrorVictims/Page/Default.aspx?ID=43688\">Israeli Ministry of Defense &#8211; Terror Victims</a>.</cite></blockquote>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Eden Liz Ohion, a vibrant 24-year-old originally from <a  href=\"https://iron-swords.co.il/t/haifa/\">Haifa</a>, tragically lost her life at the &#8220;Nova&#8221; festival near Kibbutz Ra&#8217;im. Born as the third child in her family trio, after her brothers Uri and Omari, Eden was a graduate of City School C. About three years ago, she relocated to Carmel Castle with her mother, Iris Nehemu, who works for the Haifa Municipality. Eden&#8217;s untimely death has left a profound void in the hearts of her loved ones and the community. Her funeral will be held this evening at the military cemetery in Neve David, where she will be laid</p>\n",
+        "protected": false
+    },
+    "author": 6,
+    "featured_media": 1358,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-october-7th-victims",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 21,
+        "footnotes": ""
+    },
+    "categories": [
+        21
+    ],
+    "tags": [
+        34
+    ],
+    "class_list": [
+        "post-1357",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-victims",
+        "tag-nova"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 1357
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1357",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/6"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=1357"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 2,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1357/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 1362,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1357/revisions/1362"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/1358"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=1357"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=1357"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=1357"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

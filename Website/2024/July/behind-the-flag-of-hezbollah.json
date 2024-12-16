@@ -1,0 +1,135 @@
+{
+    "id": 5912,
+    "date": "2024-07-06T10:31:15",
+    "date_gmt": "2024-07-06T07:31:15",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=5912"
+    },
+    "modified": "2024-07-06T10:31:20",
+    "modified_gmt": "2024-07-06T07:31:20",
+    "slug": "behind-the-flag-of-hezbollah",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/know-your-enemies/hezbollah/behind-the-flag-of-hezbollah/",
+    "title": {
+        "rendered": "Behind the Flag of Hezbollah"
+    },
+    "content": {
+        "rendered": "\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<iframe loading=\"lazy\" title=\"Behind the Flag of Hezbollah\" width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/zIkBCpnyHiQ?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n</div></figure>\n\n\n\n<p>Have you seen this flag around lately? Do you recognize it? Do you know what it stands for?</p>\n\n\n\n<h3 class=\"wp-block-heading\">Flag of Hezbollah</h3>\n\n\n\n<p>This is the flag of the terrorist organization Hezbollah. A Lebanese militia funded and trained by Iran, it was founded in 1982. It&#8217;s been led by its secretary-general since 1992. In its 42 years of existence, Hezbollah has managed to become the world&#8217;s most dangerous and best-funded terrorist organization.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Hezbollah&#8217;s Influence and Activities</h3>\n\n\n\n<p>Hezbollah boasts a large number of fighters and considerable financial resources. The organization is an executive tool for Iran, engaging in conflicts primarily with Israel. However, the basic and real battle is with Iran&#8217;s overarching influence in the region.</p>\n\n\n\n<p>Hezbollah&#8217;s activities are not limited to its direct confrontations with Israel. They have a wide-reaching impact on regional stability and are involved in various international operations, contributing to their notoriety as a significant global threat.</p>\n\n\n\n<p><a href=\"https://www.youtube.com/@IsraelDefenseForces\"></a></p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Have you seen this flag around lately? Do you recognize it? Do you know what it stands for?</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 229,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 333,
+        "footnotes": ""
+    },
+    "categories": [
+        333
+    ],
+    "tags": [],
+    "class_list": [
+        "post-5912",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-hezbollah"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 5912
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/5912",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=5912"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 2,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/5912/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 5914,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/5912/revisions/5914"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/229"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=5912"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=5912"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=5912"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

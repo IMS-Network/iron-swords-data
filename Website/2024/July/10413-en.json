@@ -1,0 +1,124 @@
+{
+    "id": 8027,
+    "date": "2024-07-09T16:25:36",
+    "date_gmt": "2024-07-09T13:25:36",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10413-en/"
+    },
+    "modified": "2024-07-09T16:25:36",
+    "modified_gmt": "2024-07-09T13:25:36",
+    "slug": "10413-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10413-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah: Air Force Targets Operatives After Rocket Launches&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Documentation: After identifying the source of the fire, the IDF attacked a building in which two Hezbollah operatives suspected of carrying out the earlier fire towards Misgav Am were located.</p>\n<p>Earlier today, several launches were identified from the Rab al-Tlathin area in Lebanon towards the Misgav Am area; air defense fighters successfully intercepted most of the launches.</p>\n<p>Shortly after the launches, the forces of Division 91 identified two operatives entering a military building of the terrorist organization Hezbollah in the vicinity of the fire source; fighter jets of the Air Force attacked the building containing the operatives.</p>\n<p>Attached is documentation on the subject: https://bit.ly/3zI7pOS</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Documentation: After identifying the source of the fire, the IDF attacked a building in which two <a  href=\"/hezbollah\">Hezbollah</a> operatives suspected of carrying out the earlier fire towards Misgav Am were located. Earlier today, several launches were identified from the Rab al-Tlathin area in Lebanon towards the Misgav Am area; air defense fighters successfully intercepted most of the launches. Shortly after the launches, the forces of Division 91 identified two operatives entering a military building of the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in the vicinity of the fire source; fighter jets of the Air Force attacked the building containing the operatives. Attached</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8027",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8027,
+        "he": 8028,
+        "ru": 8029
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8027",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8027"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8027/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8027"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8027"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8027"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

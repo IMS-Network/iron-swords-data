@@ -1,0 +1,124 @@
+{
+    "id": 8126,
+    "date": "2024-07-07T14:45:22",
+    "date_gmt": "2024-07-07T11:45:22",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10380-en/"
+    },
+    "modified": "2024-07-07T14:45:22",
+    "modified_gmt": "2024-07-07T11:45:22",
+    "slug": "10380-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10380-en/",
+    "title": {
+        "rendered": "&#8220;IDF Airstrikes Target Hezbollah Structures After Anti-Tank Missile Launches from Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Documentation: The IDF attacked the military structure from which anti-tank missiles were launched towards the Shetula area this morning.</p>\n<p>Earlier today, two anti-tank missile launches were identified coming from the Ayta a-Shab area towards Shetula, with no casualties reported. Following the identification of the launch source, Air Force fighter jets struck the Hezbollah military structure in the Ayta a-Shab area from which the launch was conducted into Israeli territory.</p>\n<p>Additionally, Air Force fighter jets targeted a military structure in the Maroun area and a terror infrastructure in the Nakura area.</p>\n<p>In response to warnings activated in northern Israel at 1:02 PM, about 20 launches were identified crossing from Lebanon towards the Miron area. As a result of the launches, several fires broke out in the area, with no casualties reported. Fire and rescue teams are on-site working to extinguish the fires.</p>\n<p>Attached is documentation from the attacks: https://bit.ly/4btgrN2</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Documentation: The IDF attacked the military structure from which anti-tank missiles were launched towards the Shetula area this morning. Earlier today, two anti-tank missile launches were identified coming from the Ayta a-Shab area towards Shetula, with no casualties reported. Following the identification of the launch source, Air Force fighter jets struck the <a  href=\"/hezbollah\">Hezbollah</a> military structure in the Ayta a-Shab area from which the launch was conducted into Israeli territory. Additionally, Air Force fighter jets targeted a military structure in the Maroun area and a terror infrastructure in the Nakura area. In response to warnings activated in northern <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a></p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8126",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8126,
+        "he": 8127,
+        "ru": 8128
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8126",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8126"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8126/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8126"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8126"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8126"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

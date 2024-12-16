@@ -1,0 +1,122 @@
+{
+    "id": 3610,
+    "date": "2024-03-21T08:38:29",
+    "date_gmt": "2024-03-21T06:38:29",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9199/"
+    },
+    "modified": "2024-03-21T08:38:29",
+    "modified_gmt": "2024-03-21T06:38:29",
+    "slug": "9199",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9199/",
+    "title": {
+        "rendered": "&#8220;Inside Operation Shifa: IDF and Shin Bet&#8217;s Strategy against Terrorism in Khan Yunis&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>IDF and Shin Bet forces continue their targeted operation in the Shifa hospital. The forces killed dozens of terrorists in fire exchanges in the last day, while Brigade 98 continues to operate in Khan Yunis.</p>\n<p>The IDF and Shin Bet forces continue to fight within the hospital&#8217;s area. Force 13 and the combat team of Brigade 401 are working on site, taking care to avoid harming civilians, patients, medical teams, and medical equipment.</p>\n<p>The soldiers killed more than 50 terrorists in a recent exchange of fire within the hospital&#8217;s area and found terror infrastructure and weapon warehouses. Since the beginning of the operation, over 140 terrorists have been killed within the Shifa hospital area.</p>\n<p>The combat team of the Paratroopers Brigade continues to operate in the centre of the strip, killing about 20 terrorists in the last day.</p>\n<p>In another attack, two terrorists were identified surveilling a tank near the forces. In fast action coordinated with the air force, the terrorists were killed in an aircraft attack.</p>\n<p>The combat team of Brigade 7 launched a brigade operation in the north of Khan Yunis, in the area of Al-Qarara, working to destroy the terror infrastructure in place. They killed terrorists who approached the force, found weapons, destroyed dozens of terror infrastructures, and blew up a launch pit.</p>\n<p>The brigade operation began with an air force attack and is supported by continuous air support. Aircraft targeted several sites and killed terrorists who were in the terror infrastructures.</p>\n<p>Attached are pictures from the forces&#8217; operations in the strip: https://IDFANC.activetrail.biz/ANC21032024.156189198</p>\n<p>Also attached is footage from IDF attacks in the strip: https://bit.ly/4a1FDdH</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: IDF and Shin Bet forces continue their targeted operation in the Shifa hospital. The forces killed dozens of terrorists in fire exchanges in the last day, while Brigade 98 continues to operate in Khan Yunis. The IDF and Shin Bet forces continue to fight within the hospital&#8217;s area. Force 13 and the combat team of Brigade 401 are working on site, taking care to avoid harming civilians, patients, medical teams, and medical equipment. The soldiers killed more than 50 terrorists in a recent exchange of fire within the hospital&#8217;s area and found terror infrastructure and weapon warehouses. Since</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3610",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3610
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3610",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3610"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3610/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3610"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3610"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3610"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

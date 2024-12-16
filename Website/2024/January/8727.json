@@ -1,0 +1,122 @@
+{
+    "id": 4073,
+    "date": "2024-01-29T09:43:46",
+    "date_gmt": "2024-01-29T07:43:46",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8727/"
+    },
+    "modified": "2024-01-29T09:43:46",
+    "modified_gmt": "2024-01-29T07:43:46",
+    "slug": "8727",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8727/",
+    "title": {
+        "rendered": "&#8220;Counter-Terrorism Efforts Intensify: IDF and Security Forces Uncover Explosives, Arrest Suspects in Judea and Samaria Refugee Camps&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF soldiers, Shin Bet security services, and Border Police continue to counter terrorism in refugee camps throughout Judea and Samaria.</p>\n<p>In a counter-terrorism operation in the Jenin refugee camp under the command of the Menashe Brigade, military engineering units uncovered tunnels in which explosives were concealed, two wanted men were arrested, and equipment was confiscated; the forces arrested 19 wanted individuals tonight throughout Judea and Samaria.</p>\n<p>IDF and Border Police soldiers operated in a counter-terrorism operation in the Jenin refugee camp in the Menashe Brigade. During the operation, engineering equipment exposed hidden explosives intended to harm the forces. During the operation, the soldiers arrested two wanted persons and confiscated their warfare equipment. During the operation, terrorists threw explosives and fired at the forces who then returned fire. A suspect who attempted to resist arrest by Duvdevan soldiers in the village of Al-Yamun opened fire at them, and they eliminated him.</p>\n<p>Meanwhile, reserve soldiers operated in several terror hotspots in the city of Nablus, including the Casbah, the Askar refugee camp, and the Balata refugee camp. They questioned suspects and confiscated military equipment.</p>\n<p>In the village of Akrabeh in Binyamin, soldiers confiscated combat items, and in the village of Azun in Ephraim, the soldiers confiscated additional combat items.</p>\n<p>The arrested suspects were transferred for further investigation by the security forces, our forces did not suffer any casualties.</p>\n<p>Since the beginning of the war, over 2,960 suspects have been arrested throughout the Judea and Samaria Division and the Jordan Valley and valleys brigade, over 1,350 of them are affiliated with the Hamas terrorist organization.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF soldiers, Shin Bet security services, and Border Police continue to counter terrorism in refugee camps throughout Judea and Samaria. In a counter-terrorism operation in the Jenin refugee camp under the command of the Menashe Brigade, military engineering units uncovered tunnels in which explosives were concealed, two wanted men were arrested, and equipment was confiscated; the forces arrested 19 wanted individuals tonight throughout Judea and Samaria. IDF and Border Police soldiers operated in a counter-terrorism operation in the Jenin refugee camp in the Menashe Brigade. During the operation, engineering equipment exposed hidden explosives intended to harm the forces.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4073",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4073
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4073",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4073"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4073/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4073"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4073"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4073"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

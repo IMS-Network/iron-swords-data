@@ -1,0 +1,124 @@
+{
+    "id": 9008,
+    "date": "2024-06-11T08:15:25",
+    "date_gmt": "2024-06-11T05:15:25",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10081-en/"
+    },
+    "modified": "2024-06-11T08:15:25",
+    "modified_gmt": "2024-06-11T05:15:25",
+    "slug": "10081-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10081-en/",
+    "title": {
+        "rendered": "&#8220;Honoring the Fallen: IDF Names Four Soldiers Lost in Recent Incident&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Attached is a statement from the IDF Spokesperson regarding the names of four IDF fallen soldiers whose families have been notified: https://idfanc.activetrail.biz/ANC110620249540</p>\n<p>A link to the IDF website is attached, where the details and images of the fallen soldiers are published and updated: https://www.idf.il/59780</p>\n<p>In the incident where Captain Tal Peshvilski (Shaulov), Sergeant Eitan Karlsbron, Sergeant Almog Shalom, and Sergeant Yair Levin of blessed memory fell, an officer from the Givati Reconnaissance Unit and four soldiers in training in the same unit were seriously injured. Additionally, another soldier was moderately injured.</p>\n<p>All of the soldiers were evacuated for medical treatment at the hospital, and their families have been updated.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Attached is a statement from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a> regarding the names of four IDF fallen soldiers whose families have been notified: https://idfanc.activetrail.biz/ANC110620249540 A link to the IDF website is attached, where the details and images of the fallen soldiers are published and updated: https://www.idf.il/59780 In the incident where Captain Tal Peshvilski (Shaulov), <a  href=\"https://iron-swords.co.il/t/sergeant/\">Sergeant</a> Eitan Karlsbron, Sergeant Almog Shalom, and Sergeant Yair Levin of blessed memory fell, an officer from the Givati Reconnaissance Unit and four soldiers in training in the same unit were seriously injured. Additionally, another soldier was moderately injured. All of the soldiers were evacuated for medical treatment</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9008",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9008,
+        "he": 9009,
+        "ru": 9010
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9008",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9008"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9008/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9008"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9008"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9008"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

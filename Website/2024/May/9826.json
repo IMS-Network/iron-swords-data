@@ -1,0 +1,122 @@
+{
+    "id": 2999,
+    "date": "2024-05-22T15:10:04",
+    "date_gmt": "2024-05-22T12:10:04",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9826/"
+    },
+    "modified": "2024-05-22T15:10:04",
+    "modified_gmt": "2024-05-22T12:10:04",
+    "slug": "9826",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9826/",
+    "title": {
+        "rendered": "&#8220;Inside IDF&#8217;s Strategic Operations: Destruction of Rocket Launch Sites Near Border&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Launching sites loaded and ready to fire on the Philadelphia corridor near the border; ongoing operations of Brigade 162 in the Rafah area.</p>\n<p>401 Armor Brigade soldiers are operating in the Rafah area against terror targets, alongside progress on the Philadelphia corridor, with whose help they have managed the battle in recent days.</p>\n<p>A few hours ago, brigade soldiers located and destroyed launching sites loaded and ready to fire towards Israel with several rockets. The launching sites are located in eastern Rafah on the Philadelphia Corridor near the border. All the launchers were destroyed.</p>\n<p>Attached is documentation of the launching sites discovered by 401 Armored Brigade soldiers: https://bit.ly/4e1sIee</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Launching sites loaded and ready to fire on the Philadelphia corridor near the border; ongoing operations of Brigade 162 in the Rafah area. 401 Armor Brigade soldiers are operating in the Rafah area against terror targets, alongside progress on the Philadelphia corridor, with whose help they have managed the battle in recent days. A few hours ago, brigade soldiers located and destroyed launching sites loaded and ready to fire towards <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> with several rockets. The launching sites are located in eastern Rafah on the Philadelphia Corridor near the border. All the launchers were destroyed. Attached is documentation of</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2999",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2999
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2999",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2999"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2999/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2999"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2999"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2999"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": 8894,
+    "date": "2024-06-13T20:10:26",
+    "date_gmt": "2024-06-13T17:10:26",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10119-en/"
+    },
+    "modified": "2024-06-13T20:10:26",
+    "modified_gmt": "2024-06-13T17:10:26",
+    "slug": "10119-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10119-en/",
+    "title": {
+        "rendered": "&#8220;Why Enlisting in the People&#8217;s Army is Crucial: Insights from the Chief of Staff&#8221;"
+    },
+    "content": {
+        "rendered": "<p>The Chief of Staff to graduates of the &#8216;Alon&#8217; Command and Staff Course:<br />\n&#8220;We do not have the right to consider whether to enlist or not. The people&#8217;s army is more relevant than ever.&#8221;</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>The Chief of Staff to graduates of the &#8216;Alon&#8217; Command and Staff Course: &#8220;We do not have the right to consider whether to enlist or not. The people&#8217;s army is more relevant than ever.&#8221;</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8894",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8894,
+        "he": 8895,
+        "ru": 8896
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8894",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8894"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8894/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8894"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8894"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8894"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

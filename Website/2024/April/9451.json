@@ -1,0 +1,122 @@
+{
+    "id": 3365,
+    "date": "2024-04-15T11:33:13",
+    "date_gmt": "2024-04-15T08:33:13",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9451/"
+    },
+    "modified": "2024-04-15T11:33:13",
+    "modified_gmt": "2024-04-15T08:33:13",
+    "slug": "9451",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9451/",
+    "title": {
+        "rendered": "&#8220;Decoding the Critical Hours: Inside Stories of Commanders behind High-Stakes Interceptions&#8221;"
+    },
+    "content": {
+        "rendered": "<p>The commanders behind the interceptions recreate the critical hours:<br />\n&#8220;When we got the message &#8216;Tonight is the night&#8217; &#8211; we understood it was the real deal&#8221;</p>\n<p>For the full article:<br />\nhttps://www.idf.il/192511</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>The commanders behind the interceptions recreate the critical hours: &#8220;When we got the message &#8216;Tonight is the night&#8217; &#8211; we understood it was the real deal&#8221; For the full article: https://www.idf.il/192511</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3365",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3365
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3365",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3365"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3365/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3365"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3365"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3365"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

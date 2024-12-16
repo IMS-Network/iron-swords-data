@@ -1,0 +1,122 @@
+{
+    "id": 3500,
+    "date": "2024-04-01T20:00:45",
+    "date_gmt": "2024-04-01T17:00:45",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9313/"
+    },
+    "modified": "2024-04-01T20:00:45",
+    "modified_gmt": "2024-04-01T17:00:45",
+    "slug": "9313",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9313/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Targets in Southern Lebanon: Inside the Counter-Terror Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson: </p>\n<p>The IDF attacked terrorist targets in Lebanon: A building where warfare means were stored and a military structure.</p>\n<p>A short while ago, air force fighter jets attacked a military structure of the Hezbollah terrorist organization in the Hanin area in southern Lebanon.</p>\n<p>Throughout the day, IDF forces attacked a building where warfare means were stored, along with other terrorist targets in the Jabal Chamis and &#8216;Ita al-Shaab areas in southern Lebanon.</p>\n<p>Also, in the past few hours, a number of launches that crossed from Lebanese territory to the Mount Dov and Manara areas were identified. IDF forces attacked the launch sources. </p>\n<p>Attached is documentation of the attack on the military building:<br />\nhttps://bit.ly/3IYLRim</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked terrorist targets in Lebanon: A building where warfare means were stored and a military structure. A short while ago, air force fighter jets attacked a military structure of the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization in the Hanin area in southern Lebanon. Throughout the day, IDF forces attacked a building where warfare means were stored, along with other terrorist targets in the Jabal Chamis and &#8216;Ita al-Shaab areas in southern Lebanon. Also, in the past few hours, a number of launches that crossed from Lebanese territory to the Mount Dov and Manara areas were identified. IDF forces attacked</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3500",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3500
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3500",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3500"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3500/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3500"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3500"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3500"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

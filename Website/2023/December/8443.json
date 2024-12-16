@@ -1,0 +1,122 @@
+{
+    "id": 4351,
+    "date": "2023-12-28T19:12:44",
+    "date_gmt": "2023-12-28T17:12:44",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8443/"
+    },
+    "modified": "2023-12-28T19:12:44",
+    "modified_gmt": "2023-12-28T17:12:44",
+    "slug": "8443",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8443/",
+    "title": {
+        "rendered": "&#8220;IDF Launches Wide-Scale Attack on Hezbollah Targets in Southern Lebanon: An In-depth Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Fighter jets, tanks, and artillery; the IDF executed a wide-scale attack today across the villages of Ayta ash Shab, Ramiyah, and other areas in southern Lebanon.</p>\n<p>IDF forces, including Air Force fighter jets, tanks and artillery attacks, have been attacking since the morning terrorist infrastructure that served the Hezbollah terrorist organization in the Ayta ash Shab, Ramiyah villages and other areas in southern Lebanon.</p>\n<p>From these areas, multiple launches were made from several points towards the territory of Israel.</p>\n<p>In addition, Air Force fighter jets attacked a short while ago a military complex of the Hezbollah terrorist organization in response to the previous launches into Israel&#8217;s territory earlier today.</p>\n<p>The IDF attacked a terrorist cell which attempted to launch anti-tank missiles towards Israeli territory. Also, a cell was attacked which was in a building from which launches toward Israeli territory were made earlier today.</p>\n<p>Attached is documentation on the subject: https://bit.ly/3tAFBcK</p>\n<p>Attached is a link to the commander of Battalion 7042, Lt. Col. (res.) Yehonadav: https://bit.ly/3tvpzkr</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Fighter jets, tanks, and artillery; the IDF executed a wide-scale attack today across the villages of Ayta ash Shab, Ramiyah, and other areas in southern Lebanon. IDF forces, including Air Force fighter jets, tanks and artillery attacks, have been attacking since the morning terrorist infrastructure that served the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization in the Ayta ash Shab, Ramiyah villages and other areas in southern Lebanon. From these areas, multiple launches were made from several points towards the territory of <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>. In addition, Air Force fighter jets attacked a short while ago a military complex of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4351",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4351
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4351",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4351"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4351/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4351"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4351"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4351"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": 8663,
+    "date": "2024-06-21T08:57:47",
+    "date_gmt": "2024-06-21T05:57:47",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10197-en/"
+    },
+    "modified": "2024-06-21T08:57:47",
+    "modified_gmt": "2024-06-21T05:57:47",
+    "slug": "10197-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10197-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Terrorist Launch Sites in Khan Younis: Latest Updates from Gaza Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF destroyed a prepared launch site established by the terrorist organization PIJ in a shelter in the humanitarian area of Khan Younis; the forces of Division 162 continue to engage in combat in the Rafah area alongside the forces of Division 99, which are engaged in combat in the central Gaza Strip.</p>\n<p>Last night (Thursday), Air Force aircraft attacked and destroyed a prepared launch site established by the terrorist organization PIJ in a shelter in the humanitarian area of Khan Younis. Prior to the strike, extensive efforts were made to reduce the risk of harm to non-combatants.<br />\nTerror organizations continue to place weaponry and terror infrastructure in the heart of the civilian population, endangering and using them as human shields.</p>\n<p>During the week, the IDF eliminated the terrorist Muhammad Abu Ta, a drone operator in the air unit of the terrorist organization Hamas, using Air Force aircraft. Throughout the conflict, numerous actions were conducted aimed at harming IDF forces.</p>\n<p>The forces of Division 162 continue to engage in combat in the Rafah area and continue to eliminate terrorists in close-quarter encounters. Over the past day, the combat team of the Givati Brigade identified several shafts during targeted raids in the area. The combat team forces of the Nahal Brigade identified a structure from which anti-tank launches were detected; the forces directed an aircraft that attacked and destroyed the structure.</p>\n<p>In the past day, the forces of Division 99 continued to operate in the central Gaza Strip. During an operation of the multi-dimensional unit, several terrorists were identified near the forces, and the fighters attacked and eliminated the terrorists using a drone.</p>\n<p>Attached is footage from IDF operations in the Gaza Strip: https://bit.ly/4cftgvB</p>\n<p>Attached is footage from IDF strikes in the Gaza Strip: https://bit.ly/4c7a8ji</p>\n<p>Attached are images from IDF operations in the Gaza Strip: https://IDFANC.activetrail.biz/ANC21062024324234</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF destroyed a prepared launch site established by the terrorist organization PIJ in a shelter in the humanitarian area of Khan Younis; the forces of Division 162 continue to engage in combat in the Rafah area alongside the forces of Division 99, which are engaged in combat in the central <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. Last night (Thursday), Air Force aircraft attacked and destroyed a prepared launch site established by the terrorist organization PIJ in a shelter in the humanitarian area of Khan Younis. Prior to the strike, extensive efforts were made to reduce the risk of harm to non-combatants.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8663",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8663,
+        "he": 8664,
+        "ru": 8665
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8663",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8663"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8663/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8663"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8663"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8663"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

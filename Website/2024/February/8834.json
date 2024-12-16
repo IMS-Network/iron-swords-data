@@ -1,0 +1,122 @@
+{
+    "id": 3969,
+    "date": "2024-02-10T12:28:25",
+    "date_gmt": "2024-02-10T10:28:25",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8834/"
+    },
+    "modified": "2024-02-10T12:28:25",
+    "modified_gmt": "2024-02-10T10:28:25",
+    "slug": "8834",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8834/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah&#8217;s Military and Air Defense Assets in Lebanon: An Inside Look&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked a military building and observation post in Lebanon; last night, military assets were attacked that served the air defense unit of Hezbollah.</p>\n<p>A short time ago, fighter jets attacked a military building in the Bint Jbeil area and an observation post in the Mirkava area. Additionally, yesterday (Friday), fighter jets attacked a military command and a military site in Lebanon that served the air defense unit in the terrorist organization Hezbollah.</p>\n<p>Also, following alerts about the intrusion of a hostile aircraft in the north of the country, it was a false identification, the event is over.</p>\n<p>Attached is footage from yesterday&#8217;s attacks: https://bit.ly/3SULRWK</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked a military building and observation post in Lebanon; last night, military assets were attacked that served the air defense unit of <a  href=\"/hezbollah\">Hezbollah</a>. A short time ago, fighter jets attacked a military building in the Bint Jbeil area and an observation post in the Mirkava area. Additionally, yesterday (Friday), fighter jets attacked a military command and a military site in Lebanon that served the air defense unit in the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a>. Also, following alerts about the intrusion of a hostile aircraft in the north of the country, it was a false identification, the event is</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3969",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3969
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3969",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3969"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3969/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3969"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3969"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3969"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 3918,
+    "date": "2024-02-15T19:40:25",
+    "date_gmt": "2024-02-15T17:40:25",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8885/"
+    },
+    "modified": "2024-02-15T19:40:25",
+    "modified_gmt": "2024-02-15T17:40:25",
+    "slug": "8885",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8885/",
+    "title": {
+        "rendered": "&#8220;Unveiling the Journey: How Paratroopers Reached the Core of Khan Yunis in Gaza&#8221;"
+    },
+    "content": {
+        "rendered": "<p>From a physics lesson to a raid in Gaza:<br />\nHow did the &#8220;paratroopers&#8221; get to the heart of Khan Yunis?<br />\nhttps://www.idf.il/180704</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>From a physics lesson to a raid in <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>: How did the &#8220;paratroopers&#8221; get to the heart of Khan Yunis? https://www.idf.il/180704</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3918",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3918
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3918",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3918"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3918/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3918"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3918"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3918"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": 7702,
+    "date": "2024-07-18T12:37:52",
+    "date_gmt": "2024-07-18T09:37:52",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10522-en/"
+    },
+    "modified": "2024-07-18T12:37:52",
+    "modified_gmt": "2024-07-18T09:37:52",
+    "slug": "10522-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10522-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes: Key Hamas Terrorist Eliminated in Lebanon, Thwarting Threats to Israel&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF eliminated a terrorist from the Hamas terrorist organization in Lebanon.</p>\n<p>Earlier today, the IDF attacked using Air Force aircraft in the Bekaa Valley and eliminated Mohammad Jabara, a terrorist affiliated with the Hamas terrorist organization in Lebanon.<br />\nAs part of his role, Jabara was responsible for promoting and executing terrorist operations and launches from Lebanon into Israeli territory, some in collaboration with the Islamic Jihad organization in Lebanon. </p>\n<p>His elimination hampers the ability of the Hamas terrorist organization to advance and carry out terrorist operations against the State of Israel along the northern border that he had promoted in recent times.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF eliminated a terrorist from the <a  href=\"/hamas\">Hamas</a> terrorist organization in Lebanon. Earlier today, the IDF attacked using Air Force aircraft in the Bekaa Valley and eliminated Mohammad Jabara, a terrorist affiliated with the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> terrorist organization in Lebanon. As part of his role, Jabara was responsible for promoting and executing terrorist operations and launches from Lebanon into Israeli territory, some in collaboration with the Islamic Jihad organization in Lebanon. His elimination hampers the ability of the Hamas terrorist organization to advance and carry out terrorist operations against the State of <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> along the northern border that he</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7702",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7702,
+        "he": 7703,
+        "ru": 7704
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7702",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7702"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7702/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7702"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7702"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7702"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

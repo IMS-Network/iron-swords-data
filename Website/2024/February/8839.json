@@ -1,0 +1,122 @@
+{
+    "id": 3964,
+    "date": "2024-02-10T21:18:15",
+    "date_gmt": "2024-02-10T19:18:15",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8839/"
+    },
+    "modified": "2024-02-10T21:18:15",
+    "modified_gmt": "2024-02-10T19:18:15",
+    "slug": "8839",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8839/",
+    "title": {
+        "rendered": "&#8220;Israeli Central Command Approves Demolition Order for Terrorist&#8217;s House: A Response to Hawara Shooting Attack&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The Central Command Commander has approved the demolition order for the house of a terrorist involved in the execution of the shooting attack in Hawara.</p>\n<p>On February 8, 2024, the Central Command Commander approved the sanction and demolition order for the terrorist Abdallah Masad&#8217;s house in the village of Dan. The terrorist was involved in the execution of the shooting attack on August 19, 2023, in Hawara, where Shai Sayles Nigrker, of blessed memory, and his son Aviad Nir, of blessed memory, were murdered. The order was issued after the appeal submitted by the terrorist&#8217;s family was rejected.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The Central Command Commander has approved the demolition order for the house of a terrorist involved in the execution of the shooting attack in Hawara. On February 8, 2024, the Central Command Commander approved the sanction and demolition order for the terrorist Abdallah Masad&#8217;s house in the village of Dan. The terrorist was involved in the execution of the shooting attack on August 19, 2023, in Hawara, where Shai Sayles Nigrker, of blessed memory, and his son Aviad Nir, of blessed memory, were murdered. The order was issued after the appeal submitted by the terrorist&#8217;s family was rejected.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3964",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3964
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3964",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3964"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3964/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3964"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3964"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3964"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

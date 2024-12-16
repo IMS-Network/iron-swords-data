@@ -1,0 +1,122 @@
+{
+    "id": 3059,
+    "date": "2024-05-17T02:03:13",
+    "date_gmt": "2024-05-16T23:03:13",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9766/"
+    },
+    "modified": "2024-05-17T02:03:13",
+    "modified_gmt": "2024-05-16T23:03:13",
+    "slug": "9766",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9766/",
+    "title": {
+        "rendered": "&#8220;Israeli Citizens Attack Driver and Clash with IDF: Insights from the Binyamin Brigade Incident&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Earlier this evening, a report was received about dozens of Israeli citizens who attacked and injured an Israeli driver and set his truck on fire near the &#8216;Kochav HaShachar&#8217; junction in the Binyamin Brigade area.</p>\n<p>Upon receiving the report, an IDF force arrived at the scene and acted to separate the Israeli citizens from the driver and to provide medical treatment to the driver.<br />\nDozens of Israeli citizens responded violently towards the force. As a result, two IDF officers and another soldier were lightly wounded and were treated on the spot.</p>\n<p>IDF soldiers are deployed in the region and are working to ensure the security of the residents, the law, and order.<br />\nThe IDF denounces any act of violence against its soldiers and security forces, and will act to enforce the law.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Earlier this evening, a report was received about dozens of Israeli citizens who attacked and injured an Israeli driver and set his truck on fire near the &#8216;Kochav HaShachar&#8217; junction in the Binyamin Brigade area. Upon receiving the report, an IDF force arrived at the scene and acted to separate the Israeli citizens from the driver and to provide medical treatment to the driver. Dozens of Israeli citizens responded violently towards the force. As a result, two IDF officers and another soldier were lightly wounded and were treated on the spot. IDF soldiers are deployed in the region</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3059",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3059
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3059",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3059"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3059/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3059"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3059"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3059"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

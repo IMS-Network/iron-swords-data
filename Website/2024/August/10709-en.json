@@ -1,0 +1,124 @@
+{
+    "id": 7144,
+    "date": "2024-08-01T08:52:34",
+    "date_gmt": "2024-08-01T05:52:34",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10709-en/"
+    },
+    "modified": "2024-08-01T08:52:34",
+    "modified_gmt": "2024-08-01T05:52:34",
+    "slug": "10709-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10709-en/",
+    "title": {
+        "rendered": "&#8220;IDF Airstrikes and Ground Operations: Latest Update on Gaza Conflict&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces continue fighting in the Gaza Strip; armed launchers aimed at Israeli territory have been destroyed from the air.</p>\n<p>Air Force aircraft, in coordination with the Southern Command Fire Center, attacked and destroyed loaded launchers in the Khan Younis area that were aimed at Israeli territory.</p>\n<p>Combat teams from the 162nd Division continue to operate in the Rafah area. Nahal combat soldiers are currently conducting focused operations in the Tel al-Sultan area, having destroyed a booby-trapped building from which Hamas operatives were operating.</p>\n<p>At the same time, forces from the 252nd Division continue to operate against terrorist infrastructure in the center of the Gaza Strip. Over the past day, under the guidance of the 454th Artillery Brigade, aircraft targeted and eliminated several terrorist cells that posed a threat to our forces in the area.</p>\n<p>In the past 24 hours, Air Force aircraft and fighter jets have attacked about 35 terrorist targets in the Gaza Strip, including armed terrorist cells, military structures, and other terrorist infrastructure.</p>\n<p>Attached is documentation from IDF attacks in the Gaza Strip: https://bit.ly/46r8wyZ</p>\n<p>Attached are photos from the forces&#8217; activities in the Gaza Strip: https://IDFANC.activetrail.biz/ANC0108202446794</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces continue fighting in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip; armed launchers aimed at Israeli territory have been destroyed from the air. Air Force aircraft, in coordination with the Southern Command Fire Center, attacked and destroyed loaded launchers in the Khan Younis area that were aimed at Israeli territory. Combat teams from the 162nd Division continue to operate in the Rafah area. Nahal combat soldiers are currently conducting focused operations in the Tel al-Sultan area, having destroyed a booby-trapped building from which <a  href=\"/hamas\">Hamas</a> operatives were operating. At the same time, forces from the 252nd Division continue to operate against terrorist</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7144",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7144,
+        "he": 7145,
+        "ru": 7146
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7144",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7144"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7144/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7144"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7144"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7144"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

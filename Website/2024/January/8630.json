@@ -1,0 +1,122 @@
+{
+    "id": 4168,
+    "date": "2024-01-17T07:51:22",
+    "date_gmt": "2024-01-17T05:51:22",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8630/"
+    },
+    "modified": "2024-01-17T07:51:22",
+    "modified_gmt": "2024-01-17T05:51:22",
+    "slug": "8630",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8630/",
+    "title": {
+        "rendered": "&#8220;Decisive Strike: IDF and Shin Bet Neutralize Major Terror Cell in Nablus, Thwarting Imminent Attack&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint message to the IDF spokesman and Shin Bet spokeswoman:</p>\n<p>The IDF and Shin Bet have eliminated the head of the terror infrastructure in the Balata camp in Nablus, who was planning with his cell members to carry out a major terror attack in the immediate future.</p>\n<p>In a joint operation of the IDF and Shin Bet, a terrorist cell was taken out from the air, headed by Abdullah Abu Shalal. </p>\n<p>The cell was taken out near the Balata camp in Nablus in the Samaria brigade area, and was responsible for one of the central terror infrastructures in Judea and Samaria.</p>\n<p>Abdullah, who headed the cell, was responsible for several attacks carried out over the past year, including a shooting attack in the Shimon Hatzadik neighborhood in Jerusalem last April, in which two Israeli civilians were injured. He was also responsible for a bomb attack against IDF forces last October in which an IDF soldier was injured.</p>\n<p>The cell was taken out of the air following intelligence information received by Shin Bet regarding Abdullah&#8217;s and his cell members&#8217; intentions to carry out an attack in the immediate future. After the elimination, weapons were found in the cell&#8217;s vehicle.</p>\n<p>The terror infrastructure in the Balata camp in Nablus, led by Abdullah, received funding and guidance from sources in Iran, in collaboration with terror commands in the Gaza strip and abroad.</p>\n<p>Attached is a video of the elimination: https://bit.ly/47xWF0U</p>\n<p>Attached is a picture of the weapons found in the cell&#8217;s vehicle: https://IDFANC.activetrail.biz/ANC17012024NIUERGWEHBUI</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint message to the IDF spokesman and Shin Bet spokeswoman: The IDF and Shin Bet have eliminated the head of the terror infrastructure in the Balata camp in Nablus, who was planning with his cell members to carry out a major terror attack in the immediate future. In a joint operation of the IDF and Shin Bet, a terrorist cell was taken out from the air, headed by Abdullah Abu Shalal. The cell was taken out near the Balata camp in Nablus in the Samaria brigade area, and was responsible for one of the central terror infrastructures in Judea and</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4168",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4168
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4168",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4168"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4168/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4168"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4168"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4168"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

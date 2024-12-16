@@ -1,0 +1,132 @@
+{
+    "id": 643,
+    "date": "2024-04-08T09:09:30",
+    "date_gmt": "2024-04-08T06:09:30",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=643"
+    },
+    "modified": "2024-04-08T09:10:06",
+    "modified_gmt": "2024-04-08T06:10:06",
+    "slug": "mohfit-tech-trades",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/hamas-supporters/mohfit-tech-trades/",
+    "title": {
+        "rendered": "MohFit Tech Trades"
+    },
+    "content": {
+        "rendered": "\n<p>Mohfit is an American company located in Chicago, Illinois 60606. They are using their social media to promote terror and support the Hamas Terror Organization while promoting antisemitic views.<br>They use their X account to promote posts form other <a href=\"https://iron-swords.co.il/c/hamas-supporters/\" data-type=\"category\" data-id=\"12\">Hamas Supporters</a>, and recently started to use their instagram to promote Hamas propaganda  <br>Their Compony Phone number is <a href=\"tel:8159052791\" target=\"_blank\" rel=\"noreferrer noopener\">8159052791</a></p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>They support <a  href=\"/hamas\">Hamas</a>, they stand with terror</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 644,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-hams-support",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 12,
+        "footnotes": ""
+    },
+    "categories": [
+        12
+    ],
+    "tags": [
+        17
+    ],
+    "class_list": [
+        "post-643",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-hamas-supporters",
+        "tag-terrorists-on-x"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 643
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/643",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=643"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/643/revisions"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/644"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=643"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=643"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=643"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

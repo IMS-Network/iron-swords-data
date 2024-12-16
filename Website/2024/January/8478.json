@@ -1,0 +1,122 @@
+{
+    "id": 4316,
+    "date": "2024-01-01T13:47:39",
+    "date_gmt": "2024-01-01T11:47:39",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8478/"
+    },
+    "modified": "2024-01-01T13:47:39",
+    "modified_gmt": "2024-01-01T11:47:39",
+    "slug": "8478",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8478/",
+    "title": {
+        "rendered": "&#8220;IDF Thwarts Hezbollah&#8217;s Attempt to Launch Attack: Unmanned Aircraft Destroyed Near Israeli Border&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked a launch unit of hostile aircraft and destroyed the aircraft before it was launched into Israeli territory.</p>\n<p>This morning, IDF forces identified a terrorist cell from the Hezbollah terror organization, which tried to launch unmanned aircraft towards Israeli territory. An Air Force aircraft attacked the cell before it could carry out the launch and destroyed the aircraft they used.</p>\n<p>The Hezbollah terror organization tried to launch hostile aircraft this morning from the Maroun al-Ras area near the Israeli border, from within a civilian environment. This is another example of the cynical exploitation of populations and civilian facilities by the terror organization.</p>\n<p>In addition, Air Force fighter jets attacked Hezbollah terrorist infrastructures on Lebanese territory.</p>\n<p>Moreover, in response to the alerts activated during the day in the north of the country and the alert about the penetration of an hostile aircraft in Avivim area, this is a false identification.</p>\n<p>Attached is documentation from the attacks: https://bit.ly/47rLpTW</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked a launch unit of hostile aircraft and destroyed the aircraft before it was launched into Israeli territory. This morning, IDF forces identified a terrorist cell from the <a  href=\"/hezbollah\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a>, which tried to launch unmanned aircraft towards Israeli territory. An Air Force aircraft attacked the cell before it could carry out the launch and destroyed the aircraft they used. The <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terror organization tried to launch hostile aircraft this morning from the Maroun al-Ras area near the Israeli border, from within a civilian environment. This is another example of the cynical exploitation of populations and</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4316",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4316
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4316",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4316"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4316/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4316"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4316"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4316"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

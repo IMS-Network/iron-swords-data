@@ -1,0 +1,138 @@
+{
+    "id": 17562,
+    "date": "2024-09-12T19:30:13",
+    "date_gmt": "2024-09-12T16:30:13",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=17562"
+    },
+    "modified": "2024-09-12T19:30:18",
+    "modified_gmt": "2024-09-12T16:30:18",
+    "slug": "july-2024",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/terror-attacks/july-2024/",
+    "title": {
+        "rendered": "Palestinian Terrorism | July 2024"
+    },
+    "content": {
+        "rendered": "\n<p><strong>July 3</strong> \u2013 The stabbing attack at the mall in Karmiel: An Israeli-Arab terrorist from the town of Nahf carried out a stabbing attack, seriously injuring two people at the Karmiel mall. One of the victims later died. The terrorist was killed.</p>\n\n\n\n<p><strong>July 7</strong> \u2013 The murder of Yohai Avni: Yohai Avni, a dog handler with the Israel Prison Service, was murdered by a Palestinian terrorist who stabbed him dozens of times all over his body and then set his body and his apartment in Givon HaHadasha on fire.</p>\n\n\n\n<p><strong>July 14</strong> \u2013 A car-ramming attack at a bus stop at the Nir Zvi junction: Four Israelis were injured; one critically, one seriously, and the others lightly to moderately. The terrorist, a resident of Kafr Aqab, was neutralized. One of the injured died from his wounds about ten days later.</p>\n\n\n\n<p><strong>July 19</strong> \u2013 An Israeli civilian was murdered, and ten others were injured by a Houthi suicide drone of Iranian manufacture that struck a residential building in Tel Aviv, near the U.S. Embassy in Israel. In response, the Israeli Air Force attacked the port city of Al-Hudaydah in Yemen, in a military operation named &#8220;Operation Long Arm.&#8221;</p>\n\n\n\n<p><strong>July 22</strong> \u2013 A Muslim terrorist of Canadian-Turkish origin attempted a stabbing attack against a rapid response team member near Netiv HaAsara and was shot to death. No injuries were reported.</p>\n\n\n\n<p><strong>July 25</strong> \u2013 In a shooting attack at the Nabi Elias junction on Highway 55, three soldiers were lightly to moderately injured. The Palestinian terrorist fled.</p>\n\n\n\n<p><strong>July 27</strong> \u2013 The rocket strike in Majdal Shams: In a rocket strike launched by Hezbollah from Lebanon, 12 children and teenagers were killed while participating in a soccer tournament. In addition to the fatalities, 34 people were injured in the explosion.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>In July, Palestinians carried out 500 terrorist attacks, including stone-throwing incidents, resulting in 3 deaths and 27 injuries.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 17542,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1570,
+        "footnotes": ""
+    },
+    "categories": [
+        1570
+    ],
+    "tags": [
+        1574
+    ],
+    "class_list": [
+        "post-17562",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-terror-attacks",
+        "tag-palestinian-terrorism"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 17562
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/17562",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=17562"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/17562/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 17563,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/17562/revisions/17563"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/17542"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=17562"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=17562"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=17562"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

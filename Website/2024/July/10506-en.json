@@ -1,0 +1,124 @@
+{
+    "id": 7751,
+    "date": "2024-07-17T09:02:41",
+    "date_gmt": "2024-07-17T06:02:41",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10506-en/"
+    },
+    "modified": "2024-07-17T09:02:41",
+    "modified_gmt": "2024-07-17T06:02:41",
+    "slug": "10506-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10506-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Back: Key Operations Target Terrorist Cells in Gaza&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>In a closing of the loop: The IDF targeted a terrorist objective from the area where the launches towards the Sderot region were identified last night; aircraft along with forces from the Nahal Brigade destroyed a launcher and eliminated a terrorist cell after identifying them firing rocket artillery at the force.</p>\n<p>Last night (Tuesday), three launches were detected crossing from the northern Gaza Strip towards the Sderot region. In response, Israeli Air Force fighter jets, together with the firepower of the Gaza Division, attacked terrorist targets from the area where the launches were identified.</p>\n<p>Forces from Division 162 continue to operate in the Rafah area. In a quick response, Israeli Air Force aircraft along with combat teams from the Nahal Brigade eliminated a terrorist cell and destroyed a launcher after identifying it as being used for firing at the force, with no casualties reported.</p>\n<p>Combat teams from Brigade 3 and Brigade 8 continue to operate in the central Gaza Strip, eliminating terrorists and destroying buildings used as observation posts on the ground forces.</p>\n<p>Over the past 24 hours, Israeli Air Force aircraft and fighter jets have targeted approximately 25 terrorist objectives throughout the Gaza Strip. Among the targets attacked: military buildings, terrorist infrastructure, terrorist cells, and booby-trapped structures. An aircraft targeted and eliminated a sniper operative from the Hamas terrorist organization last night, alongside another member of the organization in the northern Gaza Strip.</p>\n<p>Attached are images from the IDF&#8217;s operations in the Gaza Strip: https://idfanc.activetrail.biz/ANC17072024749</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: In a closing of the loop: The IDF targeted a terrorist objective from the area where the launches towards the <a  href=\"https://iron-swords.co.il/t/sderot/\">Sderot</a> region were identified last night; aircraft along with forces from the <a  href=\"https://iron-swords.co.il/t/nahal-brigade/\">Nahal Brigade</a> destroyed a launcher and eliminated a terrorist cell after identifying them firing rocket artillery at the force. Last night (Tuesday), three launches were detected crossing from the northern <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip towards the Sderot region. In response, Israeli Air Force fighter jets, together with the firepower of the <a  href=\"https://iron-swords.co.il/t/gaza-division/\">Gaza Division</a>, attacked terrorist targets from the area where the launches were identified. Forces from Division 162</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7751",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7751,
+        "he": 7752,
+        "ru": 7754
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7751",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7751"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7751/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7751"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7751"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7751"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 4491,
+    "date": "2023-12-18T09:47:32",
+    "date_gmt": "2023-12-18T07:47:32",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8302/"
+    },
+    "modified": "2023-12-18T09:47:32",
+    "modified_gmt": "2023-12-18T07:47:32",
+    "slug": "8302",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8302/",
+    "title": {
+        "rendered": "&#8220;IDF&#8217;s Intense 24-Hour Operation: Over 150 Targets Hit, Terrorist Funds Seized in Gaza Strip&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF has struck over 150 terror targets in the Gaza Strip from the air, sea, and land in the past day.</p>\n<p>Soldiers from the multidimensional unit, under the command of the brigade combat team 551, located in the home of a senior Hamas official in the Jebalia area, a suitcase of terrorist money worth around 5,000,000 NIS, and many weapons.</p>\n<p>The brigade combat team 646 attacked a terrorist infrastructure yesterday, where many warfighting resources were found, including explosives, warfare equipment, and weapons of the type RPG. Additionally, in that same terrorist infrastructure, a cellar was found containing a stockpile of missiles and ammunition. The forces also located and destroyed launching pits and holes in the area.</p>\n<p>An aircraft of the Air Force spotted a suspicious cell entering a Hamas terrorist infrastructure in the area of Khan Yunis. The combat team from the Givati Brigade directed an Air Force combat helicopter that attacked and eliminated the cell.</p>\n<p>During the activity of the brigade combat team 4 yesterday in Khan Yunis area, the forces identified a sniper located in a building who was threatening the forces. The forces directed an aircraft of the Air Force and killed the terrorist.</p>\n<p>In the past day, the Naval force attacked terrorist targets of the Hamas organization and assisted their ground forces in their activities on the Gaza Strip&#8217;s shores.</p>\n<p>Attached is a picture of the terrorist money that was seized by the multi-dimensional unit soldiers: https://IDFANC.activetrail.biz/ANC17122023.5417</p>\n<p>Attached is footage from the forces\u2019 activities in the Gaza Strip: https://bit.ly/4814UUi</p>\n<p>Attached is footage from the attacks in the past day in the Gaza Strip: https://bit.ly/4821aC3</p>\n<p>Attached are photos from the forces\u2019 activities in the Gaza Strip: https://IDFANC.activetrail.biz/ANC18122023POIUYTREW</p>\n<p>Attached are photos of the resources found by the brigade combat team 646: https://IDFANC.activetrail.biz/ANC18122023LKJHGFDSA</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF has struck over 150 terror targets in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip from the air, sea, and land in the past day. Soldiers from the multidimensional unit, under the command of the brigade combat team 551, located in the home of a senior <a  href=\"/hamas\">Hamas</a> official in the Jebalia area, a suitcase of terrorist money worth around 5,000,000 NIS, and many weapons. The brigade combat team 646 attacked a terrorist infrastructure yesterday, where many warfighting resources were found, including explosives, warfare equipment, and weapons of the type RPG. Additionally, in that same terrorist infrastructure, a cellar was found containing</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4491",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4491
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4491",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4491"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4491/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4491"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4491"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4491"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

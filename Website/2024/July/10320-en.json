@@ -1,0 +1,124 @@
+{
+    "id": 8297,
+    "date": "2024-07-02T14:21:05",
+    "date_gmt": "2024-07-02T11:21:05",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10320-en/"
+    },
+    "modified": "2024-07-02T14:21:05",
+    "modified_gmt": "2024-07-02T11:21:05",
+    "slug": "10320-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10320-en/",
+    "title": {
+        "rendered": "&#8220;IDF Operations: 15 Arrested and Weapon Manufacturing Sites Destroyed in Judea and Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF, Shin Bet, and Border Police fighters operated last night to arrest 15 wanted individuals across Judea and Samaria; in Balata, near Nablus, two machines for manufacturing weapons were destroyed, along with weapon parts found at the site.</p>\n<p>In Balata, near Nablus, the forces arrested a wanted individual and destroyed two machines for manufacturing weapons, along with weapon parts found at the location. In Pandekomia and Silat al-Dahr, within the brigade&#8217;s area, two additional wanted individuals were arrested.</p>\n<p>In Al-Aida, Husan, and Bartas in the Etzion Brigade, nine wanted individuals were arrested. In Hebron and Samu in the Judea Brigade, three wanted individuals were arrested, and a pistol was confiscated. In Funduk in the Ephraim Brigade, a hunting rifle was located and confiscated.</p>\n<p>The arrested individuals and the seized weapons have been transferred for further handling by security forces, and there were no casualties among our forces.</p>\n<p>Since the beginning of the war, approximately 4,150 wanted individuals have been arrested across the Judea and Samaria division and the Jordan Valley Brigade, about 1,750 of whom are affiliated with the Hamas terrorist organization.</p>\n<p>Attached is documentation of the forces&#8217; activities: https://bit.ly/45QtAOR</p>\n<p>Attached are photos from the forces&#8217; activities: https://IDFANC.activetrail.biz/ANC020720245435345</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF, Shin Bet, and Border Police fighters operated last night to arrest 15 wanted individuals across Judea and Samaria; in Balata, near Nablus, two machines for manufacturing weapons were destroyed, along with weapon parts found at the site. In Balata, near Nablus, the forces arrested a wanted individual and destroyed two machines for manufacturing weapons, along with weapon parts found at the location. In Pandekomia and Silat al-Dahr, within the brigade&#8217;s area, two additional wanted individuals were arrested. In Al-Aida, Husan, and Bartas in the Etzion Brigade, nine wanted individuals were arrested. In Hebron and Samu in the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8297",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8297,
+        "he": 8298,
+        "ru": 8299
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8297",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8297"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8297/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8297"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8297"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8297"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

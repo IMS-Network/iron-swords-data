@@ -1,0 +1,124 @@
+{
+    "id": 8534,
+    "date": "2024-06-25T13:56:09",
+    "date_gmt": "2024-06-25T10:56:09",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10240-en/"
+    },
+    "modified": "2024-06-25T13:56:09",
+    "modified_gmt": "2024-06-25T10:56:09",
+    "slug": "10240-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10240-en/",
+    "title": {
+        "rendered": "&#8220;Experiencing History: A Bar Mitzvah Producer&#8217;s Journey with IDF Order 8&#8221;"
+    },
+    "content": {
+        "rendered": "<p>&#8220;For a moment I am part of history &#8211; and immediately after I return to the classroom&#8221;:<br />\nWhat happens when a Bar Mitzvah producer, a student, and a physical education teacher receive an Order 8?<br />\nhttps://www.idf.il/211080</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>&#8220;For a moment I am part of history &#8211; and immediately after I return to the classroom&#8221;: What happens when a Bar Mitzvah producer, a student, and a physical <a  href=\"https://iron-swords.co.il/t/education/\">education</a> teacher receive an Order 8? https://www.idf.il/211080</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8534",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8534,
+        "he": 8535,
+        "ru": 8536
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8534",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8534"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8534/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8534"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8534"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8534"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

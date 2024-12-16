@@ -1,0 +1,124 @@
+{
+    "id": 7874,
+    "date": "2024-07-14T02:44:36",
+    "date_gmt": "2024-07-13T23:44:36",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10464-en/"
+    },
+    "modified": "2024-07-14T02:44:36",
+    "modified_gmt": "2024-07-13T23:44:36",
+    "slug": "10464-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10464-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Syrian Military Command Post in Response to Drone Threats&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked in the territory of Syria: a central command post and military infrastructure used by the Syrian army were targeted.</p>\n<p>Last night, the IDF targeted a central command post and military infrastructure of the Syrian army. In addition, targets used by the air defense system of the Syrian army were also attacked.</p>\n<p>This strike was carried out in response to the interception of two drones that were making their way from Syrian territory toward the northern area of Eilat yesterday (Saturday).</p>\n<p>The Syrian regime is responsible for all terrorist activity from its territory and will bear the consequences for it.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked in the territory of Syria: a central command post and military infrastructure used by the Syrian army were targeted. Last night, the IDF targeted a central command post and military infrastructure of the Syrian army. In addition, targets used by the air defense system of the Syrian army were also attacked. This strike was carried out in response to the interception of two drones that were making their way from Syrian territory toward the northern area of Eilat yesterday (Saturday). The Syrian regime is responsible for all terrorist activity from its territory and will bear</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7874",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7874,
+        "he": 7875,
+        "ru": 7876
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7874",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7874"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7874/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7874"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7874"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7874"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

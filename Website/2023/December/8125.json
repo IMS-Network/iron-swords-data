@@ -1,0 +1,122 @@
+{
+    "id": 4667,
+    "date": "2023-12-05T16:45:28",
+    "date_gmt": "2023-12-05T14:45:28",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8125/"
+    },
+    "modified": "2023-12-05T16:45:28",
+    "modified_gmt": "2023-12-05T14:45:28",
+    "slug": "8125",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8125/",
+    "title": {
+        "rendered": "&#8220;Relentless IDF Surveillance: Ensuring Safety of Gaza Abductees Amid Misinformation&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Following the expressions that have been raised recently regarding the status of the abductees in Gaza, the discussion on the subject is irresponsible, inaccurate, and should be avoided.<br />\nWe are conducting an intelligence surveillance around the clock on the abductees, and demand from all international organizations to verify their condition, ensure their safety, and provide them with medical attention &#8211; both women and men alike.<br />\nEvery moment in captivity endangers our abductees. We are doing everything we can to bring them home as soon as possible.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Following the expressions that have been raised recently regarding the status of the abductees in <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>, the discussion on the subject is irresponsible, inaccurate, and should be avoided. We are conducting an intelligence surveillance around the clock on the abductees, and demand from all international organizations to verify their condition, ensure their safety, and provide them with medical attention &#8211; both women and men alike. Every moment in captivity endangers our abductees. We are doing everything we can to bring them home as soon as possible.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4667",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4667
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4667",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4667"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4667/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4667"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4667"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4667"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

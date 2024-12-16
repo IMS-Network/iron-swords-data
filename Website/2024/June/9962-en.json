@@ -1,0 +1,124 @@
+{
+    "id": 9362,
+    "date": "2024-06-02T12:44:07",
+    "date_gmt": "2024-06-02T09:44:07",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/9962-en/"
+    },
+    "modified": "2024-06-02T12:44:07",
+    "modified_gmt": "2024-06-02T09:44:07",
+    "slug": "9962-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9962-en/",
+    "title": {
+        "rendered": "&#8220;IDF Intensifies Operations in Judea and Samaria: 4,000 Terrorists Arrested Amid Ongoing Security Threats&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF, Shin Bet, and Border Police forces continue their offensive operations to thwart terrorism in the Menashe Brigade and to protect the seam zone; forces arrested terrorists last night who threw a Molotov cocktail at a military vehicle in the Etzion Brigade.</p>\n<p>IDF, Shin Bet, and Border Police operated last night to arrest six wanted individuals across Judea and Samaria.</p>\n<p>In the Menashe Brigade, an additional company of fighters reinforced the seam zone, and soldiers from the Haruv Reconnaissance Unit arrested two wanted individuals during operations in the village of Jaba during the night.</p>\n<p>Two terrorists threw a Molotov cocktail at a military vehicle in the area of the Etzion Brigade during the night, and in a rapid closing of the loop, forces arrested the suspects.</p>\n<p>In Dahariya in the Judah Brigade and in Madma in Samaria, soldiers arrested two wanted individuals who incited to carry out terrorist acts.</p>\n<p>The arrested wanted individuals and the confiscated weapons have been transferred for further handling by the security forces; there were no injuries to our forces.</p>\n<p>So far, since the beginning of the war, approximately 4,000 wanted individuals have been arrested throughout the Judea and Samaria Division and the Jordan Valley and Valleys Brigade, about 1,700 of whom are affiliated with the terrorist organization Hamas.</p>\n<p>Attached is documentation of the forces&#8217; activities in the seam zone in the Menashe Brigade over the weekend: https://bit.ly/4c3nbSE</p>\n<p>Attached is documentation of IDF activities throughout Judea and Samaria: https://bit.ly/4aKCcY8</p>\n<p>Attached are images from the forces&#8217; activities in the seam zone in the Menashe Brigade: https://IDFANC.activetrail.biz/ANC02052024670864506597</p>\n<p>Attached are images from the forces&#8217; activities throughout Judea and Samaria: https://IDFANC.activetrail.biz/ANC02062024483963895</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF, Shin Bet, and Border Police forces continue their offensive operations to thwart terrorism in the Menashe Brigade and to protect the seam zone; forces arrested terrorists last night who threw a Molotov cocktail at a military vehicle in the Etzion Brigade. IDF, Shin Bet, and Border Police operated last night to arrest six wanted individuals across Judea and Samaria. In the Menashe Brigade, an additional company of fighters reinforced the seam zone, and soldiers from the Haruv Reconnaissance Unit arrested two wanted individuals during operations in the village of Jaba during the night. Two terrorists threw a</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9362",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9362,
+        "he": 9363,
+        "ru": 9364
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9362",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9362"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9362/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9362"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9362"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9362"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

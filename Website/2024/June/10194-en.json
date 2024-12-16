@@ -1,0 +1,124 @@
+{
+    "id": 8672,
+    "date": "2024-06-20T21:58:50",
+    "date_gmt": "2024-06-20T18:58:50",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10194-en/"
+    },
+    "modified": "2024-06-20T21:58:50",
+    "modified_gmt": "2024-06-20T18:58:50",
+    "slug": "10194-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10194-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah: Key Military Targets Hit in Southern Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Weapons storage facilities, military structures, and terrorist infrastructure; the IDF continues to target Hezbollah positions in Lebanese territory.</p>\n<p>Fighter jets attacked earlier today two weapons storage facilities of the terrorist organization Hezbollah in the regions of Hallah and Talousa, alongside military buildings and the organization\u2019s terrorist infrastructure in the areas of Mays al-Jabal, Aita al-Shaab, and Yaron in southern Lebanon.</p>\n<p>Additionally, the IDF conducted artillery strikes in several areas in southern Lebanon.</p>\n<p>Attached is documentation from the attacks: https://bit.ly/4bacixj</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Weapons storage facilities, military structures, and terrorist infrastructure; the IDF continues to target <a  href=\"/hezbollah\">Hezbollah</a> positions in Lebanese territory. Fighter jets attacked earlier today two weapons storage facilities of the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in the regions of Hallah and Talousa, alongside military buildings and the organization\u2019s terrorist infrastructure in the areas of Mays al-Jabal, Aita al-Shaab, and Yaron in southern Lebanon. Additionally, the IDF conducted artillery strikes in several areas in southern Lebanon. Attached is documentation from the attacks: https://bit.ly/4bacixj</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8672",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8672,
+        "he": 8673,
+        "ru": 8674
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8672",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8672"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8672/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8672"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8672"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8672"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

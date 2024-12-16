@@ -1,0 +1,122 @@
+{
+    "id": 3578,
+    "date": "2024-03-24T19:00:00",
+    "date_gmt": "2024-03-24T17:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9234/"
+    },
+    "modified": "2024-03-24T19:00:00",
+    "modified_gmt": "2024-03-24T17:00:00",
+    "slug": "9234",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9234/",
+    "title": {
+        "rendered": "&#8220;Face-to-Face Confrontation: Tzak&#8217;ch of Shaked Battalion vs Hamas &#8211; Insights from Shifa Hospital&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Special documentation from Shifa Hospital:<br />\nTzak&#8221;ch from the Shaked battalion in a face-to-face confrontation against Hamas terrorists</p>\n<p>https://www.idf.il/187673</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Special documentation from Shifa Hospital: Tzak&#8221;ch from the Shaked battalion in a face-to-face confrontation against <a  href=\"/hamas\">Hamas</a> terrorists https://www.idf.il/187673</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3578",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3578
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3578",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3578"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3578/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3578"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3578"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3578"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

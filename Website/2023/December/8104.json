@@ -1,0 +1,122 @@
+{
+    "id": 4687,
+    "date": "2023-12-04T12:09:49",
+    "date_gmt": "2023-12-04T10:09:49",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8104/"
+    },
+    "modified": "2023-12-04T12:09:49",
+    "modified_gmt": "2023-12-04T10:09:49",
+    "slug": "8104",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8104/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Back: Intercepting Hostile Activities from Lebanese Territory&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>A short while ago, several launches from Lebanese territory were identified towards the Mount Dov area that fell in open areas and an additional launch towards the Misgav Am area.</p>\n<p>IDF forces attacked the sources of fire.</p>\n<p>In addition, yesterday (Sunday) an Air Force fighter jet successfully intercepted a hostile aircraft that was on its way to Israel from Lebanese territory.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: A short while ago, several launches from Lebanese territory were identified towards the Mount Dov area that fell in open areas and an additional launch towards the Misgav Am area. IDF forces attacked the sources of fire. In addition, yesterday (Sunday) an Air Force fighter jet successfully intercepted a hostile aircraft that was on its way to <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> from Lebanese territory.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4687",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4687
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4687",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4687"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4687/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4687"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4687"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4687"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

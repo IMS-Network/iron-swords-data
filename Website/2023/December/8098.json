@@ -1,0 +1,122 @@
+{
+    "id": 4693,
+    "date": "2023-12-03T21:57:09",
+    "date_gmt": "2023-12-03T19:57:09",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8098/"
+    },
+    "modified": "2023-12-03T21:57:09",
+    "modified_gmt": "2023-12-03T19:57:09",
+    "slug": "8098",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8098/",
+    "title": {
+        "rendered": "&#8220;IDF and ISA Successfully Eliminate Shati Brigade Commander of Hamas: Inside the Operation&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint message to spokesman of the IDF and the spokesperson of the ISA:</p>\n<p>The IDF and ISA have eliminated the battalion commander of the Shati brigade of the Hamas terror organization.</p>\n<p>The IDF, on specific intelligence from the ISA and reaching a confirmed conclusion, eliminated via an aircraft of the Air Force Hitham Hwagri, the battalion commander of the Shati brigade of the Hamas terror organization, whose under his command initiated raid paths into Israeli territories on October 7th. Hwagri was in charge of securing the activity of the Hamas terror organization at the Shefa hospital and was also in command of the fight against IDF forces in the Shati camp.<br />\nDuring his tenure, Hwagri was responsible for considerable terror activity against the residents of the State of Israel.</p>\n<p>Attached is documentation of the attack in which he was eliminated: https://bit.ly/413t3XJ</p>\n<p>Attached is the ID of the Shati brigade commander of the Hamas terror organization, Hitham Hwagri: https://IDFANC.activetrail.biz/ANC0312202347597457</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint message to spokesman of the IDF and the spokesperson of the ISA: The IDF and ISA have eliminated the battalion commander of the Shati brigade of the <a  href=\"/hamas\">Hamas</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a>. The IDF, on specific intelligence from the ISA and reaching a confirmed conclusion, eliminated via an aircraft of the Air Force Hitham Hwagri, the battalion commander of the Shati brigade of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> terror organization, whose under his command initiated raid paths into Israeli territories on October 7th. Hwagri was in charge of securing the activity of the Hamas terror organization at the Shefa hospital and was also in</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4693",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4693
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4693",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4693"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4693/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4693"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4693"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4693"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

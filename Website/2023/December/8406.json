@@ -1,0 +1,122 @@
+{
+    "id": 4387,
+    "date": "2023-12-25T19:00:08",
+    "date_gmt": "2023-12-25T17:00:08",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8406/"
+    },
+    "modified": "2023-12-25T19:00:08",
+    "modified_gmt": "2023-12-25T17:00:08",
+    "slug": "8406",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8406/",
+    "title": {
+        "rendered": "&#8220;Inside Look: Joint Air-Ground Operations Against Terrorism in Gaza&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Elimination of a terrorist armed with an RPG and a hit on a drone explosive cell:<br />\nThis is how the cooperation between air and ground forces in Gaza looks like<br />\n  https://www.idf.il/166232</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Elimination of a terrorist armed with an RPG and a hit on a drone explosive cell: This is how the cooperation between air and ground forces in <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> looks like https://www.idf.il/166232</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4387",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4387
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4387",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4387"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4387/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4387"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4387"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4387"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

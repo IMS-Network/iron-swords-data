@@ -1,0 +1,122 @@
+{
+    "id": 3681,
+    "date": "2024-03-14T14:02:57",
+    "date_gmt": "2024-03-14T12:02:57",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9127/"
+    },
+    "modified": "2024-03-14T14:02:57",
+    "modified_gmt": "2024-03-14T12:02:57",
+    "slug": "9127",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9127/",
+    "title": {
+        "rendered": "&#8220;Unveiling Lotar&#8217;s Operations: MLRS and Mortars in Khan Yunis &#8211; An Inside Look&#8221;"
+    },
+    "content": {
+        "rendered": "<p>&#8220;A pile of MLRS and mortars under the bed and rocket launchers next to the school:<br />\nDocumenting the activity of the Lotar in Khan Yunis<br />\nhttps://www.idf.il/185728&#8221;</p>\n<p>(Note: MLRS is the acronym for Multiple Launch Rocket System and Lotar is an Israeli Special Military Unit)</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>&#8220;A pile of MLRS and mortars under the bed and rocket launchers next to the school: Documenting the activity of the Lotar in Khan Yunis https://www.idf.il/185728&#8221; (Note: MLRS is the acronym for Multiple Launch Rocket System and Lotar is an Israeli Special Military Unit)</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3681",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3681
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3681",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3681"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3681/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3681"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3681"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3681"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

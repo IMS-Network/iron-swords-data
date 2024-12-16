@@ -1,0 +1,122 @@
+{
+    "id": 4558,
+    "date": "2023-12-12T18:38:43",
+    "date_gmt": "2023-12-12T16:38:43",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8235/"
+    },
+    "modified": "2023-12-12T18:38:43",
+    "modified_gmt": "2023-12-12T16:38:43",
+    "slug": "8235",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8235/",
+    "title": {
+        "rendered": "&#8220;IDF Successfully Recovers Bodies of Kidnapped Victims Eden Zechariah and Lieutenant Ziv Dudu: An Inside Look at the Operation&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF has recovered the bodies of the kidnapping victims, Eden Zechariah, may his memory be a blessing, and Lieutenant Ziv Dudu, may his memory be a blessing</p>\n<p>The bodies of the kidnapped Eden Zechariah and Lieutenant Ziv Dudu, may their memory be a blessing, were retrieved by IDF force in an operation conducted by Soldiers of Unit 504 from the Intelligence Corps and Brigade 551 from the Gaza Strip area to Israeli territory.</p>\n<p>After an identification process performed by medical and military rabbinical authorities, together with the Institute of Forensic Medicine and the Israel Police, IDF and police representatives informed the families of Eden Zechariah and Lieutenant Ziv Dudu today (Tuesday) who were kidnapped on Saturday 7th, October 2023 by the Hamas terror organization, that their bodies were recovered and returned to Israeli territory.</p>\n<p>Eden (27), may his memory be a blessing, was kidnapped from a party in Ra&#8217;eim, and Ziv (36), may his memory be a blessing, was kidnapped and killed during his service as a logistics work manager in Battalion 51 of the Givati Brigade, and to this day was recognized as a missing casualty capture by a terror organization. We share the families&#8217; sorrow and will continue to accompany them.</p>\n<p>In the course of the operation that enabled the bodies&#8217; retrieval, Major (Res.) Gal Meir Eizenkot, may his memory be a blessing, and Major (Res.) Eyal Meir Berkovich, may his memory be a blessing, were killed and additional soldiers were wounded.</p>\n<p>The national mission standing before us is to locate the missing and to bring all kidnapping victims home. We are working together with security bodies, using all intelligence and operational means to return all kidnapping victims home. </p>\n<p>Attached is a picture of kidnapped victims&#8217; bodies being transferred to Israel: https://IDFANC.activetrail.biz/ANC121220232651</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF has recovered the bodies of the kidnapping victims, Eden Zechariah, may his memory be a blessing, and Lieutenant Ziv Dudu, may his memory be a blessing The bodies of the kidnapped Eden Zechariah and Lieutenant Ziv Dudu, may their memory be a blessing, were retrieved by IDF force in an operation conducted by Soldiers of Unit 504 from the Intelligence Corps and Brigade 551 from the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip area to Israeli territory. After an identification process performed by medical and military rabbinical authorities, together with the Institute of Forensic Medicine and the <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> Police, IDF and</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4558",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4558
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4558",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4558"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4558/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4558"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4558"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4558"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

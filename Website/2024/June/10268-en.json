@@ -1,0 +1,124 @@
+{
+    "id": 8450,
+    "date": "2024-06-27T18:14:38",
+    "date_gmt": "2024-06-27T15:14:38",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10268-en/"
+    },
+    "modified": "2024-06-27T18:14:38",
+    "modified_gmt": "2024-06-27T15:14:38",
+    "slug": "10268-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10268-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes: Hezbollah UAV Operative Eliminated and Terror Targets Attacked in Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF eliminated a UAV launch operative from Hezbollah&#8217;s aerial unit; terror targets of Hezbollah in Lebanon were attacked.</p>\n<p>Earlier today, an Air Force aircraft struck in the Sakhmar area and eliminated a UAV launch operative from Hezbollah&#8217;s aerial unit who had been launching attacks into Israeli territory. Additionally, Air Force fighter jets targeted military structures belonging to the terrorist organization Hezbollah in the areas of Houla and Aitaroun.</p>\n<p>Simultaneously, IDF forces conducted artillery fire in the Wadi Khamul area and the region near Rosh HaNikra.</p>\n<p>Last night (Wednesday), the organization&#8217;s terror infrastructures were targeted in the areas of Al-Adaysa and Al-Khiam.</p>\n<p>Earlier today, two UAVs were spotted crossing from Lebanese territory and fell in the area of Rosh HaNikra; there were no casualties.</p>\n<p>Attached is documentation of the elimination: https://bit.ly/3zlxWBy</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF eliminated a UAV launch operative from <a  href=\"/hezbollah\">Hezbollah</a>&#8217;s aerial unit; terror targets of <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in Lebanon were attacked. Earlier today, an Air Force aircraft struck in the Sakhmar area and eliminated a UAV launch operative from Hezbollah&#8217;s aerial unit who had been launching attacks into Israeli territory. Additionally, Air Force fighter jets targeted military structures belonging to the terrorist organization Hezbollah in the areas of Houla and Aitaroun. Simultaneously, IDF forces conducted artillery fire in the Wadi Khamul area and the region near Rosh HaNikra. Last night (Wednesday), the organization&#8217;s terror infrastructures were targeted in the areas</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8450",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8450,
+        "he": 8451,
+        "ru": 8452
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8450",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8450"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8450/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8450"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8450"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8450"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

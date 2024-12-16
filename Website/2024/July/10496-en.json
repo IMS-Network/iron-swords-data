@@ -1,0 +1,124 @@
+{
+    "id": 7780,
+    "date": "2024-07-16T14:31:18",
+    "date_gmt": "2024-07-16T11:31:18",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10496-en/"
+    },
+    "modified": "2024-07-16T14:31:18",
+    "modified_gmt": "2024-07-16T11:31:18",
+    "slug": "10496-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10496-en/",
+    "title": {
+        "rendered": "&#8220;From Medic to Warrior: Oriyan&#8217;s Journey from Saving Lives to Fighting for Them&#8221;"
+    },
+    "content": {
+        "rendered": "<p>From the battlefield as a medic &#8211; to the battlefield as a fighter:<br />\nWhen Oriyan saved lives on October 7, he realized he had to enlist in combat.</p>\n<p>For the full article:</p>\n<p>https://www.idf.il/216817</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>From the battlefield as a medic &#8211; to the battlefield as a fighter: When Oriyan saved lives on October 7, he realized he had to enlist in combat. For the full article: https://www.idf.il/216817</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7780",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7780,
+        "he": 7781,
+        "ru": 7783
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7780",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7780"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7780/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7780"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7780"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7780"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

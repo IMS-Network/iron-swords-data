@@ -1,0 +1,122 @@
+{
+    "id": 4097,
+    "date": "2024-01-25T15:13:48",
+    "date_gmt": "2024-01-25T13:13:48",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8702/"
+    },
+    "modified": "2024-01-25T15:13:48",
+    "modified_gmt": "2024-01-25T13:13:48",
+    "slug": "8702",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8702/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Targets: Key Military Sites and Flight Route in Lebanon Hit&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked a series of targets belonging to the Hezbollah terrorist organization, including a flight route used by the organization.</p>\n<p>A short time ago, fighter jets attacked a series of military targets of the Hezbollah terrorist organization in the Tyre and Bint Jbeil areas in Lebanese territory.</p>\n<p>Among the targets that were attacked are buildings and military sites used by the air unit of the Hezbollah terrorist organization. At one of the sites, a military flight path and military infrastructures were found, serving the organization to direct terror towards the rear of the State of Israel.</p>\n<p>Earlier today, two aerial targets belonging to the Hezbollah terrorist organization fell near the village of Blum. There were no casualties in the event and no damage was caused.</p>\n<p>In addition, the IDF attacked with artillery shells and mortars in several other areas in southern Lebanon.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked a series of targets belonging to the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization, including a flight route used by the organization. A short time ago, fighter jets attacked a series of military targets of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization in the Tyre and Bint Jbeil areas in Lebanese territory. Among the targets that were attacked are buildings and military sites used by the air unit of the Hezbollah terrorist organization. At one of the sites, a military flight path and military infrastructures were found, serving the organization to direct terror towards the rear of the State of <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>. Earlier</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4097",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4097
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4097",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4097"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4097/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4097"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4097"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4097"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

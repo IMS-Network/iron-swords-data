@@ -1,0 +1,122 @@
+{
+    "id": 3558,
+    "date": "2024-03-26T16:19:42",
+    "date_gmt": "2024-03-26T14:19:42",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9254/"
+    },
+    "modified": "2024-03-26T16:19:42",
+    "modified_gmt": "2024-03-26T14:19:42",
+    "slug": "9254",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9254/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah&#8217;s Air Unit Bases in Lebanon in Response to Rocket Fire: A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>In response to the rockets fired at Meron: The IDF hit deep into Lebanon at a military compound used by the Hezbollah terror organization&#8217;s air unit, including a runway and several of the organization&#8217;s military buildings. Other terror targets of the organization in southern Lebanon were attacked during the day.</p>\n<p>Just a while ago, fighter jets attacked deep into Lebanon, in the Zabad area, a military compound used by the Hezbollah terror organization&#8217;s air unit, in response to the rocket launches carried out earlier today (Tuesday) towards the airspace of the aerial control unit in the Meron area.<br />\nThe compound was attacked, including a runway for aircraft, and several other military buildings of the terror organization.</p>\n<p>During the day, fighter jets attacked a military building and terror infrastructure in the area of the village Ayta ash-Shab and in the area of the village Kila. A lookout post of the Hezbollah terror organization was attacked in the Maroun al-Ras area.</p>\n<p>Attached is footage from the attack in the Zabad area: https://bit.ly/3VBdfe8<br />\nAttached is footage from the attack on the observation post in the Maroun al-Ras area: https://bit.ly/3IRtDiU</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: In response to the rockets fired at Meron: The IDF hit deep into Lebanon at a military compound used by the <a  href=\"/hezbollah\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a>&#8217;s air unit, including a runway and several of the organization&#8217;s military buildings. Other terror targets of the organization in southern Lebanon were attacked during the day. Just a while ago, fighter jets attacked deep into Lebanon, in the Zabad area, a military compound used by the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terror organization&#8217;s air unit, in response to the rocket launches carried out earlier today (Tuesday) towards the airspace of the aerial control unit in the Meron area.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3558",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3558
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3558",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3558"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3558/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3558"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3558"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3558"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": 8183,
+    "date": "2024-07-05T18:33:34",
+    "date_gmt": "2024-07-05T15:33:34",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10358-en/"
+    },
+    "modified": "2024-07-05T18:33:34",
+    "modified_gmt": "2024-07-05T15:33:34",
+    "slug": "10358-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10358-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Targets: Surface-to-Air Missile Launcher and Terrorist Hideout Neutralized&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF targeted a surface-to-air missile launcher that was used for launches against Israeli aircraft; a military structure of Hezbollah where a terrorist was located was attacked.</p>\n<p>Earlier today, a terrorist was identified entering a military structure of the terrorist organization Hezbollah in the Marjayoun area. Shortly after the identification, IDF fighter jets, in collaboration with the Northern Command, attacked the structure containing the terrorist.</p>\n<p>In addition, IDF fighter jets attacked a surface-to-air missile launcher in the Rihan area that was used for launches against Israeli aircraft.</p>\n<p>The IDF will continue to carry out its operational tasks in the airspace over Lebanon.</p>\n<p>Throughout the day, five launches were identified crossing from Lebanese territory and landing in the Zar&#8217;it area, and three additional launches crossed from Lebanon and landed in the Har Dov area. No alerts were activated in the area according to policy. There are no casualties. IDF forces targeted the sources of fire.</p>\n<p>Attached is documentation of the attack on the military structure with the terrorist: https://bit.ly/4bu7vHb</p>\n<p>Attached is documentation of the attack on the missile launcher: https://bit.ly/3WbLfO7</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF targeted a surface-to-air missile launcher that was used for launches against Israeli aircraft; a military structure of <a  href=\"/hezbollah\">Hezbollah</a> where a terrorist was located was attacked. Earlier today, a terrorist was identified entering a military structure of the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in the Marjayoun area. Shortly after the identification, IDF fighter jets, in collaboration with the Northern Command, attacked the structure containing the terrorist. In addition, IDF fighter jets attacked a surface-to-air missile launcher in the Rihan area that was used for launches against Israeli aircraft. The IDF will continue to carry out its operational tasks in</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8183",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8183,
+        "he": 8184,
+        "ru": 8185
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8183",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8183"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8183/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8183"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8183"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8183"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

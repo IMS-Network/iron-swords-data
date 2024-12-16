@@ -1,0 +1,122 @@
+{
+    "id": 4701,
+    "date": "2023-12-03T12:45:39",
+    "date_gmt": "2023-12-03T10:45:39",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8090/"
+    },
+    "modified": "2023-12-03T12:45:39",
+    "modified_gmt": "2023-12-03T10:45:39",
+    "slug": "8090",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8090/",
+    "title": {
+        "rendered": "&#8220;Unearthing Terror: IDF Discovers and Destroys 500 Hamas Underground Tunnels in Civilian Areas&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Over 800 tunnel openings have been detected since the beginning of the fighting, about 500 of them have been destroyed: IDF forces continue their efforts to destroy the underground network of the terror organization Hamas.</p>\n<p>Since the beginning of the ground opertation in the Gaza Strip, the IDF has located over 800 underground tunnel openings belonging to the terror organization Hamas, of which about 500 have been destroyed with various operational methods, including detonation and sealing off. Some of the discovered tunnel entries connected to strategic assets of the terrorist organization Hamas through an underground network. In addition, many kilometers of tunnel paths have been destroyed.</p>\n<p>The openings were located in civilian areas, and many were found near or within buildings such as educational institutions, kindergartens, mosques, and playgrounds. In some of the tunnels, the IDF discovered several weapons left inside. These findings are further proof of the cynical use that the terrorist organization Hamas makes of the civilian population as a human shield, and as a cover for its terrorist activities.</p>\n<p>After the discovery of the tunnel openings, IDF forces conduct a comprehensive research activity to understand the characteristics of the tunnels and then prepare the underground path for its destruction.</p>\n<p>Attached is evidence of the detection and destruction of tunnel openings by IDF forces: https://bit.ly/47LGH4o.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Over 800 tunnel openings have been detected since the beginning of the fighting, about 500 of them have been destroyed: IDF forces continue their efforts to destroy the underground network of the <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> <a  href=\"/hamas\">Hamas</a>. Since the beginning of the ground opertation in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip, the IDF has located over 800 underground tunnel openings belonging to the terror organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a>, of which about 500 have been destroyed with various operational methods, including detonation and sealing off. Some of the discovered tunnel entries connected to strategic assets of the terrorist organization Hamas through an underground network. In addition,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4701",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4701
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4701",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4701"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4701/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4701"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4701"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4701"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

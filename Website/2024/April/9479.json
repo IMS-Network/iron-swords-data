@@ -1,0 +1,122 @@
+{
+    "id": 3337,
+    "date": "2024-04-17T08:57:39",
+    "date_gmt": "2024-04-17T05:57:39",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9479/"
+    },
+    "modified": "2024-04-17T08:57:39",
+    "modified_gmt": "2024-04-17T05:57:39",
+    "slug": "9479",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9479/",
+    "title": {
+        "rendered": "&#8220;Decisive IDF Operations: Elimination of Terrorists and Destruction of Infrastructure in Central Gaza Strip&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Forces from the 162nd Division continue to operate in the center of the Gaza Strip to eliminate terrorists and destroy terrorist infrastructure; prepared rocket launchers targeting Israeli territory have been attacked.</p>\n<p>Combat teams from the 401st Brigade, Nahal, 215th Artillery Division, and other units under the 162nd Division continue their targeted operations in the center of the Gaza Strip, aimed at eliminating terrorists and destroying terrorist infrastructures.</p>\n<p>As part of the operation in the central area of the Strip, aircraft from the Air Force have eliminated several terrorists and destroyed terrorist infrastructures over the past day. In one of the strikes, an aircraft attacked a group of terrorists who operated an armed drone towards the operating forces in the area.</p>\n<p>In additional attacks, Air Force aircraft, in conjunction with the 215 Artillery Division, attacked several rocket launchers ready to launch towards Israeli territory.</p>\n<p>Fighters of the Nahal Brigade have eliminated a terrorist identified as operating near the forces with a drone over the past day. In addition, the forces shot and killed a terrorist who was identified moving towards them.</p>\n<p>Over the past day, fighter jets and aircraft of the Air Force have attacked over 40 terror targets across the Strip, including underground launch sites, booby-trapped buildings, military buildings including armed terrorists, observation posts, underground terrorist infrastructures, and additional military infrastructures.</p>\n<p>Attached is footage from IDF strikes in the Strip: https://bit.ly/3W2vzwF</p>\n<p>Attached are photos from the forces&#8217; activity in the Strip: https://IDFANC.activetrail.biz/ANC1704202482639397</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Forces from the 162nd Division continue to operate in the center of the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip to eliminate terrorists and destroy terrorist infrastructure; prepared rocket launchers targeting Israeli territory have been attacked. Combat teams from the <a  href=\"https://iron-swords.co.il/t/401st-brigade/\">401st Brigade</a>, Nahal, 215th Artillery Division, and other units under the 162nd Division continue their targeted operations in the center of the Gaza Strip, aimed at eliminating terrorists and destroying terrorist infrastructures. As part of the operation in the central area of the Strip, aircraft from the Air Force have eliminated several terrorists and destroyed terrorist infrastructures over the past day. In one</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3337",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3337
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3337",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3337"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3337/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3337"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3337"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3337"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

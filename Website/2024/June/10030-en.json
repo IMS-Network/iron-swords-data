@@ -1,0 +1,124 @@
+{
+    "id": 9161,
+    "date": "2024-06-07T17:18:13",
+    "date_gmt": "2024-06-07T14:18:13",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10030-en/"
+    },
+    "modified": "2024-06-07T17:18:13",
+    "modified_gmt": "2024-06-07T14:18:13",
+    "slug": "10030-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10030-en/",
+    "title": {
+        "rendered": "&#8220;IDF Precision Strike: Hamas Operatives Neutralized Near UNRWA School in Gaza&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Collaboration between the IDF and the Shin Bet; Hamas operatives in the vicinity of an UNRWA school in Shati in northern Gaza were eliminated in a precise airstrike.</p>\n<p>Earlier today (Friday), Air Force aircraft, guided by the Intelligence Directorate, Shin Bet, and Southern Command, targeted a container where terrorists were located, which served the Hamas terrorist organization and was situated in the vicinity of the &#8220;Asma&#8217;a&#8221; UNRWA school in Shati.</p>\n<p>The container served as an operational facility for Hamas and a concentration point for the internal security activists of the Hamas terrorist organization. In the strike, terrorists who were planning to carry out attacks and advance terrorist plans against our forces in the immediate timeframe were eliminated. The terrorists directed their terrorism from within the school area, exploiting it as cover.</p>\n<p>Prior to the strike, numerous measures were taken to minimize the risk of harm to civilians. The strike was carried out using precision munitions, leading to accurate hits on the terrorists.</p>\n<p>The Hamas terrorist organization systematically, intentionally, and strategically sets up its infrastructure and operates from civilian areas, in complete violation of international law, thereby endangering lives.</p>\n<p>Attached is an infographic of the container targeted by the terrorists in the UNRWA school area: https://idfanc.activetrail.biz/ANC07062024932101</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Collaboration between the IDF and the Shin Bet; <a  href=\"/hamas\">Hamas</a> operatives in the vicinity of an <a  href=\"https://iron-swords.co.il/c/know-your-enemies/unrwa/\">UNRWA</a> school in Shati in northern <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> were eliminated in a precise airstrike. Earlier today (Friday), Air Force aircraft, guided by the Intelligence Directorate, Shin Bet, and Southern Command, targeted a container where terrorists were located, which served the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> terrorist organization and was situated in the vicinity of the &#8220;Asma&#8217;a&#8221; UNRWA school in Shati. The container served as an operational facility for Hamas and a concentration point for the internal security activists of the Hamas terrorist organization. In the strike, terrorists who</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9161",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9161,
+        "he": 9162,
+        "ru": 9163
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9161",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9161"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9161/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9161"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9161"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9161"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

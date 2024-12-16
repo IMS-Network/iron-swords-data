@@ -1,0 +1,124 @@
+{
+    "id": 9110,
+    "date": "2024-06-08T20:02:40",
+    "date_gmt": "2024-06-08T17:02:40",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10047-en/"
+    },
+    "modified": "2024-06-08T20:02:40",
+    "modified_gmt": "2024-06-08T17:02:40",
+    "slug": "10047-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10047-en/",
+    "title": {
+        "rendered": "&#8220;Operation Arnon: Honoring the Heroic Sacrifice of IDF Officer Arnon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The Chief of Staff, Lieutenant General Herzi Halevi, spoke with the Commander of the Yamam, Brigadier General H, at the conclusion of the complex operation, and expressed his deep appreciation for the brave and determined actions of the unit&#8217;s fighters during the rescue operation and throughout the entire war. The Chief of Staff and the Commander of the Yamam agreed that the operation will be named &#8220;Operation Arnon&#8221; in the IDF as a token of recognition for the unit&#8217;s contributions during the war and in honor of Arnon&#8217;s sacrifice.</p>\n<p>Arnon, may his memory be a blessing, was a brave and principled fighter and officer, 36 years old, who left behind a wife and two children. On October 7th, he led the battle at the Yad Mordechai intersection, eliminating dozens of terrorists and preventing their infiltration northward. He then continued to fight in the battle at the Nahal Oz base and in Be&#8217;eri. Arnon was part of the force that breached the apartment where the hostages were held, sustained serious injuries during the encounter, and passed away in the hospital.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The Chief of Staff, Lieutenant General Herzi Halevi, spoke with the Commander of the Yamam, Brigadier General H, at the conclusion of the complex operation, and expressed his deep appreciation for the brave and determined actions of the unit&#8217;s fighters during the rescue operation and throughout the entire war. The Chief of Staff and the Commander of the Yamam agreed that the operation will be named &#8220;Operation Arnon&#8221; in the IDF as a token of recognition for the unit&#8217;s contributions during the war and in honor of Arnon&#8217;s sacrifice. Arnon, may his memory be a blessing, was a</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9110",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9110,
+        "he": 9111,
+        "ru": 9112
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9110",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9110"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9110/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9110"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9110"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9110"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

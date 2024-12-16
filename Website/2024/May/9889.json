@@ -1,0 +1,122 @@
+{
+    "id": 2936,
+    "date": "2024-05-27T10:26:31",
+    "date_gmt": "2024-05-27T07:26:31",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9889/"
+    },
+    "modified": "2024-05-27T10:26:31",
+    "modified_gmt": "2024-05-27T07:26:31",
+    "slug": "9889",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9889/",
+    "title": {
+        "rendered": "&#8220;Relentless IDF Operations: Unmasking and Demolishing Terrorist Infrastructures Across the Gaza Strip&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces continue to operate throughout the strip; the forces have found a lot of military equipment and weaponry, including an explosives laboratory in Jabalia, which was destroyed; an aircraft attacked a launching area from which rockets were fired at Ashkelon during the war.</p>\n<p>Soldiers from Brigade 98 expanded their operations to the east of Jabalia in recent days, where combat team soldiers from Brigade 7 eliminated several terrorists in face-to-face encounters and located plenty of warfare means, including Kalashnikov rifles, mortars, explosives, and other military equipment. The combat team soldiers from Brigade 460 found and demolished an explosives laboratory and several tunnel entrances, combat team soldiers from the Paratroopers Brigade eliminated several terrorists and destroyed dozens of terrorist infrastructures and weaponry.</p>\n<p>Aircraft of the Air Force attacked a launch site in Jabalia from which rockets were launched at Ashkelon during the war.</p>\n<p>Brigade 99 soldiers continue to operate in the center of the strip, they have eliminated terrorists in face-to-face encounters and tank fire, including terrorists who were observing our forces, and combat planes attacked a rocket launcher ready for launch located in the center of the Gaza Strip.</p>\n<p>During the last day, aircraft and combat planes of the Air Force attacked and demolished more than 75 terrorist targets throughout the Gaza Strip. Among the targets that were attacked: weapon warehouses, terrorist squads, rocket launchers, military buildings, observation posts, and other military infrastructure.</p>\n<p>Attached is documentation of the forces&#8217; activity in the Gaza Strip: https://bit.ly/3yDFq2v</p>\n<p>Attached are photos of the forces&#8217; activity throughout the Gaza Strip: https://IDFANC.activetrail.biz/ANC270520237964579</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces continue to operate throughout the strip; the forces have found a lot of military equipment and weaponry, including an explosives laboratory in Jabalia, which was destroyed; an aircraft attacked a launching area from which rockets were fired at <a  href=\"https://iron-swords.co.il/t/ashkelon/\">Ashkelon</a> during the war. Soldiers from Brigade 98 expanded their operations to the east of Jabalia in recent days, where combat team soldiers from Brigade 7 eliminated several terrorists in face-to-face encounters and located plenty of warfare means, including Kalashnikov rifles, mortars, explosives, and other military equipment. The combat team soldiers from Brigade 460 found and demolished an</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2936",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2936
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2936",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2936"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2936/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2936"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2936"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2936"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

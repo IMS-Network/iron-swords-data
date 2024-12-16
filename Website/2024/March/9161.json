@@ -1,0 +1,122 @@
+{
+    "id": 3647,
+    "date": "2024-03-18T09:09:58",
+    "date_gmt": "2024-03-18T07:09:58",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9161/"
+    },
+    "modified": "2024-03-18T09:09:58",
+    "modified_gmt": "2024-03-18T07:09:58",
+    "slug": "9161",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9161/",
+    "title": {
+        "rendered": "&#8220;Inside Report: IDF and Shin Bet Counter Terrorist Shooting from Shifa Hospital Buildings &#8211; A Detailed Analysis&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint message to the IDF spokesperson and Shin Bet spokespeople:</p>\n<p>Documentation of shooting from within the buildings of Shifa Hospital.</p>\n<p>IDF soldiers and Shin Bet operatives continue to act to combat terror in a focused manner in the area of the Shifa Hospital.</p>\n<p>In the past few hours, the soldiers identified shooting towards them from numerous buildings in the hospital, engaged in exchanges of fire, and struck multiple terrorists.</p>\n<p>Attached is documentation of terrorists shooting from within the buildings of the hospital: https://bit.ly/49UgTEc</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint message to the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a> and Shin Bet spokespeople: Documentation of shooting from within the buildings of Shifa Hospital. IDF soldiers and Shin Bet operatives continue to act to combat terror in a focused manner in the area of the Shifa Hospital. In the past few hours, the soldiers identified shooting towards them from numerous buildings in the hospital, engaged in exchanges of fire, and struck multiple terrorists. Attached is documentation of terrorists shooting from within the buildings of the hospital: https://bit.ly/49UgTEc</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3647",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3647
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3647",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3647"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3647/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3647"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3647"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3647"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

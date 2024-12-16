@@ -1,0 +1,124 @@
+{
+    "id": 7273,
+    "date": "2024-07-28T19:55:16",
+    "date_gmt": "2024-07-28T16:55:16",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10666-en/"
+    },
+    "modified": "2024-07-28T19:55:16",
+    "modified_gmt": "2024-07-28T16:55:16",
+    "slug": "10666-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10666-en/",
+    "title": {
+        "rendered": "&#8220;IDF Reveals Missile Trajectory: Lebanon to Majdal Shams Explained&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Attached is the trajectory of the launch from Lebanon to the center of Majdal Shams from IDF&#8217;s operational systems: https://idfanc.activetrail.biz/ANC973050</p>\n<p>Attached is a comparison of parts of the &#8216;Palk&#8217; 1 missile that was launched to the playground in Majdal Shams from Lebanon against the Iranian &#8216;Palk&#8217; 1 missile: https://bit.ly/4cU5IwC</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Attached is the trajectory of the launch from Lebanon to the center of Majdal Shams from IDF&#8217;s operational systems: https://idfanc.activetrail.biz/ANC973050 Attached is a comparison of parts of the &#8216;Palk&#8217; 1 missile that was launched to the playground in Majdal Shams from Lebanon against the Iranian &#8216;Palk&#8217; 1 missile: https://bit.ly/4cU5IwC</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7273",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7273,
+        "he": 7274,
+        "ru": 7275
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7273",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7273"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7273/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7273"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7273"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7273"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

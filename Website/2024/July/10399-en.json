@@ -1,0 +1,124 @@
+{
+    "id": 8069,
+    "date": "2024-07-08T14:31:09",
+    "date_gmt": "2024-07-08T11:31:09",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10399-en/"
+    },
+    "modified": "2024-07-08T14:31:09",
+    "modified_gmt": "2024-07-08T11:31:09",
+    "slug": "10399-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10399-en/",
+    "title": {
+        "rendered": "&#8220;7th Armored Brigade Dismantles Sha&#8217;aja Terror Command Center in Clinic and School&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Command Center in the clinic and ammunition store at the school:<br />\nThe 7th Armored Brigade destroyed the terror command of the Sha&#8217;aja fighters.<br />\nhttps://www.idf.il/214776</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Command Center in the clinic and ammunition store at the school: The <a  href=\"https://iron-swords.co.il/t/7th-armored-brigade-2/\">7th Armored Brigade</a> destroyed the terror command of the Sha&#8217;aja fighters. https://www.idf.il/214776</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8069",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8069,
+        "he": 8070,
+        "ru": 8071
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8069",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8069"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8069/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8069"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8069"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8069"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

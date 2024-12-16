@@ -1,0 +1,122 @@
+{
+    "id": 4845,
+    "date": "2023-11-21T18:39:17",
+    "date_gmt": "2023-11-21T16:39:17",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/7941/"
+    },
+    "modified": "2023-11-21T18:39:17",
+    "modified_gmt": "2023-11-21T16:39:17",
+    "slug": "7941",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/7941/",
+    "title": {
+        "rendered": "&#8220;From Strangers to Lifesavers: The Team that Rescued a Company Commander in Gaza&#8221;"
+    },
+    "content": {
+        "rendered": "<p>A month ago he didn&#8217;t know them, today he lives thanks to them:<br />\n&#8220;Your son will not grow up without a father&#8221; &#8211; the team that saved the company commander in the heart of Gaza<br />\nhttps://www.idf.il/154460</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>A month ago he didn&#8217;t know them, today he lives thanks to them: &#8220;Your son will not grow up without a father&#8221; &#8211; the team that saved the company commander in the heart of <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> https://www.idf.il/154460</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4845",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4845
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4845",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4845"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4845/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4845"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4845"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4845"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

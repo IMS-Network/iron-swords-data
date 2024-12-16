@@ -1,0 +1,122 @@
+{
+    "id": 4526,
+    "date": "2023-12-15T09:51:33",
+    "date_gmt": "2023-12-15T07:51:33",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8267/"
+    },
+    "modified": "2023-12-15T09:51:33",
+    "modified_gmt": "2023-12-15T07:51:33",
+    "slug": "8267",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8267/",
+    "title": {
+        "rendered": "&#8220;IDF Successfully Recovers and Returns Abducted Soldiers: A Tribute to Sgt. Maj. Nick Baizer and Cpl. Ron Shurman&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF has recovered the bodies of the abductees, Sgt. Maj. Nick Baizer, may his memory be a blessing, and Cpl. Ron Shurman, may his memory be a blessing.</p>\n<p>The bodies of the abductees, Sgt. Maj. Nick Baizer, may his memory be a blessing, and Cpl. Ron Shurman, may his memory be a blessing, were extracted by IDF forces from the Gaza Strip to Israeli territory by fighters from the 551 Brigade and Unit 504 in the Intelligence Corps, under the command of the 162nd Division.</p>\n<p>Following an identification process conducted by medical and military rabbinical personnel, IDF representatives today informed the families of Sgt. Maj. Nick Baizer, may his memory be a blessing, and Cpl. Ron Shurman, may his memory be a blessing, who were abducted on October 23rd, 2023, by the Hamas terror organization, that their bodies have been recovered and returned to Israeli territory.</p>\n<p>Nick, may his memory be a blessing (19), from Be&#8217;er Sheva, was abducted during his service as a driver in the Gaza Division. Ron, may his memory be a blessing (19), from Lehavim, was abducted during his service as a communications and coordination NCO in the Gaza Division. We share in the families&#8217; sorrow and will continue to accompany them.</p>\n<p>The national mission we face is to locate the missing and bring all abductees back home. We are working together with security agencies, using all intelligence and operational means to bring all the missing and the abductees back home.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF has recovered the bodies of the abductees, Sgt. Maj. Nick Baizer, may his memory be a blessing, and Cpl. Ron Shurman, may his memory be a blessing. The bodies of the abductees, Sgt. Maj. Nick Baizer, may his memory be a blessing, and Cpl. Ron Shurman, may his memory be a blessing, were extracted by IDF forces from the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip to Israeli territory by fighters from the 551 Brigade and Unit 504 in the Intelligence Corps, under the command of the 162nd Division. Following an identification process conducted by medical and military rabbinical personnel, IDF</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4526",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4526
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4526",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4526"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4526/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4526"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4526"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4526"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

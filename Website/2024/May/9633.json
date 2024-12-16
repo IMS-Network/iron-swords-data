@@ -1,0 +1,122 @@
+{
+    "id": 3188,
+    "date": "2024-05-06T09:30:01",
+    "date_gmt": "2024-05-06T06:30:01",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9633/"
+    },
+    "modified": "2024-05-06T09:30:01",
+    "modified_gmt": "2024-05-06T06:30:01",
+    "slug": "9633",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9633/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes: Decimating Terror Targets and Infrastructure in Central Strip &#8211; An Inside Look&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Striking armed terrorists and terror infrastructures; 99 Brigade soldiers continue to operate in the center of the Strip</p>\n<p>During the night, air force combat planes attacked terror targets in the Rafah area, the focus of which was the launching of rockets last night towards Kerem Shalom, including a lookout post, a military building, and terror infrastructure.</p>\n<p>In addition, the combat team of the 679 Brigade identified a cell of armed terrorists and with a quick closing of the circle an air force vehicle attacked and eliminated the terrorists.</p>\n<p>Over the past day, air force combat planes attacked terror targets across the Strip, including military buildings, launch sites, and booby-trapped buildings.<br />\nIn addition, combat helicopters attacked a warfare facility and a building from which shots were fired towards our forces.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Striking armed terrorists and terror infrastructures; 99 Brigade soldiers continue to operate in the center of the Strip During the night, air force combat planes attacked terror targets in the Rafah area, the focus of which was the launching of rockets last night towards Kerem Shalom, including a lookout post, a military building, and terror infrastructure. In addition, the combat team of the 679 Brigade identified a cell of armed terrorists and with a quick closing of the circle an air force vehicle attacked and eliminated the terrorists. Over the past day, air force combat planes attacked terror</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3188",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3188
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3188",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3188"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3188/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3188"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3188"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3188"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

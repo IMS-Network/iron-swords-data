@@ -1,0 +1,122 @@
+{
+    "id": 3814,
+    "date": "2024-02-28T08:46:02",
+    "date_gmt": "2024-02-28T06:46:02",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8989/"
+    },
+    "modified": "2024-02-28T08:46:02",
+    "modified_gmt": "2024-02-28T06:46:02",
+    "slug": "8989",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8989/",
+    "title": {
+        "rendered": "&#8220;Decisive IDF Operations: Eliminating Terror Threats and Seizing Weapons in Khan Yunis and the Zaytun Neighborhood&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces eliminated dozens of terrorists in combat in the past day: 98th Division forces continue to eliminate terrorists and locate weapons in Khan Yunis. 162nd Division forces are operating in the Zaytun neighborhood; fighters of Unit 414 closed in and directed an aircraft that eliminated a terrorist who fired at our forces in Khan Yunis.</p>\n<p>The Southern Command&#8217;s fire center and the Air Force attacked eight significant targets in the area from which a rocket was fired at Ashkelon last night and subsequently, blew up terror infrastructures from which terrorists came out to commit terror acts in the Strip.</p>\n<p>The combat team of the 7th Brigade raided buildings in west Khan Yunis and located war materials and military equipment. The fighters eliminated five terrorists by precisely firing a missile at the vehicle they were traveling in. In addition, combat planes attacked two military buildings and eliminated terrorists who were in them.</p>\n<p>Paratrooper Brigade combat team fighters killed several terrorists by sniper fire.</p>\n<p>Combat team fighters of the Givati Brigade identified two terrorists and, closing in with the brigade&#8217;s fire system, they were killed by an airstrike.</p>\n<p>Fire center of the 98th Division directed a combat plane to attack terrorists who were laying an ambush against our forces in a military building in the Khan Yunis area. Secondary explosions identified after the attack testified to the many weapons they had in their possession.</p>\n<p>In the center of the Strip, the fighters of the 162nd Division continue to operate in the Zaytun neighborhood. Fighters of the Nahal Brigade&#8217;s combat team killed several terrorists during the last day and located war materials in the area. In one of the operations, the fighters on the ground identified a cell of terrorists and killed them by an attack of a combat helicopter.</p>\n<p>Attached is documentation of the elimination of the terrorist who fired at our forces, directed by Unit 414: https://bit.ly/3SYuEul</p>\n<p>Attached is documentation of the IDF forces operating in the Strip: https://bit.ly/49NYjwU</p>\n<p>Photos from the forces&#8217; activities are attached: https://IDFANC.activetrail.biz/ANC28022024.28915617</p>\n<p>Attached is footage of IDF attacks in the Strip area: https://bit.ly/42T2plh</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces eliminated dozens of terrorists in combat in the past day: 98th Division forces continue to eliminate terrorists and locate weapons in Khan Yunis. 162nd Division forces are operating in the Zaytun neighborhood; fighters of Unit 414 closed in and directed an aircraft that eliminated a terrorist who fired at our forces in Khan Yunis. The Southern Command&#8217;s fire center and the Air Force attacked eight significant targets in the area from which a rocket was fired at <a  href=\"https://iron-swords.co.il/t/ashkelon/\">Ashkelon</a> last night and subsequently, blew up terror infrastructures from which terrorists came out to commit terror acts in</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3814",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3814
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3814",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3814"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3814/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3814"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3814"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3814"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

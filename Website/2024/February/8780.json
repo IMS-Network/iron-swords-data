@@ -1,0 +1,122 @@
+{
+    "id": 4022,
+    "date": "2024-02-03T20:51:52",
+    "date_gmt": "2024-02-03T18:51:52",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8780/"
+    },
+    "modified": "2024-02-03T20:51:52",
+    "modified_gmt": "2024-02-03T18:51:52",
+    "slug": "8780",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8780/",
+    "title": {
+        "rendered": "&#8220;Inside IDF&#8217;s Northern Border Defense: Unveiling Secret Attacks and Weaponry Escapes in Lebanon and Syria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Attached are the materials presented in the update by the IDF spokesperson, Brigadier General Daniel Hageri, on the defense and attack efforts on the northern border.</p>\n<p>Attached are documentations from IDF attacks in Lebanese territory:<br />\nhttps://bit.ly/3HNTLuB<br />\nhttps://bit.ly/3SrAkwl</p>\n<p>Attached is documentation of readiness and activity of the forces on the northern border:<br />\nhttps://bit.ly/3HMQonu</p>\n<p>Attached is an infographic of the route of weaponry escape to Lebanon through Iran and Syria:<br />\nhttps://bit.ly/42thcTC</p>\n<p>Attached is documentation of attacks in Syria and Lebanon that have not yet been revealed:</p>\n<p>Attack on the &#8220;Golan file&#8221; unit &#8211; a Hezbollah branch in Syria<br />\nhttps://bit.ly/3SkKSgS</p>\n<p>Attack on terrorists operating to launch an unmanned aerial vehicle<br />\nhttps://bit.ly/3uug8lz</p>\n<p>Attack on a storage site for ground-to-air missiles in Lebanon<br />\nhttps://bit.ly/42sCzEd</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Attached are the materials presented in the update by the IDF spokesperson, Brigadier General Daniel Hageri, on the defense and attack efforts on the northern border. Attached are documentations from IDF attacks in Lebanese territory: https://bit.ly/3HNTLuB https://bit.ly/3SrAkwl Attached is documentation of readiness and activity of the forces on the northern border: https://bit.ly/3HMQonu Attached is an infographic of the route of weaponry escape to Lebanon through <a  href=\"https://iron-swords.co.il/c/know-your-enemies/iran/\">Iran</a> and Syria: https://bit.ly/42thcTC Attached is documentation of attacks in Syria and Lebanon that have not yet been revealed: Attack on the &#8220;Golan file&#8221; unit &#8211; a <a  href=\"/hezbollah\">Hezbollah</a> branch in Syria https://bit.ly/3SkKSgS Attack</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4022",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4022
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4022",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4022"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4022/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4022"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4022"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4022"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

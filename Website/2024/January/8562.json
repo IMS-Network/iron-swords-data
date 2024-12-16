@@ -1,0 +1,122 @@
+{
+    "id": 4235,
+    "date": "2024-01-09T20:57:02",
+    "date_gmt": "2024-01-09T18:57:02",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8562/"
+    },
+    "modified": "2024-01-09T20:57:02",
+    "modified_gmt": "2024-01-09T18:57:02",
+    "slug": "8562",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8562/",
+    "title": {
+        "rendered": "&#8220;IDF Eliminates Hezbollah Air Unit Commander in Southern Lebanon: A Closer Look at Ali Hussein Berji&#8217;s Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>The IDF has eliminated the commander of the southern Lebanon region in the Hezbollah air unit</p>\n<p>Today (Tuesday), the IDF, using an aircraft from the air force, eliminated Ali Hussein Berji, the commander of the southern Lebanon region in Hezbollah&#8217;s air unit. Ali led dozens of operations through missile bombing and gathering against Israel and IDF forces, including the attack on the Northern Command headquarters earlier today. </p>\n<p>Before his elimination, a missile launch squad from the air unit in Hezbollah, which was on its way to launch bombing missiles towards targets in Israel, was also terminated.</p>\n<p>Attached is a documentation on the topic: https://bit.ly/48NOEpw.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: The IDF has eliminated the commander of the southern Lebanon region in the <a  href=\"/hezbollah\">Hezbollah</a> air unit Today (Tuesday), the IDF, using an aircraft from the air force, eliminated Ali Hussein Berji, the commander of the southern Lebanon region in <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a>&#8217;s air unit. Ali led dozens of operations through missile bombing and gathering against <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> and IDF forces, including the attack on the Northern Command headquarters earlier today. Before his elimination, a missile launch squad from the air unit in Hezbollah, which was on its way to launch bombing missiles towards targets in Israel, was also terminated. Attached is</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4235",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4235
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4235",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4235"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4235/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4235"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4235"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4235"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

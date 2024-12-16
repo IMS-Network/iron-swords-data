@@ -1,0 +1,122 @@
+{
+    "id": 4645,
+    "date": "2023-12-07T10:06:23",
+    "date_gmt": "2023-12-07T08:06:23",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8147/"
+    },
+    "modified": "2023-12-07T10:06:23",
+    "modified_gmt": "2023-12-07T08:06:23",
+    "slug": "8147",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8147/",
+    "title": {
+        "rendered": "&#8220;IDF Continues Training Amid Hanukkah: Public Urged to Avoid Prohibited Zones for Safety&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF will continue to train in the training areas (firing zones) across the country during the weekend and Hanukkah.</p>\n<p>The IDF will continue to train in the training areas (firing zones) throughout the country over the weekend, emphasizing that entering training areas is forbidden and constitutes a life-threatening danger and disrupts the forces&#8217; activities. In addition, there may be sounds of shooting and explosions in nearby communities.</p>\n<p>The IDF pleads, in every possible way, to the public not to enter prohibited areas, even during Hanukkah and to allow the security forces to continue and carry out their missions &#8211; this is a matter of life-threatening danger.</p>\n<p>The IDF stresses that if you encounter debris of confrontation, the guideline is to keep away and report to the Israeli Police. This debris poses a life-threatening danger and may contain explosive materials. These guidelines save lives.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF will continue to train in the training areas (firing zones) across the country during the weekend and Hanukkah. The IDF will continue to train in the training areas (firing zones) throughout the country over the weekend, emphasizing that entering training areas is forbidden and constitutes a life-threatening danger and disrupts the forces&#8217; activities. In addition, there may be sounds of shooting and explosions in nearby communities. The IDF pleads, in every possible way, to the public not to enter prohibited areas, even during Hanukkah and to allow the security forces to continue and carry out their</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4645",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4645
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4645",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4645"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4645/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4645"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4645"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4645"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

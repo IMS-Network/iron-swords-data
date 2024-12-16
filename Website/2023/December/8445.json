@@ -1,0 +1,122 @@
+{
+    "id": 4349,
+    "date": "2023-12-29T09:04:10",
+    "date_gmt": "2023-12-29T07:04:10",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8445/"
+    },
+    "modified": "2023-12-29T09:04:10",
+    "modified_gmt": "2023-12-29T07:04:10",
+    "slug": "8445",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8445/",
+    "title": {
+        "rendered": "&#8220;IDF Forces Thwart Terrorist Attacks in Khan Yunis: A Comprehensive Coverage of Recent Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces are expanding their activity in the Khan Yunis area; an unmanned aircraft detected a terrorist aiming an RPG at the forces, tanks from the 460 battle team neutralized him before he could fire.</p>\n<p>Soldiers of the 460th Divisional Combat Team neutralized dozens of terrorists in various encounters over the past day, in air strikes and by shelling, machine guns and tanks.</p>\n<p>In one incident, an aircraft identified a terrorist holding an RPG and running towards the soldiers, the forces neutralized the terrorist with tank fire before he shot at our forces.</p>\n<p>The paratrooper brigade&#8217;s divisional combat team began an attack last night to destroy terror infrastructure in the city of Khan Yunis, during which they identified a terrorist pulling out an RPG from a pit and threw several grenades towards him.</p>\n<p>The soldiers also identified several terrorists hiding in a building and neutralized them with tank fire. Additionally, a divisional combat team 7 identified a terrorist in Khan Yunis who was about 100 meters away from the forces, the soldiers directed an unmanned aircraft which neutralized the terrorist. </p>\n<p>In another incident, the combat team located a group of terrorists fortified in a building and a fighter jet attacked the building and neutralized the terrorists.</p>\n<p>The divisional combat team 261 (Brigade 1) purposefully scanned the home of a Hamas terrorist on the outskirts of Jabalia, during the scans, military documents of the Hamas terror organization, weapons, and booklets learning about the IDF were found in his home. In addition, the soldiers found pictures of children holding weapons, grenades, and RPGs. </p>\n<p>Attached is documentation of the terrorist being neutralized by the divisional combat team 460: https://bit.ly/3RZLtWf</p>\n<p>Attached is IDF strike documentation: https://bit.ly/3Hk8e1f</p>\n<p>Attached are the pictures found by the soldiers from squad 261 (Brigade 1): https://IDFANC.activetrail.biz/ANC28122023FNIUERWIUBVYUI</p>\n<p>Attached are pictures of the forces&#8217; activity: https://IDFANC.activetrail.biz/ANC28122023FMNEWOFNEIUBEF</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces are expanding their activity in the Khan Yunis area; an unmanned aircraft detected a terrorist aiming an RPG at the forces, tanks from the 460 battle team neutralized him before he could fire. Soldiers of the 460th Divisional Combat Team neutralized dozens of terrorists in various encounters over the past day, in air strikes and by shelling, machine guns and tanks. In one incident, an aircraft identified a terrorist holding an RPG and running towards the soldiers, the forces neutralized the terrorist with tank fire before he shot at our forces. The paratrooper brigade&#8217;s divisional combat</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4349",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4349
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4349",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4349"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4349/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4349"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4349"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4349"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

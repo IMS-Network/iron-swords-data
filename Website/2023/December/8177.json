@@ -1,0 +1,122 @@
+{
+    "id": 4615,
+    "date": "2023-12-08T20:01:35",
+    "date_gmt": "2023-12-08T18:01:35",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8177/"
+    },
+    "modified": "2023-12-08T20:01:35",
+    "modified_gmt": "2023-12-08T18:01:35",
+    "slug": "8177",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8177/",
+    "title": {
+        "rendered": "&#8220;Unveiling Terror Tactics: Inside the Face-to-Face Battles and Foiled Ambush in Shuja&#8217;iyya&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Special documentation of face-to-face battles in the heart of Shuja&#8217;iyya: The terrorists tried to draw the force into a booby-trapped ambush &#8211; and were eliminated.<br />\nhttps://www.idf.il/160359</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Special documentation of face-to-face battles in the heart of Shuja&#8217;iyya: The terrorists tried to draw the force into a booby-trapped ambush &#8211; and were eliminated. https://www.idf.il/160359</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4615",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4615
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4615",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4615"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4615/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4615"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4615"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4615"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

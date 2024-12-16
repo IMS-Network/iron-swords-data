@@ -1,0 +1,124 @@
+{
+    "id": 8036,
+    "date": "2024-07-09T13:00:08",
+    "date_gmt": "2024-07-09T10:00:08",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10410-en/"
+    },
+    "modified": "2024-07-09T13:00:08",
+    "modified_gmt": "2024-07-09T10:00:08",
+    "slug": "10410-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10410-en/",
+    "title": {
+        "rendered": "&#8220;IDF&#8217;s Yahalom Unit Dismantles 6km of Tunnels, Eliminates 150 Terrorists&#8221;"
+    },
+    "content": {
+        "rendered": "<p>About 150 terrorists were eliminated and a large quantity of weaponry was located:<br />\nYahalom fighters destroyed 6 kilometers of tunnels in Shujaiya.<br />\nhttps://www.idf.il/215265</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>About 150 terrorists were eliminated and a large quantity of weaponry was located: Yahalom fighters destroyed 6 kilometers of tunnels in Shujaiya. https://www.idf.il/215265</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8036",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8036,
+        "he": 8037,
+        "ru": 8038
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8036",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8036"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8036/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8036"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8036"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8036"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

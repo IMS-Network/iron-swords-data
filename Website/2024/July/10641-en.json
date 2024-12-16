@@ -1,0 +1,124 @@
+{
+    "id": 7348,
+    "date": "2024-07-26T15:01:22",
+    "date_gmt": "2024-07-26T12:01:22",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10641-en/"
+    },
+    "modified": "2024-07-26T15:01:22",
+    "modified_gmt": "2024-07-26T12:01:22",
+    "slug": "10641-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10641-en/",
+    "title": {
+        "rendered": "&#8220;Golani Brigade&#8217;s Commander: Preparing for a Decisive Attack Against the Enemy&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Commander of the Northern Command to the fighters of the Golani Brigade:<br />\n&#8220;When we go out to attack, it will be decisive and conclusive. Our faces and our barrels are aimed at the enemy.&#8221;</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Commander of the Northern Command to the fighters of the <a  href=\"https://iron-swords.co.il/t/golani-brigade-2/\">Golani Brigade</a>: &#8220;When we go out to attack, it will be decisive and conclusive. Our faces and our barrels are aimed at the enemy.&#8221;</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7348",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7348,
+        "he": 7349,
+        "ru": 7350
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7348",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7348"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7348/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7348"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7348"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7348"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

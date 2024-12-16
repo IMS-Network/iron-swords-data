@@ -1,0 +1,124 @@
+{
+    "id": 7913,
+    "date": "2024-07-12T17:31:22",
+    "date_gmt": "2024-07-12T14:31:22",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10451-en/"
+    },
+    "modified": "2024-07-12T17:31:22",
+    "modified_gmt": "2024-07-12T14:31:22",
+    "slug": "10451-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10451-en/",
+    "title": {
+        "rendered": "&#8220;IDF and Shin Bet Strike: Key Hamas Leader Eliminated in Gaza Operation&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint statement from the IDF Spokesperson and the Shin Bet Spokesperson:</p>\n<p>The IDF and Shin Bet have eliminated the Deputy Commander of the Shuja&#8217;iyya Battalion of the Hamas terrorist organization in the Gaza Strip.</p>\n<p>The IDF, with intelligence guidance from Shin Bet and AMAN, eliminated the Deputy Commander of the Shuja&#8217;iyya Battalion of the Hamas terrorist organization, the terrorist Iman Shweidah, using a fighter jet.</p>\n<p>Iman previously served as a senior figure in the operations headquarters of the Hamas terrorist organization and was involved in directing the massacre on October 7th. During the war, he participated in fighting within the Shuja&#8217;iyya Battalion and coordinated numerous terrorist activities against our forces.</p>\n<p>Alongside Iman, a company commander in the Shuja&#8217;iyya Battalion, the terrorist Abada Abu Hein, who was a veteran fighter in the battalion and took a significant part in the fighting, was also eliminated.</p>\n<p>Additionally, as part of the action of Division 98 in the Shuja&#8217;iyya area, more than 150 additional terrorists were eliminated.</p>\n<p>Attached is the identification document of the Deputy Commander of the Shuja&#8217;iyya Battalion of the Hamas terrorist organization, the terrorist Iman Shweidah: https://IDFANC.activetrail.biz/ANC120720242378513245</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint statement from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a> and the Shin Bet Spokesperson: The IDF and Shin Bet have eliminated the Deputy Commander of the Shuja&#8217;iyya Battalion of the <a  href=\"/hamas\">Hamas</a> terrorist organization in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. The IDF, with intelligence guidance from Shin Bet and AMAN, eliminated the Deputy Commander of the Shuja&#8217;iyya Battalion of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> terrorist organization, the terrorist Iman Shweidah, using a fighter jet. Iman previously served as a senior figure in the operations headquarters of the Hamas terrorist organization and was involved in directing the massacre on October 7th. During the war, he participated in fighting within the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7913",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7913,
+        "he": 7914,
+        "ru": 7915
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7913",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7913"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7913/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7913"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7913"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7913"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": 7231,
+    "date": "2024-07-30T10:57:49",
+    "date_gmt": "2024-07-30T07:57:49",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10680-en/"
+    },
+    "modified": "2024-07-30T10:57:49",
+    "modified_gmt": "2024-07-30T07:57:49",
+    "slug": "10680-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10680-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes 10 Hezbollah Targets in Southern Lebanon: Key Updates and Insights&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Hezbollah terrorist, weapons cache, and additional terrorist targets: The IDF attacked approximately 10 Hezbollah terror targets in southern Lebanon since evening hours.</p>\n<p>Since the evening, the IDF has attacked approximately 10 Hezbollah terror targets in seven different areas in southern Lebanon using aircraft, fighter jets, and artillery.</p>\n<p>In the attacks carried out, both from the air and from the ground, a Hezbollah terrorist was eliminated in the Beit Lif area, and a weapons cache, terror infrastructure, military structures, and a launcher used by Hezbollah in southern Lebanon were destroyed.</p>\n<p>Attached is documentation from the attacks: https://bit.ly/46sfdkj</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: <a  href=\"/hezbollah\">Hezbollah</a> terrorist, weapons cache, and additional terrorist targets: The IDF attacked approximately 10 <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terror targets in southern Lebanon since evening hours. Since the evening, the IDF has attacked approximately 10 Hezbollah terror targets in seven different areas in southern Lebanon using aircraft, fighter jets, and artillery. In the attacks carried out, both from the air and from the ground, a Hezbollah terrorist was eliminated in the Beit Lif area, and a weapons cache, terror infrastructure, military structures, and a launcher used by Hezbollah in southern Lebanon were destroyed. Attached is documentation from the attacks: https://bit.ly/46sfdkj</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7231",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7231,
+        "he": 7232,
+        "ru": 7233
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7231",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7231"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7231/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7231"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7231"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7231"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

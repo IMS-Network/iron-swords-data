@@ -1,0 +1,122 @@
+{
+    "id": 3441,
+    "date": "2024-04-08T09:16:31",
+    "date_gmt": "2024-04-08T06:16:31",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9372/"
+    },
+    "modified": "2024-04-08T09:16:31",
+    "modified_gmt": "2024-04-08T06:16:31",
+    "slug": "9372",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9372/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes: Elimination of Senior Hezbollah Commander and Disruption of Terror Routes in Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson: </p>\n<p>Advanced many launches towards the territory of the country, planned and executed terror routes against the Israeli rear; the IDF eliminated the commander of the Hajar sector of the Radwan Force in Lebanon last night.</p>\n<p>Air Force combat aircraft attacked and eliminated last night in the Al-Sultaniya area in Lebanon, Ali Ahmad Hussein, the commander of the Hajar attack area (Mount Reim Heights) of the Radwan Force in the Hezbollah terrorist organization.</p>\n<p>Ali Ahmad Hussein served as a veteran and senior figure in the terrorist organization, equivalent in his rank to a brigade commander.<br />\nAs part of his role, he was responsible for planning and executing terror routes in the Mount Reim Heights area against the Israeli rear. </p>\n<p>Hussein advanced many launches towards the territory of the country since the beginning of the war and as part of his attack last night two additional terrorists who were under his command in the terrorist organization were killed.</p>\n<p>Attached is the documentation of the elimination: https://bit.ly/3VOeiHs</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Advanced many launches towards the territory of the country, planned and executed terror routes against the Israeli rear; the IDF eliminated the commander of the Hajar sector of the Radwan Force in Lebanon last night. Air Force combat aircraft attacked and eliminated last night in the Al-Sultaniya area in Lebanon, Ali Ahmad Hussein, the commander of the Hajar attack area (Mount Reim Heights) of the Radwan Force in the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization. Ali Ahmad Hussein served as a veteran and senior figure in the terrorist organization, equivalent in his rank to a brigade commander. As part of his</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3441",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3441
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3441",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3441"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3441/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3441"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3441"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3441"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

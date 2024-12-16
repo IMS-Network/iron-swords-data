@@ -1,0 +1,122 @@
+{
+    "id": 4049,
+    "date": "2024-01-31T16:14:26",
+    "date_gmt": "2024-01-31T14:14:26",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8752/"
+    },
+    "modified": "2024-01-31T16:14:26",
+    "modified_gmt": "2024-01-31T14:14:26",
+    "slug": "8752",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8752/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Military Compound in Southern Lebanon: A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked a series of military buildings in the compound of the Hezbollah terrorist organization in southern Lebanon</p>\n<p>A short while ago, fighter jets attacked a compound of the Hezbollah terrorist organization that included several military buildings in the Rashef village in southern Lebanon.</p>\n<p>Additionally, the IDF carried out artillery fire towards the areas of Alma esh-Sha&#8217;ab and Aytaroun.</p>\n<p>Moreover, a number of launches were identified towards the regions of Yiftah, Yaara, and Hanita, there are no casualties. The IDF attacked the sources of fire in Lebanon territory.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked a series of military buildings in the compound of the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization in southern Lebanon A short while ago, fighter jets attacked a compound of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization that included several military buildings in the Rashef village in southern Lebanon. Additionally, the IDF carried out artillery fire towards the areas of Alma esh-Sha&#8217;ab and Aytaroun. Moreover, a number of launches were identified towards the regions of Yiftah, Yaara, and Hanita, there are no casualties. The IDF attacked the sources of fire in Lebanon territory.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4049",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4049
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4049",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4049"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4049/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4049"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4049"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4049"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

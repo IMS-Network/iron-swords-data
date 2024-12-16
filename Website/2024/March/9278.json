@@ -1,0 +1,122 @@
+{
+    "id": 3534,
+    "date": "2024-03-28T20:27:24",
+    "date_gmt": "2024-03-28T18:27:24",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9278/"
+    },
+    "modified": "2024-03-28T20:27:24",
+    "modified_gmt": "2024-03-28T18:27:24",
+    "slug": "9278",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9278/",
+    "title": {
+        "rendered": "&#8220;Exposing Ra&#8217;ad Thabet: Unmasking the Hamas Military Leader and Destruction of Strategic Tunnel&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint message to IDF spokesperson and Shin Bet spokesperson:</p>\n<p>Attached is an identity card of Ra&#8217;ad Thabet, the head of the human forces unit of the military wing of the Hamas terror organization: https://IDFANC.activetrail.biz/ANC6465</p>\n<p>Attached is documentation of the destruction of the tunnel that crossed from north to south of the Strip: https://bit.ly/3vvJDnH</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint message to <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a> and Shin Bet spokesperson: Attached is an identity card of Ra&#8217;ad Thabet, the head of the human forces unit of the military wing of the <a  href=\"/hamas\">Hamas</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a>: https://IDFANC.activetrail.biz/ANC6465 Attached is documentation of the destruction of the tunnel that crossed from north to south of the Strip: https://bit.ly/3vvJDnH</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3534",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3534
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3534",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3534"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3534/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3534"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3534"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3534"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

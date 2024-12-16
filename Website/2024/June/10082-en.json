@@ -1,0 +1,124 @@
+{
+    "id": 9005,
+    "date": "2024-06-11T09:33:29",
+    "date_gmt": "2024-06-11T06:33:29",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10082-en/"
+    },
+    "modified": "2024-06-11T09:33:29",
+    "modified_gmt": "2024-06-11T06:33:29",
+    "slug": "10082-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10082-en/",
+    "title": {
+        "rendered": "&#8220;IDF Intensifies Operations in Gaza: 35 Terror Targets Struck in 24 Hours&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Forces of Division 162 continue to fight in the Rafah area; over the past 24 hours, Air Force aircraft have attacked about 35 terror targets across the Gaza Strip.</p>\n<p>Soldiers of Division 162 continue operations in Rafah. In the last 24 hours, fighters from the Givati Brigade eliminated armed terrorist cells during short-range encounters, alongside identifying the threat in several targeted raids in the area. Air Force aircraft, guided by the 215th Artillery Brigade, eliminated a sniper from the Hamas terror organization who posed a threat to the forces on the ground.</p>\n<p>Forces of Division 99 continue to operate in the central Gaza Strip. As part of attacks carried out in the area, Air Force aircraft, directed by the forces, struck a terrorist cell that posed a threat to the forces on the ground.</p>\n<p>In the last 24 hours, Air Force aircraft and fighter jets have attacked and destroyed about 35 terror targets across the Gaza Strip. Among the targets attacked were military buildings, arms storage facilities, launch sites, observation posts, terrorist cells, and additional military infrastructures.</p>\n<p>Attached are images from the IDF operations in the Gaza Strip: https://idfanc.activetrail.biz/ANC1106202493847</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Forces of Division 162 continue to fight in the Rafah area; over the past 24 hours, Air Force aircraft have attacked about 35 terror targets across the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. Soldiers of Division 162 continue operations in Rafah. In the last 24 hours, fighters from the <a  href=\"https://iron-swords.co.il/t/givati-brigade/\">Givati Brigade</a> eliminated armed terrorist cells during short-range encounters, alongside identifying the threat in several targeted raids in the area. Air Force aircraft, guided by the 215th Artillery Brigade, eliminated a sniper from the <a  href=\"/hamas\">Hamas</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> who posed a threat to the forces on the ground. Forces of Division 99 continue to</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9005",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9005,
+        "he": 9006,
+        "ru": 9007
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9005",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9005"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9005/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9005"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9005"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9005"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

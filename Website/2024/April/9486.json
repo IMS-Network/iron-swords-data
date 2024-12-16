@@ -1,0 +1,122 @@
+{
+    "id": 3331,
+    "date": "2024-04-17T17:54:40",
+    "date_gmt": "2024-04-17T14:54:40",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9486/"
+    },
+    "modified": "2024-04-17T17:54:40",
+    "modified_gmt": "2024-04-17T14:54:40",
+    "slug": "9486",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9486/",
+    "title": {
+        "rendered": "&#8220;Israeli Combat Aircraft Strike Hezbollah Targets in Southern Lebanon: Inside the IDF&#8217;s Response to Missile Attacks&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>A short time ago, combat aircraft attacked military buildings and terrorist infrastructure of the Hezbollah terrorist organization in the areas of al-Nakourah and Yaroun in southern Lebanon.</p>\n<p>In recent hours, several launches of anti-tank missiles and mortars have been identified from Lebanese territory towards Arab al-Aramshe area. As a result of these launches, six soldiers were seriously injured, two were moderately injured, and six others were lightly injured. The soldiers were evacuated for medical treatment and their families have been updated. The IDF attacked the sources of fire.</p>\n<p>Attached is footage from the attacks: https://bit.ly/4aVLGk3</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: A short time ago, combat aircraft attacked military buildings and terrorist infrastructure of the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization in the areas of al-Nakourah and Yaroun in southern Lebanon. In recent hours, several launches of anti-tank missiles and mortars have been identified from Lebanese territory towards Arab al-Aramshe area. As a result of these launches, six soldiers were seriously injured, two were moderately injured, and six others were lightly injured. The soldiers were evacuated for medical treatment and their families have been updated. The IDF attacked the sources of fire. Attached is footage from the attacks: https://bit.ly/4aVLGk3</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3331",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3331
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3331",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3331"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3331/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3331"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3331"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3331"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

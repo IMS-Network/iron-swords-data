@@ -1,0 +1,124 @@
+{
+    "id": 7114,
+    "date": "2024-08-01T23:15:57",
+    "date_gmt": "2024-08-01T20:15:57",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10721-en/"
+    },
+    "modified": "2024-08-01T23:15:57",
+    "modified_gmt": "2024-08-01T20:15:57",
+    "slug": "10721-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10721-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Launcher After Projectiles Target Western Galilee&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>In a quick closing of the loop; the IDF attacked the launcher from which the projectiles directed at the western Galilee were identified.</p>\n<p>Following the alerts that were activated at 21:44 in the western Galilee area, several projectiles were identified crossing from Lebanon, some were intercepted and the rest fell in open areas, with no casualties.</p>\n<p>In a quick closing of the loop, air force fighter jets attacked the launcher of the Hezbollah terrorist organization from which the projectiles were identified in the Yater area in southern Lebanon.</p>\n<p>Earlier today, the IDF fired artillery to remove the threat in the Ramish and Ramiah areas in southern Lebanon.</p>\n<p>Attached is documentation from the attack on the launcher: https://bit.ly/3LOTJV7</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: In a quick closing of the loop; the IDF attacked the launcher from which the projectiles directed at the western Galilee were identified. Following the alerts that were activated at 21:44 in the western Galilee area, several projectiles were identified crossing from Lebanon, some were intercepted and the rest fell in open areas, with no casualties. In a quick closing of the loop, air force fighter jets attacked the launcher of the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization from which the projectiles were identified in the Yater area in southern Lebanon. Earlier today, the IDF fired artillery to remove the threat</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7114",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7114,
+        "he": 7115,
+        "ru": 7116
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7114",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7114"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7114/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7114"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7114"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7114"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 3282,
+    "date": "2024-04-23T10:03:34",
+    "date_gmt": "2024-04-23T07:03:34",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9539/"
+    },
+    "modified": "2024-04-23T10:03:34",
+    "modified_gmt": "2024-04-23T07:03:34",
+    "slug": "9539",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9539/",
+    "title": {
+        "rendered": "&#8220;IDF&#8217;s Successful Neutralization of Hamas Terror Launch Sites: An In-depth Look at the Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF precisely attacked Hamas&#8217; launch sites located in the south of the strip; Brigade 162 continues to operate in the neutralization of terror and deepen the operational success in the buffer area in the center of the strip.</p>\n<p>Following intelligence information and operational identifications that were formed in the Southern Command, the Air Force&#8217;s combat aircraft completed a series of strikes during the night that led to the destruction of two launch sites located in the south of the strip and were used by the terrorist organization Hamas. The launch sites were located in the south of the strip, were loaded and attacked before they carried out launches to Israeli territory.</p>\n<p>Fighters of the combat team of the Paratrooper Brigade continue to operate in the neutralization of terror and deepen the achievement in the buffer area in the center of the strip. In one of the activities, the forces initiated an ambush in the area, where several terrorists were killed by sniper fire. In addition, as part of the combat effort of the Fire Brigade 215 in collaboration with the Air Force, an aircraft attacked several terrorists who were hiding near a civilian shelter in the al-Bureij area. The attack was carried out in a focused and precise manner.</p>\n<p>During the last day, aircraft and combat aircraft from the Air Force attacked and destroyed dozens of terror targets across the strip. Among the targets that were attacked are military buildings, lookout posts, terrorists, launch sites, and additional military facilities.</p>\n<p>Attached is documentation of the destruction of the launch sites: https://bit.ly/49M2VTP</p>\n<p>Attached is documentation of IDF attacks in the strip: https://bit.ly/3U3mvoE</p>\n<p>Attached are pictures of IDF forces&#8217; activity in the strip: https://IDFANC.activetrail.biz/ANC2304202442089240952</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF precisely attacked <a  href=\"/hamas\">Hamas</a>&#8217; launch sites located in the south of the strip; Brigade 162 continues to operate in the neutralization of terror and deepen the operational success in the buffer area in the center of the strip. Following intelligence information and operational identifications that were formed in the Southern Command, the Air Force&#8217;s combat aircraft completed a series of strikes during the night that led to the destruction of two launch sites located in the south of the strip and were used by the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a>. The launch sites were located in the south of</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3282",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3282
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3282",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3282"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3282/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3282"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3282"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3282"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 3166,
+    "date": "2024-05-07T23:10:24",
+    "date_gmt": "2024-05-07T20:10:24",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9655/"
+    },
+    "modified": "2024-05-07T23:10:24",
+    "modified_gmt": "2024-05-07T20:10:24",
+    "slug": "9655",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9655/",
+    "title": {
+        "rendered": "&#8220;IDF Plans to Demolish Terrorist&#8217;s Home After Fatal Highway 1 Attack: Details Revealed&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF announced its intention to seal and demolish the home of one of the terrorists who carried out the attack on Highway 1.</p>\n<p>Last night (Monday), a notice was delivered indicating the intention to seal and demolish the house of the terrorist, Mohammed Zohaara, in the village of Ze&#8217;atra.</p>\n<p>The terrorist, together with others, carried out the shooting attack on Highway number 1 near the Al-Za&#8217;im checkpoint on February 22, 2024. Matan Almaliach, may his memory be a blessing, was killed in the attack and other civilians were injured.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF announced its intention to seal and demolish the home of one of the terrorists who carried out the attack on Highway 1. Last night (Monday), a notice was delivered indicating the intention to seal and demolish the house of the terrorist, Mohammed Zohaara, in the village of Ze&#8217;atra. The terrorist, together with others, carried out the shooting attack on Highway number 1 near the Al-Za&#8217;im checkpoint on February 22, 2024. Matan Almaliach, may his memory be a blessing, was killed in the attack and other civilians were injured.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3166",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3166
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3166",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3166"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3166/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3166"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3166"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3166"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

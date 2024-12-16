@@ -1,0 +1,122 @@
+{
+    "id": 3104,
+    "date": "2024-05-13T13:15:06",
+    "date_gmt": "2024-05-13T10:15:06",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9719/"
+    },
+    "modified": "2024-05-13T13:15:06",
+    "modified_gmt": "2024-05-13T10:15:06",
+    "slug": "9719",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9719/",
+    "title": {
+        "rendered": "&#8220;Restricted Tourist Access to Military Training Areas During Memorial and Independence Day Celebrations: A Comprehensive Guide&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Due to Memorial Day and Independence Day events, this year there will be a limited possibility for tourists to enter some of the training areas (firing areas) in the south of the country, most of the firing areas will be closed for tourists. In some of the firing areas, visitor access will be possible with prior coordination. </p>\n<p>The firing areas in the north of the country will remain closed for tourists, and arriving there is prohibited. </p>\n<p>Also, as a reminder, part of the situation assessment has determined that this year, the IDF will not open Route 10 for tourists during this period. </p>\n<p>The IDF requests in the strongest terms that the public does not enter forbidden areas and allows security forces to continue their duties. All arrivals to a military area require prior coordination and approval. Arrival at a military area without prior coordination and approval endangers the security of the tourists. </p>\n<p>For coordination and trip inquiries, phone numbers are as follows:</p>\n<p>In the south of the country: 08-9902926/8</p>\n<p>In the north of the country: 073-3483007</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Due to Memorial Day and Independence Day events, this year there will be a limited possibility for tourists to enter some of the training areas (firing areas) in the south of the country, most of the firing areas will be closed for tourists. In some of the firing areas, visitor access will be possible with prior coordination. The firing areas in the north of the country will remain closed for tourists, and arriving there is prohibited. Also, as a reminder, part of the situation assessment has determined that this year, the IDF will not open Route 10 for tourists during</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3104",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3104
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3104",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3104"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3104/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3104"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3104"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3104"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

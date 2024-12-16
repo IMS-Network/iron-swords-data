@@ -1,0 +1,122 @@
+{
+    "id": 3830,
+    "date": "2024-02-26T11:03:07",
+    "date_gmt": "2024-02-26T09:03:07",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8973/"
+    },
+    "modified": "2024-02-26T11:03:07",
+    "modified_gmt": "2024-02-26T09:03:07",
+    "slug": "8973",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8973/",
+    "title": {
+        "rendered": "&#8220;IDF and Shin Bet Crackdown: 22 Arrests and Over 100,000 Shekels of Terror Funds Seized in Night Raid&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF soldiers, together with Shin Bet and Border Police, arrested 22 wanted individuals last night across Judea and Samaria and in the Jordan Valley and Valley Brigades; over 100,000 Shekels worth of terror funds were confiscated in the Samaria Brigade area.</p>\n<p>The forces arrested 22 wanted individuals last night, in the city of Nablus and in the village of Qalil, where they seized terror funds amounting to over 100,000 Shekels. In addition, incitement materials of terror organizations were confiscated from a print shop in Nablus.</p>\n<p>Also, during the night, the forces conducted an operation in the village of Silwad, during which a wanted individual was arrested and many suspects affiliated with the Hamas terror organization were investigated.</p>\n<p>Moreover, in Deir Ammar in the Ephraim Brigade area, the forces arrested six wanted individuals and in Beit Ummar in the Etzion Brigade area, four more wanted individuals were arrested.</p>\n<p>The arrested suspects and the confiscated terror funds have been handed over to security forces for further action. Our forces suffered no casualties.</p>\n<p>So far, since the start of the conflict, approximately 3,250 wanted individuals have been arrested across the Judea and Samaria Division and the Jordan Valley and Valley Brigades, with over 1,350 of them affiliated with the Hamas terror organization.</p>\n<p>Attached are relevant photos: https://IDFANC.activetrail.biz/ANC260220240224</p>\n<p>Attached is footage of the forces in action: https://bit.ly/42UPqzh</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF soldiers, together with Shin Bet and Border Police, arrested 22 wanted individuals last night across Judea and Samaria and in the Jordan Valley and Valley Brigades; over 100,000 Shekels worth of terror funds were confiscated in the Samaria Brigade area. The forces arrested 22 wanted individuals last night, in the city of Nablus and in the village of Qalil, where they seized terror funds amounting to over 100,000 Shekels. In addition, incitement materials of terror organizations were confiscated from a print shop in Nablus. Also, during the night, the forces conducted an operation in the village of</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3830",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3830
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3830",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3830"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3830/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3830"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3830"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3830"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

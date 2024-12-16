@@ -1,0 +1,124 @@
+{
+    "id": 7560,
+    "date": "2024-07-21T16:33:02",
+    "date_gmt": "2024-07-21T13:33:02",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10573-en/"
+    },
+    "modified": "2024-07-21T16:33:02",
+    "modified_gmt": "2024-07-21T13:33:02",
+    "slug": "10573-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10573-en/",
+    "title": {
+        "rendered": "&#8220;IDF and Shin Bet Eliminate Key Hamas Terrorist Nimar Hamida in Major Operation&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint statement from the IDF Spokesperson and the Shin Bet Spokesperson:</p>\n<p>The IDF and Shin Bet have eliminated the terrorist Nimar Hamida from the Hamas terror organization, who was responsible for the attack in which IDF soldiers were killed.</p>\n<p>Following the joint operation of the IDF and Shin Bet, in which approximately 20 terrorists from the Shaati Brigade were eliminated, including the terrorist responsible for the shooting that led to the death of Staff Sergeant Tal Lehat, may his memory be blessed, the terrorist Nimar Hamida, affiliated with the Hamas terror organization, was also eliminated. In recent years, Hamida served as a member of the Ramallah Committee of the &#8220;West Bank Headquarters&#8221; and was involved in the execution of the shooting attack in Ein Yabrud in October 2003, during which three IDF soldiers were killed: Sergeant Elad Polak, may his memory be blessed, Sergeant Roi Yaakov Solomon, may his memory be blessed, and First Sergeant Erez Idan, may his memory be blessed.</p>\n<p>The IDF shares in the sorrow of the bereaved families and will continue to support them.</p>\n<p>Additionally, in the same operation, the terrorist Aziz al-Din Akhila, a senior terrorist in the Al-Aqsa Martyrs&#8217; Brigade, who promoted terror plans against IDF forces during the fighting, was also eliminated.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint statement from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a> and the Shin Bet Spokesperson: The IDF and Shin Bet have eliminated the terrorist Nimar Hamida from the <a  href=\"/hamas\">Hamas</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a>, who was responsible for the attack in which IDF soldiers were killed. Following the joint operation of the IDF and Shin Bet, in which approximately 20 terrorists from the Shaati Brigade were eliminated, including the terrorist responsible for the shooting that led to the death of Staff <a  href=\"https://iron-swords.co.il/t/sergeant/\">Sergeant</a> Tal Lehat, may his memory be blessed, the terrorist Nimar Hamida, affiliated with the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> terror organization, was also eliminated. In recent years, Hamida served</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7560",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7560,
+        "he": 7561,
+        "ru": 7562
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7560",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7560"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7560/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7560"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7560"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7560"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

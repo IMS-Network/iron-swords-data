@@ -1,0 +1,138 @@
+{
+    "id": 2221,
+    "date": "2023-10-07T06:30:10",
+    "date_gmt": "2023-10-07T03:30:10",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=2221"
+    },
+    "modified": "2024-05-12T22:18:16",
+    "modified_gmt": "2024-05-12T19:18:16",
+    "slug": "musa-abu-sabila",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/victims/musa-abu-sabila/",
+    "title": {
+        "rendered": "Musa Abu Sabila"
+    },
+    "content": {
+        "rendered": "\n<p>Musa Abu Sabila, a 41-year-old from Abu Talul and father of six, was tragically killed on October 7, 2023, during the Hamas-led massacre near Kibbutz Re&#8217;im. Musa, who worked as a security guard in the area, was actively helping to evacuate people from a party when the attack occurred. Despite his efforts to ensure the safety of others, he was fatally shot by Hamas terrorists, a violent act that marked his courageous last moments.</p>\n\n\n\n<p>Musa&#8217;s vehicle was found peppered with bullet holes, a stark testament to the intense and fatal confrontation. He lived in Abu Talul, in the Neve Midbar Regional Council area, and had a background in military service, highlighting his longstanding commitment to security and protection. His death is mourned by his community and family, leaving behind a legacy of bravery and sacrifice in the face of grave danger.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Musa Abu Sabila, a 41-year-old from Abu Talul and father of six, was tragically killed on October 7, 2023, during the <a  href=\"/hamas\">Hamas</a>-led massacre near Kibbutz Re&#8217;im. Musa, who worked as a security guard in the area, was actively helping to evacuate people from a party when the attack occurred. Despite his efforts to ensure the safety of others, he was fatally shot by <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> terrorists, a violent act that marked his courageous last moments. Musa&#8217;s vehicle was found peppered with bullet holes, a stark testament to the intense and fatal confrontation. He lived in Abu Talul, in the Neve Midbar</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 2223,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-october-7th-victims",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 21,
+        "footnotes": ""
+    },
+    "categories": [
+        21
+    ],
+    "tags": [
+        117
+    ],
+    "class_list": [
+        "post-2221",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-victims",
+        "tag-reim"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2221
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2221",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2221"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2221/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 2224,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2221/revisions/2224"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/2223"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2221"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2221"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2221"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

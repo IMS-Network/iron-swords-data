@@ -1,0 +1,122 @@
+{
+    "id": 4565,
+    "date": "2023-12-12T11:30:39",
+    "date_gmt": "2023-12-12T09:30:39",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8228/"
+    },
+    "modified": "2023-12-12T11:30:39",
+    "modified_gmt": "2023-12-12T09:30:39",
+    "slug": "8228",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8228/",
+    "title": {
+        "rendered": "&#8220;Exposing Hidden War Zones: Unearthing Hamas&#8217; Use of Civilian Homes for Combat Preparation and Weapon Storage&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>A look from within- Hamas has prepared civilian homes with positions and ammunition for a protracted battle against our forces.</p>\n<p>The combat teams of the Givati Brigade are fighting in the Jebaliya area. During the battle, in a residential neighborhood and near a school, several battle zones and stockpiles of war materials that served the Hamas terror organization were located.</p>\n<p>The stockpiles included missiles and various types of RPG launchers, explosive charges, grenades and Kalashnikovs, and also additional military equipment such as vests and ammunition. Some of the war materials were destroyed by the force on the ground, and some were sent for further investigation and Intelligence extraction. All of the terror infrastructures were located in civilian buildings and infrastructures. </p>\n<p>As part of the forces&#8217; activity, the warriors located the operational apartment of a prominent terrorist, prepared for the arrival of our forces. The building, which also served as a materials warehouse for the terror organization Hamas, in which numerous war documents of the organization and laptops were found on which plans to attack the Gaza perimeter on October 7 were found.</p>\n<p>Attached is documentation of the Givati Brigade combat team showing the operational preparations in the home of the prominent terrorist: https://bit.ly/484gfma</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: A look from within- <a  href=\"/hamas\">Hamas</a> has prepared civilian homes with positions and ammunition for a protracted battle against our forces. The combat teams of the <a  href=\"https://iron-swords.co.il/t/givati-brigade/\">Givati Brigade</a> are fighting in the Jebaliya area. During the battle, in a residential neighborhood and near a school, several battle zones and stockpiles of war materials that served the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> were located. The stockpiles included missiles and various types of RPG launchers, explosive charges, grenades and Kalashnikovs, and also additional military equipment such as vests and ammunition. Some of the war materials were destroyed by the force on the ground,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4565",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4565
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4565",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4565"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4565/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4565"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4565"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4565"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

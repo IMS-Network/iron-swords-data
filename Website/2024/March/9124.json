@@ -1,0 +1,122 @@
+{
+    "id": 3684,
+    "date": "2024-03-14T08:37:52",
+    "date_gmt": "2024-03-14T06:37:52",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9124/"
+    },
+    "modified": "2024-03-14T08:37:52",
+    "modified_gmt": "2024-03-14T06:37:52",
+    "slug": "9124",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9124/",
+    "title": {
+        "rendered": "&#8220;Swift IDF Response Thwarts Missile Launch Attempt: Inside the Ongoing Battle in Gaza Strip&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Within less than 5 minutes: The IDF eliminated a terrorist cell that tried to launch a Kornet missile at Nahal Oz unsuccessfully; the battle in the Strip continues.</p>\n<p>Yesterday (Wednesday), an attempt to launch a Kornet missile from the central region of the Gaza Strip towards the surrounding settlements was detected, which fell in Gaza Strip territory. Within less than 5 minutes, the terrorist cell that carried out the shooting in the northern part of the Strip was identified, a drone attacked and eliminated the cell.</p>\n<p>The combat team of the Nahal Brigade continues to operate in the centre of the Strip and has eliminated several terrorists over the past day. In one of the strikes, the forces identified a terrorist cell near the troops and eliminated them using tank fire. In another strike, the Air Force, in conjunction with the brigade fire complex, eliminated a terrorist using a drone.</p>\n<p>The forces of the 98th Division continue to operate in Khan Yunis, invading terrorist targets and eliminating terrorists.</p>\n<p>The warriors of the Givati Brigade&#8217;s combat team invaded buildings in the &#8216;Ahmed&#8217; area, in one of the sweeps the soldiers located rocket launchers and destroyed them. In addition, last night, the forces identified two terrorists in the area, within minutes the Air Force, in conjunction with the brigade fire complex, attacked and eliminated the terrorists using a drone.</p>\n<p>The warriors of the 7th Brigade&#8217;s combat team identified last night in the &#8216;Bani Suheila&#8217; area a cell of three terrorists moving towards the forces and eliminated them using tank fire. The 7th Brigade&#8217;s fire complex identified two terrorists near a Hamas weapons warehouse, a drone attacked and eliminated the terrorists.</p>\n<p>Attached is footage of the attack on the terrorists who tried to launch towrads Nahal Oz: https://bit.ly/3TiGAHq</p>\n<p>Attached is footage from the strikes in the Gaza Strip: https://bit.ly/3TztE0X</p>\n<p>Attached are photos from the forces&#8217; activity in the Gaza Strip: https://IDFANC.activetrail.biz/ANC1403202242937946</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Within less than 5 minutes: The IDF eliminated a terrorist cell that tried to launch a Kornet missile at Nahal Oz unsuccessfully; the battle in the Strip continues. Yesterday (Wednesday), an attempt to launch a Kornet missile from the central region of the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip towards the surrounding settlements was detected, which fell in Gaza Strip territory. Within less than 5 minutes, the terrorist cell that carried out the shooting in the northern part of the Strip was identified, a drone attacked and eliminated the cell. The combat team of the <a  href=\"https://iron-swords.co.il/t/nahal-brigade/\">Nahal Brigade</a> continues to operate in the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3684",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3684
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3684",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3684"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3684/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3684"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3684"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3684"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "id": 15953,
+    "date": "2024-05-29T00:00:00",
+    "date_gmt": "2024-05-28T21:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/29-05-2024/"
+    },
+    "modified": "2024-08-27T21:28:27",
+    "modified_gmt": "2024-08-27T18:28:27",
+    "slug": "29-05-2024",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/aid/29-05-2024/",
+    "title": {
+        "rendered": "Israel Aid and Humanitarian Efforts in Gaza: May 29, 2024"
+    },
+    "content": {
+        "rendered": "<h2>Humanitarian Aid Transfer Overview</h2>\n<p>On May 28, 2023, a total of <strong>465 humanitarian aid trucks</strong> were transferred to Gaza. Out of <strong>63 overall coordination requests</strong>, <strong>46 were approved</strong>, and from the 11 requests specifically for northern Gaza, <strong>10 were approved</strong>. Since January 1, 2024, an impressive <strong>88%</strong> of all coordination requests have been approved.</p>\n<h2>Jordanian Route for Aid Coordination</h2>\n<p>On the same day, <strong>86 aid trucks</strong> were coordinated via the <strong>Jordanian route</strong>. Moreover, a total of <strong>124 trucks</strong> were coordinated and transferred to northern Gaza.</p>\n<h2>Airdrop Operations</h2>\n<p>In addition, <strong>45 pallets</strong> containing tens of thousands of packages of aid were airdropped into Gaza yesterday (May 28).</p>\n<h2>Field Hospitals and Medical Assistance</h2>\n<p>Currently, there are <strong>8 operational field hospitals</strong> and <strong>3 mobile clinics</strong> as of May 28. Additionally, <strong>3 hospital initiatives</strong> are under review. So far, <strong>3,272 sick and injured individuals</strong> along with <strong>725 escorts</strong> have left Gaza for medical treatment abroad. Furthermore, <strong>35 foreign citizens</strong> were scheduled to leave Gaza yesterday.</p>\n<h2>Updates on U.S. Military Operations</h2>\n<p>According to the Pentagon on May 28, the pier constructed by the U.S. military broke apart due to rough seas. Army engineers are currently working on repairs, and United States Defense Department officials anticipate that it will be operational again in about a week.</p>\n<h2>Humanitarian Aid Movement Operations Update</h2>\n<p>Today, May 29, between 10:00 and 14:00, the IDF will pause operations in the <strong>al-Makhta neighborhood</strong> to facilitate the movement of humanitarian aid.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Relief efforts in <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>: trucks, airdrops, and medical support.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 15696,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        1338
+    ],
+    "tags": [
+        1352
+    ],
+    "class_list": [
+        "post-15953",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-aid",
+        "tag-daily-humanitarian-aid-update"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 15953,
+        "he": 15954,
+        "ru": 15955
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15953",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=15953"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15953/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 15956,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15953/revisions/15956"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/15696"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=15953"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=15953"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=15953"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

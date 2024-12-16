@@ -1,0 +1,124 @@
+{
+    "id": 8717,
+    "date": "2024-06-19T15:39:51",
+    "date_gmt": "2024-06-19T12:39:51",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10178-en/"
+    },
+    "modified": "2024-06-19T15:39:51",
+    "modified_gmt": "2024-06-19T12:39:51",
+    "slug": "10178-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10178-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Stronghold: Air Force Targets Military Structure in Tyre&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Documentation: The IDF attacked a military structure used by the terrorist organization Hezbollah in the Tyre area.</p>\n<p>Israeli Air Force fighters attacked earlier today a military structure of the terrorist organization Hezbollah in the Tyre area and the organization&#8217;s terror infrastructure in the Al-Hiyam area in southern Lebanon.</p>\n<p>Air defense fighters successfully intercepted a suspicious aerial target this morning in Lebanese airspace; the target did not cross into Israeli territory, and no alerts were activated according to policy.</p>\n<p>Following alerts that were activated in the last hour in the Kiryat Shmona area, approximately 15 launches were identified from Lebanese territory towards the area, some of which were successfully intercepted by air defense fighters, and there are no casualties. The IDF targeted the sources of fire with artillery.</p>\n<p>Attached is documentation of the attack on the military structure: https://bit.ly/4crbWU3</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Documentation: The IDF attacked a military structure used by the terrorist organization <a  href=\"/hezbollah\">Hezbollah</a> in the Tyre area. Israeli Air Force fighters attacked earlier today a military structure of the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in the Tyre area and the organization&#8217;s terror infrastructure in the Al-Hiyam area in southern Lebanon. Air defense fighters successfully intercepted a suspicious aerial target this morning in Lebanese airspace; the target did not cross into Israeli territory, and no alerts were activated according to policy. Following alerts that were activated in the last hour in the Kiryat Shmona area, approximately 15 launches were identified from</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8717",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8717,
+        "he": 8718,
+        "ru": 8719
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8717",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8717"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8717/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8717"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8717"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8717"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

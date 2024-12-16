@@ -1,0 +1,122 @@
+{
+    "id": 4031,
+    "date": "2024-02-02T16:27:50",
+    "date_gmt": "2024-02-02T14:27:50",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8771/"
+    },
+    "modified": "2024-02-02T16:27:50",
+    "modified_gmt": "2024-02-02T14:27:50",
+    "slug": "8771",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8771/",
+    "title": {
+        "rendered": "&#8220;Israeli Defense Forces Strike Hezbollah Targets across Lebanon: A Comprehensive Report on IDF&#8217;s Latest Counter-Terrorism Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>Terror cells, terror infrastructures, and military facilities; the IDF attacked targets of the terrorist organization Hezbollah in Lebanese territory.</p>\n<p>A fighter jet attacked a short while ago a group of terrorists in Itaroun area in southern Lebanon.</p>\n<p>In addition, fighter jets attacked during the last day terrorist infrastructures and military buildings that served the terrorist organization Hezbollah in the areas of El Hiem, Kafr Kana and Jebel Belat.</p>\n<p>Furthermore, the IDF attacked with artillery to eliminate threats in the areas of El Jibain, Atta al-Shaab and Itaroun.</p>\n<p>Following the alerts this morning in the north of the country, two firings were identified from Lebanese territory towards the Kiryat Shmona area, the IDF attacked the firing sources. Additionally, a short while ago a firing was identified from Lebanese territory towards the Mount Dov area, the IDF attacked the firing sources.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: Terror cells, terror infrastructures, and military facilities; the IDF attacked targets of the terrorist organization <a  href=\"/hezbollah\">Hezbollah</a> in Lebanese territory. A fighter jet attacked a short while ago a group of terrorists in Itaroun area in southern Lebanon. In addition, fighter jets attacked during the last day terrorist infrastructures and military buildings that served the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in the areas of El Hiem, Kafr Kana and Jebel Belat. Furthermore, the IDF attacked with artillery to eliminate threats in the areas of El Jibain, Atta al-Shaab and Itaroun. Following the alerts this morning in the north of the country,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4031",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4031
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4031",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4031"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4031/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4031"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4031"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4031"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

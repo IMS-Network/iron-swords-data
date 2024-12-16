@@ -1,0 +1,124 @@
+{
+    "id": 7514,
+    "date": "2024-07-22T19:52:36",
+    "date_gmt": "2024-07-22T16:52:36",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10588-en/"
+    },
+    "modified": "2024-07-22T19:52:36",
+    "modified_gmt": "2024-07-22T16:52:36",
+    "slug": "10588-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10588-en/",
+    "title": {
+        "rendered": "&#8220;IDF Launches Major Offensive in Khan Yunis: Airstrikes Target Hamas Infrastructure&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces have begun operations in the Khan Yunis area; dozens of targets were attacked by the Air Force.</p>\n<p>Forces from Division 98 commenced a combined operation above and underground in Khan Yunis this morning, following intelligence information indicating the presence of terrorists and terror infrastructure in the area and in response to recovery attempts by the Hamas terror organization.<br />\nAs part of the operation, the forces targeted and eliminated terrorists through airstrikes and tank fire.</p>\n<p>Since the morning hours, Air Force aircraft, in conjunction with artillery forces, have attacked more than 30 terror infrastructures in Khan Yunis, including the area from which a launch was fired that landed in an open area near Nirim earlier today. No injuries were reported in the incident.</p>\n<p>Additionally, the Air Force targeted weapons storage facilities, observation posts, underground shafts, and buildings used by the Hamas terror organization.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces have begun operations in the Khan Yunis area; dozens of targets were attacked by the Air Force. Forces from Division 98 commenced a combined operation above and underground in Khan Yunis this morning, following intelligence information indicating the presence of terrorists and terror infrastructure in the area and in response to recovery attempts by the <a  href=\"/hamas\">Hamas</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a>. As part of the operation, the forces targeted and eliminated terrorists through airstrikes and tank fire. Since the morning hours, Air Force aircraft, in conjunction with artillery forces, have attacked more than 30 terror infrastructures in Khan Yunis,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7514",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7514,
+        "he": 7515,
+        "ru": 7516
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7514",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7514"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7514/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7514"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7514"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7514"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

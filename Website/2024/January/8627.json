@@ -1,0 +1,122 @@
+{
+    "id": 4171,
+    "date": "2024-01-16T20:01:03",
+    "date_gmt": "2024-01-16T18:01:03",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8627/"
+    },
+    "modified": "2024-01-16T20:01:03",
+    "modified_gmt": "2024-01-16T18:01:03",
+    "slug": "8627",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8627/",
+    "title": {
+        "rendered": "&#8220;IDF Central Command Approves Demolition of Terrorist&#8217;s Home Following Fatal Checkpoint Attack: A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The Central Command Leader has approved the demolition order of the home of the terrorist who carried out the shooting attack at the tunnels checkpoint.</p>\n<p>The Central Command Leader signed, yesterday (Tuesday), January 15, 2024, a confiscation and demolition order of the terrorist Hasan Kafisha&#8217;s house in Hebron. The terrorist, along with two other terrorists, executed the shooting attack at the tunnels checkpoint on November 16, 2023, in which IDF Sergeant Abraham Patna was killed. The order was issued after the appeal filed by the terrorist&#8217;s family was rejected.</p>\n<p>Last week, the Central Command Leader also approved the confiscation and demolition orders for the homes of the two other terrorists who were involved in the attack.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The Central Command Leader has approved the demolition order of the home of the terrorist who carried out the shooting attack at the tunnels checkpoint. The Central Command Leader signed, yesterday (Tuesday), January 15, 2024, a confiscation and demolition order of the terrorist Hasan Kafisha&#8217;s house in Hebron. The terrorist, along with two other terrorists, executed the shooting attack at the tunnels checkpoint on November 16, 2023, in which IDF <a  href=\"https://iron-swords.co.il/t/sergeant/\">Sergeant</a> Abraham Patna was killed. The order was issued after the appeal filed by the terrorist&#8217;s family was rejected. Last week, the Central Command Leader also approved the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4171",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4171
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4171",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4171"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4171/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4171"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4171"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4171"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

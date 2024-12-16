@@ -1,0 +1,122 @@
+{
+    "id": 2918,
+    "date": "2024-05-28T12:43:48",
+    "date_gmt": "2024-05-28T09:43:48",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9907/"
+    },
+    "modified": "2024-05-28T12:43:48",
+    "modified_gmt": "2024-05-28T09:43:48",
+    "slug": "9907",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9907/",
+    "title": {
+        "rendered": "&#8220;Eight Arrests and Seizure of Combat Equipment in Overnight IDF Operations Across Judea and Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF, Shin Bet, and Border Police forces arrested eight wanted individuals last night across Judea and Samaria; dozens of suspects will be investigated in Burqa in Binyamin, and incitement materials were confiscated.</p>\n<p>The fighters arrested eight wanted individuals last night in various parts of Judea and Samaria. In Burqa, located in Binyamin, dozens of suspects will be investigated and incitement materials were seized. A wanted individual was arrested in Jilzoun in the brigade&#8217;s area, and materials for making explosives were confiscated. Another wanted individual was arrested in the village of Aqab, within the brigade&#8217;s area.</p>\n<p>In Samu&#8217;a, in Judea, the forces found and confiscated an &#8220;M16&#8221; type rifle along with other combat means, and arrested two wanted individuals. Two wanted individuals were arrested in Harsha and Dahariya within the brigade&#8217;s area, and combat means were found in Bayta within the brigade&#8217;s area.</p>\n<p>In Qalqilya, located within the Ephraim Brigade area, a wanted individual was detained, and another wanted individual was arrested in Deheisheh in the Etzion Bloc and many suspects were investigated.</p>\n<p>The arrested wanted individuals and the confiscated combat equipment were transferred for further handling by the security forces. No casualties were reported among our forces.</p>\n<p>Till now, since the beginning of the war, about 4,000 wanted persons have been arrested across the Judea and Samaria Division and in the Valley and Plains Brigade, about 1,700 of them are affiliated with the terrorist organization Hamas.</p>\n<p>Attached is documentation of the forces&#8217; activity: https://bit.ly/3KjQHYg</p>\n<p>Attached are photos of the confiscated combat equipment: https://IDFANC.activetrail.biz/ANC28052024238964</p>\n<p>Attached are photos from the forces&#8217; activities: https://IDFANC.activetrail.biz/ANC2805202492384</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF, Shin Bet, and Border Police forces arrested eight wanted individuals last night across Judea and Samaria; dozens of suspects will be investigated in Burqa in Binyamin, and incitement materials were confiscated. The fighters arrested eight wanted individuals last night in various parts of Judea and Samaria. In Burqa, located in Binyamin, dozens of suspects will be investigated and incitement materials were seized. A wanted individual was arrested in Jilzoun in the brigade&#8217;s area, and materials for making explosives were confiscated. Another wanted individual was arrested in the village of Aqab, within the brigade&#8217;s area. In Samu&#8217;a, in</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2918",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2918
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2918",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2918"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2918/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2918"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2918"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2918"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

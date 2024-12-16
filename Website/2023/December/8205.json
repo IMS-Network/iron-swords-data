@@ -1,0 +1,122 @@
+{
+    "id": 4588,
+    "date": "2023-12-10T20:04:17",
+    "date_gmt": "2023-12-10T18:04:17",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8205/"
+    },
+    "modified": "2023-12-10T20:04:17",
+    "modified_gmt": "2023-12-10T18:04:17",
+    "slug": "8205",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8205/",
+    "title": {
+        "rendered": "&#8220;IDF Chief Calls for &#8216;Clear Change&#8217; at Lebanon Border: A Deep Dive into the Situation Assessment and Future Strategies&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesman: </p>\n<p>The Chief of Staff at the Lebanon border: Understand that this needs to end with a very clear change in situation</p>\n<p>The Chief of Staff toured today (Sunday) in the Galilee Formation (91) with the Brigade Commander, Colonel Shai Kalper and conducted a situation assessment with the commanders of the battalions and companies in the sector. He also met with the readiness team of Kibbutz Malkia.</p>\n<p>Attached is documentation from the Chief of Staff&#8217;s remarks: https://bit.ly/4ahkhJC</p>\n<p>Attached is documentation on the topic: https://bit.ly/3v2kD6I</p>\n<p>Attached are photos on the subject: https://IDFANC.activetrail.biz/ANC10122305874</p>\n<p>Attached are the full remarks of the Chief of Staff: &#8220;On the return to all the settlements, both in the south and in the north &#8211; first, we need to return to a different situation, and to return to both security and a sense of security. There is a military way to do this, the beginning of it is also what you are doing here, to strike, to deter, to kill Hezbollah activists, to demonstrate our superiority, and it can come also in the form of attack and attack and war, and it may be that over time it will take other periods and other solutions, because we are focusing between the arenas on other things.<br />\nThe State of Israel never took and said war is the first solution we will try, but we understand that in this situation, it needs to end with a very clear change in the situation. And yes, something very difficult happened that tells us there are cases when it is right to use this tool, in its full power. We use it in Gaza, I don&#8217;t want to say full power, but very strong forces and also with beautiful achievements&#8221;.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>IDF Spokesman: The Chief of Staff at the Lebanon border: Understand that this needs to end with a very clear change in situation The Chief of Staff toured today (Sunday) in the Galilee Formation (91) with the Brigade Commander, Colonel Shai Kalper and conducted a situation assessment with the commanders of the battalions and companies in the sector. He also met with the readiness team of Kibbutz Malkia. Attached is documentation from the Chief of Staff&#8217;s remarks: https://bit.ly/4ahkhJC Attached is documentation on the topic: https://bit.ly/3v2kD6I Attached are photos on the subject: https://IDFANC.activetrail.biz/ANC10122305874 Attached are the full remarks of the Chief</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4588",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4588
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4588",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4588"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4588/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4588"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4588"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4588"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

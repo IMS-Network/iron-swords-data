@@ -1,0 +1,140 @@
+{
+    "id": 16445,
+    "date": "2023-12-18T00:00:00",
+    "date_gmt": "2023-12-17T22:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/18-12-2023/"
+    },
+    "modified": "2024-08-27T23:50:39",
+    "modified_gmt": "2024-08-27T20:50:39",
+    "slug": "18-12-2023",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/aid/18-12-2023/",
+    "title": {
+        "rendered": "Israel Aid and Humanitarian Efforts in Gaza: Dec. 18, 2023"
+    },
+    "content": {
+        "rendered": "<h1>UN Aid Trucks Begin Security Checks for Direct Transfer to Gaza</h1>\n<p>As of Dec. 17, UN aid trucks have begun to undergo security checks and be transferred directly to Gaza via Kerem Shalom, to abide by our agreement with the US. This will increase the daily volume of humanitarian aid entering Gaza and being delivered to the people of Gaza.</p>\n<h2>Humanitarian Aid Delivered</h2>\n<p>On Dec. 17, 201 humanitarian aid trucks were inspected and transferred to the Gaza Strip. Specifically, 122 trucks were inspected at the Nitzana crossing and transferred to Gaza via the Rafah Crossing, while 79 trucks were inspected and transferred to Gaza via Kerem Shalom.</p>\n<h2>Additional Supplies for Hospitals</h2>\n<p>Additional equipment and personnel for the UAE and Jordanian field hospitals entered the Gaza Strip. Furthermore, on Dec. 17, four tankers of fuel and two tankers of cooking gas designated for the operation of essential infrastructure in Gaza have also entered the Gaza Strip.</p>\n<h2>Tactical Pause for Humanitarian Aid Movement</h2>\n<p>On Dec. 18, between 10:00 and 14:00, the IDF will pause operations in the Rafah Camp in order to enable the movement of humanitarian aid. Moreover, today, personnel for an additional field hospital operated by IMC are expected to enter the Gaza Strip.</p>\n<h2>Field Hospital Statistics</h2>\n<p>Field hospitals have been a crucial part of the humanitarian response. The Jordanian hospital, with a capacity of 41 beds and a personnel of 154, has treated over 500 patients. Meanwhile, the United Arab Emirates field hospital, which has a capacity of 200 beds and is staffed with 100, has treated over 333 patients.</p>\n<h2>Details of the Tactical Pause</h2>\n<p>The tactical pause observed on Dec. 17 took place in the Al-Idari neighborhood in Rafah.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Increased humanitarian aid and field hospital support for <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 15696,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        1338
+    ],
+    "tags": [
+        1352
+    ],
+    "class_list": [
+        "post-16445",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-aid",
+        "tag-daily-humanitarian-aid-update"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 16445,
+        "he": 16446,
+        "ru": 16447
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16445",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=16445"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16445/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 16448,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16445/revisions/16448"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/15696"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=16445"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=16445"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=16445"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

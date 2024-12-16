@@ -1,0 +1,122 @@
+{
+    "id": 3229,
+    "date": "2024-04-30T11:41:06",
+    "date_gmt": "2024-04-30T08:41:06",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9592/"
+    },
+    "modified": "2024-04-30T11:41:06",
+    "modified_gmt": "2024-04-30T08:41:06",
+    "slug": "9592",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9592/",
+    "title": {
+        "rendered": "&#8220;IDF, Shin Bet, and Border Police Arrest Seven Suspects across Judea and Samaria: A Night of Successful Anti-Terrorism Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>IDF, Shin Bet, and Border Police fighters arrested seven wanted individuals overnight across Judea and Samaria; the fighters arrested a terrorist who threw Molotov cocktails at IDF forces.</p>\n<p>The fighters carried out a mission to arrest seven wanted individuals across Judea and Samaria last night. In the village of El Khader in the Etzion brigade area, the forces arrested a wanted individual and confiscated a pistol. In Rahima in the brigade&#8217;s territory, a wanted individual instigating terrorism was arrested and in Izariya another terrorist was arrested who threw Molotov cocktails at the forces. </p>\n<p>In the village of Anabta in the Menashe brigade area, the forces arrested two wanted individuals, in Silwad and in Bir Nabala in the Binyamin brigade area, two additional wanted individuals were arrested. Also, in the forces&#8217; activity in the city of Nablus in the Samaria brigade area, military equipment was confiscated.</p>\n<p>The arrested wanted individuals and the confiscated combat equipment were transferred for further treatment by security forces, no harm was done to our forces.</p>\n<p>Attached is documentation of IDF forces&#8217; activity in Judea and Samaria: https://bit.ly/44nwzgZ</p>\n<p>Attached are pictures from the forces&#8217; activity: https://IDFANC.activetrail.biz/ANC30042024092849</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: IDF, Shin Bet, and Border Police fighters arrested seven wanted individuals overnight across Judea and Samaria; the fighters arrested a terrorist who threw Molotov cocktails at IDF forces. The fighters carried out a mission to arrest seven wanted individuals across Judea and Samaria last night. In the village of El Khader in the Etzion brigade area, the forces arrested a wanted individual and confiscated a pistol. In Rahima in the brigade&#8217;s territory, a wanted individual instigating terrorism was arrested and in Izariya another terrorist was arrested who threw Molotov cocktails at the forces. In the village of Anabta</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3229",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3229
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3229",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3229"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3229/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3229"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3229"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3229"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

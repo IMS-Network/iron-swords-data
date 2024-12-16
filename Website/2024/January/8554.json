@@ -1,0 +1,122 @@
+{
+    "id": 4243,
+    "date": "2024-01-09T11:35:08",
+    "date_gmt": "2024-01-09T09:35:08",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8554/"
+    },
+    "modified": "2024-01-09T11:35:08",
+    "modified_gmt": "2024-01-09T09:35:08",
+    "slug": "8554",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8554/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Targets and Drone Launch Cell in Southern Lebanon: A Detailed Account&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked a drone launch cell in southern Lebanon; Hezbollah terrorist organization&#8217;s targets were attacked in the area of the village Kaoukaba, in Lebanese territory.</p>\n<p>Earlier this morning, Air Force fighter jets attacked terrorist infrastructures in the village of Kaoukaba in southern Lebanon.<br />\nAlso, an Air Force aircraft attacked a short while ago a drone launch cell in southern Lebanon.</p>\n<p>Following the alerts in the north of the country, several launches from Lebanese territory towards Malkia and Yiftah were identified.</p>\n<p>Following the alerts of an enemy aircraft penetration, interceptions were launched towards several enemy aerial targets that had crossed from Lebanese territory to Israeli territory. A hit was identified in a base in the north of the country, no damage or injuries were identified.</p>\n<p>The IDF is attacking the firing sources with artillery.</p>\n<p>Attached is documentation from the attacks: https://bit.ly/3NWedNr</p>\n<p>Attached is documentation from the attack on the launch cell: https://bit.ly/41NJxDH</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked a drone launch cell in southern Lebanon; <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization&#8217;s targets were attacked in the area of the village Kaoukaba, in Lebanese territory. Earlier this morning, Air Force fighter jets attacked terrorist infrastructures in the village of Kaoukaba in southern Lebanon. Also, an Air Force aircraft attacked a short while ago a drone launch cell in southern Lebanon. Following the alerts in the north of the country, several launches from Lebanese territory towards Malkia and Yiftah were identified. Following the alerts of an enemy aircraft penetration, interceptions were launched towards several enemy aerial targets that</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4243",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4243
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4243",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4243"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4243/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4243"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4243"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4243"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

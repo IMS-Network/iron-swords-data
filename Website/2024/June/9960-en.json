@@ -1,0 +1,124 @@
+{
+    "id": 9368,
+    "date": "2024-06-02T09:26:33",
+    "date_gmt": "2024-06-02T06:26:33",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/9960-en/"
+    },
+    "modified": "2024-06-02T09:26:33",
+    "modified_gmt": "2024-06-02T06:26:33",
+    "slug": "9960-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9960-en/",
+    "title": {
+        "rendered": "&#8220;IDF Airstrikes Target Hezbollah After UAV Downing: Latest Updates&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Fighter jets attacked terrorist targets overnight in response to rocket fire towards northern Israel and the downing of an IDF UAV operating in Lebanese airspace.</p>\n<p>In response to the downing of an IDF UAV operating in Lebanese airspace by a surface-to-air missile from the terrorist organization Hezbollah, Air Force fighter jets struck a military compound used by Hezbollah in the Bekaa Valley.</p>\n<p>Additionally, overnight, fighter jets attacked another military structure of the organization in the Bint Jbeil area in southern Lebanon, along with the organization&#8217;s headquarters in the Kana and Ra&#8217;shit areas in southern Lebanon.</p>\n<p>Attached is footage from the attack on the compound in the Bekaa Valley: https://bit.ly/3X2DM4v</p>\n<p>Attached is footage from the attacks: https://bit.ly/3X13oik</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Fighter jets attacked terrorist targets overnight in response to rocket fire towards northern <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> and the downing of an IDF UAV operating in Lebanese airspace. In response to the downing of an IDF UAV operating in Lebanese airspace by a surface-to-air missile from the terrorist organization <a  href=\"/hezbollah\">Hezbollah</a>, Air Force fighter jets struck a military compound used by <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in the Bekaa Valley. Additionally, overnight, fighter jets attacked another military structure of the organization in the Bint Jbeil area in southern Lebanon, along with the organization&#8217;s headquarters in the Kana and Ra&#8217;shit areas in southern Lebanon. Attached is footage</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9368",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9368,
+        "he": 9369,
+        "ru": 9370
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9368",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9368"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9368/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9368"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9368"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9368"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

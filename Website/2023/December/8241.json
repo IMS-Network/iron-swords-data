@@ -1,0 +1,122 @@
+{
+    "id": 4552,
+    "date": "2023-12-13T09:09:00",
+    "date_gmt": "2023-12-13T07:09:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8241/"
+    },
+    "modified": "2023-12-13T09:09:00",
+    "modified_gmt": "2023-12-13T07:09:00",
+    "slug": "8241",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8241/",
+    "title": {
+        "rendered": "&#8220;IDF Continues Strikes on Gaza: Over 250 Targets Hit &#038; Terrorist Cell Neutralized &#8211; A Day in Review with Exclusive Footage&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The fighting in the Gaza Strip continues- over 250 targets were attacked during the last day; a terrorist cell that was on its way to launch rockets towards Israeli territory was eliminated.</p>\n<p>The ground forces, Air Force, and Naval warriors continue to attack a series of targets and terror infrastructure in the Gaza Strip, during the last day over 250 targets were attacked.</p>\n<p>The combat team of the Bislah division, in conjunction with the collection battalion 636 of the Border Defense Corps identified a terrorist cell in the Saja&#8217;iyya area that was on its way to launch rockets towards Israeli territory. The soldiers directed an aircraft from the Air Force which attacked and eliminated the cell.</p>\n<p>Attached is footage of the attack on the cell: https://bit.ly/3tiMxen</p>\n<p>Attached is footage of IDF attacks in the Gaza Strip in the last day: https://bit.ly/3uY7Ked</p>\n<p>Attached is footage of the forces&#8217; activity in the Gaza Strip in the last day: https://bit.ly/3ToZHkC</p>\n<p>Attached are pictures of the forces in the Gaza Strip in the last day: https://IDFANC.activetrail.biz/ANC13122023MWEFOIBEVV</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The fighting in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip continues- over 250 targets were attacked during the last day; a terrorist cell that was on its way to launch rockets towards Israeli territory was eliminated. The ground forces, Air Force, and Naval warriors continue to attack a series of targets and terror infrastructure in the Gaza Strip, during the last day over 250 targets were attacked. The combat team of the Bislah division, in conjunction with the collection battalion 636 of the Border Defense Corps identified a terrorist cell in the Saja&#8217;iyya area that was on its way to launch rockets</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4552",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4552
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4552",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4552"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4552/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4552"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4552"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4552"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

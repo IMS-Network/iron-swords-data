@@ -1,0 +1,122 @@
+{
+    "id": 3940,
+    "date": "2024-02-13T17:03:02",
+    "date_gmt": "2024-02-13T15:03:02",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8863/"
+    },
+    "modified": "2024-02-13T17:03:02",
+    "modified_gmt": "2024-02-13T15:03:02",
+    "slug": "8863",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8863/",
+    "title": {
+        "rendered": "&#8220;IDF Targets Hezbollah&#8217;s Terrorist Operations: A Detailed Look at Recent Military Actions in Southern Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked the Hezbollah terrorist organization targets in Lebanon: Among the targets attacked were military buildings where the organization&#8217;s terrorists operated.</p>\n<p>A short while ago, fighter jets attacked several military buildings of the Hezbollah terrorist organization where its terrorists operated, an observation post and additional infrastructure of the Hezbollah terrorist organization in the villages of Hula, Kela Daba, Yaroun, Mis al-Jabal, Jirin and Shehin in southern Lebanon.</p>\n<p>Fighter jets attacked another terrorist infrastructure of the organization in Ramia region and IDF forces conducted artillery fire on several targets in southern Lebanon earlier today.</p>\n<p>The following is a documentation on the matter: https://bit.ly/3SF5EYJ</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization targets in Lebanon: Among the targets attacked were military buildings where the organization&#8217;s terrorists operated. A short while ago, fighter jets attacked several military buildings of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization where its terrorists operated, an observation post and additional infrastructure of the Hezbollah terrorist organization in the villages of Hula, Kela Daba, Yaroun, Mis al-Jabal, Jirin and Shehin in southern Lebanon. Fighter jets attacked another terrorist infrastructure of the organization in Ramia region and IDF forces conducted artillery fire on several targets in southern Lebanon earlier today. The following is a</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3940",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3940
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3940",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3940"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3940/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3940"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3940"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3940"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

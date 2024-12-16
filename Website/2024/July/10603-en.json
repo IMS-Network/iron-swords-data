@@ -1,0 +1,124 @@
+{
+    "id": 7467,
+    "date": "2024-07-23T19:00:55",
+    "date_gmt": "2024-07-23T16:00:55",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10603-en/"
+    },
+    "modified": "2024-07-23T19:00:55",
+    "modified_gmt": "2024-07-23T16:00:55",
+    "slug": "10603-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10603-en/",
+    "title": {
+        "rendered": "&#8220;IDF&#8217;s Haruv Unit Foils Hamas Terror Plot in Tulkarm: Operation Highlights and Key Outcomes&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Documentation: Activity of the Haruv Reconnaissance Unit in an operation to thwart terrorism in Tulkarm within the Menashe Brigade.</p>\n<p>IDF forces from the Haruv Reconnaissance Unit, Duvdevan, and Unit 636, together with Border Police and Shin Bet forces, completed an operation a short while ago to thwart terrorism in the Tulkarm area of the Menashe Brigade.</p>\n<p>During the operation, the forces detonated the hideout apartment of the head of the Hamas terror infrastructure in Tulkarm, which was booby-trapped and posed a threat to our forces in the area.</p>\n<p>The terrorists eliminated during the operation had advanced and carried out plans for terror attacks and shooting incidents in recent months against Bat Hefer and the surrounding communities in the Menashe Brigade.</p>\n<p>Attached is documentation from the activity of the Haruv Reconnaissance Unit: https://we.tl/t-vVcfVsKpyU</p>\n<p>Attached are images from the activity of the Haruv Reconnaissance Unit: https://IDFANC.activetrail.biz/ANC2307202498694</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Documentation: Activity of the Haruv Reconnaissance Unit in an operation to thwart terrorism in Tulkarm within the Menashe Brigade. IDF forces from the Haruv Reconnaissance Unit, Duvdevan, and Unit 636, together with Border Police and Shin Bet forces, completed an operation a short while ago to thwart terrorism in the Tulkarm area of the Menashe Brigade. During the operation, the forces detonated the hideout apartment of the head of the <a  href=\"/hamas\">Hamas</a> terror infrastructure in Tulkarm, which was booby-trapped and posed a threat to our forces in the area. The terrorists eliminated during the operation had advanced and carried</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7467",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7467,
+        "he": 7468,
+        "ru": 7470
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7467",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7467"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7467/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7467"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7467"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7467"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

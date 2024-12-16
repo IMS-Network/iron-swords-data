@@ -1,0 +1,122 @@
+{
+    "id": 4439,
+    "date": "2023-12-21T08:28:03",
+    "date_gmt": "2023-12-21T06:28:03",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8354/"
+    },
+    "modified": "2023-12-21T08:28:03",
+    "modified_gmt": "2023-12-21T06:28:03",
+    "slug": "8354",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8354/",
+    "title": {
+        "rendered": "&#8220;Decisive IDF Operations in Gaza: A Detailed Account of Attacks on Hamas, Weapon Discovery in School, and Night Assaults&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces are attacking and advancing in Gaza; weaponry found in a school</p>\n<p>Tens of aircraft from the Air Force attacked about 230 Hamas terrorist organization targets in the last day in the Gaza Strip. </p>\n<p>Fire Complex of the 7th Brigade identified terrorists in a building in Khan Yunis. An Israeli Air Force combat aircraft destroyed the building and eliminated the terrorists. Later, the Complex identified and destroyed a rocket launcher aimed at Israeli territory.</p>\n<p>In the framework of the ground activity of the 551 Reserve Combat Battalion in Jebaliya, the forces worked on a regulated evacuation of the southern population from a school compound. The soldiers searched the school and found numerous weapons in the area.</p>\n<p>In a nightly operation, Naval forces attacked vessels intended for use by the naval forces of terrorist organizations in the Gaza Strip.</p>\n<p>Fire Complex of the 14th Reserve Brigade identified terrorists in Shati. The reserve soldiers guided an Air Force aircraft to eliminate the terrorists from the air.</p>\n<p>Attached is a video in which soldiers from the 551 battalion display the weaponry found in the school: https://bit.ly/3GTsgz8 </p>\n<p>Attached is documentation of the IDF&#8217;s night attacks in the Gaza Strip: https://bit.ly/3tupM7p </p>\n<p>Attached is documentation of force&#8217;s activity in the Gaza Strip: https://bit.ly/3tv8UNN </p>\n<p>Attached are photos of IDF forces activity at night: https://IDFANC.activetrail.biz/ANC20122023.02154</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces are attacking and advancing in <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>; weaponry found in a school Tens of aircraft from the Air Force attacked about 230 <a  href=\"/hamas\">Hamas</a> terrorist organization targets in the last day in the Gaza Strip. Fire Complex of the 7th Brigade identified terrorists in a building in Khan Yunis. An Israeli Air Force combat aircraft destroyed the building and eliminated the terrorists. Later, the Complex identified and destroyed a rocket launcher aimed at Israeli territory. In the framework of the ground activity of the 551 Reserve Combat Battalion in Jebaliya, the forces worked on a regulated evacuation of</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4439",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4439
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4439",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4439"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4439/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4439"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4439"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4439"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 2970,
+    "date": "2024-05-24T10:48:41",
+    "date_gmt": "2024-05-24T07:48:41",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9855/"
+    },
+    "modified": "2024-05-24T10:48:41",
+    "modified_gmt": "2024-05-24T07:48:41",
+    "slug": "9855",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9855/",
+    "title": {
+        "rendered": "&#8220;IDF and Shin Bet Recover Bodies of Abductees in Joint Operation: An Inside Look at the Mission&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>The IDF and Shin Bet have recovered the bodies of the abductees Hanan Yablonka, Mishael Nisenbaum, and Orion Hernandez z&#8221;l.</p>\n<p>The bodies of the abductees Hanan Yablonka, Mishael Nisenbaum, and Orion Hernandez were recovered last night in a joint operation of the IDF and Shin Bet.</p>\n<p>According to credible intelligence information in our possession, it appears that the abductees were murdered during the brutal terrorist attack on October 7th and were kidnapped from a Gazan checkpoint by Hamas terrorists.</p>\n<p>Their bodies were recovered last night during a nocturnal IDF and Shin Bet operation under Division 98, in collaboration with YaHalom unit, Unit 504, and soldiers from the Special Force in AMAN and Shin Bet, in the Jabalia neighborhood, relying on precise intelligence information received and analyzed in recent days at the Captive and Missing Persons Command in the Intelligence Corps, in the Southern Command working in cooperation with the Shin Bet. Fierce fighting occurred in the area at the beginning of the operation.</p>\n<p>Following an identification process conducted by medical authorities at the National Institute of Forensic Medicine and the Israel Police, representatives of the IDF delivered messages to their families today.</p>\n<p>The IDF and Shin Bet share the families&#8217; grief at this difficult hour.</p>\n<p>The IDF spokesperson calls on the public to refrain from spreading rumors and unsubstantiated information, and to listen to official announcements.</p>\n<p>The IDF and Shin Bet continue, even at this hour, to activate all operational and intelligence efforts, in order to fulfill the national supreme mission of bringing back all the abductees.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: The IDF and Shin Bet have recovered the bodies of the abductees Hanan Yablonka, Mishael Nisenbaum, and Orion Hernandez z&#8221;l. The bodies of the abductees Hanan Yablonka, Mishael Nisenbaum, and Orion Hernandez were recovered last night in a joint operation of the IDF and Shin Bet. According to credible intelligence information in our possession, it appears that the abductees were murdered during the brutal terrorist attack on October 7th and were kidnapped from a Gazan checkpoint by <a  href=\"/hamas\">Hamas</a> terrorists. Their bodies were recovered last night during a nocturnal IDF and Shin Bet operation under Division 98, in collaboration</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2970",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2970
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2970",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2970"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2970/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2970"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2970"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2970"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

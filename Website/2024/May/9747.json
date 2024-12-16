@@ -1,0 +1,122 @@
+{
+    "id": 3077,
+    "date": "2024-05-15T16:31:29",
+    "date_gmt": "2024-05-15T13:31:29",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9747/"
+    },
+    "modified": "2024-05-15T16:31:29",
+    "modified_gmt": "2024-05-15T13:31:29",
+    "slug": "9747",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9747/",
+    "title": {
+        "rendered": "&#8220;Defending the Skies: A Week of Successful Interceptions by Israel&#8217;s Air Force and Defense Systems&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>&#8220;2 executed on target, target down&#8221;; documentation of aerial targets interception as part of Sky Defense mission over the last week</p>\n<p>During the night, aircrafts of the Air Force intercepted within a few minutes two unmanned aircrafts that made their way to Israeli territory from the east.</p>\n<p>These interceptions are added to the many interceptions of hostile targets that were intercepted this week by combat aircraft and the &#8216;Patriot&#8217; and &#8216;Iron Dome&#8217; air defense systems as part of the Air Force&#8217;s sky defense mission.</p>\n<p>From the beginning of the battle and at all times, combat aircrafts are patrolling the sky and air defense systems are deployed and in constant readiness to defend the country&#8217;s sky 360 degrees.</p>\n<p>Attached is documentation of the interception of hostile aircrafts by combat aircrafts during the night and documentation of the interception of hostile aircrafts by the Iron Dome system :  https://bit.ly/4bEnxid</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: &#8220;2 executed on target, target down&#8221;; documentation of aerial targets interception as part of Sky Defense mission over the last week During the night, aircrafts of the Air Force intercepted within a few minutes two unmanned aircrafts that made their way to Israeli territory from the east. These interceptions are added to the many interceptions of hostile targets that were intercepted this week by combat aircraft and the &#8216;Patriot&#8217; and &#8216;Iron Dome&#8217; air defense systems as part of the Air Force&#8217;s sky defense mission. From the beginning of the battle and at all times, combat aircrafts are patrolling</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3077",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3077
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3077",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3077"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3077/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3077"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3077"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3077"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

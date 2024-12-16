@@ -1,0 +1,122 @@
+{
+    "id": 3068,
+    "date": "2024-05-16T11:57:05",
+    "date_gmt": "2024-05-16T08:57:05",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9757/"
+    },
+    "modified": "2024-05-16T11:57:05",
+    "modified_gmt": "2024-05-16T08:57:05",
+    "slug": "9757",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9757/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Back: Decisive Response to Attacks from Lebanese Territory Targeting Golan Heights&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked a launcher from which shots were fired at the Golan Heights; additional terror targets were attacked earlier today</p>\n<p>Following the alerts activated in the north of the country earlier today, approximately 40 launches were detected that crossed from Lebanese territory towards the Golan Heights area. A number of the launches were successfully intercepted by our air defense fighters. There are no casualties, IDF forces attacked the sources of fire.</p>\n<p>A short time later, and after identifying the source of the launches, air force combat planes attacked and destroyed one of the military positions from which the launches were made. Also, during the day a military building was attacked in the Aita al-Shaab area, in which terrorists were staying, and another military building in the area of Hlata.</p>\n<p>Following the alerts activated in Zra&#8217;it area a short time ago, about five launches were detected crossing from Lebanon to the area. There are no casualties.</p>\n<p>Attached is documentation of the attack on the military building in Aita al-Shaab: https://bit.ly/3WI1nHw</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked a launcher from which shots were fired at the Golan Heights; additional terror targets were attacked earlier today Following the alerts activated in the north of the country earlier today, approximately 40 launches were detected that crossed from Lebanese territory towards the Golan Heights area. A number of the launches were successfully intercepted by our air defense fighters. There are no casualties, IDF forces attacked the sources of fire. A short time later, and after identifying the source of the launches, air force combat planes attacked and destroyed one of the military positions from which</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3068",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3068
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3068",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3068"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3068/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3068"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3068"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3068"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

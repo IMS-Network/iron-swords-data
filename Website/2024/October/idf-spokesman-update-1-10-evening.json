@@ -1,0 +1,138 @@
+{
+    "id": 18347,
+    "date": "2024-10-01T21:00:00",
+    "date_gmt": "2024-10-01T18:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=18347"
+    },
+    "modified": "2024-10-26T11:53:22",
+    "modified_gmt": "2024-10-26T08:53:22",
+    "slug": "idf-spokesman-update-1-10-evening",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-spokesperson/idf-spokesman-update-1-10-evening/",
+    "title": {
+        "rendered": "IDF spokesman update &#8211; 1.10, evening"
+    },
+    "content": {
+        "rendered": "\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<iframe loading=\"lazy\" title=\"\u05e2\u05d3\u05db\u05d5\u05df \u05d3\u05d5\u05d1\u05e8 \u05e6\u05d4&quot;\u05dc - 1.10, \u05e2\u05e8\u05d1\" width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/tg1VXR57IS8?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n</div></figure>\n\n\n\n<p>Dear citizens, a short time ago the Home Front Command activated life-saving instructions in large areas in the center of the country, instructing that people stay near protected areas. This was due to rocket fire from Lebanon. Iran&#8217;s threat is being monitored seriously. I ask the public to obey the directives of the Home Front Command.</p>\n\n\n\n<p>The shooting from Iran may be on a wide scale. You are required to enter the protected area and remain in it until instructed otherwise. I would like to repeat that, for safety, you are required to enter the protected area and remain in it until further notice. The protection is not hermetic. I repeat, the protection is not hermetic.</p>\n\n\n\n<p>Please stay calm and act responsibly; these are life-saving instructions for you and your families. I will continue to provide updates here all evening, with every development.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Home Front Command activated safety instructions due to rocket fire. Stay near protected areas; follow directives. Vigilance is essential.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 2764,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-spokesperson",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 197,
+        "footnotes": ""
+    },
+    "categories": [
+        197
+    ],
+    "tags": [
+        1648
+    ],
+    "class_list": [
+        "post-18347",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-idf-spokesperson",
+        "tag-operation-true-promise-2"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 18347
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/18347",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=18347"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/18347/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 18348,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/18347/revisions/18348"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/2764"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=18347"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=18347"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=18347"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

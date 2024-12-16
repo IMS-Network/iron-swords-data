@@ -1,0 +1,138 @@
+{
+    "id": 1360,
+    "date": "2023-10-07T06:30:00",
+    "date_gmt": "2023-10-07T03:30:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=1360"
+    },
+    "modified": "2024-04-18T16:14:04",
+    "modified_gmt": "2024-04-18T13:14:04",
+    "slug": "daniel-ohana",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/victims/daniel-ohana/",
+    "title": {
+        "rendered": "DANIEL OHANA"
+    },
+    "content": {
+        "rendered": "\n<p>Daniel Ohana tragically lost his life at the Nova Festival, a victim of the ruthless violence perpetrated by Hamas. The festival became a scene of horror as Hamas terrorists launched a surprise attack, targeting innocent civilians with indiscriminate violence. This cowardly act is part of a larger pattern of aggression by Hamas, which has repeatedly shown a blatant disregard for human life through its heinous acts of terrorism.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Daniel Ohana tragically lost his life at the Nova Festival, a victim of the ruthless violence perpetrated by <a  href=\"/hamas\">Hamas</a>. The festival became a scene of horror as <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> terrorists launched a surprise attack, targeting innocent civilians with indiscriminate violence. This cowardly act is part of a larger pattern of aggression by Hamas, which has repeatedly shown a blatant disregard for human life through its heinous acts of terrorism.</p>\n",
+        "protected": false
+    },
+    "author": 6,
+    "featured_media": 1361,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-october-7th-victims",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 21,
+        "footnotes": ""
+    },
+    "categories": [
+        21
+    ],
+    "tags": [
+        34
+    ],
+    "class_list": [
+        "post-1360",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-victims",
+        "tag-nova"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 1360
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1360",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/6"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=1360"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1360/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 1363,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1360/revisions/1363"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/1361"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=1360"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=1360"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=1360"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

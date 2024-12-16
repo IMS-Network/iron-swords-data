@@ -1,0 +1,122 @@
+{
+    "id": 2992,
+    "date": "2024-05-22T21:16:19",
+    "date_gmt": "2024-05-22T18:16:19",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9833/"
+    },
+    "modified": "2024-05-22T21:16:19",
+    "modified_gmt": "2024-05-22T18:16:19",
+    "slug": "9833",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9833/",
+    "title": {
+        "rendered": "&#8220;IDF Targets Hezbollah Terror Infrastructure in South Lebanon: A Comprehensive Update&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Launchers and terror infrastructure; the IDF attacked targets of the Hezbollah terror organization in South Lebanon.</p>\n<p>A short while ago, fighter jets attacked two launchers of the Hezbollah terror organization in the wide regions and Ayta al-Shab in South Lebanon. In addition, fighter jets attacked the terror infrastructure of the Hezbollah terror organization in the large Rab al-Talatin area.</p>\n<p>Also, a Kipat Barzel (Iron Dome) intercepted a rocket that crossed into Lebanese territory landed this evening in the Beit Hillel area, there were no casualties and no damage was caused.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Launchers and terror infrastructure; the IDF attacked targets of the <a  href=\"/hezbollah\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> in South Lebanon. A short while ago, fighter jets attacked two launchers of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terror organization in the wide regions and Ayta al-Shab in South Lebanon. In addition, fighter jets attacked the terror infrastructure of the Hezbollah terror organization in the large Rab al-Talatin area. Also, a Kipat Barzel (Iron Dome) intercepted a rocket that crossed into Lebanese territory landed this evening in the Beit Hillel area, there were no casualties and no damage was caused.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2992",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2992
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2992",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2992"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2992/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2992"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2992"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2992"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

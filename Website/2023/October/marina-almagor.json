@@ -1,0 +1,134 @@
+{
+    "id": 2596,
+    "date": "2023-10-07T06:30:00",
+    "date_gmt": "2023-10-07T03:30:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=2596"
+    },
+    "modified": "2024-05-24T14:04:23",
+    "modified_gmt": "2024-05-24T11:04:23",
+    "slug": "marina-almagor",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/victims/marina-almagor/",
+    "title": {
+        "rendered": "marina almagor"
+    },
+    "content": {
+        "rendered": "\n<p>Marina, 76, a mother and grandmother from Kfar Sava, was murdered by Hamas terrorists at her partner\u2019s home in Netiv HaAsara.<br><br>The only daughter of Holocaust survivor parents, she was born in Zagreb, then part of Yugoslavia. She emigrated to Israel with her parents when she was one year old. In her youth, she was a professional athlete and swimmer, winning several medals. Later, she studied to become a certified nurse and worked at a family health center for thirty years before transitioning to elderly care. She was known as a valued and hardworking nurse. A friendly and beloved person, she was known for her love of dogs, history, and travel, both in Israel and abroad.<br><br>On the morning of October 7th, as missile alarms pierced the air, Marina and her partner, Yoel, rushed to their bomb shelter. In the chaos, Marina&#8217;s dog, frightened by the noise, fled. Hearing Marina\u2019s calls for her dog, the advancing Hamas terrorists located her, opened fire, and hit Yoel, who collapsed to the ground. With remarkable courage, in her last moments, Marina managed to call Yoel&#8217;s daughter, who lived nearby, urging her to lock herself and her children in their bomb shelter, thus saving their lives. Seconds later, Marina herself fell victim to the gunfire of the Hamas terrorists, sacrificing her own life to protect Yoel&#8217;s daughter and her children.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Marina, 76, a mother and grandmother from Kfar Sava, was murdered by <a  href=\"/hamas\">Hamas</a> terrorists at her partner\u2019s home in <a  href=\"https://iron-swords.co.il/t/netiv-haasara/\">Netiv HaAsara</a>. The only daughter of <a  href=\"https://iron-swords.co.il/t/holocaust/\">Holocaust</a> survivor parents, she was born in Zagreb, then part of Yugoslavia. She emigrated to <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> with her parents when she was one year old. In her youth, she was a professional athlete and swimmer, winning several medals. Later, she studied to become a certified nurse and worked at a family health center for thirty years before transitioning to elderly care. She was known as a valued and hardworking nurse. A friendly and beloved person,</p>\n",
+        "protected": false
+    },
+    "author": 16,
+    "featured_media": 2597,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-october-7th-victims",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 21,
+        "footnotes": ""
+    },
+    "categories": [
+        21
+    ],
+    "tags": [
+        177,
+        137
+    ],
+    "class_list": [
+        "post-2596",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-victims",
+        "tag-netiv-haasara",
+        "tag-october-7th-massacre-victims"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2596
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2596",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/16"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2596"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2596/revisions"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/2597"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2596"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2596"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2596"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

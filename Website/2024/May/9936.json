@@ -1,0 +1,122 @@
+{
+    "id": 2888,
+    "date": "2024-05-30T15:16:34",
+    "date_gmt": "2024-05-30T12:16:34",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9936/"
+    },
+    "modified": "2024-05-30T15:16:34",
+    "modified_gmt": "2024-05-30T12:16:34",
+    "slug": "9936",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9936/",
+    "title": {
+        "rendered": "&#8220;Inside Look: 12th Squadron&#8217;s Operations Under Brigade 162 &#8211; Unveiling Tunnels and ER in UNRWA School Clinic&#8221;"
+    },
+    "content": {
+        "rendered": "<p>A tunnel shaft inside a clinic, an ER in a UNRWA school:<br />\nWatch recordings from 12th Squadron&#8217;s operations under Brigade 162 </p>\n<p>https://www.idf.il/205227</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>A tunnel shaft inside a clinic, an ER in a <a  href=\"https://iron-swords.co.il/c/know-your-enemies/unrwa/\">UNRWA</a> school: Watch recordings from 12th Squadron&#8217;s operations under Brigade 162 https://www.idf.il/205227</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2888",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2888
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2888",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2888"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2888/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2888"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2888"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2888"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

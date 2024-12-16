@@ -1,0 +1,124 @@
+{
+    "id": 8537,
+    "date": "2024-06-25T12:35:58",
+    "date_gmt": "2024-06-25T09:35:58",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10239-en/"
+    },
+    "modified": "2024-06-25T12:35:58",
+    "modified_gmt": "2024-06-25T09:35:58",
+    "slug": "10239-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10239-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hamas Targets: Air Force Attacks Islamic University and Dismantles Terror Infrastructure&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF targeted a structure at the Islamic University where terrorists from the Hamas terror organization were located and from which they carried out terrorist activities against our forces.</p>\n<p>Last night (Monday), an Air Force fighter jet, guided by the 99th Division forces, attacked a building at the Islamic University in the Sabra neighborhood.<br />\nFrom the targeted structure, terrorists operated using it for launching anti-tank missiles, reconnaissance, directing, and executing terror plans against our forces.<br />\nPrior to the attack, numerous measures were taken to minimize the likelihood of harming civilians, including aerial reconnaissance checks.</p>\n<p>Forces from the 162nd Division continue operations in the Rafah area; in the past day, the forces eliminated several armed terrorists, and Air Force aircraft destroyed several terror infrastructures containing underground tunnels that the forces identified shortly before.</p>\n<p>Air Force fighter jets attacked military structures near the point from which the launches to the surrounding area were carried out last night.<br />\nAdditionally, Air Force aircraft targeted several terror infrastructures, munitions warehouses, and terrorists in the central Gaza Strip.</p>\n<p>Attached is documentation from the IDF strikes in the Gaza Strip: https://bit.ly/3VGqybD</p>\n<p>Attached are images from IDF operations in the Strip: https://IDFANC.activetrail.biz/ANC2506202482736456</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF targeted a structure at the Islamic University where terrorists from the <a  href=\"/hamas\">Hamas</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> were located and from which they carried out terrorist activities against our forces. Last night (Monday), an Air Force fighter jet, guided by the <a  href=\"https://iron-swords.co.il/t/99th-division/\">99th Division</a> forces, attacked a building at the Islamic University in the Sabra neighborhood. From the targeted structure, terrorists operated using it for launching anti-tank missiles, reconnaissance, directing, and executing terror plans against our forces. Prior to the attack, numerous measures were taken to minimize the likelihood of harming civilians, including aerial reconnaissance checks. Forces from the 162nd</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8537",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8537,
+        "he": 8538,
+        "ru": 8539
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8537",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8537"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8537/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8537"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8537"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8537"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

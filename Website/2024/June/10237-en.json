@@ -1,0 +1,124 @@
+{
+    "id": 8543,
+    "date": "2024-06-25T09:01:18",
+    "date_gmt": "2024-06-25T06:01:18",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10237-en/"
+    },
+    "modified": "2024-06-25T09:01:18",
+    "modified_gmt": "2024-06-25T06:01:18",
+    "slug": "10237-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10237-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hamas Militant Hubs in Northern Gaza: Targeting Terrorist Operations and Hostage Situations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked during the night militants operating from two buildings in the northern Gaza Strip; among them militants involved in holding hostages and in an incursion into Israeli territory on October 7th.</p>\n<p>During the night, Air Force fighter jets, guided by intelligence from the IDF Intelligence Corps and the Shin Bet, targeted two buildings in Shati and Darge Tufah in northern Gaza, which were being used by militants of the Hamas terrorist organization. The militants operated from school complexes that the organization exploited as a shield for terrorist activities.</p>\n<p>The militants were involved in planning numerous terrorist plots against Israel, and some were involved in holding hostages and participated in the massacre on October 7th.</p>\n<p>As part of the preparation process for the attack, aerial assessments, precise munitions, and additional intelligence information were utilized to minimize harm to non-combatants.</p>\n<p>The Hamas terrorist organization regularly violates international law by systematically exploiting civilian structures and the civilian population as a human shield for terrorist operations against the State of Israel.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked during the night militants operating from two buildings in the northern <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip; among them militants involved in holding <a  href=\"https://iron-swords.co.il/t/hostages/\">hostages</a> and in an incursion into Israeli territory on October 7th. During the night, Air Force fighter jets, guided by intelligence from the IDF Intelligence Corps and the Shin Bet, targeted two buildings in Shati and Darge Tufah in northern Gaza, which were being used by militants of the <a  href=\"/hamas\">Hamas</a> terrorist organization. The militants operated from school complexes that the organization exploited as a shield for terrorist activities. The militants were involved in planning numerous terrorist</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8543",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8543,
+        "he": 8544,
+        "ru": 8545
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8543",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8543"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8543/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8543"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8543"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8543"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

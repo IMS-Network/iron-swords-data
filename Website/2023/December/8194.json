@@ -1,0 +1,122 @@
+{
+    "id": 4599,
+    "date": "2023-12-10T11:14:26",
+    "date_gmt": "2023-12-10T09:14:26",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8194/"
+    },
+    "modified": "2023-12-10T11:14:26",
+    "modified_gmt": "2023-12-10T09:14:26",
+    "slug": "8194",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8194/",
+    "title": {
+        "rendered": "&#8220;Crackdown on Terror: IDF and Security Forces Arrest 21, Seize Weapons in Major Anti-Terror Operations Across Israel&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson: </p>\n<p>IDF soldiers, Shin Bet, Border Police, and Israel Police arrested 21 wanted individuals last night across Judea and Samaria, and in the Jordan Valley and Vale Brigade area; in a brigade operation in the city of Tubas, 14 wanted individuals were arrested and many weapons were confiscated. </p>\n<p>In a brigade operation led by IDF reserve soldiers aimed at combating terror in the city of Tubas, in the Jordan Valley and Vale Brigade area, 14 wanted individuals were arrested. Four hunting rifles, a Carl Gustav rifle, an airsoft pistol, ammunition, and three charges that were destroyed by the soldiers, were found. </p>\n<p>During the forces&#8217; activity in the city of Hebron, the soldiers found and seized a pistol, military equipment, and parts of an M-16 weapon. In additional activities in the Gohar area in the Judea Brigade and in the village of Na&#8217;ama in the Ephraim Brigade, over 50 illegal vehicles were confiscated. </p>\n<p>In addition, in the city of Nablus, the refugee camp of Kalandia and the village of Kalil, parts of weapons, an airsoft pistol, ammunition, and military equipment were found. In the village of Burqa, tear gas grenades, military equipment, and several charges that were destroyed by the forces, were found. </p>\n<p>In total, six weapons and two airsoft pistols were confiscated. The arrested wanted individuals were transferred for further investigation by security forces.</p>\n<p>Since the start of the war, about 2,200 wanted individuals have been arrested across the Judea and Samaria Division and the Jordan Valley and Vale Brigade area; about 1,180 of them are affiliated with the Hamas terrorist organization. </p>\n<p>Attached are photos of the confiscated weapons: https://IDFANC.activetrail.biz/ANC101202323265</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF soldiers, Shin Bet, Border Police, and <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> Police arrested 21 wanted individuals last night across Judea and Samaria, and in the Jordan Valley and Vale Brigade area; in a brigade operation in the city of Tubas, 14 wanted individuals were arrested and many weapons were confiscated. In a brigade operation led by IDF reserve soldiers aimed at combating terror in the city of Tubas, in the Jordan Valley and Vale Brigade area, 14 wanted individuals were arrested. Four hunting rifles, a Carl Gustav rifle, an airsoft pistol, ammunition, and three charges that were destroyed by the soldiers,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4599",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4599
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4599",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4599"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4599/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4599"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4599"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4599"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

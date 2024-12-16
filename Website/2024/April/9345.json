@@ -1,0 +1,122 @@
+{
+    "id": 3468,
+    "date": "2024-04-05T15:15:18",
+    "date_gmt": "2024-04-05T12:15:18",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9345/"
+    },
+    "modified": "2024-04-05T15:15:18",
+    "modified_gmt": "2024-04-05T12:15:18",
+    "slug": "9345",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9345/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Terrorist Targets in Lebanon: A Detailed Account of Military Actions&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Military buildings where terrorists were located, alongside an observation post and terrorist infrastructure: The IDF attacked terrorist targets in Lebanon.</p>\n<p>Combat aircraft of the Air Force attacked a terrorist infrastructure of the Hezbollah terrorist organization in the Zeqin area, alongside a military building of the organization in the Yarun area and another military building in the area of Ayta Al-Shaab, where terrorists were located.</p>\n<p>Earlier today, IDF forces attacked an observation post of the organization in the Shebaa area. In addition, last night (Thursday) a military site of the organization in the Kfar Hamam area was attacked.</p>\n<p>Attached is footage from the attacks: https://bit.ly/3vEfJhc</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Military buildings where terrorists were located, alongside an observation post and terrorist infrastructure: The IDF attacked terrorist targets in Lebanon. Combat aircraft of the Air Force attacked a terrorist infrastructure of the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization in the Zeqin area, alongside a military building of the organization in the Yarun area and another military building in the area of Ayta Al-Shaab, where terrorists were located. Earlier today, IDF forces attacked an observation post of the organization in the Shebaa area. In addition, last night (Thursday) a military site of the organization in the Kfar Hamam area was attacked. Attached</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3468",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3468
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3468",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3468"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3468/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3468"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3468"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3468"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": 7228,
+    "date": "2024-07-30T11:33:49",
+    "date_gmt": "2024-07-30T08:33:49",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10681-en/"
+    },
+    "modified": "2024-07-30T11:33:49",
+    "modified_gmt": "2024-07-30T08:33:49",
+    "slug": "10681-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10681-en/",
+    "title": {
+        "rendered": "&#8220;IDF Operations in Khan Yunis: Over 150 Terrorists Eliminated and Key Leaders Targeted&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Forces of Division 98 have completed their mission in Khan Yunis; a terrorist who advanced many terror schemes against our forces in the center of the Gaza Strip has been eliminated.</p>\n<p>Division 98 completed its operations in the Khan Yunis area last night. The combat teams of the 7th Division, Paratroopers, and Commando units operated in the area for about a week, eliminating over 150 terrorists, destroying terror tunnels, weapon storage facilities, and terror infrastructure, and locating weaponry. Additionally, in a joint operation with the Shin Bet, they rescued the kidnapped victim who was murdered, Mia Goren, as well as the deceased captives: Sergeant Major (res.) Rabid Aryeh Katz, Staff Sergeant (res.) Oren Goldin, Corporal Tomer Ahimas, and Sergeant Kirill Brodsky, who were kidnapped and murdered by the Hamas terrorist organization during the brutal terror attack on October 7.</p>\n<p>Air Force aircraft, in collaboration with the Gaza Division, targeted the terrorist Ibrahim Hijazi, who served as an anti-tank responsible person in Hamas&#8217;s Nuzar&#8217;it Battalion. The terrorist was involved in planning and executing numerous terror schemes against our forces and served as a focal point of knowledge in the field.</p>\n<p>Division 252 is operating in the center of the Gaza Strip. The division&#8217;s forces are conducting targeted raids, eliminating terrorists, and destroying terror infrastructure. Air Force aircraft, in cooperation with the combat team of the Alexandroni Brigade (3), eliminated a terrorist cell of the Hamas terrorist organization that was operating within a structure in the area.</p>\n<p>Attached is documentation of IDF strikes in the Gaza Strip: https://bit.ly/3y8azLL</p>\n<p>Attached are images from the operations of IDF forces in the Gaza Strip: https://IDFANC.activetrail.biz/ANC3007202429388</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Forces of Division 98 have completed their mission in Khan Yunis; a terrorist who advanced many terror schemes against our forces in the center of the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip has been eliminated. Division 98 completed its operations in the Khan Yunis area last night. The combat teams of the 7th Division, Paratroopers, and Commando units operated in the area for about a week, eliminating over 150 terrorists, destroying terror tunnels, weapon storage facilities, and terror infrastructure, and locating weaponry. Additionally, in a joint operation with the Shin Bet, they rescued the kidnapped victim who was murdered, Mia Goren, as</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7228",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7228,
+        "he": 7229,
+        "ru": 7230
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7228",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7228"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7228/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7228"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7228"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7228"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

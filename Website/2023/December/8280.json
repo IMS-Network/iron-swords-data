@@ -1,0 +1,122 @@
+{
+    "id": 4513,
+    "date": "2023-12-15T21:51:11",
+    "date_gmt": "2023-12-15T19:51:11",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8280/"
+    },
+    "modified": "2023-12-15T21:51:11",
+    "modified_gmt": "2023-12-15T19:51:11",
+    "slug": "8280",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8280/",
+    "title": {
+        "rendered": "&#8220;Tragic Loss: Alon Shemer, Abducted by Hamas, Accidentally Killed by IDF &#8211; Family Approves Publication&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The name of the additional abductee who was accidentally killed today (Friday) in an event in Shuja&#8217;iyya by the IDF was approved for publication by his family, Alon Shemer RIP, who was abducted from Kfar Azza by the Hamas terror organization on October 7. The announcement was delivered to his family by representatives of the IDF and the Israel Police. </p>\n<p>The IDF expresses deep sorrow about the event and partakes in the families&#8217; grief.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The name of the additional abductee who was accidentally killed today (Friday) in an event in Shuja&#8217;iyya by the IDF was approved for publication by his family, Alon Shemer RIP, who was abducted from Kfar Azza by the <a  href=\"/hamas\">Hamas</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> on October 7. The announcement was delivered to his family by representatives of the IDF and the <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> Police. The IDF expresses deep sorrow about the event and partakes in the families&#8217; grief.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4513",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4513
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4513",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4513"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4513/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4513"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4513"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4513"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

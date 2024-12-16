@@ -1,0 +1,122 @@
+{
+    "id": 4063,
+    "date": "2024-01-30T10:54:59",
+    "date_gmt": "2024-01-30T08:54:59",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8737/"
+    },
+    "modified": "2024-01-30T10:54:59",
+    "modified_gmt": "2024-01-30T08:54:59",
+    "slug": "8737",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8737/",
+    "title": {
+        "rendered": "&#8220;Decisive IDF Operations: Destroying Rocket Launchers, Neutralizing Terrorists and Seizing Weapons in the Gaza Strip&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The rocket launchers from which the rockets were fired towards Gush Dan yesterday were destroyed. Meanwhile, forces of the 162nd Division continue to fight in the north and center of the Strip; scores of terrorists were killed, and many weapons were found.</p>\n<p>The Air Force, under the direction of the Fire Center of the 98th Division, attacked and destroyed the rocket launchers from which the rockets were fired towards Gush Dan, using fighter planes. According to estimates, there were additional missiles for launching in the destroyed launcher. In another attack, a military asset of Hamas&#8217;s Engineering Corps was destroyed.</p>\n<p>The forces of the 98th Division continue to fight in the west of Khan Yunis. Soldiers from the paratroopers&#8217; combat team killed many terrorists and found weapons in the area. The Fire Center of the 7th Brigade directed an aircraft that attacked and killed a number of terrorists in the region.</p>\n<p>Meanwhile, soldiers of the 162nd Division continue to operate in the northern and central parts of the Strip. In the Shati area, soldiers from the 401st Brigade&#8217;s combat team killed many terrorists and found weapons in the area. </p>\n<p>In the northern Strip, soldiers of the 5th Brigade&#8217;s combat team killed several terrorists in the past few days.</p>\n<p>In the central Strip, soldiers from the Nahal Brigade&#8217;s combat team, identified a group of terrorists armed with RPGs advancing towards the force from an observation post. A remote-operated manned aircraft attacked and killed the terrorists.</p>\n<p>Attached is documentation of the rocket launches that were fired towards Gush Dan yesterday, the attack on the launchers, and the military asset: https://bit.ly/3SzXBO6</p>\n<p>Attached are photos of the IDF&#8217;s operations in Khan Yunis: https://IDFANC.activetrail.biz/ANC30012024829356R</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The rocket launchers from which the rockets were fired towards Gush Dan yesterday were destroyed. Meanwhile, forces of the 162nd Division continue to fight in the north and center of the Strip; scores of terrorists were killed, and many weapons were found. The Air Force, under the direction of the Fire Center of the 98th Division, attacked and destroyed the rocket launchers from which the rockets were fired towards Gush Dan, using fighter planes. According to estimates, there were additional missiles for launching in the destroyed launcher. In another attack, a military asset of <a  href=\"/hamas\">Hamas</a>&#8217;s Engineering Corps was</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4063",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4063
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4063",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4063"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4063/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4063"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4063"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4063"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

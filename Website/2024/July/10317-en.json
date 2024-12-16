@@ -1,0 +1,124 @@
+{
+    "id": 8306,
+    "date": "2024-07-02T10:09:18",
+    "date_gmt": "2024-07-02T07:09:18",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10317-en/"
+    },
+    "modified": "2024-07-02T10:09:18",
+    "modified_gmt": "2024-07-02T07:09:18",
+    "slug": "10317-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10317-en/",
+    "title": {
+        "rendered": "&#8220;IDF Operations: Nahal Brigade Dismantles Terror Cell and Strikes Gaza Infrastructure&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Nahal fighters eliminated an armed terrorist cell in Rafah; 7th Reserve Brigade fighters located weaponry in the Shuja&#8217;iyya area.</p>\n<p>In the Rafah area, Air Force fighter jets, in cooperation with the 162nd Division forces, destroyed several terrorist infrastructures in the past 24 hours. Nahal Brigade fighters identified, during an ambush, an armed terrorist cell advancing in a vehicle towards the area where the forces were operating. The fighters opened fire on the terrorists and eliminated them.</p>\n<p>Forces from the 98th Division continue operations in the Shuja&#8217;iyya area. Air Force aircraft, in cooperation with the division forces, conducted strikes during which terrorists were eliminated and terrorist infrastructures were destroyed, including tunnel shafts, weapon storage facilities, and a structure from which anti-tank fire was directed at the forces. Combat team fighters from Brigade 7 identified a significant amount of weaponry in the area, including &#8216;Kalashnikov&#8217; rifles, vests, and other military equipment.</p>\n<p>In the center of the Gaza Strip, forces from the 99th Division eliminated several terrorists in close-quarter clashes and located weaponry and military equipment in the last 24 hours.</p>\n<p>Over the past 24 hours, fighter jets, attack helicopters, and remotely piloted aircraft from the Air Force attacked approximately 30 military targets as part of air support for the forces, including ammunition storage facilities, terrorist infrastructures, and military buildings of the Hamas terrorist organization.</p>\n<p>Attached is documentation from the forces&#8217; activities in the Gaza Strip: https://bit.ly/3xSmnBk</p>\n<p>Attached are photos from the forces&#8217; activities in the Gaza Strip: https://idfanc.activetrail.biz/ANC020720247452</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Nahal fighters eliminated an armed terrorist cell in Rafah; 7th Reserve Brigade fighters located weaponry in the Shuja&#8217;iyya area. In the Rafah area, Air Force fighter jets, in cooperation with the 162nd Division forces, destroyed several terrorist infrastructures in the past 24 hours. <a  href=\"https://iron-swords.co.il/t/nahal-brigade/\">Nahal Brigade</a> fighters identified, during an ambush, an armed terrorist cell advancing in a vehicle towards the area where the forces were operating. The fighters opened fire on the terrorists and eliminated them. Forces from the 98th Division continue operations in the Shuja&#8217;iyya area. Air Force aircraft, in cooperation with the division forces, conducted strikes</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8306",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8306,
+        "he": 8307,
+        "ru": 8308
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8306",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8306"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8306/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8306"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8306"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8306"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

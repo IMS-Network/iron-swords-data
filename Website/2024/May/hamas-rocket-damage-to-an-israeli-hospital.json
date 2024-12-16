@@ -1,0 +1,128 @@
+{
+    "id": 2602,
+    "date": "2024-05-25T20:28:11",
+    "date_gmt": "2024-05-25T17:28:11",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=2602"
+    },
+    "modified": "2024-05-25T20:28:16",
+    "modified_gmt": "2024-05-25T17:28:16",
+    "slug": "hamas-rocket-damage-to-an-israeli-hospital",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/know-your-enemies/hamas/this-is-hamas/hamas-rocket-damage-to-an-israeli-hospital/",
+    "title": {
+        "rendered": "Hamas rocket damage to an Israeli hospital"
+    },
+    "content": {
+        "rendered": "\n<div class=\"section-wrapper\" data-id=\"O5DvkX\"><section class=\"wp-block-gutenverse-section guten-element guten-section guten-O5DvkX layout-boxed align-stretch\"><div class=\"guten-background-overlay\"></div><div class=\"guten-shape-divider guten-shape-divider-top\"></div><div class=\"guten-shape-divider guten-shape-divider-bottom\"></div><div class=\"guten-container guten-column-gap-default\">\n<div class=\"wp-block-gutenverse-column guten-element guten-column guten-Is1xfR\"><div class=\"guten-background-overlay\"></div><div class=\"sticky-wrapper\" data-id=\"Is1xfR\"><div class=\"guten-column-wrapper\">\n<figure class=\"guten-element guten-video guten-fa7RL5\"><div class=\"guten-video-wrapper\" data-property=\"{&quot;url&quot;:&quot;https://youtu.be/qeLrWQsrau0&quot;,&quot;class&quot;:&quot;guten-video-background&quot;,&quot;width&quot;:&quot;100%&quot;,&quot;height&quot;:&quot;500px&quot;,&quot;controls&quot;:true,&quot;playsinline&quot;:true,&quot;style&quot;:{},&quot;config&quot;:{&quot;youtube&quot;:{&quot;playerVars&quot;:{}}}}\"></div></figure>\n</div></div></div>\n\n\n\n<div class=\"wp-block-gutenverse-column guten-element guten-column guten-oQ1HsX\"><div class=\"guten-background-overlay\"></div><div class=\"sticky-wrapper\" data-id=\"oQ1HsX\"><div class=\"guten-column-wrapper\">\n<p>A Hamas rocket fired from Gaza struck an Israeli hospital, inflicting extensive damage to the facility. <br>This attack on a medical institution, where innocent civilians, including patients and medical staff, seek care and safety, is a blatant violation of international humanitarian law. Such actions are considered crimes against humanity and are utterly reprehensible. <br>Attacking hospitals disrupts critical medical services, endangers lives, and undermines the fundamental principles of human rights and dignity. <br>This deliberate targeting of healthcare facilities demonstrates a complete disregard for human life and international norms designed to protect civilians during conflict.</p>\n</div></div></div>\n</div></section></div>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-this-is-hamas",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 107,
+        "footnotes": ""
+    },
+    "categories": [
+        107
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2602",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-this-is-hamas"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2602
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2602",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2602"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2602/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 2604,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2602/revisions/2604"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2602"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2602"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2602"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

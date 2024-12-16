@@ -1,0 +1,124 @@
+{
+    "id": 7099,
+    "date": "2024-08-02T17:10:37",
+    "date_gmt": "2024-08-02T14:10:37",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10726-en/"
+    },
+    "modified": "2024-08-02T17:10:37",
+    "modified_gmt": "2024-08-02T14:10:37",
+    "slug": "10726-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10726-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Targets: Successful Interception and Air Assault in Southern Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF targeted a military structure where Hezbollah operatives were active; air defense fighters successfully intercepted a suspicious aerial target that crossed from Lebanese territory.</p>\n<p>Combat aircraft attacked two Hezbollah operatives a short while ago who were operating in a military structure of the organization in the area of Bleda in southern Lebanon.</p>\n<p>The operatives were attacked shortly after being identified by a force from Division 91 in the area from which launches were carried out today towards the Ramim ridge.</p>\n<p>Earlier today, air defense fighters successfully intercepted a suspicious aerial target that crossed from Lebanon into northern Golan Heights. Alerts were activated in the area according to policy.</p>\n<p>Firefighting forces are currently working at the scene to extinguish a fire that broke out as a result of debris from the interception; there are no casualties.</p>\n<p>Attached is documentation of the identification of the operatives and their attack: https://bit.ly/3YvkwO6</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF targeted a military structure where <a  href=\"/hezbollah\">Hezbollah</a> operatives were active; air defense fighters successfully intercepted a suspicious aerial target that crossed from Lebanese territory. Combat aircraft attacked two <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> operatives a short while ago who were operating in a military structure of the organization in the area of Bleda in southern Lebanon. The operatives were attacked shortly after being identified by a force from Division 91 in the area from which launches were carried out today towards the Ramim ridge. Earlier today, air defense fighters successfully intercepted a suspicious aerial target that crossed from Lebanon into northern</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7099",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7099,
+        "he": 7100,
+        "ru": 7101
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7099",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7099"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7099/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7099"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7099"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7099"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

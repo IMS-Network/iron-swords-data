@@ -1,0 +1,122 @@
+{
+    "id": 4187,
+    "date": "2024-01-15T10:25:48",
+    "date_gmt": "2024-01-15T08:25:48",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8611/"
+    },
+    "modified": "2024-01-15T10:25:48",
+    "modified_gmt": "2024-01-15T08:25:48",
+    "slug": "8611",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8611/",
+    "title": {
+        "rendered": "&#8220;IDF and Shin Bet Thwart Hamas Activities: 26 Arrested, Unauthorized Houses Demolished in Nighttime Operation&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF, the Shin Bet and the Border Police operated tonight at the An-Najah University in Nablus, under the command of the Samaria brigade, and arrested nine wanted individuals linked to Hamas&#8217;s student cell; 17 wanted individuals were arrested tonight throughout Judea and Samaria.</p>\n<p>Reservists of Duvdevan and the Border Police operated tonight under the command of the Samaria brigade and under the guidance of the Shin Bet in Nablus city. They arrested at the An-Najah University, nine wanted individuals. These were active members of the Hamas student cell who had been hiding at the location. Many more suspects were detained for questioning.</p>\n<p>This is part of the efforts of the IDF and the Shin Bet to thwart the activities of terror cells composed of students in the Hamas cells, the &#8220;Islamic Bloc&#8221;, which operate at universities throughout Judea and Samaria.</p>\n<p>In the city of Qalqilya, under the command of the Ephraim brigade, the forces, along with IDF engineering forces in collaboration with the Civil Administration, demolished two unauthorized houses of Hamas activists &#8211; Esam Daoud, a senior official of the terrorist organization, and Salah Daoud, who carried out two shooting attacks in 2015.</p>\n<p>The warriors arrested last night an additional five wanted individuals in the village of Azbada in the Menashe brigade and located hundreds of thousands of shekels intended for terrorist activities in the Ephraim, Binyamin, and Etzion brigades.</p>\n<p>The arrestees have been transferred for further investigation by the security forces, there were no injuries to our forces.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF, the Shin Bet and the Border Police operated tonight at the An-Najah University in Nablus, under the command of the Samaria brigade, and arrested nine wanted individuals linked to <a  href=\"/hamas\">Hamas</a>&#8217;s student cell; 17 wanted individuals were arrested tonight throughout Judea and Samaria. Reservists of Duvdevan and the Border Police operated tonight under the command of the Samaria brigade and under the guidance of the Shin Bet in Nablus city. They arrested at the An-Najah University, nine wanted individuals. These were active members of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> student cell who had been hiding at the location. Many more</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4187",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4187
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4187",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4187"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4187/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4187"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4187"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4187"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

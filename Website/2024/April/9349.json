@@ -1,0 +1,122 @@
+{
+    "id": 3464,
+    "date": "2024-04-06T12:59:12",
+    "date_gmt": "2024-04-06T09:59:12",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9349/"
+    },
+    "modified": "2024-04-06T12:59:12",
+    "modified_gmt": "2024-04-06T09:59:12",
+    "slug": "9349",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9349/",
+    "title": {
+        "rendered": "&#8220;Successful IDF-Shin Bet Operation: Elad Katzir&#8217;s Body Extracted from PLO Captivity and Returned to Israel&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint message from the IDF Spokesperson and the Shin Bet Spokespersons:</p>\n<p>The body of the kidnapped Elad Katzir, who according to intelligence information, was murdered in captivity by the PLO terrorist organization, was extracted last night from Khan Yunis in an operation of the Commando Brigade under the direction of Shin Bet and the Israel Military Intelligence Directorate (Aman), and returned to Israeli territory. His body was located using intelligence information from Aman and the Shin Bet, along with precise identification by the Egoz Unit.</p>\n<p>Following an identification process conducted last night by medical personnel from the Institute of Forensic Medicine, representatives of IDF and Shin Bet notified the family of Elad Katzir on the extraction of his body.<br />\nThe IDF and Shin Bet share the family&#8217;s pain.</p>\n<p>During the murderous terrorist attack on October 7th, Elad Katzir was kidnapped by the PLO terrorist organization from Kibbutz Nir Oz. His mother, Hanna, was also kidnapped by the PLO and released on November 24th as part of the kidnapped persons return track, and his father, Abraham, was murdered on the kibbutz.</p>\n<p>The national mission before us is to bring all the kidnapped home. The IDF and Shin Bet are working closely and in full coordination with the relevant national and security entities to fulfill this mission, and will not relent until its completion.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint message from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a> and the Shin Bet Spokespersons: The body of the kidnapped Elad Katzir, who according to intelligence information, was murdered in captivity by the PLO terrorist organization, was extracted last night from Khan Yunis in an operation of the Commando Brigade under the direction of Shin Bet and the <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> Military Intelligence Directorate (Aman), and returned to Israeli territory. His body was located using intelligence information from Aman and the Shin Bet, along with precise identification by the Egoz Unit. Following an identification process conducted last night by medical personnel from the Institute of Forensic</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3464",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3464
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3464",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3464"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3464/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3464"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3464"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3464"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

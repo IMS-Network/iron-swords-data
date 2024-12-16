@@ -1,0 +1,122 @@
+{
+    "id": 4167,
+    "date": "2024-01-17T08:41:44",
+    "date_gmt": "2024-01-17T06:41:44",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8631/"
+    },
+    "modified": "2024-01-17T08:41:44",
+    "modified_gmt": "2024-01-17T06:41:44",
+    "slug": "8631",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8631/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Key Hamas Operative and Rocket Launch Sites: An Inside Look at Israeli Defense Actions in Gaza&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>An active Hamas operative responsible for the investigation of suspects in espionage against the organization in the southern Gaza Strip was eliminated; launch positions used for yesterday&#8217;s (Wednesday) launch towards Netivot were located and destroyed.</p>\n<p>The IDF, with the help of the Israeli Air Force and the cooperation of the Shin Bet, eliminated Bilal Nofal, who served as the supervisor of the investigation of suspects of spying against Hamas in the southern part of the Strip. Nofal was participating in the development of investigative techniques and training methods of the organization. His elimination constitutes a blow to the organization&#8217;s ongoing learning and strengthening capabilities.</p>\n<p>Following the identification of rocket launches towards the city of Netivot yesterday (Wednesday), soldiers from the combat unit of Brigade 646 located the launch area, containing three launchers with ten cannons, some of which were loaded with rockets. The soldiers destroyed the area and the launchers within.</p>\n<p>In Khan Yunis, soldiers of the Brigade&#8217;s combat team 7 identified three terrorists fleeing to a building after firing mortar bombs at the forces; the soldiers directed a combat helicopter which attacked and eliminated all three terrorists.</p>\n<p>On the outskirts of Sheikh Ajlin in central Gaza Strip, troops from Brigade&#8217;s combat team 179 identified two terrorists, the soldiers directed an aircraft of the Air Force, which attacked and eliminated both terrorists. In addition, the brigade&#8217;s team located numerous weapons in the field.</p>\n<p>Naval forces attacked several operational objectives of Hamas in the Gaza Strip last night, as part of supporting the IDF forces engaged ashore.</p>\n<p>Attached is a documentation of the sea arm attacks in the Gaza Strip: https://bit.ly/3HGMLjf </p>\n<p>Attached is a picture of the launchers that launched the rockets towards Netivot yesterday (Wednesday): https://IDFANC.activetrail.biz/ANC17012024ERIOUGERGBUIEUB</p>\n<p>Attached are pictures of the forces operating in the Gaza Strip: https://IDFANC.activetrail.biz/ANC17012024BVFRUAYV</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: An active <a  href=\"/hamas\">Hamas</a> operative responsible for the investigation of suspects in espionage against the organization in the southern <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip was eliminated; launch positions used for yesterday&#8217;s (Wednesday) launch towards Netivot were located and destroyed. The IDF, with the help of the Israeli Air Force and the cooperation of the Shin Bet, eliminated Bilal Nofal, who served as the supervisor of the investigation of suspects of spying against <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> in the southern part of the Strip. Nofal was participating in the development of investigative techniques and training methods of the organization. His elimination constitutes a blow to the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4167",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4167
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4167",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4167"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4167/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4167"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4167"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4167"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

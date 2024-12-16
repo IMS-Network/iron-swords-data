@@ -1,0 +1,122 @@
+{
+    "id": 3892,
+    "date": "2024-02-19T09:27:46",
+    "date_gmt": "2024-02-19T07:27:46",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8911/"
+    },
+    "modified": "2024-02-19T09:27:46",
+    "modified_gmt": "2024-02-19T07:27:46",
+    "slug": "8911",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8911/",
+    "title": {
+        "rendered": "&#8220;IDF Forces Thwart Terrorist Activities in Gaza Strip: A Detailed Account of Recent Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson: </p>\n<p>Just minutes after identifying the launch; fighters from the Nahal Brigade directed an aircraft that eliminated the terrorist who conducted the launch towards the Gaza Strip last night: IDF forces&#8217; activity in the Strip continues. </p>\n<p>Yesterday (Sunday), a launch was identified from the center of the Gaza Strip that crossed into Israeli territory and fell in an open area in the envelope. Minutes later, the Fire Complex of the Nahal Brigade identified the terrorist who conducted the launch moving in the area of the city of Gaza, an aircraft from the Air Force, directed by the Fire Complex of the Nahal Brigade, attacked and eliminated him. Furthermore, armed squads operating near the forces in the area were eliminated. </p>\n<p>The combat team fighters of Brigade 7 continue clearing the area west of Khan Younis. In the past day, the forces spread out over terror targets where Kalashnikov weapons, drones, RPG launcher, bombs, and other military equipment were found. The Fire Complex of the brigade, along with aircraft and combat helicopters of the Air Force, eliminated terrorists operating near the forces in the area.</p>\n<p>In Khan Younis, combat team fighters of the Paratroopers Brigade identified through a drone a squad of terrorists moving towards them and in response directed an aircraft that eliminated it. A short time later, four additional terrorists were identified in the area who were also eliminated by an aircraft of the Air Force.</p>\n<p>The Commando Brigade fighters continue to operate in Khan Younis, in the past day the fighters encountered armed terrorists and eliminated them. The fighters spread out over terror targets and located weapons there. </p>\n<p>In addition, following the alerts that were activated in the envelope of Gaza earlier this morning, no launches crossing into Israeli territory were identified. </p>\n<p>Attached is documentation of the elimination of the terrorist who conducted the launch towards the envelope of Gaza: https://bit.ly/3ON4vgt</p>\n<p>Attached is documentation of IDF attacks in the Strip: https://bit.ly/3uDl3kl</p>\n<p>Attached are pictures from the activity of IDF forces in the Strip: https://IDFANC.activetrail.biz/ANC190220241893492085 </p>\n<p>Attached is documentation of the activity of IDF forces in the Strip: https://bit.ly/48mCrra</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Just minutes after identifying the launch; fighters from the <a  href=\"https://iron-swords.co.il/t/nahal-brigade/\">Nahal Brigade</a> directed an aircraft that eliminated the terrorist who conducted the launch towards the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip last night: IDF forces&#8217; activity in the Strip continues. Yesterday (Sunday), a launch was identified from the center of the Gaza Strip that crossed into Israeli territory and fell in an open area in the envelope. Minutes later, the Fire Complex of the Nahal Brigade identified the terrorist who conducted the launch moving in the area of the city of Gaza, an aircraft from the Air Force, directed by the Fire Complex</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3892",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3892
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3892",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3892"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3892/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3892"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3892"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3892"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

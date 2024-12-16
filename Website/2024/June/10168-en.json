@@ -1,0 +1,124 @@
+{
+    "id": 8747,
+    "date": "2024-06-18T21:34:11",
+    "date_gmt": "2024-06-18T18:34:11",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10168-en/"
+    },
+    "modified": "2024-06-18T21:34:11",
+    "modified_gmt": "2024-06-18T18:34:11",
+    "slug": "10168-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10168-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Targets in Southern Lebanon: Interception Success Over Ziv Bridge&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Documentation: The IDF continues to strike Hezbollah terror targets in southern Lebanon; simultaneously, a suspicious aerial target was successfully intercepted over the maritime area near the Ziv Bridge.</p>\n<p>During the last hour, Air Force fighter jets attacked several terror targets belonging to the Hezbollah terrorist organization in southern Lebanon. Among the targets struck were several of the organization&#8217;s infrastructures in the areas of a-Taybeh, al-Adaysah, and al-Jabain, as well as a military structure in the Ayta ash-Shab area.</p>\n<p>Earlier this evening, air defense fighters successfully intercepted a suspicious aerial target over the maritime area near the Ziv Bridge; no alert was activated according to policy.</p>\n<p>Attached is documentation from the interception in the Ziv Bridge area: https://we.tl/t-vQ3jx5jTQG</p>\n<p>Attached is documentation from the strikes: https://we.tl/t-quQgA1YKHW</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Documentation: The IDF continues to strike <a  href=\"/hezbollah\">Hezbollah</a> terror targets in southern Lebanon; simultaneously, a suspicious aerial target was successfully intercepted over the maritime area near the Ziv Bridge. During the last hour, Air Force fighter jets attacked several terror targets belonging to the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization in southern Lebanon. Among the targets struck were several of the organization&#8217;s infrastructures in the areas of a-Taybeh, al-Adaysah, and al-Jabain, as well as a military structure in the Ayta ash-Shab area. Earlier this evening, air defense fighters successfully intercepted a suspicious aerial target over the maritime area near the Ziv Bridge;</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8747",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8747,
+        "he": 8748,
+        "ru": 8749
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8747",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8747"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8747/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8747"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8747"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8747"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "id": 15965,
+    "date": "2024-05-26T00:00:00",
+    "date_gmt": "2024-05-25T21:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/26-05-2024/"
+    },
+    "modified": "2024-08-27T21:30:25",
+    "modified_gmt": "2024-08-27T18:30:25",
+    "slug": "26-05-2024",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/aid/26-05-2024/",
+    "title": {
+        "rendered": "Israel Aid and Humanitarian Efforts in Gaza: May 26, 2024"
+    },
+    "content": {
+        "rendered": "<h2>Coordination Requests Update</h2>\n<p>Out of 40 coordination requests, 20 were approved. Since 1/1/24, 87% of all coordination requests have been approved.</p>\n<h2>Field Hospitals Status</h2>\n<p>As of May 26, there are 8 operational field hospitals. Additionally, 3 hospital initiatives are currently being reviewed. So far, 3,272 sick and injured individuals, along with 725 escorts, have left Gaza for medical treatment abroad.</p>\n<h2>JLOTS (Joint Logistics Over the Shore) Incident</h2>\n<p>On May 25, four United States Army vessels that were supporting JLOTS became detached from their moorings. Two vessels are now anchored on the beach near the pier, while two additional sections have beached on the coast of Israel near Ashkelon. Recovery efforts are currently underway in coordination with the United States Navy.</p>\n<h2>IDF Operations and Humanitarian Aid</h2>\n<p>Today, May 26, between 10:00 and 14:00, the IDF will pause operations in the Al Bashiti neighborhood of Khan Yunis to facilitate the movement of humanitarian aid. In accordance with the agreement reached with the United States, Egypt, and the UN, Kerem Shalom will be closed on Saturdays to assist the UN&#8217;s distribution of goods on the Gazan side of the crossing.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Coordination requests approved, medical evacuations increase, aid operations paused.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 15696,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        1338
+    ],
+    "tags": [
+        1352
+    ],
+    "class_list": [
+        "post-15965",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-aid",
+        "tag-daily-humanitarian-aid-update"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 15965,
+        "he": 15966,
+        "ru": 15967
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15965",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=15965"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15965/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 15968,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15965/revisions/15968"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/15696"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=15965"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=15965"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=15965"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

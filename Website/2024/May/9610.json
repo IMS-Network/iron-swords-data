@@ -1,0 +1,122 @@
+{
+    "id": 3211,
+    "date": "2024-05-02T14:46:42",
+    "date_gmt": "2024-05-02T11:46:42",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9610/"
+    },
+    "modified": "2024-05-02T14:46:42",
+    "modified_gmt": "2024-05-02T11:46:42",
+    "slug": "9610",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9610/",
+    "title": {
+        "rendered": "&#8220;IDF Targets Hezbollah Terror Sites in Lebanon: An Insight into Overnight Military Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF targeted terror sites in Lebanon overnight; in addition, a short while ago, a military building harboring a terrorist was attacked.</p>\n<p>During the night, air force combat planes attacked several military infrastructures of the terrorist organization Hezbollah in the Beqaa region.</p>\n<p>Moreover, shortly before, an observer from the 869th Intelligence unit identified a terrorist in a military building of the Hezbollah terrorist organization at the Merkava region. Shortly after, air force combat planes attacked the building where the terrorist was located.</p>\n<p>Footage from the attack on the military building is attached: https://bit.ly/44rmSy7.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF targeted terror sites in Lebanon overnight; in addition, a short while ago, a military building harboring a terrorist was attacked. During the night, air force combat planes attacked several military infrastructures of the terrorist organization <a  href=\"/hezbollah\">Hezbollah</a> in the Beqaa region. Moreover, shortly before, an observer from the 869th Intelligence unit identified a terrorist in a military building of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization at the Merkava region. Shortly after, air force combat planes attacked the building where the terrorist was located. Footage from the attack on the military building is attached: https://bit.ly/44rmSy7.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3211",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3211
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3211",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3211"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3211/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3211"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3211"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3211"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

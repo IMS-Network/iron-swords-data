@@ -1,0 +1,140 @@
+{
+    "id": 15725,
+    "date": "2024-08-15T00:00:00",
+    "date_gmt": "2024-08-14T21:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/15-08-2024/"
+    },
+    "modified": "2024-08-27T20:48:47",
+    "modified_gmt": "2024-08-27T17:48:47",
+    "slug": "15-08-2024",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/aid/15-08-2024/",
+    "title": {
+        "rendered": "Israel Aid and Humanitarian Efforts in Gaza: August 15, 2024"
+    },
+    "content": {
+        "rendered": "<h1>Humanitarian Aid Updates for Gaza</h1>\n<h2>Aid Trucks Entry</h2>\n<p>Yesterday, 203 trucks carrying humanitarian goods were transferred to Gaza through the Kerem Shalom (147 trucks) and the Erez (56 trucks) crossings.</p>\n<h2>Aid Collection</h2>\n<p>218 trucks were collected from the Gazan side of Kerem Shalom. Out of these, 204 trucks were collected by the private sector, and only 14 trucks were collected by UN aid agencies. Approximately 550 trucks worth are waiting for collection (as of August 14).</p>\n<h2>Fuel Supply</h2>\n<p>6 tankers of cooking gas and 2 tankers of fuel designated for the operation of vital humanitarian infrastructure entered Gaza yesterday.</p>\n<h2>Route 96 Update</h2>\n<p>A truck convoy inspected at the Kerem Shalom Crossing entered via Gate 96.</p>\n<h2>Support for Northern Gaza</h2>\n<p>56 aid trucks were coordinated to northern Gaza yesterday.</p>\n<h2>Bakeries Operational</h2>\n<p>13 bakeries are operational (7 in northern Gaza and 6 in central Gaza), producing close to 3 million pita loaves a day.</p>\n<h2>Humanitarian Team Rotations</h2>\n<p>The rotation coordination of humanitarian personnel was completed.</p>\n<h2>Medical Transfers</h2>\n<p>To date, 3,397 sick and ill patients along with 914 escorts have been transferred to various other countries for medical treatment (as of August 14).</p>\n<h2>Humanitarian Aid Efforts</h2>\n<p>On August 13, COGAT conducted a virtual NGO conference with 30 organizations participating. In this meeting, we discussed recent humanitarian efforts, as well as key topics such as new and upgraded donation procedures, the polio response effort, essential coordination activities, and other logistics. We will continue deepening our humanitarian coordination mechanisms in close cooperation with INGOs working in Gaza for a humanitarian response for the civilian population.</p>\n<h2>Coordination Statistics</h2>\n<p>Out of 59 general coordination requests, 50 (85%) were approved, and out of 22 UN coordination requests, 18 (82%) were approved (as of August 14).</p>\n<h2>Local Tactical Pause</h2>\n<p>Today, August 15, between 10:00 and 14:00, the IDF will pause operations in the Al Shima neighborhood in Beit Lahya to enable the movement of humanitarian aid.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>203 aid trucks entered <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>; humanitarian efforts ongoing.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 15696,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        1338
+    ],
+    "tags": [
+        1352
+    ],
+    "class_list": [
+        "post-15725",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-aid",
+        "tag-daily-humanitarian-aid-update"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 15725,
+        "he": 15726,
+        "ru": 15727
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15725",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=15725"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15725/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 15728,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15725/revisions/15728"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/15696"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=15725"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=15725"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=15725"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

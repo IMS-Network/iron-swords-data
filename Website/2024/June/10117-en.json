@@ -1,0 +1,124 @@
+{
+    "id": 8900,
+    "date": "2024-06-13T19:49:32",
+    "date_gmt": "2024-06-13T16:49:32",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10117-en/"
+    },
+    "modified": "2024-06-13T19:49:32",
+    "modified_gmt": "2024-06-13T16:49:32",
+    "slug": "10117-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10117-en/",
+    "title": {
+        "rendered": "&#8220;IDF Operation in Jenin: Two Senior Terrorists Neutralized Amid Intense Clashes&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>For the second time this week, the IDF, Shin Bet, and Border Police completed an operation to thwart terrorism in the Jenin area of Judea and Samaria; Duvdevan soldiers eliminated two senior terrorists in the Jenin area.</p>\n<p>At the conclusion of a 13-hour operation, Duvdevan fighters, the Haruv reconnaissance unit, and Border Police, under the intelligence direction of Military Intelligence and Shin Bet, completed an operation to thwart terrorism in the Jenin area of Judea and Samaria. During the operation, the forces arrested several suspects and engaged in exchanges of fire with armed individuals. Engineering forces uncovered routes in the area where explosives were planted to target our forces.</p>\n<p>Duvdevan fighters executed a &#8220;Pressure Cooker&#8221; procedure on a building where two sought-after senior suspects were located in the Jenin area. The fighters engaged in exchanges of fire with the suspects, which included the firing of shoulder-launched missiles at the building; both suspects were eliminated, and two weapons were found on their bodies.</p>\n<p>An IDF soldier was lightly injured during the exchange of fire and was evacuated for medical treatment at a hospital; his family has been informed.</p>\n<p>The suspects and the confiscated weapons have been transferred for further handling by the security forces.</p>\n<p>Attached is documentation of the forces&#8217; activities in the Jenin area: https://bit.ly/4ejNO7E</p>\n<p>Attached are images on the matter: https://idfanc.activetrail.biz/ANC13062024874</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: For the second time this week, the IDF, Shin Bet, and Border Police completed an operation to thwart terrorism in the Jenin area of Judea and Samaria; Duvdevan soldiers eliminated two senior terrorists in the Jenin area. At the conclusion of a 13-hour operation, Duvdevan fighters, the Haruv reconnaissance unit, and Border Police, under the intelligence direction of Military Intelligence and Shin Bet, completed an operation to thwart terrorism in the Jenin area of Judea and Samaria. During the operation, the forces arrested several suspects and engaged in exchanges of fire with armed individuals. Engineering forces uncovered routes</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8900",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8900,
+        "he": 8901,
+        "ru": 8902
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8900",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8900"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8900/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8900"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8900"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8900"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

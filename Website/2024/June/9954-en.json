@@ -1,0 +1,124 @@
+{
+    "id": 9386,
+    "date": "2024-06-01T14:58:15",
+    "date_gmt": "2024-06-01T11:58:15",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/9954-en/"
+    },
+    "modified": "2024-06-01T14:58:15",
+    "modified_gmt": "2024-06-01T11:58:15",
+    "slug": "9954-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9954-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Key Hamas Targets in Gaza: Al-Nour Association and Terrorist Elimination&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked a building belonging to the Al-Nour Association in the Daraj Tafah area: the operations of the forces continue in the south and central Gaza Strip.</p>\n<p>The forces of Division 162 are continuing focused combat based on accurate intelligence in the Rafah area. The combat teams of the Commando, Biselach, Givati, and Nahal brigades have located many munitions in the area, including underground tunnels, rockets ready for launch, explosive devices, Kalashnikov rifles, and additional military equipment.</p>\n<p>Division 99 continues to operate in the central Gaza Strip. The division&#8217;s forces destroyed several terror infrastructures that were identified in the area and posed a threat to our forces. At the end of searches conducted by the combat team fighters of Brigade 679, a weapons cache was found containing dozens of rocket components. In another operation, the fighters in cooperation with the Air Force closed in on a terrorist cell that fired RPGs at them and eliminated it.</p>\n<p>The day before yesterday, Air Force aircraft attacked a building belonging to the Al-Nour Association in the Daraj Tafah area. This association is known as a terrorist organization, due to the financial transfers it conducts to Hamas. As part of the association&#8217;s activities, millions of dollars were transferred that were used for terrorist operations in the Judea and Samaria area, financing Hamas operatives. In addition, the association receives funds from terrorist organizations and conducts transfers to the families of Hamas operatives who have been eliminated or are held in prisons in Israel.</p>\n<p>During the week, fighter jets attacked the Khan Younis area and eliminated the terrorist Salama Baraka. Baraka served as a Hamas operative in the Eastern Khan Younis Brigade and simultaneously as the head of the finance department in Hamas&#8217; police.</p>\n<p>Attached are images from IDF operations in the Gaza Strip: https://IDFANC.activetrail.biz/ANC01062024676862345</p>\n<p>Attached is documentation of the elimination of the terrorist Salama Baraka in Khan Younis: https://bit.ly/4bX7OLg</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked a building belonging to the Al-Nour Association in the Daraj Tafah area: the operations of the forces continue in the south and central <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. The forces of Division 162 are continuing focused combat based on accurate intelligence in the Rafah area. The combat teams of the Commando, Biselach, Givati, and Nahal brigades have located many munitions in the area, including underground tunnels, rockets ready for launch, explosive devices, Kalashnikov rifles, and additional military equipment. Division 99 continues to operate in the central Gaza Strip. The division&#8217;s forces destroyed several terror infrastructures that were identified</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9386",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9386,
+        "he": 9387,
+        "ru": 9388
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9386",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9386"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9386/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9386"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9386"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9386"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

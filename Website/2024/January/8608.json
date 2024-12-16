@@ -1,0 +1,122 @@
+{
+    "id": 4190,
+    "date": "2024-01-14T19:16:01",
+    "date_gmt": "2024-01-14T17:16:01",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8608/"
+    },
+    "modified": "2024-01-14T19:16:01",
+    "modified_gmt": "2024-01-14T17:16:01",
+    "slug": "8608",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8608/",
+    "title": {
+        "rendered": "&#8220;Comprehensive Analysis: IDF&#8217;s Counter-Terrorism Operations, Casualties &#038; Strategic Insights&#8221;"
+    },
+    "content": {
+        "rendered": "<p>The number of terrorists who were eliminated, the detainees who were interrogated, the targets that were predetermined and attacked, the operational data in the regions and various commands, the quantity of exercises, reserves, casualties and all the complete data:</p>\n<p>https://www.idf.il/159347</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>The number of terrorists who were eliminated, the detainees who were interrogated, the targets that were predetermined and attacked, the operational data in the regions and various commands, the quantity of exercises, reserves, casualties and all the complete data: https://www.idf.il/159347</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4190",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4190
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4190",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4190"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4190/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4190"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4190"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4190"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

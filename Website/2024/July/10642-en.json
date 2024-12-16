@@ -1,0 +1,124 @@
+{
+    "id": 7345,
+    "date": "2024-07-26T17:19:29",
+    "date_gmt": "2024-07-26T14:19:29",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10642-en/"
+    },
+    "modified": "2024-07-26T17:19:29",
+    "modified_gmt": "2024-07-26T14:19:29",
+    "slug": "10642-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10642-en/",
+    "title": {
+        "rendered": "&#8220;IDF Plans to Demolish Home of Terrorist Behind Nitzav Junction Attack&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces mapped the home of the terrorist who carried out the attack at the Nitzav Junction, where Captain Ariel Topaz, of blessed memory, fell; the IDF announced its intention to confiscate and demolish the apartment of the terrorist Mahmoud Salit, who executed the attack in which Res. Sgt. (Ret.) Elhanan Klein, of blessed memory, fell.</p>\n<p>During the night, IDF forces operated in the village of A-Ram in the Benjamin Brigade and mapped the house of the terrorist who carried out the attack on July 14, 2024, at the Nitzav Junction, where several IDF soldiers were injured, including Captain Ariel Topaz, of blessed memory, who succumbed to his wounds last Wednesday.</p>\n<p>Additionally, yesterday (Thursday), a notice was issued regarding the intention to confiscate and destroy the apartment where the terrorist Mahmoud Salit lived in Tulkarem. The terrorist, along with other terrorists, carried out a terror attack on November 2, 2023, near the settlement of Einav in the Menashe Brigade, in which Res. Sgt. (Ret.) Elhanan Ariel Klein, of blessed memory, fell.</p>\n<p>Attached is documentation of the mapping of the terrorist&#8217;s house: https://bit.ly/3y21V1i</p>\n<p>Attached are photos of the mapping of the terrorist&#8217;s house: https://IDFANC.activetrail.biz/ANC2607202482982452</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces mapped the home of the terrorist who carried out the attack at the Nitzav Junction, where Captain Ariel Topaz, of blessed memory, fell; the IDF announced its intention to confiscate and demolish the apartment of the terrorist Mahmoud Salit, who executed the attack in which Res. Sgt. (Ret.) Elhanan Klein, of blessed memory, fell. During the night, IDF forces operated in the village of A-Ram in the Benjamin Brigade and mapped the house of the terrorist who carried out the attack on July 14, 2024, at the Nitzav Junction, where several IDF soldiers were injured, including</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7345",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7345,
+        "he": 7346,
+        "ru": 7347
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7345",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7345"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7345/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7345"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7345"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7345"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

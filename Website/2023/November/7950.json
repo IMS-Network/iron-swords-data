@@ -1,0 +1,122 @@
+{
+    "id": 4836,
+    "date": "2023-11-22T12:00:02",
+    "date_gmt": "2023-11-22T10:00:02",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/7950/"
+    },
+    "modified": "2023-11-22T12:00:02",
+    "modified_gmt": "2023-11-22T10:00:02",
+    "slug": "7950",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/7950/",
+    "title": {
+        "rendered": "&#8220;Underground Warfare: IDF Combat Engineers&#8217; Remarkable Feat of Destroying 400 Tunnel Openings&#8221;"
+    },
+    "content": {
+        "rendered": "<p>From the belly of the earth to the explosion, documentation from the activities of the IDF Combat Engineers:<br />\nAbout 400 tunnel openings have been destroyed since the beginning of the war.<br />\nhttps://www.idf.il/154768</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>From the belly of the earth to the explosion, documentation from the activities of the IDF Combat Engineers: About 400 tunnel openings have been destroyed since the beginning of the war. https://www.idf.il/154768</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4836",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4836
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4836",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4836"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4836/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4836"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4836"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4836"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

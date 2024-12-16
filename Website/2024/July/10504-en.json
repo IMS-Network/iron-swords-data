@@ -1,0 +1,124 @@
+{
+    "id": 7758,
+    "date": "2024-07-16T21:07:12",
+    "date_gmt": "2024-07-16T18:07:12",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10504-en/"
+    },
+    "modified": "2024-07-16T21:07:12",
+    "modified_gmt": "2024-07-16T18:07:12",
+    "slug": "10504-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10504-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Back: Air Force Targets Hezbollah Launchers Near Kiryat Shmona&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>In a rapid closure of the loop: The IDF attacked a launcher from which launches were identified crossing into the vicinity of Kiryat Shmona this evening; a cell of terrorists from the Hezbollah terror organization was attacked in the Yarin area.</p>\n<p>In a swift response, an Air Force aircraft attacked a launcher in the Blat area from which the launches were detected crossing into the Kiryat Shmona area this evening.</p>\n<p>Following alerts triggered in the Finger of Galilee in recent hours, about 40 launches were identified crossing from Lebanese territory, some of which were intercepted, with no casualties reported.</p>\n<p>Shortly before that, an Air Force aircraft attacked a cell of terrorists from the Hezbollah terror organization in the Yarin area of southern Lebanon.</p>\n<p>Attached is documentation from the attack on the terrorists: https://bit.ly/3W2Wze5</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: In a rapid closure of the loop: The IDF attacked a launcher from which launches were identified crossing into the vicinity of Kiryat Shmona this evening; a cell of terrorists from the <a  href=\"/hezbollah\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> was attacked in the Yarin area. In a swift response, an Air Force aircraft attacked a launcher in the Blat area from which the launches were detected crossing into the Kiryat Shmona area this evening. Following alerts triggered in the Finger of Galilee in recent hours, about 40 launches were identified crossing from Lebanese territory, some of which were intercepted, with no casualties</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7758",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7758,
+        "he": 7759,
+        "ru": 7760
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7758",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7758"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7758/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7758"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7758"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7758"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

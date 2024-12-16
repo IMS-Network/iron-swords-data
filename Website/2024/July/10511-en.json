@@ -1,0 +1,124 @@
+{
+    "id": 7735,
+    "date": "2024-07-17T16:50:52",
+    "date_gmt": "2024-07-17T13:50:52",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10511-en/"
+    },
+    "modified": "2024-07-17T16:50:52",
+    "modified_gmt": "2024-07-17T13:50:52",
+    "slug": "10511-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10511-en/",
+    "title": {
+        "rendered": "&#8220;IDF Operations: Mapping Terrorist Homes and Arresting Suspects in Qalqilya&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF and Shin Bet fighters mapped the homes of the two terrorists who carried out the attack in Qalqilya, in which Amnon Mukhtar z\u201dl was murdered.</p>\n<p>The forces operated last night in the area of the Ephraim Brigade to map the homes of the two terrorists who carried out the shooting attack in Qalqilya, in which Amnon Mukhtar z\u201dl was murdered on June 22, 2024.</p>\n<p>Additionally, during the operation last night, nine wanted individuals were arrested throughout Judea and Samaria, and weapons were confiscated.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF and Shin Bet fighters mapped the homes of the two terrorists who carried out the attack in Qalqilya, in which Amnon Mukhtar z\u201dl was murdered. The forces operated last night in the area of the Ephraim Brigade to map the homes of the two terrorists who carried out the shooting attack in Qalqilya, in which Amnon Mukhtar z\u201dl was murdered on June 22, 2024. Additionally, during the operation last night, nine wanted individuals were arrested throughout Judea and Samaria, and weapons were confiscated.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7735",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7735,
+        "he": 7736,
+        "ru": 7738
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7735",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7735"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7735/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7735"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7735"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7735"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

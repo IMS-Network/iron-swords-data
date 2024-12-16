@@ -1,0 +1,122 @@
+{
+    "id": 4155,
+    "date": "2024-01-18T12:30:04",
+    "date_gmt": "2024-01-18T10:30:04",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8644/"
+    },
+    "modified": "2024-01-18T12:30:04",
+    "modified_gmt": "2024-01-18T10:30:04",
+    "slug": "8644",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8644/",
+    "title": {
+        "rendered": "&#8220;Inside Givati Brigade&#8217;s Raid: Uncovering Hamas Weapons and Intelligence in Khan Yunis&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Raid on the offices of Hamas leaders and locating weapons and intelligence documents:<br />\nThis is what Givati Brigade&#8217;s war looks like &#8211; in the southernmost area of Khan Yunis<br />\nhttps://www.idf.il/174279</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Raid on the offices of <a  href=\"/hamas\">Hamas</a> leaders and locating weapons and intelligence documents: This is what <a  href=\"https://iron-swords.co.il/t/givati-brigade/\">Givati Brigade</a>&#8217;s war looks like &#8211; in the southernmost area of Khan Yunis https://www.idf.il/174279</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4155",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4155
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4155",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4155"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4155/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4155"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4155"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4155"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

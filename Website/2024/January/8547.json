@@ -1,0 +1,122 @@
+{
+    "id": 4250,
+    "date": "2024-01-08T15:24:40",
+    "date_gmt": "2024-01-08T13:24:40",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8547/"
+    },
+    "modified": "2024-01-08T15:24:40",
+    "modified_gmt": "2024-01-08T13:24:40",
+    "slug": "8547",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8547/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Stronghold in Lebanon: Highlights from Today&#8217;s Air Defense Actions&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>A short while ago, a combat aircraft from the Air Force carried out a strike in Lebanon, in which a military structure of the Hezbollah terrorist organization was destroyed.</p>\n<p>Following the earlier warning today of an intrusion of a hostile aircraft in the Hula Valley and Kiryat Shmona area, the aerial defense forces successfully targeted a suspected aerial objective that had crossed from Lebanese territory. An alert was activated for rocket and missile fire in the Kfar Blum area following the interception.</p>\n<p>In addition, a short time ago another alert was activated for the incursion of a hostile aircraft in the Avivim and Yiftah area, the event has ended.</p>\n<p>Also, earlier today, an AT missile was launched from Lebanon towards the Mount Dov area. As a result of the launch, an IDF soldier was lightly injured. The soldier was evacuated for medical treatment at a hospital, his family has been notified.</p>\n<p>IDF forces attacked the source of the fire along with other areas in Lebanon.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: A short while ago, a combat aircraft from the Air Force carried out a strike in Lebanon, in which a military structure of the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization was destroyed. Following the earlier warning today of an intrusion of a hostile aircraft in the Hula Valley and Kiryat Shmona area, the aerial defense forces successfully targeted a suspected aerial objective that had crossed from Lebanese territory. An alert was activated for rocket and missile fire in the Kfar Blum area following the interception. In addition, a short time ago another alert was activated for the incursion of a hostile</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4250",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4250
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4250",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4250"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4250/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4250"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4250"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4250"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

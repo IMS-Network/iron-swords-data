@@ -1,0 +1,131 @@
+{
+    "id": 1026,
+    "date": "2023-10-07T06:30:00",
+    "date_gmt": "2023-10-07T03:30:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=1026"
+    },
+    "modified": "2024-04-11T21:48:21",
+    "modified_gmt": "2024-04-11T18:48:21",
+    "slug": "galia-abu-madiam",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/victims/galia-abu-madiam/",
+    "title": {
+        "rendered": "Galia Abu Madiam"
+    },
+    "content": {
+        "rendered": "\n<p>Slaughtered by <a href=\"https://iron-swords.co.il/hamas/\" data-type=\"page\" data-id=\"86\">Hamas terrorists</a><br>30 Year Old Women</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Slaughtered by <a  href=\"/hamas\">Hamas</a> terrorists30 Year Old Women</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-october-7th-victims",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 21,
+        "footnotes": ""
+    },
+    "categories": [
+        21
+    ],
+    "tags": [
+        62
+    ],
+    "class_list": [
+        "post-1026",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-victims",
+        "tag-rahat"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 1026
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1026",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=1026"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1026/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 1027,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1026/revisions/1027"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=1026"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=1026"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=1026"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

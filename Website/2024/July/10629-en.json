@@ -1,0 +1,124 @@
+{
+    "id": 7384,
+    "date": "2024-07-25T16:27:35",
+    "date_gmt": "2024-07-25T13:27:35",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10629-en/"
+    },
+    "modified": "2024-07-25T16:27:35",
+    "modified_gmt": "2024-07-25T13:27:35",
+    "slug": "10629-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10629-en/",
+    "title": {
+        "rendered": "&#8220;IDF Intensifies Operations: 50 Arrests and Weapons Seized in Judea and Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces continue searches for the terrorists involved in the shooting attack near Nabi Elias; IDF, Shin Bet, and Border Police forces operated throughout the week to arrest over 50 wanted individuals across Judea and Samaria and in the Jordan Valley and the Jezreel Valley.</p>\n<p>IDF forces continue searches for the terrorists involved in the shooting attack near Nabi Elias in the Ephraim Brigade area that occurred earlier today.</p>\n<p>Throughout the week, the security forces detained approximately 50 wanted individuals and acted to confiscate numerous weapons throughout Judea and Samaria and in the Jordan Valley and the Jezreel Valley.<br />\nDuring these operations, the forces identified and confiscated weapons, including a handgun, parts of an &#8220;M16&#8221; rifle, and additional ammunition.</p>\n<p>The detained individuals and the confiscated weapons have been transferred for further handling by the security forces.</p>\n<p>To date, approximately 4,400 wanted individuals have been arrested since the beginning of the war across the Judea and Samaria and the Jordan Valley division, about 1,850 of whom are linked to the terrorist organization Hamas.</p>\n<p>Attached is documentation of Panther Battalion fighters pursuing the terrorists in the Ephraim Brigade area: https://bit.ly/3Smhess</p>\n<p>Attached are images from the forces&#8217; operations across Judea and Samaria: https://idfanc.activetrail.biz/ANC25072024456</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces continue searches for the terrorists involved in the shooting attack near Nabi Elias; IDF, Shin Bet, and Border Police forces operated throughout the week to arrest over 50 wanted individuals across Judea and Samaria and in the Jordan Valley and the Jezreel Valley. IDF forces continue searches for the terrorists involved in the shooting attack near Nabi Elias in the Ephraim Brigade area that occurred earlier today. Throughout the week, the security forces detained approximately 50 wanted individuals and acted to confiscate numerous weapons throughout Judea and Samaria and in the Jordan Valley and the Jezreel</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7384",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7384,
+        "he": 7385,
+        "ru": 7389
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7384",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7384"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7384/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7384"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7384"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7384"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

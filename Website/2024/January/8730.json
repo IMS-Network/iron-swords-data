@@ -1,0 +1,122 @@
+{
+    "id": 4070,
+    "date": "2024-01-29T15:15:14",
+    "date_gmt": "2024-01-29T13:15:14",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8730/"
+    },
+    "modified": "2024-01-29T15:15:14",
+    "modified_gmt": "2024-01-29T13:15:14",
+    "slug": "8730",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8730/",
+    "title": {
+        "rendered": "&#8220;Unveiling Terror: Inside Hamas Leaders&#8217; Hidden Tunnels Beneath Khan Younis Cemetery&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Underneath the cemetery in the heart of Khan Younis:<br />\nSpecial documentation of the exposure of a terror tunnel and the Hamas leaders&#8217; staying rooms<br />\nhttps://www.idf.il/176951</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Underneath the cemetery in the heart of Khan Younis: Special documentation of the exposure of a terror tunnel and the <a  href=\"/hamas\">Hamas</a> leaders&#8217; staying rooms https://www.idf.il/176951</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4070",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4070
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4070",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4070"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4070/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4070"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4070"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4070"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

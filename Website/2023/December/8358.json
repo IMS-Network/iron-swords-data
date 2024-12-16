@@ -1,0 +1,122 @@
+{
+    "id": 4435,
+    "date": "2023-12-21T12:13:18",
+    "date_gmt": "2023-12-21T10:13:18",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8358/"
+    },
+    "modified": "2023-12-21T12:13:18",
+    "modified_gmt": "2023-12-21T10:13:18",
+    "slug": "8358",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8358/",
+    "title": {
+        "rendered": "&#8220;Surviving the Front Lines: A Combat Intelligence Major Recounts Three Near-Death Experiences in the IDF&#8221;"
+    },
+    "content": {
+        "rendered": "<p>The major in the Combat Intelligence Collection Corps, who stared death in the eye three times &#8211; reconstructs:<br />\n&#8220;I shot the terrorist quickly. The grenade, which was aimed at us &#8211; fell and exploded&#8221;<br />\nhttps://www.idf.il/164341</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>The major in the <a  href=\"https://iron-swords.co.il/t/combat-intelligence-collection-corps/\">Combat Intelligence Collection Corps</a>, who stared death in the eye three times &#8211; reconstructs: &#8220;I shot the terrorist quickly. The grenade, which was aimed at us &#8211; fell and exploded&#8221; https://www.idf.il/164341</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4435",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4435
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4435",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4435"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4435/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4435"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4435"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4435"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

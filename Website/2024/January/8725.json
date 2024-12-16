@@ -1,0 +1,122 @@
+{
+    "id": 4075,
+    "date": "2024-01-29T08:57:23",
+    "date_gmt": "2024-01-29T06:57:23",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8725/"
+    },
+    "modified": "2024-01-29T08:57:23",
+    "modified_gmt": "2024-01-29T06:57:23",
+    "slug": "8725",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8725/",
+    "title": {
+        "rendered": "&#8220;Inside IDF&#8217;s Intensive Operations: Eliminating Terror Threats and Seizing Military Assets in Gaza&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>In the west of Khan Yunis, the 98th Division continues the attacks and clearing operations; forces from the 162nd Division operate in the heart of Gaza City, deepening the impact on terror infrastructures and terrorists.</p>\n<p>As part of the operations in West Khan Yunis, the air force, in cooperation with the fire systems of the Commando Brigade, attacked two buildings that served as terror infrastructures with aircraft. Several armed terrorists were located in these buildings and were eliminated.</p>\n<p>Commandos identified and eliminated five terrorists, one of whom was armed with an RPG. The fighters stormed the terrorist targets and located multiple weapons, including RPGs, military equipment, and technology.</p>\n<p>Elsewhere in Khan Yunis, paratrooper brigade soldiers continued the raids on targets and found weapons and military equipment in a home of a Hamas terrorist. In addition, they identified and eliminated four terrorists preparing to attack our forces near the &#8220;El Amal&#8221; hospital. The fighters stormed a building that served as a hiding place for PLO terrorists, finding weapons inside.</p>\n<p>In the center of the strip, Nachal Brigade combat team fighters eliminated dozens of armed terrorists in recent encounters, also with the help of tank fire directed by the fighters and observers in the field. The brigade fighters also found many weapons in the area.</p>\n<p>On the outskirts of Shati in the north, fighters from Battalion 5&#8217;s combat team eliminated several armed terrorists in recent encounters, and located numerous weapons in the area, including AK-47s, RPGs, IEDs, missiles, and several launchers.</p>\n<p>The Battalion 5 fire systems, in cooperation with the air force, used an aircraft to eliminate terrorists in Gaza. Fighter jets attacked numerous targets, including terror infrastructures, firing positions, tunnel openings, and observation posts.</p>\n<p>Attached are images of the launchers located by Battalion 5 fighters and the Weapons found by the Commando Brigade fighters: https://IDFANC.activetrail.biz/ANC29012024.15618189 </p>\n<p>Attached are images of IDF forces&#8217; operations in the strip: https://IDFANC.activetrail.biz/ANC29012024.1541989435185</p>\n<p>Attached is documentation of IDF attacks in the strip: https://bit.ly/3HH8zLe</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: In the west of Khan Yunis, the 98th Division continues the attacks and clearing operations; forces from the 162nd Division operate in the heart of <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> City, deepening the impact on terror infrastructures and terrorists. As part of the operations in West Khan Yunis, the air force, in cooperation with the fire systems of the Commando Brigade, attacked two buildings that served as terror infrastructures with aircraft. Several armed terrorists were located in these buildings and were eliminated. Commandos identified and eliminated five terrorists, one of whom was armed with an RPG. The fighters stormed the terrorist targets</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4075",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4075
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4075",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4075"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4075/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4075"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4075"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4075"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

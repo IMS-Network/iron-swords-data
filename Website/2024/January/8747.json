@@ -1,0 +1,122 @@
+{
+    "id": 4054,
+    "date": "2024-01-31T08:33:58",
+    "date_gmt": "2024-01-31T06:33:58",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8747/"
+    },
+    "modified": "2024-01-31T08:33:58",
+    "modified_gmt": "2024-01-31T06:33:58",
+    "slug": "8747",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8747/",
+    "title": {
+        "rendered": "&#8220;IDF&#8217;s Intense Counter-Terror Operations: Eliminating Threats and Destroying Infrastructure in the Gaza Strip&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>Forces of the 162nd Division continue to fight in the north and center of the strip; the soldiers are operating against terror infrastructures and eliminating many terrorists in the area.</p>\n<p>In the past day, combat soldiers of the 401st Brigade have been active in the northern part of the strip. As part of several battles against armed terrorists, they eliminated over 15 terrorists from the Hamas terror organization. In a central raid carried out on one of the terror infrastructures established within a school in the area, about ten activists of the Islamic Jihad were arrested who were using the school as a hideout. In addition, the soldiers found and destroyed five ready-to-launch rockets in the area.</p>\n<p>Also, the combat team of the Nahal Brigade attacked and eliminated, within less than an hour, over ten armed terrorists in the central area of the strip. Later, the soldiers eliminated additional armed terrorists operating in the area. In the outer Shati area in the north of the strip, combat soldiers of the 5th Brigade, along with Air Force forces, eliminated armed terrorists operating close to our forces in the area, who posed a threat. In addition, the soldiers swept military buildings in the area and found many military equipment, along with documents and military gear of the Hamas terror organization.</p>\n<p>During the activity of the combat team of the Paratrooper Brigade in the west of Khan Yunis, the brigade attack cell identified a terrorist moving towards an armed terrorist cell moving close to the soldiers. Upon identification, the attack cell directed an aircraft that attacked and eliminated the terrorist cell.</p>\n<p>In another activity in the area, the 98th Division Fire Center, along with Air Force forces, attacked a military building used by a Hamas terrorist cell to ambush IDF forces. </p>\n<p>Attached is footage of the IDF attacks in the strip: https://bit.ly/3OppLsq </p>\n<p>Attached is footage of the activity of IDF forces in the strip: https://bit.ly/3SGFk1L </p>\n<p>Attached are photos from the activity of IDF forces in the strip: https://IDFANC.activetrail.biz/ANC3101202489280958674.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: Forces of the 162nd Division continue to fight in the north and center of the strip; the soldiers are operating against terror infrastructures and eliminating many terrorists in the area. In the past day, combat soldiers of the <a  href=\"https://iron-swords.co.il/t/401st-brigade/\">401st Brigade</a> have been active in the northern part of the strip. As part of several battles against armed terrorists, they eliminated over 15 terrorists from the <a  href=\"/hamas\">Hamas</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a>. In a central raid carried out on one of the terror infrastructures established within a school in the area, about ten activists of the Islamic Jihad were arrested who were</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4054",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4054
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4054",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4054"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4054/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4054"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4054"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4054"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

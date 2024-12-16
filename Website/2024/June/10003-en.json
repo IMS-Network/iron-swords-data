@@ -1,0 +1,124 @@
+{
+    "id": 9242,
+    "date": "2024-06-05T09:49:28",
+    "date_gmt": "2024-06-05T06:49:28",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10003-en/"
+    },
+    "modified": "2024-06-05T09:49:28",
+    "modified_gmt": "2024-06-05T06:49:28",
+    "slug": "10003-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10003-en/",
+    "title": {
+        "rendered": "&#8220;Mastering the Frequencies: How Fighters Tackle Drone Threats&#8221;"
+    },
+    "content": {
+        "rendered": "<p>If you saw what they are doing, it means they succeeded:<br />\nThe fighters maneuvering between the frequencies &#8211; the threat of drones.</p>\n<p>For the full article:</p>\n<p>https://www.idf.il/206676</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>If you saw what they are doing, it means they succeeded: The fighters maneuvering between the frequencies &#8211; the threat of drones. For the full article: https://www.idf.il/206676</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9242",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9242,
+        "he": 9243,
+        "ru": 9244
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9242",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9242"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9242/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9242"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9242"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9242"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

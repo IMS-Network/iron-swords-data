@@ -1,0 +1,122 @@
+{
+    "id": 4529,
+    "date": "2023-12-15T05:59:13",
+    "date_gmt": "2023-12-15T03:59:13",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8264/"
+    },
+    "modified": "2023-12-15T05:59:13",
+    "modified_gmt": "2023-12-15T03:59:13",
+    "slug": "8264",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8264/",
+    "title": {
+        "rendered": "&#8220;Updates on IDF Casualties and Injuries: Detailed Reports from the Gaza Strip Battles&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Attached is a message from the IDF spokesperson on the issue of the name of an IDF casualty whose notice was delivered to his family: https://IDFANC.activetrail.biz/ANC1512202319607</p>\n<p>Attached is a link to the IDF website, which publishes and updates the details and photos of the fallen:<br />\nhttps://www.idf.il/59780</p>\n<p>In addition, a reservist fighter in the Engineering corps 710, &#8220;Ram&#8221; Brigade 179, was severely injured in a battle in the north of the Gaza Strip. A reservist fighter in Brigade 2855, &#8220;Half of the Fire&#8221; Brigade 55, was severely injured in a battle in the south of the Gaza Strip.</p>\n<p>Also, a reservist officer in the Armored Corps, Brigade 7029, &#8220;Ram&#8221; Brigade 179, was injured severely in a battle in the south of the Gaza Strip. An officer in Brigade 51, Golan Division, was severely injured in a battle in the north of the Gaza Strip.</p>\n<p>The wounded were taken to the hospital, and their families have been updated.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Attached is a message from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a> on the issue of the name of an IDF casualty whose notice was delivered to his family: https://IDFANC.activetrail.biz/ANC1512202319607 Attached is a link to the IDF website, which publishes and <a  href=\"https://iron-swords.co.il/c/updates/\">updates</a> the details and photos of the fallen: https://www.idf.il/59780 In addition, a reservist fighter in the Engineering corps 710, &#8220;Ram&#8221; Brigade 179, was severely injured in a battle in the north of the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. A reservist fighter in Brigade 2855, &#8220;Half of the Fire&#8221; Brigade 55, was severely injured in a battle in the south of the Gaza Strip. Also, a reservist</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4529",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4529
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4529",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4529"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4529/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4529"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4529"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4529"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

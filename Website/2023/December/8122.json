@@ -1,0 +1,122 @@
+{
+    "id": 4669,
+    "date": "2023-12-05T15:41:23",
+    "date_gmt": "2023-12-05T13:41:23",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8122/"
+    },
+    "modified": "2023-12-05T15:41:23",
+    "modified_gmt": "2023-12-05T13:41:23",
+    "slug": "8122",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8122/",
+    "title": {
+        "rendered": "&#8220;Breaking News: IDF Approves Demolition Order for Terrorist&#8217;s Home Involved in Ali Gas Station Attack&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The Central Command Commander has signed a demolition order for the home of one of the terrorists who carried out the shooting attack at the Ali gas station.</p>\n<p>The Central Command Commander has signed an excommunication and demolition order for the house where the terrorist Hamad Zabah lived in the village of Urif. The terrorist, along with other terrorists, was involved in the attack at the gas station and restaurant in Ali, which took place on June 20, 2023, in which four people were killed and others were injured. The order was issued after the terrorist&#8217;s family&#8217;s objection was rejected.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The Central Command Commander has signed a demolition order for the home of one of the terrorists who carried out the shooting attack at the Ali gas station. The Central Command Commander has signed an excommunication and demolition order for the house where the terrorist Hamad Zabah lived in the village of Urif. The terrorist, along with other terrorists, was involved in the attack at the gas station and restaurant in Ali, which took place on June 20, 2023, in which four people were killed and others were injured. The order was issued after the terrorist&#8217;s family&#8217;s objection</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4669",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4669
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4669",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4669"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4669/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4669"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4669"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4669"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

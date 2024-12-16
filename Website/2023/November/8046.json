@@ -1,0 +1,122 @@
+{
+    "id": 4743,
+    "date": "2023-11-30T17:03:29",
+    "date_gmt": "2023-11-30T15:03:29",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8046/"
+    },
+    "modified": "2023-11-30T17:03:29",
+    "modified_gmt": "2023-11-30T15:03:29",
+    "slug": "8046",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8046/",
+    "title": {
+        "rendered": "&#8220;Red Cross Facilitates Safe Return of Israeli Abductees: IDF and ISA Joint Operation Updates&#8221;"
+    },
+    "content": {
+        "rendered": "<p>A joint message to the IDF spokesperson and the ISA spokesperson:</p>\n<p>A short while ago, representatives of the Red Cross transferred two Israeli abductees back to their country through a special unit of the IDF and a force from the ISA near the border fence. They will then make their way to Hatzarim base.</p>\n<p>In the coming hours, more Israeli abductees are expected to be handed over by the Red Cross.</p>\n<p>IDF representatives are constantly updating the families of the abductees.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>A joint message to the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a> and the ISA spokesperson: A short while ago, representatives of the Red Cross transferred two Israeli abductees back to their country through a special unit of the IDF and a force from the ISA near the border fence. They will then make their way to Hatzarim base. In the coming hours, more Israeli abductees are expected to be handed over by the Red Cross. IDF representatives are constantly updating the families of the abductees.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4743",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4743
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4743",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4743"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4743/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4743"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4743"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4743"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

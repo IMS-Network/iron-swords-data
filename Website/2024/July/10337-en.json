@@ -1,0 +1,124 @@
+{
+    "id": 8246,
+    "date": "2024-07-03T21:26:23",
+    "date_gmt": "2024-07-03T18:26:23",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10337-en/"
+    },
+    "modified": "2024-07-03T21:26:23",
+    "modified_gmt": "2024-07-03T18:26:23",
+    "slug": "10337-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10337-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Launchers in Southern Lebanon Amid Rising Tensions&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked three launchers of the terrorist organization Hezbollah in southern Lebanon, including a launcher from which attacks were carried out toward northern Israel in recent hours.</p>\n<p>Combat aircraft struck three launchers of the terrorist organization Hezbollah in southern Lebanon, including a launcher from which attacks were conducted toward northern Israel in recent hours.</p>\n<p>Following the alerts activated in the north, some of the attacks were intercepted, several landed in the Kiryat Shmona area, and most of the attacks landed in open spaces, with no casualties reported.</p>\n<p>Firefighting forces are currently working to extinguish several fires that broke out as a result of the attacks.</p>\n<p>Attached is documentation from the strikes: https://bit.ly/4bwZvFg</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked three launchers of the terrorist organization <a  href=\"/hezbollah\">Hezbollah</a> in southern Lebanon, including a launcher from which attacks were carried out toward northern <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> in recent hours. Combat aircraft struck three launchers of the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in southern Lebanon, including a launcher from which attacks were conducted toward northern Israel in recent hours. Following the alerts activated in the north, some of the attacks were intercepted, several landed in the Kiryat Shmona area, and most of the attacks landed in open spaces, with no casualties reported. Firefighting forces are currently working to extinguish several fires that</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8246",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8246,
+        "he": 8247,
+        "ru": 8248
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8246",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8246"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8246/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8246"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8246"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8246"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

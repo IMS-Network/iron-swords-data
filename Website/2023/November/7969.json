@@ -1,0 +1,122 @@
+{
+    "id": 4818,
+    "date": "2023-11-23T19:13:55",
+    "date_gmt": "2023-11-23T17:13:55",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/7969/"
+    },
+    "modified": "2023-11-23T19:13:55",
+    "modified_gmt": "2023-11-23T17:13:55",
+    "slug": "7969",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/7969/",
+    "title": {
+        "rendered": "&#8220;Bear in Mosque, Rockets in Orchards: Nahal Brigade&#8217;s Combat on Jabalia Outskirts&#8221;"
+    },
+    "content": {
+        "rendered": "<p>A bear in a mosque, rocket launchers in the orchards, elimination of Hamas operatives from the air:</p>\n<p>The combat team of the Nahal Brigade fights on the outskirts of Jabalia</p>\n<p>https://www.idf.il/155723</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>A bear in a mosque, rocket launchers in the orchards, elimination of <a  href=\"/hamas\">Hamas</a> operatives from the air: The combat team of the <a  href=\"https://iron-swords.co.il/t/nahal-brigade/\">Nahal Brigade</a> fights on the outskirts of Jabalia https://www.idf.il/155723</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4818",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4818
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4818",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4818"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4818/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4818"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4818"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4818"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

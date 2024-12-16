@@ -1,0 +1,138 @@
+{
+    "id": 17817,
+    "date": "2024-09-24T17:04:00",
+    "date_gmt": "2024-09-24T14:04:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=17817"
+    },
+    "modified": "2024-09-26T07:47:06",
+    "modified_gmt": "2024-09-26T04:47:06",
+    "slug": "unicef-yesterday-was-lebanons-worst-day-in-18-years",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/fixed/unicef-yesterday-was-lebanons-worst-day-in-18-years/",
+    "title": {
+        "rendered": "UNICEF: &#8220;Yesterday was Lebanon\u2019s worst day in 18 years&#8221;"
+    },
+    "content": {
+        "rendered": "\n<p>In the wake of UNICEF&#8217;s recent comments on the impact of conflict on Lebanese children, a glaring inconsistency in their advocacy emerges. Ettie Higgins, UNICEF\u2019s Deputy Representative to Lebanon, expresses deep concern for the well-being of Lebanese children, which is absolutely necessary. However, this concern comes notably late and selectively, raising questions about UNICEF&#8217;s stance on the region&#8217;s broader humanitarian issues.</p>\n\n\n\n<p>For 11 months, Hezbollah has relentlessly bombarded northern Israel, targeting over 2 million civilians with indiscriminate attacks, and yet there was a noticeable absence of public concern from UNICEF about these aggressions. It is disconcerting that UNICEF remained silent as Israeli children and families faced daily terror, their lives disrupted, with thousands having to be evacuated from their homes due to constant threats from Hezbollah\u2019s rockets and artillery.</p>\n\n\n\n<p>The initiation of Israel&#8217;s Operation Northern Arrows marked a turning point not only in the conflict but apparently in UNICEF&#8217;s engagement as well. The operation, aimed at defending Israeli civilians and pushing back against Hezbollah\u2019s military stronghold, finally drew comments from UNICEF\u2014but only regarding the repercussions in Lebanon, not the terror imposed on Israeli civilians.</p>\n\n\n\n<p>This selective outrage suggests a double standard in UNICEF\u2019s approach to humanitarian crises. While the safety and well-being of all children, including those in Lebanon, are of paramount importance, the failure to address the root cause of the conflict\u2014Hezbollah&#8217;s initiated aggression\u2014skews the narrative unfairly against Israeli defensive actions. It is crucial for organizations like UNICEF to maintain a balanced perspective, recognizing the provocations that led to this escalation.</p>\n\n\n\n<p>UNICEF\u2019s role is to advocate for the protection of all children, regardless of their nationality. The organization must also address violations by all parties, including non-state actors like Hezbollah that exploit civilian populations as shields and put countless lives at risk, including those of Lebanese children.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Yesterday was Lebanon\u2019s worst day in 18 years. This violence has to stop immediately or the consequences will be unconscionable</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 17819,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 343,
+        "footnotes": ""
+    },
+    "categories": [
+        343
+    ],
+    "tags": [
+        1586
+    ],
+    "class_list": [
+        "post-17817",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-fixed",
+        "tag-northern-arrows"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 17817
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/17817",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=17817"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 2,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/17817/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 17820,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/17817/revisions/17820"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/17819"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=17817"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=17817"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=17817"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

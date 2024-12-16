@@ -1,0 +1,122 @@
+{
+    "id": 4763,
+    "date": "2023-11-28T22:59:43",
+    "date_gmt": "2023-11-28T20:59:43",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8026/"
+    },
+    "modified": "2023-11-28T22:59:43",
+    "modified_gmt": "2023-11-28T20:59:43",
+    "slug": "8026",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8026/",
+    "title": {
+        "rendered": "&#8220;Rescue Mission Success: 12 Kidnap Victims, Including 10 Israelis and 2 Thais, En Route to Hospital Reunions&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson: </p>\n<p>The returnees are on their way to the hospitals where they will meet with their families. </p>\n<p>At this moment, 12 kidnap victims are leaving, including 10 Israeli citizens and two Thai citizens, their meeting point in Israel. The returnees have undergone initial medical examinations and are now on their way to the hospitals in the air force helicopters, where they will reunite with their family members.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The returnees are on their way to the hospitals where they will meet with their families. At this moment, 12 kidnap victims are leaving, including 10 Israeli citizens and two Thai citizens, their meeting point in <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>. The returnees have undergone initial medical examinations and are now on their way to the hospitals in the air force helicopters, where they will reunite with their family members.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4763",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4763
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4763",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4763"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4763/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4763"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4763"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4763"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

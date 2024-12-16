@@ -1,0 +1,124 @@
+{
+    "id": 8453,
+    "date": "2024-06-27T15:30:21",
+    "date_gmt": "2024-06-27T12:30:21",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10267-en/"
+    },
+    "modified": "2024-06-27T15:30:21",
+    "modified_gmt": "2024-06-27T12:30:21",
+    "slug": "10267-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10267-en/",
+    "title": {
+        "rendered": "&#8220;Transformative Journeys: 61 Women from Religious Backgrounds Serve in Uniform&#8221;"
+    },
+    "content": {
+        "rendered": "<p>My rookie mother: &#8220;To serve and give of ourselves.&#8221; What caused 61 women from a religious background to don uniforms in the middle of their lives?<br />\nhttps://www.idf.il/211661</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>My rookie mother: &#8220;To serve and give of ourselves.&#8221; What caused 61 women from a religious background to don uniforms in the middle of their lives? https://www.idf.il/211661</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8453",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8453,
+        "he": 8454,
+        "ru": 8455
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8453",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8453"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8453/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8453"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8453"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8453"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

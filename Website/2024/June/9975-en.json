@@ -1,0 +1,124 @@
+{
+    "id": 9323,
+    "date": "2024-06-03T10:03:57",
+    "date_gmt": "2024-06-03T07:03:57",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/9975-en/"
+    },
+    "modified": "2024-06-03T10:03:57",
+    "modified_gmt": "2024-06-03T07:03:57",
+    "slug": "9975-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9975-en/",
+    "title": {
+        "rendered": "&#8220;Strengthening Northern Security: IDF&#8217;s Commitment to Local Collaboration&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Northern Command Commander to Northern Local Authorities: &#8220;I am determined to continue collaborating with you, together with the residents, to complete the mission &#8211; changing the security situation in the North. I have no doubt that security will return.&#8221;</p>\n<p>Northern Command Commander, Major General Uri Gordin, met with local authorities in the North yesterday (Sunday).<br />\nDuring the meeting, a discussion took place with the local leaders, during which the Northern Command&#8217;s operations officer and intelligence officer reviewed the main points of the situational assessment so far and the processes for accelerating readiness for continued combat in the sector.</p>\n<p>The general expressed appreciation for the local authorities and councils, who demonstrate true leadership and dedication, working in close cooperation with the IDF and forming an integral part of maintaining security in the sector.</p>\n<p>From the words of Northern Command Commander, Major General Uri Gordin: &#8220;We are in a very broad operational effort to identify Hezbollah&#8217;s infrastructure and destroy it. I am determined to carry out this mission together with you. It is a significant part of the sense of security, and we will manage it together. I am committed to continue working alongside you and with the residents to navigate this very complex period &#8211; and I have no doubt that security will return.&#8221;</p>\n<p>Attached are images on the subject:<br />\nhttps://IDFANC.activetrail.biz/ANC0206241834</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Northern Command Commander to Northern Local Authorities: &#8220;I am determined to continue collaborating with you, together with the residents, to complete the mission &#8211; changing the security situation in the North. I have no doubt that security will return.&#8221; Northern Command Commander, Major General Uri Gordin, met with local authorities in the North yesterday (Sunday). During the meeting, a discussion took place with the local leaders, during which the Northern Command&#8217;s operations officer and intelligence officer reviewed the main points of the situational assessment so far and the processes for accelerating readiness for continued combat in the sector.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9323",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9323,
+        "he": 9324,
+        "ru": 9325
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9323",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9323"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9323/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9323"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9323"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9323"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

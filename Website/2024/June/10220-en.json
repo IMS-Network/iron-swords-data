@@ -1,0 +1,124 @@
+{
+    "id": 8594,
+    "date": "2024-06-23T19:10:06",
+    "date_gmt": "2024-06-23T16:10:06",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10220-en/"
+    },
+    "modified": "2024-06-23T19:10:06",
+    "modified_gmt": "2024-06-23T16:10:06",
+    "slug": "10220-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10220-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hamas: Targeting Terror Infrastructure in Central Gaza&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF and Shin Bet attacked terror infrastructures from which Hamas and Palestinian Islamic Jihad operatives operated in the central Gaza Strip.</p>\n<p>This morning (Sunday), IAF fighter jets, guided by the 99th Division&#8217;s artillery, Military Intelligence, and Shin Bet, attacked terror infrastructures in the center of the Strip where Hamas and Palestinian Islamic Jihad operatives were present. The operatives operated from buildings that had previously served as headquarters for UNRWA, in order to use them as a shield for terrorist activities.</p>\n<p>As part of the preparation process for the attack, there were aerial intelligence checks, precision armaments, and the use of additional intelligence information to prevent harm to civilians.</p>\n<p>This is another example of the systematic use of civilian infrastructures and populations by the terror organization Hamas as human shields for terrorist activities.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF and Shin Bet attacked terror infrastructures from which <a  href=\"/hamas\">Hamas</a> and Palestinian Islamic Jihad operatives operated in the central <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. This morning (Sunday), IAF fighter jets, guided by the <a  href=\"https://iron-swords.co.il/t/99th-division/\">99th Division</a>&#8217;s artillery, Military Intelligence, and Shin Bet, attacked terror infrastructures in the center of the Strip where <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> and Palestinian Islamic Jihad operatives were present. The operatives operated from buildings that had previously served as headquarters for <a  href=\"https://iron-swords.co.il/c/know-your-enemies/unrwa/\">UNRWA</a>, in order to use them as a shield for terrorist activities. As part of the preparation process for the attack, there were aerial intelligence checks, precision armaments, and</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8594",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8594,
+        "he": 8595,
+        "ru": 8596
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8594",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8594"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8594/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8594"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8594"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8594"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

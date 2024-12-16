@@ -1,0 +1,122 @@
+{
+    "id": 3086,
+    "date": "2024-05-14T21:04:06",
+    "date_gmt": "2024-05-14T18:04:06",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9738/"
+    },
+    "modified": "2024-05-14T21:04:06",
+    "modified_gmt": "2024-05-14T18:04:06",
+    "slug": "9738",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9738/",
+    "title": {
+        "rendered": "&#8220;Exposed: Terrorist Activity Uncovered at UNRWA Compound in East Rafah &#8211; Urgent Investigation Demanded by IDF&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>Extraordinary documentation: Terrorists next to UN vehicles &#8211; shooting in the UNRWA compound in East Rafah</p>\n<p>During the activity of the Givati Brigade forces under the 162nd Division, at the end of the week (Saturday), east of Rafah, terrorists were identified in the central logistical area of the UNRWA agency next to UN vehicles. </p>\n<p>In the footage, it is possible to see a number of terrorists near UN vehicles and in the area of the organization&#8217;s logistical warehouses, which constitute a central hub for the distribution of its aid in the Strip &#8211; carrying out shooting in the organization&#8217;s compound in East Rafah.</p>\n<p>In the wake of the extraordinary event, representatives of the Government Actions Coordinator in the Territories forwarded to senior members of the international community the findings in the hands of the IDF and called on the UN to urgently investigate the matter. </p>\n<p>In addition, in the conversation, the COGAT representatives warned about the presence of the terrorists in the area, as well as the severity of the danger posed by the presence of the terrorists in the logistical centers, in order to continue guarding the organization&#8217;s facilities. </p>\n<p>The IDF will continue to act in accordance with international law for the sake of distributing aid to the residents of the Strip.</p>\n<p>Attached is drone footage of the terrorists in the UNRWA organization&#8217;s compound moving in the area of the logistical center: https://bit.ly/44HNgEm </p>\n<p>Attached is an aerial photo of the location of the terrorists in the UNRWA logistics compound in Rafah: https://IDFANC.activetrail.biz/ANC120524 </p>\n<p>Attached are photos on the subject: https://IDFANC.activetrail.biz/ANC1205202457348742582501331874540</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: Extraordinary documentation: Terrorists next to UN vehicles &#8211; shooting in the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/unrwa/\">UNRWA</a> compound in East Rafah During the activity of the <a  href=\"https://iron-swords.co.il/t/givati-brigade/\">Givati Brigade</a> forces under the 162nd Division, at the end of the week (Saturday), east of Rafah, terrorists were identified in the central logistical area of the UNRWA agency next to UN vehicles. In the footage, it is possible to see a number of terrorists near UN vehicles and in the area of the organization&#8217;s logistical warehouses, which constitute a central hub for the distribution of its aid in the Strip &#8211; carrying out shooting in the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3086",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3086
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3086",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3086"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3086/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3086"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3086"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3086"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

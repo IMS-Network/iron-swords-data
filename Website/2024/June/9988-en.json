@@ -1,0 +1,124 @@
+{
+    "id": 9287,
+    "date": "2024-06-04T10:19:29",
+    "date_gmt": "2024-06-04T07:19:29",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/9988-en/"
+    },
+    "modified": "2024-06-04T10:19:29",
+    "modified_gmt": "2024-06-04T07:19:29",
+    "slug": "9988-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9988-en/",
+    "title": {
+        "rendered": "&#8220;Unleashing the &#8216;Roar&#8217;: Inside the Artillery Revolution with Frontline Fighters&#8221;"
+    },
+    "content": {
+        "rendered": "<p>The artillery revolution &#8211; begins with these fighters:<br />\nWe joined the first artillerymen at the moment they fired the &#8220;Roar.&#8221; There was an explosion.<br />\nhttps://www.idf.il/206448</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>The artillery revolution &#8211; begins with these fighters: We joined the first artillerymen at the moment they fired the &#8220;Roar.&#8221; There was an explosion. https://www.idf.il/206448</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9287",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9287,
+        "he": 9288,
+        "ru": 9289
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9287",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9287"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9287/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9287"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9287"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9287"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

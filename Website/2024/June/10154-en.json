@@ -1,0 +1,124 @@
+{
+    "id": 8789,
+    "date": "2024-06-17T18:19:03",
+    "date_gmt": "2024-06-17T15:19:03",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10154-en/"
+    },
+    "modified": "2024-06-17T18:19:03",
+    "modified_gmt": "2024-06-17T15:19:03",
+    "slug": "10154-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10154-en/",
+    "title": {
+        "rendered": "&#8220;IDF Targets Hezbollah: Key Terrorist Operative Eliminated in Airstrike&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF eliminated Muhammad Mustafa Ayoub, a key operative in the rockets and missiles unit of the &#8216;Nasser&#8217; unit in the Hezbollah terrorist organization.</p>\n<p>Israeli Air Force aircraft struck and eliminated the terrorist Muhammad Mustafa Ayoub, a key operative in the rockets and missiles unit of the &#8216;Nasser&#8217; unit of the Hezbollah terrorist organization in the Sa&#8217;la area, southern Lebanon.</p>\n<p>In recent months, he was involved in promoting rocket firing templates aimed at Israeli civilians and engaged in the planning and promotion of terror templates from southern Lebanon toward Israeli territory.</p>\n<p>His elimination is part of the IDF and security forces&#8217; activities to undermine the arming of the Hezbollah terrorist organization with weapons and means intended to harm the Israeli home front.</p>\n<p>In addition, fighter jets from the Air Force attacked a terrorist infrastructure and military structure of the Hezbollah terrorist organization in the Mays Al-Jabal area in southern Lebanon.</p>\n<p>Attached is documentation of the attack: https://we.tl/t-Yqjfg7TfTw</p>\n<p>Attached is documentation of the elimination: https://we.tl/t-9m34kcXZ3S</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF eliminated Muhammad Mustafa Ayoub, a key operative in the rockets and missiles unit of the &#8216;Nasser&#8217; unit in the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization. Israeli Air Force aircraft struck and eliminated the terrorist Muhammad Mustafa Ayoub, a key operative in the rockets and missiles unit of the &#8216;Nasser&#8217; unit of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization in the Sa&#8217;la area, southern Lebanon. In recent months, he was involved in promoting rocket firing templates aimed at Israeli civilians and engaged in the planning and promotion of terror templates from southern Lebanon toward Israeli territory. His elimination is part of the IDF</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8789",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8789,
+        "he": 8790,
+        "ru": 8791
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8789",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8789"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8789/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8789"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8789"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8789"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

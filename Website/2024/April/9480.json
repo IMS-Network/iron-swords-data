@@ -1,0 +1,122 @@
+{
+    "id": 3336,
+    "date": "2024-04-17T09:35:14",
+    "date_gmt": "2024-04-17T06:35:14",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9480/"
+    },
+    "modified": "2024-04-17T09:35:14",
+    "modified_gmt": "2024-04-17T06:35:14",
+    "slug": "9480",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9480/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Targets in Southern Lebanon: An Overnight Offensive Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked Hezbollah terrorist organization targets in southern Lebanon overnight.</p>\n<p>Air Force combat aircraft attacked a series of Hezbollah terrorist organization targets in southern Lebanon overnight. Among the targets attacked, were military sites and buildings of Hezbollah in the areas of Al-Khiyam, Al-Mansouri, Alma Al-Shaab, and Yater in southern Lebanon.</p>\n<p>Following the recent alerts in the Western Galilee, several launches were detected from Lebanese territory, with no casualties. IDF forces attacked the sources of fire.</p>\n<p>Attached is documentation of the IDF attacks in southern Lebanon: https://bit.ly/44iOXrH</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization targets in southern Lebanon overnight. Air Force combat aircraft attacked a series of <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization targets in southern Lebanon overnight. Among the targets attacked, were military sites and buildings of Hezbollah in the areas of Al-Khiyam, Al-Mansouri, Alma Al-Shaab, and Yater in southern Lebanon. Following the recent alerts in the Western Galilee, several launches were detected from Lebanese territory, with no casualties. IDF forces attacked the sources of fire. Attached is documentation of the IDF attacks in southern Lebanon: https://bit.ly/44iOXrH</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3336",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3336
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3336",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3336"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3336/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3336"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3336"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3336"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

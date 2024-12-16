@@ -1,0 +1,122 @@
+{
+    "id": 4257,
+    "date": "2024-01-07T19:30:42",
+    "date_gmt": "2024-01-07T17:30:42",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8540/"
+    },
+    "modified": "2024-01-07T19:30:42",
+    "modified_gmt": "2024-01-07T17:30:42",
+    "slug": "8540",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8540/",
+    "title": {
+        "rendered": "&#8220;Decoding IDF&#8217;s Counter-Terrorism Strategies: Inside the Destruction of Rocket Launchers in Western Sheikh Ajlin&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Destruction of rocket launchers, assault on terrorist infrastructure, and a battle plan for the October 7th attack:<br />\nThis is what the IDF activity in the western Sheikh Ajlin looks like.<br />\nhttps://www.idf.il/170205</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Destruction of rocket launchers, assault on terrorist infrastructure, and a battle plan for the October 7th attack: This is what the IDF activity in the western Sheikh Ajlin looks like. https://www.idf.il/170205</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4257",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4257
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4257",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4257"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4257/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4257"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4257"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4257"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

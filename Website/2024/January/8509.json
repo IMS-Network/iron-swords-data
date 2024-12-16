@@ -1,0 +1,122 @@
+{
+    "id": 4286,
+    "date": "2024-01-04T16:13:02",
+    "date_gmt": "2024-01-04T14:13:02",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8509/"
+    },
+    "modified": "2024-01-04T16:13:02",
+    "modified_gmt": "2024-01-04T14:13:02",
+    "slug": "8509",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8509/",
+    "title": {
+        "rendered": "&#8220;IDF and Shin Bet Take Down Key Palestinian Islamic Jihad Leader: The Story of Mamduh Lulu&#8217;s Elimination&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint message to IDF spokesperson and Shin Bet spokesperson:</p>\n<p>The IDF and Shin Bet have eliminated the head of the operational staff of the northern Gaza strip and a senior official in the Palestinian Islamic Jihad organization.</p>\n<p>Mamduh Lulu, who served as an assistant to the heads of the northern Gaza strip in the Palestinian Islamic Jihad organization, kept in touch with senior command of the organization abroad. Lulu was killed in an attack by an IDF aircraft, led by the Fire and Intelligence Center in the Southern Command and directed by Shin Bet and the Intelligence Corps.</p>\n<p>Lulu was a central figure in the Palestinian Islamic Jihad, initiating and leading numerous attacks and operations from Gaza against the state of Israel, regularly and during times of war.</p>\n<p>Attached is an ID of Mamduh Lulu: https://IDFANC.activetrail.biz/ANC03012023.156156489</p>\n<p>Attached is a documentation of the attack in which he was killed: https://bit.ly/41HNnOJ</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint message to <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a> and Shin Bet spokesperson: The IDF and Shin Bet have eliminated the head of the operational staff of the northern <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> strip and a senior official in the Palestinian Islamic Jihad organization. Mamduh Lulu, who served as an assistant to the heads of the northern Gaza strip in the Palestinian Islamic Jihad organization, kept in touch with senior command of the organization abroad. Lulu was killed in an attack by an IDF aircraft, led by the Fire and Intelligence Center in the Southern Command and directed by Shin Bet and the Intelligence Corps. Lulu was</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4286",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4286
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4286",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4286"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4286/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4286"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4286"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4286"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

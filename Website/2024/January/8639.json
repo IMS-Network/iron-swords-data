@@ -1,0 +1,122 @@
+{
+    "id": 4160,
+    "date": "2024-01-17T19:45:31",
+    "date_gmt": "2024-01-17T17:45:31",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8639/"
+    },
+    "modified": "2024-01-17T19:45:31",
+    "modified_gmt": "2024-01-17T17:45:31",
+    "slug": "8639",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8639/",
+    "title": {
+        "rendered": "&#8220;Immediate IDF Response: Decisive Strike against Lebanon-Based Terror Cell and Rocket Launchers&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Within minutes: The IDF attacked the terrorist cell that carried out the shooting towards Rosh Hanikra.</p>\n<p>During the day, several launches were identified from Lebanon towards Israel. One of the launch cells, which consisted of a number of terrorists and fired rockets toward Rosh Hanikra, was immediately identified after the launch by an aircraft that was tracking it and attacked it.</p>\n<p>Subsequently, Air Force fighter jets attacked several active launchers and terror infrastructure in southern Lebanon. Among the launchers that were destroyed was the launcher from which the shooting was carried out earlier today towards Mount Dov, as well as a launcher that was destroyed before carrying out a shooting in the Elchiam area in Lebanon.</p>\n<p>This is in addition to IDF artillery attacks in other areas in southern Lebanon.</p>\n<p>Attached is documentation of IDF attacks in Lebanon: https://bit.ly/3RYFf81</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Within minutes: The IDF attacked the terrorist cell that carried out the shooting towards Rosh Hanikra. During the day, several launches were identified from Lebanon towards <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>. One of the launch cells, which consisted of a number of terrorists and fired rockets toward Rosh Hanikra, was immediately identified after the launch by an aircraft that was tracking it and attacked it. Subsequently, Air Force fighter jets attacked several active launchers and terror infrastructure in southern Lebanon. Among the launchers that were destroyed was the launcher from which the shooting was carried out earlier today towards Mount Dov, as</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4160",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4160
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4160",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4160"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4160/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4160"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4160"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4160"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 3254,
+    "date": "2024-04-26T09:31:07",
+    "date_gmt": "2024-04-26T06:31:07",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9567/"
+    },
+    "modified": "2024-04-26T09:31:07",
+    "modified_gmt": "2024-04-26T06:31:07",
+    "slug": "9567",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9567/",
+    "title": {
+        "rendered": "&#8220;Israeli Citizen Killed in Hezbollah Missile Attack: IDF Strikes Back in Southern Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Terrorists launched anti-tank missiles towards the Har Dov area overnight, as a result of the launch, an Israeli citizen was injured during infrastructure activity in the area and shortly afterwards his death was confirmed.</p>\n<p>Overnight, air force fighter jets attacked terrorist targets of the Hezbollah terrorist organization in the Shebaa area in southern Lebanon. Among the targets attacked were a weapons warehouse and a launcher used by the organization. In addition, IDF forces carried out a shooting to remove threats in the area.</p>\n<p>Fighter jets attacked the operational infrastructure of the Hezbollah terrorist organization in the Kfar Shouba area, alongside attacking a military building of the organization in the Ein Al-Tina area in southern Lebanon.</p>\n<p>Attached is footage from the attacks: https://bit.ly/4aOX3e0</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Terrorists launched anti-tank missiles towards the Har Dov area overnight, as a result of the launch, an Israeli citizen was injured during infrastructure activity in the area and shortly afterwards his death was confirmed. Overnight, air force fighter jets attacked terrorist targets of the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization in the Shebaa area in southern Lebanon. Among the targets attacked were a weapons warehouse and a launcher used by the organization. In addition, IDF forces carried out a shooting to remove threats in the area. Fighter jets attacked the operational infrastructure of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization in the Kfar Shouba</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3254",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3254
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3254",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3254"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3254/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3254"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3254"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3254"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

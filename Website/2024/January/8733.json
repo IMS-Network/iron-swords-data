@@ -1,0 +1,122 @@
+{
+    "id": 4067,
+    "date": "2024-01-29T18:34:03",
+    "date_gmt": "2024-01-29T16:34:03",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8733/"
+    },
+    "modified": "2024-01-29T18:34:03",
+    "modified_gmt": "2024-01-29T16:34:03",
+    "slug": "8733",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8733/",
+    "title": {
+        "rendered": "&#8220;IDF Soldier Heroically Neutralizes Terrorist in Car-Ramming Attack: Exclusive Video Inside&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>&#8220;I identified the terrorist and acted swiftly to neutralize him while ensuring the safety of the citizens around.&#8221;</p>\n<p>Earlier today, an IDF soldier was severely injured as a result of a car-ramming attack near an IDF base in the north of the country.<br />\nThe soldier was evacuated for medical treatment in a hospital, his family has been notified.</p>\n<p>Attached is a link to a clip of the team commander in the paramedics course, Sergeant A&#8217;, who neutralized the terrorist who carried out the attack: https://bit.ly/3SzoQIE</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: &#8220;I identified the terrorist and acted swiftly to neutralize him while ensuring the safety of the citizens around.&#8221; Earlier today, an IDF soldier was severely injured as a result of a car-ramming attack near an IDF base in the north of the country. The soldier was evacuated for medical treatment in a hospital, his family has been notified. Attached is a link to a clip of the team commander in the paramedics course, <a  href=\"https://iron-swords.co.il/t/sergeant/\">Sergeant</a> A&#8217;, who neutralized the terrorist who carried out the attack: https://bit.ly/3SzoQIE</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4067",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4067
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4067",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4067"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4067/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4067"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4067"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4067"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

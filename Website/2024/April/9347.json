@@ -1,0 +1,122 @@
+{
+    "id": 3466,
+    "date": "2024-04-05T20:55:46",
+    "date_gmt": "2024-04-05T17:55:46",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9347/"
+    },
+    "modified": "2024-04-05T20:55:46",
+    "modified_gmt": "2024-04-05T17:55:46",
+    "slug": "9347",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9347/",
+    "title": {
+        "rendered": "&#8220;IDF Neutralizes AMAL Movement&#8217;s Threat: A Comprehensive Report on Recent Attacks in Southern Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Fighter jets attacked a military building of the AMAL movement that planned an attack against Israel; throughout the day, additional terror targets were attacked in southern Lebanon.</p>\n<p>Air Force fighter jets attacked a short while ago a military building of the AMAL movement, where several terrorists from the AMAL movement were staying in the Marjayoun area in southern Lebanon.</p>\n<p>During the war, the AMAL operated against the State of Israel and also planned an additional attack against Israel in recent days.</p>\n<p>Earlier today, fighters from the Golani Brigade identified a terrorist conducting surveillance using a drone to direct rockets at the northern part of the country and directed an Air Force aircraft to attack the terrorist.</p>\n<p>In recent hours, fighter jets attacked terror infrastructures of the Hezbollah terror organization, in the Kfar Kila and Tyre Harfa areas, and military buildings in the areas of Mis-al-Jebel and Blida in southern Lebanon.</p>\n<p>Attached is documentation of the attack on the AMAL movement&#8217;s building where several terrorists were staying: https://bit.ly/4anep1k</p>\n<p>Attached is documentation of the IDF attacks in southern Lebanon: https://bit.ly/3xpR7cr</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Fighter jets attacked a military building of the AMAL movement that planned an attack against <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>; throughout the day, additional terror targets were attacked in southern Lebanon. Air Force fighter jets attacked a short while ago a military building of the AMAL movement, where several terrorists from the AMAL movement were staying in the Marjayoun area in southern Lebanon. During the war, the AMAL operated against the State of Israel and also planned an additional attack against Israel in recent days. Earlier today, fighters from the <a  href=\"https://iron-swords.co.il/t/golani-brigade/\">Golani Brigade</a> identified a terrorist conducting surveillance using a drone to direct</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3466",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3466
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3466",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3466"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3466/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3466"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3466"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3466"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

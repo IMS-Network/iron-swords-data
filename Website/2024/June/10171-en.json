@@ -1,0 +1,124 @@
+{
+    "id": 8738,
+    "date": "2024-06-19T10:20:52",
+    "date_gmt": "2024-06-19T07:20:52",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10171-en/"
+    },
+    "modified": "2024-06-19T10:20:52",
+    "modified_gmt": "2024-06-19T07:20:52",
+    "slug": "10171-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10171-en/",
+    "title": {
+        "rendered": "&#8220;IDF Targets Hezbollah: Air Strikes on Terror Infrastructure in Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Terrorist Cells and Terror Infrastructure: The IDF Continues to Strike in Lebanon</p>\n<p>During the night, several Hezbollah operatives were identified entering a military structure in the Yaron area, which serves as an ammunition storage facility. Shortly thereafter, an Air Force aircraft attacked the structure containing the cell. Simultaneously, a terror infrastructure of the organization was targeted in the Barashit area.</p>\n<p>Following the alert regarding the penetration of hostile aircraft in the northern region, activated at 7:34, a UAV crossed from Lebanese territory into northern Israel and crashed in the Metula area, with no casualties reported. Following the alert activated at 7:58, no crossing into Israeli territory was detected, and the incident concluded.</p>\n<p>Earlier today, air defense fighters successfully intercepted a suspicious aerial target near Kfar Eliezer. An alert was activated in the area in accordance with policy.</p>\n<p>Attached is documentation of the strikes: https://we.tl/t-Lt7nj8t7tT</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Terrorist Cells and Terror Infrastructure: The IDF Continues to Strike in Lebanon During the night, several <a  href=\"/hezbollah\">Hezbollah</a> operatives were identified entering a military structure in the Yaron area, which serves as an ammunition storage facility. Shortly thereafter, an Air Force aircraft attacked the structure containing the cell. Simultaneously, a terror infrastructure of the organization was targeted in the Barashit area. Following the alert regarding the penetration of hostile aircraft in the northern region, activated at 7:34, a UAV crossed from Lebanese territory into northern <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> and crashed in the Metula area, with no casualties reported. Following the alert</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8738",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8738,
+        "he": 8739,
+        "ru": 8740
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8738",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8738"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8738/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8738"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8738"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8738"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

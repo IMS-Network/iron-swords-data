@@ -1,0 +1,122 @@
+{
+    "id": 4718,
+    "date": "2023-12-02T11:09:01",
+    "date_gmt": "2023-12-02T09:09:01",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8072/"
+    },
+    "modified": "2023-12-02T11:09:01",
+    "modified_gmt": "2023-12-02T09:09:01",
+    "slug": "8072",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8072/",
+    "title": {
+        "rendered": "&#8220;IDF Forces Seize Weapons and Arrest Seven Terror Suspects in Overnight Operations Across Judea and Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF soldiers, the Shin Bet and Border Police detained seven wanted individuals overnight across Judea and Samaria; the troops carried out an operation in the city of Nablus to arrest wanted individuals and located weaponry.</p>\n<p>During an operation of the Samaria Brigade in the city of Nablus, reserve soldiers detained five wanted individuals, located and confiscated explosives, a gun, hand grenades, magazines and military equipment. Also, they located and confiscated parts of a lathe for weapon manufacturing. During the operation, terrorists fired at the force and threw an explosive charge towards them, the force reacted with gunfire. One hit was recorded. In the city of Yatta of the Judea Brigade, the soldiers confiscated technological equipment that was used by the terrorist organization Hamas.</p>\n<p>During an operation conducted in the village of Bidiya in Ephraim, the soldiers detained a wanted individual and after searches also located and confiscated a Uzi rifle, a gun, magazines, parts of weapons and military equipment. During the operations in the village of Saba al Hiriya, a wanted individual was arrested and magazines, ammunition, and military equipment were located. During the operations in the village, shooting was conducted and an explosive charge was thrown towards the force.</p>\n<p>In the village of Al Bireh, reserve soldiers sealed a printing house that printed incitement materials, where the soldiers located and confiscated an airsoft gun. During the operation, suspects threw an explosive charge and paint bottles and hurled stones towards the forces, who responded with means to disperse protests.</p>\n<p>The detained wanted individuals were transferred for further investigation by the security forces, our forces suffered no casualties.</p>\n<p>Attached are photos of the weaponry and the confiscated military equipment: https://IDFANC.activetrail.biz/ANC02122023.818498/4</p>\n<p>Until now, since the beginning of the war, about 2,100 wanted individuals have been arrested across the Judea and Samaria Division and the Jordan Valley and Plains Brigade, about 1,100 of them are affiliated with the terrorist organization Hamas.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF soldiers, the Shin Bet and Border Police detained seven wanted individuals overnight across Judea and Samaria; the troops carried out an operation in the city of Nablus to arrest wanted individuals and located weaponry. During an operation of the Samaria Brigade in the city of Nablus, reserve soldiers detained five wanted individuals, located and confiscated explosives, a gun, hand grenades, magazines and military equipment. Also, they located and confiscated parts of a lathe for weapon manufacturing. During the operation, terrorists fired at the force and threw an explosive charge towards them, the force reacted with gunfire. One</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4718",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4718
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4718",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4718"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4718/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4718"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4718"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4718"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

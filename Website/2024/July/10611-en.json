@@ -1,0 +1,124 @@
+{
+    "id": 7443,
+    "date": "2024-07-24T11:23:18",
+    "date_gmt": "2024-07-24T08:23:18",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10611-en/"
+    },
+    "modified": "2024-07-24T11:23:18",
+    "modified_gmt": "2024-07-24T08:23:18",
+    "slug": "10611-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10611-en/",
+    "title": {
+        "rendered": "&#8220;IDF Operations: Targeting Terrorism in Gaza with Precision Air and Ground Strikes&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>In a joint air and ground operation, the Sayeret Matkal unit eliminated a terrorist cell in a vehicle.</p>\n<p>During the past 24 hours, the combat teams of Brigade 7, Paratroopers, and the Commando Brigade have been operating in Khan Yunis under the command of Division 98. The forces identified underground pathways in the area and eliminated terrorists, mostly by snipers.</p>\n<p>As part of the Commando Brigade&#8217;s combat team&#8217;s activities in the Bani Suheila area, Sayeret Matkal fighters spotted a vehicle moving towards them with a terrorist cell inside. In a combined air and ground operation, aircraft and a tank attacked the vehicle and eliminated the terrorists inside.</p>\n<p>In Rafah, Division 162 forces raided several terrorist infrastructures, locating weapons and eliminating terrorists who were operating nearby and posed a threat to them.</p>\n<p>Concurrently with the ground operations, fighter jets and aircraft of the Air Force attacked dozens of terrorist targets in the Gaza Strip, including military buildings, terrorists, observation posts, and various terrorist infrastructures.</p>\n<p>Attached is documentation from the IDF&#8217;s activities in the Gaza Strip: https://bit.ly/3Wyl2Jv</p>\n<p>Attached are pictures from the IDF&#8217;s activities in the Gaza Strip: https://IDFANC.activetrail.biz/ANC2407202424084250</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: In a joint air and ground operation, the <a  href=\"https://iron-swords.co.il/t/sayeret-matkal/\">Sayeret Matkal</a> unit eliminated a terrorist cell in a vehicle. During the past 24 hours, the combat teams of Brigade 7, Paratroopers, and the Commando Brigade have been operating in Khan Yunis under the command of Division 98. The forces identified underground pathways in the area and eliminated terrorists, mostly by snipers. As part of the Commando Brigade&#8217;s combat team&#8217;s activities in the Bani Suheila area, Sayeret Matkal fighters spotted a vehicle moving towards them with a terrorist cell inside. In a combined air and ground operation, aircraft and a</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7443",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7443,
+        "he": 7444,
+        "ru": 7445
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7443",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7443"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7443/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7443"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7443"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7443"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

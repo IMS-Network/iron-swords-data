@@ -1,0 +1,122 @@
+{
+    "id": 2971,
+    "date": "2024-05-24T09:01:32",
+    "date_gmt": "2024-05-24T06:01:32",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9854/"
+    },
+    "modified": "2024-05-24T09:01:32",
+    "modified_gmt": "2024-05-24T06:01:32",
+    "slug": "9854",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9854/",
+    "title": {
+        "rendered": "&#8220;IDF Forces Decimate Terror Infrastructures: Inside Track on Operations Across the Gaza Strip&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Documentation: The soldiers are launching operations against terror targets and battling across the Strip; the 99th, 98th, and 162nd Divisions continue operations in the north, center, and south of the Strip</p>\n<p>The 98th Division continues to operate in the heart of Jabalia in the northern Gaza Strip.<br />\nAs part of focused operations on terror infrastructures in the area, the soldiers of Combat Teams from the 7th, 460th, and Paratroopers Brigades eliminated dozens of terrorists, destroyed rocket launch sites alongside underground tunnels. At the same time, the forces found and neutralized many weapons, including explosives, mortar bombs, Kalashnikovs, sniper rifles, and more.</p>\n<p>The 162nd Division continues to operate in the Rafah area. Over the past day, the soldiers of Combat Teams from the 401st, Givati and Nachal Brigades have been searching for weapons and infrastructures of the Hamas terror organization in the area. As part of the sweep, the forces found and destroyed weapon storages alongside tunnels and additional terror infrastructures in the area.</p>\n<p>The 99th Division forces continue operations in the center of the Strip. Over the past day, the divisional forces in collaboration with the Air Force eliminated a terrorist cell that had fired at IDF soldiers in the Strip. The Combat Team of the 679th Brigade identified several enemy observers near the forces and exterminated them in collaboration with aircraft from the Air Force and tank fire. In another operation, the forces encircled a terrorist who was identified firing mortars at the soldiers in the area.</p>\n<p>Last night, two rocket launches were identified from the Gaza City area to the southern part of the country and fell in an open area. During the night, an Air Force aircraft attacked the launch site from which the firing was carried out and destroyed it.</p>\n<p>Attached is documentation of IDF forces activities in the Strip: https://bit.ly/3KlntIp</p>\n<p>Attached are photos of IDF forces activities in the Strip: https://IDFANC.activetrail.biz/ANC2405202438982493</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Documentation: The soldiers are launching operations against terror targets and battling across the Strip; the 99th, 98th, and 162nd Divisions continue operations in the north, center, and south of the Strip The 98th Division continues to operate in the heart of Jabalia in the northern <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. As part of focused operations on terror infrastructures in the area, the soldiers of Combat Teams from the 7th, 460th, and Paratroopers Brigades eliminated dozens of terrorists, destroyed rocket launch sites alongside underground tunnels. At the same time, the forces found and neutralized many weapons, including explosives, mortar bombs, Kalashnikovs, sniper</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2971",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2971
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2971",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2971"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2971/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2971"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2971"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2971"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

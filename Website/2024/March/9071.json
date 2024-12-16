@@ -1,0 +1,122 @@
+{
+    "id": 3735,
+    "date": "2024-03-07T20:07:56",
+    "date_gmt": "2024-03-07T18:07:56",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9071/"
+    },
+    "modified": "2024-03-07T20:07:56",
+    "modified_gmt": "2024-03-07T18:07:56",
+    "slug": "9071",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9071/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Military Targets in Zabaykin: A Detailed Report on Recent Cross-Border Incidents&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces have attacked military buildings in the Zabaykin region and targeted a Hezbollah terror organization&#8217;s explosive drone.</p>\n<p>Warplanes attacked a short time ago two military buildings of the Hezbollah terrorist organization in the Zabaykin area.</p>\n<p>Earlier today (Thursday), IDF forces had targeted a Hezbollah terror organization&#8217;s explosive drone, which was identified crossing from the Lebanese territory to the Bar&#8217;am area.</p>\n<p>In addition, an unmanned aircraft of the Hezbollah terrorist organization which crossed earlier from Lebanese territory fell in the Hermon area. There were no casualties. </p>\n<p>In the past few hours, several launches were identified from the Lebanese territory into Israeli territory in the Mount Dov and Metula areas. The IDF attacked the launch sources with artillery.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces have attacked military buildings in the Zabaykin region and targeted a <a  href=\"/hezbollah\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a>&#8217;s explosive drone. Warplanes attacked a short time ago two military buildings of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization in the Zabaykin area. Earlier today (Thursday), IDF forces had targeted a Hezbollah terror organization&#8217;s explosive drone, which was identified crossing from the Lebanese territory to the Bar&#8217;am area. In addition, an unmanned aircraft of the Hezbollah terrorist organization which crossed earlier from Lebanese territory fell in the Hermon area. There were no casualties. In the past few hours, several launches were identified from the Lebanese</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3735",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3735
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3735",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3735"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3735/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3735"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3735"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3735"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

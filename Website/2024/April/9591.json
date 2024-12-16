@@ -1,0 +1,122 @@
+{
+    "id": 3230,
+    "date": "2024-04-30T08:44:20",
+    "date_gmt": "2024-04-30T05:44:20",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9591/"
+    },
+    "modified": "2024-04-30T08:44:20",
+    "modified_gmt": "2024-04-30T05:44:20",
+    "slug": "9591",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9591/",
+    "title": {
+        "rendered": "&#8220;IDF Fighter Jets Take Action: Successful Interceptions and Strikes Against Terror Launch Sites in Gaza&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>Air Force fighter jets attacked operational shafts, a launching station for rockets, and terror infrastructure within the area from which a launch was identified yesterday towards the city of Sderot; The fighting forces of battalions 679 and 2 continue to fight in the central Gaza Strip.</p>\n<p>Yesterday (Monday), a launch was identified from the north of the Gaza Strip towards the city of Sderot, which was successfully intercepted by air defense fighters. A short time later, Air Force fighter jets attacked operational shafts, a rocket launching station, and terror infrastructure within the area from which the launch in the northern strip was identified.</p>\n<p>Fighter jets directed by Brigade 99 attacked many terror targets in the central Strip during the last day, including a terrorist unit and a weapons storage in the area where the resistant forces are operating.</p>\n<p>Yesterday (Monday), launches were conducted against the forces operating in the Gaza Strip; there were no casualties. The fighting forces of Battalion 2 identified several terrorists from the place where the launches were identified; Air Force fighter jets attacked and eliminated the terrorists.</p>\n<p>Forces from Battalion 679 combat team are operating in the central Gaza Strip. During the operation, a terrorist observing our forces from a military structure was identified, an Air Force aircraft attacked the structure and eliminated the terrorist. In another attack, two terrorists moving towards the forces were identified, fast closing the cycle, an aircraft attacked and eliminated the two terrorists.</p>\n<p>Attached is a documentation of the attacks in the Gaza Strip: https://bit.ly/3Unaj2b</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: Air Force fighter jets attacked operational shafts, a launching station for rockets, and terror infrastructure within the area from which a launch was identified yesterday towards the city of <a  href=\"https://iron-swords.co.il/t/sderot/\">Sderot</a>; The fighting forces of battalions 679 and 2 continue to fight in the central <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. Yesterday (Monday), a launch was identified from the north of the Gaza Strip towards the city of Sderot, which was successfully intercepted by air defense fighters. A short time later, Air Force fighter jets attacked operational shafts, a rocket launching station, and terror infrastructure within the area from which the launch in</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3230",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3230
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3230",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3230"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3230/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3230"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3230"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3230"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 3048,
+    "date": "2024-05-17T22:11:31",
+    "date_gmt": "2024-05-17T19:11:31",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9777/"
+    },
+    "modified": "2024-05-17T22:11:31",
+    "modified_gmt": "2024-05-17T19:11:31",
+    "slug": "9777",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9777/",
+    "title": {
+        "rendered": "&#8220;IDF and ISA Joint Operation Recovers Bodies of Abducted Victims: Official Statement&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF and ISA (Israel Security Agency or Shin Bet) have recovered the bodies of the abducted victims Yitzhak Galrenter, Shani Luk, and Amit Buskila, may they rest in peace.</p>\n<p>The bodies of the abducted victims Yitzhak Galrenter, Shani Luk, and Amit Buskila, may they rest in peace, were extracted last night (Friday) in a joint operation by the IDF and ISA.</p>\n<p>Verified intelligence at our disposal indicates that Yitzhak Galrenter, Shani Luk, and Amit Buskila, may they rest in peace, were murdered during the brutal terror attack on October 7th at the floodgates ambush, and their bodies were kidnapped to Gaza by Hamas terrorists.</p>\n<p>Their bodies were extracted during a joint operation of IDF forces and the ISA&#8217;s operational unit, based on information that also emerged in ISA interrogations of terrorists arrested in the strip, and in an intelligence-driven process by the department for missing and captured persons at the Intelligence Unit.</p>\n<p>Following identification proceedings conducted by medical personnel at the National Institute of Forensic Medicine and the Ministry of Health, IDF representatives notified their families today. The IDF and ISA share the families&#8217; grief at this difficult time.</p>\n<p>The IDF Spokesperson calls on the public to refrain from spreading rumors and unsubstantiated reports, and to listen to official announcements.</p>\n<p>The IDF and ISA continue, even at this moment, to employ all operational and intelligence resources, assuming operational risks, in order to fulfill the supreme national mission of recovering all abductees.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF and ISA (<a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> Security Agency or Shin Bet) have recovered the bodies of the abducted victims Yitzhak Galrenter, Shani Luk, and Amit Buskila, may they rest in peace. The bodies of the abducted victims Yitzhak Galrenter, Shani Luk, and Amit Buskila, may they rest in peace, were extracted last night (Friday) in a joint operation by the IDF and ISA. Verified intelligence at our disposal indicates that Yitzhak Galrenter, Shani Luk, and Amit Buskila, may they rest in peace, were murdered during the brutal terror attack on October 7th at the floodgates ambush, and their bodies</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3048",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3048
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3048",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3048"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3048/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3048"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3048"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3048"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

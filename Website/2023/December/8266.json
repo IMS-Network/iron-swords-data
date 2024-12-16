@@ -1,0 +1,122 @@
+{
+    "id": 4527,
+    "date": "2023-12-15T09:16:48",
+    "date_gmt": "2023-12-15T07:16:48",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8266/"
+    },
+    "modified": "2023-12-15T09:16:48",
+    "modified_gmt": "2023-12-15T07:16:48",
+    "slug": "8266",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8266/",
+    "title": {
+        "rendered": "&#8220;Decisive Victory: IDF&#8217;s 188th Brigade Neutralizes Hamas Command Centers and Terrorist Infrastructures in Gaza&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The 188th Brigade Combat Team forces took control and destroyed the Sh&#8217;jaiya battalion command of the Hamas terrorist organization; the Commando Formation and Brigade 7 combat teams raided terrorist infrastructures and exterminated terrorists in the heart of Khan Yunis.</p>\n<p>The 188th Brigade Combat Team forces, in cooperation with armored, engineering, infantry, and air force forces, completed the takeover of the Sh&#8217;jaiya battalion command of the Hamas terrorist organization. During the operation, the soldiers eliminated terrorists and destroyed a tunnel, in which a terrorist who tried to throw explosives at our forces was located. The complex was destroyed by aircraft of the air force, tanks, and engineering forces. Furthermore, the 414 intelligence battalion soldiers made the first use of the &#8220;Maoz&#8221; drone, which was used to expose and attack a terrorist cell.</p>\n<p>In the last day, the Commando Formation and Brigade 7 combat teams raided terrorist infrastructures in the heart of Khan Yunis, eliminating many terrorists and discovering more tunnels of the Hamas terrorist organization. During the raids, the forces destroyed a weapons warehouse using &#8220;Steel Sting&#8221;. In addition, the soldiers found a tunnel containing motorcycles that were used by Hamas terrorists in the murderous attack on October 7. Also, an air force fighter jet bombed a building used as a hiding place for terrorists and an aircraft shot down three terrorists who tried to harm our forces.</p>\n<p>Attached are the documentation of the forces&#8217; activities in the Gaza Strip: https://bit.ly/41lk6Jt</p>\n<p>Attached are the documentation of the IDF&#8217;s attacks: https://bit.ly/47YhmEb</p>\n<p>Attached are photos from the forces&#8217; takeover and destruction of the Sh&#8217;jaiya battalion command: https://IDFANC.activetrail.biz/ANC151220232514</p>\n<p>Attached are photos from the forces&#8217; activities in the Gaza Strip: https://IDFANC.activetrail.biz/ANC15122023264</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The 188th Brigade Combat Team forces took control and destroyed the Sh&#8217;jaiya battalion command of the <a  href=\"/hamas\">Hamas</a> terrorist organization; the Commando Formation and Brigade 7 combat teams raided terrorist infrastructures and exterminated terrorists in the heart of Khan Yunis. The 188th Brigade Combat Team forces, in cooperation with armored, engineering, infantry, and air force forces, completed the takeover of the Sh&#8217;jaiya battalion command of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> terrorist organization. During the operation, the soldiers eliminated terrorists and destroyed a tunnel, in which a terrorist who tried to throw explosives at our forces was located. The complex was destroyed by</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4527",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4527
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4527",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4527"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4527/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4527"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4527"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4527"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

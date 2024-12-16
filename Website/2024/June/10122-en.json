@@ -1,0 +1,124 @@
+{
+    "id": 8885,
+    "date": "2024-06-14T08:19:57",
+    "date_gmt": "2024-06-14T05:19:57",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10122-en/"
+    },
+    "modified": "2024-06-14T08:19:57",
+    "modified_gmt": "2024-06-14T05:19:57",
+    "slug": "10122-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10122-en/",
+    "title": {
+        "rendered": "&#8220;IDF Operations Update: Targeting Terrorists and Missile Launch Sites in Gaza&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Forces of Division 162 continue operations in Rafah, while forces of Division 99 are engaged in activities in the central Gaza Strip. In airstrikes, several terrorists were eliminated and the launch sites from which missile attacks were carried out last night towards the Gaza border were destroyed.</p>\n<p>The forces of Division 162 continue their operations in the Rafah area. Over the past 24 hours, the troops have eliminated several terrorists and located numerous weapons and entries to underground tunnels. Combat soldiers from the Nahal Brigade identified and destroyed several explosives alongside terrorist infrastructure used by the Hamas terror organization. In addition, fighters from the Maglan unit detected a terrorist approaching them using a drone. In a closing of the circle, the forces directed Air Force aircraft that attacked the terrorist and eliminated him.</p>\n<p>Meanwhile, forces of Division 99 continue to operate in the central Gaza Strip. Soldiers from the &#8220;Alexandroni&#8221; Brigade identified several terrorists operating within a military structure in the Zeitoun area and directed a fighter jet of the Air Force, which struck the building where the terrorists were located. Additionally, Air Force aircraft attacked a terrorist cell identified by the 8th Brigade in the area.</p>\n<p>Last night (Thursday), several launches were identified crossing from the northern Gaza Strip toward the Gaza border. Air Defense soldiers intercepted some of the launches, and the rest fell in open areas, with no casualties reported.</p>\n<p>In a completion of the circle, led by the Gaza Division and the Air Force, artillery fire and aircraft targeted and destroyed the launch sites from which the attacks were carried out alongside a weapons storage facility located in the area.</p>\n<p>Attached are images from the activities of the forces: https://IDFANC.activetrail.biz/ANC14062024786453074856</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Forces of Division 162 continue operations in Rafah, while forces of Division 99 are engaged in activities in the central <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. In airstrikes, several terrorists were eliminated and the launch sites from which missile attacks were carried out last night towards the Gaza border were destroyed. The forces of Division 162 continue their operations in the Rafah area. Over the past 24 hours, the troops have eliminated several terrorists and located numerous weapons and entries to underground tunnels. Combat soldiers from the <a  href=\"https://iron-swords.co.il/t/nahal-brigade/\">Nahal Brigade</a> identified and destroyed several explosives alongside terrorist infrastructure used by the <a  href=\"/hamas\">Hamas</a> terror</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8885",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8885,
+        "he": 8886,
+        "ru": 8887
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8885",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8885"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8885/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8885"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8885"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8885"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "id": 18183,
+    "date": "2024-10-15T11:48:42",
+    "date_gmt": "2024-10-15T08:48:42",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=18183"
+    },
+    "modified": "2024-10-15T11:48:49",
+    "modified_gmt": "2024-10-15T08:48:49",
+    "slug": "deir-al-balah-al-aqsa-hospital-fire",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/deir-al-balah-al-aqsa-hospital-fire/",
+    "title": {
+        "rendered": "Deir al-Balah Al-Aqsa Hospital Fire"
+    },
+    "content": {
+        "rendered": "\n<p>The Israeli airstrike on the Al-Aqsa Hospital compound on October 14, 2024, targeted a Hamas command center situated within the hospital premises. This is part of a broader pattern of Hamas using civilian areas\u2014including hospitals, schools, and homes\u2014as military sites, which puts civilian lives at severe risk. The Israeli Defense Forces (IDF) confirmed that they were striking militants operating near the hospital, and the resulting fire led to tragic casualties among displaced civilians, with four confirmed dead and many injured.</p>\n\n\n\n<p>While the strike caused civilian harm, the IDF reiterated that efforts were made to mitigate casualties, though secondary explosions\u2014likely from gas cylinders and possibly small munitions\u2014caused a fire that spread quickly through tents housing displaced families. Hamas&#8217;s practice of embedding military assets within civilian infrastructures, such as this hospital, has been repeatedly condemned by Israel as a violation of international law and an intentional endangerment of civilians\u200b.</p>\n\n\n\n<p>Hamas\u2019s documented tactics, such as these, further highlight its deliberate strategy of using civilians as human shields, a tactic that violates the Geneva Conventions. While Israel strives to target militant operations, it faces extreme difficulty in avoiding civilian casualties when Hamas stores weapons and operates command centers in highly populated civilian areas\u200b\u200b.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Israeli jets bomb a camp housing displaced Palestinians on the grounds of Al-Aqsa Martyrs Hospital in Deir el-Balah.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 18184,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 53,
+        "footnotes": ""
+    },
+    "categories": [
+        53
+    ],
+    "tags": [],
+    "class_list": [
+        "post-18183",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-facts"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 18183
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/18183",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=18183"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/18183/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 18185,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/18183/revisions/18185"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/18184"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=18183"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=18183"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=18183"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

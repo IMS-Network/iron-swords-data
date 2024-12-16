@@ -1,0 +1,128 @@
+{
+    "id": 3938,
+    "date": "2024-02-13T21:13:19",
+    "date_gmt": "2024-02-13T19:13:19",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8865/"
+    },
+    "modified": "2024-09-04T21:48:02",
+    "modified_gmt": "2024-09-04T18:48:02",
+    "slug": "8865",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8865/",
+    "title": {
+        "rendered": "&#8220;Exclusive Update: IDF Reveals Hamas Leader&#8217;s Escape and Underground Tunnels in Khan Yunis &#8211; Raw Footage &#038; Infographics Included&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Attached are the materials presented in the update by IDF Spokesperson, Brig. Gen. Daniel Hacohen, on intelligence findings captured by IDF forces, including the Hamas leader Yahya Sinwar and information about underground tunnels in Khan Yunis.</p>\n<p>Attached is footage from a tunnel in which you can see the <a href=\"https://iron-swords.co.il/hamas/\"  data-wpil-monitor-id=\"2\">Hamas</a> leader Yahya Sinwar escaping:<br />\nhttps://bit.ly/3SXMxug</p>\n<p>Attached is footage from a tunnel where the Hamas leader Yahya Sinwar and other senior members of the terrorist organization were hiding:<br />\nhttps://bit.ly/3HZrTDR</p>\n<p>Attached is an infographic illustrating the underground tunnels in Khan Yunis:<br />\nhttps://bit.ly/48w4sgp</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Attached are the materials presented in the update by IDF Spokesperson, Brig. Gen. Daniel Hacohen, on intelligence findings captured by IDF forces, including the <a  href=\"/hamas\">Hamas</a> leader Yahya Sinwar and information about underground tunnels in Khan Yunis. Attached is footage from a tunnel in which you can see the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> leader Yahya Sinwar escaping: https://bit.ly/3SXMxug Attached is footage from a tunnel where the Hamas leader Yahya Sinwar and other senior members of the terrorist organization were hiding: https://bit.ly/3HZrTDR Attached is an infographic illustrating the underground tunnels in Khan Yunis: https://bit.ly/48w4sgp</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3938",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3938
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3938",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3938"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3938/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 17424,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3938/revisions/17424"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3938"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3938"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3938"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

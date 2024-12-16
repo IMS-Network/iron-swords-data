@@ -1,0 +1,124 @@
+{
+    "id": 8156,
+    "date": "2024-07-06T13:33:06",
+    "date_gmt": "2024-07-06T10:33:06",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10370-en/"
+    },
+    "modified": "2024-07-06T13:33:06",
+    "modified_gmt": "2024-07-06T10:33:06",
+    "slug": "10370-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10370-en/",
+    "title": {
+        "rendered": "&#8220;Inside Shejaiya: Uncovering the 7th Division&#8217;s Long-Range Rocket Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Long-range rocket warehouse, tunnel shafts, and explosives:<br />\nThis is what the 7th Division forces located in the heart of Shejaiya.<br />\nhttps://www.idf.il/214037</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Long-range rocket warehouse, tunnel shafts, and explosives: This is what the 7th Division forces located in the heart of Shejaiya. https://www.idf.il/214037</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8156",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8156,
+        "he": 8157,
+        "ru": 8158
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8156",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8156"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8156/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8156"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8156"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8156"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

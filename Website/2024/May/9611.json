@@ -1,0 +1,122 @@
+{
+    "id": 3210,
+    "date": "2024-05-02T15:36:47",
+    "date_gmt": "2024-05-02T12:36:47",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9611/"
+    },
+    "modified": "2024-05-02T15:36:47",
+    "modified_gmt": "2024-05-02T12:36:47",
+    "slug": "9611",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9611/",
+    "title": {
+        "rendered": "&#8220;IDF Forces Safely Remove Hazardous Missile Debris: Essential Safety Tips for Hikers in Nachal Yaelim Area&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Earlier today, IDF forces removed additional remnants of a ground-to-ground missile that was fired in the Nachal Yaelim area, near Arad, as part of the Iranian attack that took place last month.</p>\n<p>The debris contains hazardous materials and the removal was carried out using a crane (RIO 6&#215;6) by IDF forces, in cooperation with the Southern Command of the Home Front Command and fire and rescue forces.</p>\n<p>The hiking public is requested to follow the instructions of the Home Front Command when encountering suspicious objects. It is important to emphasize that debris and shrapnel from missiles can be dangerous. Do not touch them, move away and report to the police hotline 100 about their discovery.</p>\n<p>Attached are pictures on the subject: </p>\n<p>[Please note, the URL couldn&#8217;t be translated as it is a website address in Hebrew]</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Earlier today, IDF forces removed additional remnants of a ground-to-ground missile that was fired in the Nachal Yaelim area, near Arad, as part of the Iranian attack that took place last month. The debris contains hazardous materials and the removal was carried out using a crane (RIO 6&#215;6) by IDF forces, in cooperation with the Southern Command of the Home Front Command and fire and rescue forces. The hiking public is requested to follow the instructions of the Home Front Command when encountering suspicious objects. It is important to emphasize that debris and shrapnel from missiles can be</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3210",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3210
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3210",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3210"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3210/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3210"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3210"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3210"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

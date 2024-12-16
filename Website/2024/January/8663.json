@@ -1,0 +1,122 @@
+{
+    "id": 4136,
+    "date": "2024-01-20T18:03:18",
+    "date_gmt": "2024-01-20T16:03:18",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8663/"
+    },
+    "modified": "2024-01-20T18:03:18",
+    "modified_gmt": "2024-01-20T16:03:18",
+    "slug": "8663",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8663/",
+    "title": {
+        "rendered": "&#8220;Brigade 99 Dismantles Weapon Workshops in Zaytun: A Blow to Illicit Arms Production&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Mortars, rocket fuel, warheads, launch pits and explosives:<br />\nThe forces of Brigade 99 destroyed weapon manufacturing workshops in the Zaytun neighborhood.<br />\nhttps://www.idf.il/174750</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Mortars, rocket fuel, warheads, launch pits and explosives: The forces of Brigade 99 destroyed weapon manufacturing workshops in the Zaytun neighborhood. https://www.idf.il/174750</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4136",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4136
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4136",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4136"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4136/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4136"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4136"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4136"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

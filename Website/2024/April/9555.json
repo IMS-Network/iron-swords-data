@@ -1,0 +1,122 @@
+{
+    "id": 3266,
+    "date": "2024-04-24T15:37:14",
+    "date_gmt": "2024-04-24T12:37:14",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9555/"
+    },
+    "modified": "2024-04-24T15:37:14",
+    "modified_gmt": "2024-04-24T12:37:14",
+    "slug": "9555",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9555/",
+    "title": {
+        "rendered": "&#8220;Decisive IDF Strike: Dismantling Hezbollah&#8217;s Terror Infrastructure in Southern Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Dozens of targets within a few minutes; IDF attacked dozens of terror infrastructures by combat aircraft and artillery in the Aita al Sha&#8217;ab area in southern Lebanon.</p>\n<p>The IDF recently completed a broad attack on about 40 targets of the terrorist organization Hezbollah in the Aita al Sha&#8217;ab area in southern Lebanon using combat aircraft and artillery. Among the targets attacked were storage facilities, combat means and terror infrastructures, and additional targets that served the organization in the area. All of this, as part of the effort to destroy the organization&#8217;s infrastructure along the border.</p>\n<p>Hezbollah makes extensive use of the Aita al Sha&#8217;ab area for terrorist purposes and has set up dozens of means and terror infrastructures of the organization in the area intended for the Israeli hinterland.</p>\n<p>Attached is a link to the attack run by Northern Command&#8217;s Fire Center, Major R&#8217;: https://bit.ly/3xPSX6R</p>\n<p>Attached is footage from the attacks: https://bit.ly/4b7Fs0C</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Dozens of targets within a few minutes; IDF attacked dozens of terror infrastructures by combat aircraft and artillery in the Aita al Sha&#8217;ab area in southern Lebanon. The IDF recently completed a broad attack on about 40 targets of the terrorist organization <a  href=\"/hezbollah\">Hezbollah</a> in the Aita al Sha&#8217;ab area in southern Lebanon using combat aircraft and artillery. Among the targets attacked were storage facilities, combat means and terror infrastructures, and additional targets that served the organization in the area. All of this, as part of the effort to destroy the organization&#8217;s infrastructure along the border. <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> makes extensive</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3266",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3266
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3266",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3266"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3266/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3266"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3266"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3266"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

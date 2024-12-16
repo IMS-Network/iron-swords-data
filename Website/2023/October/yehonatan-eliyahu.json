@@ -1,0 +1,134 @@
+{
+    "id": 2408,
+    "date": "2023-10-07T06:30:00",
+    "date_gmt": "2023-10-07T03:30:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=2408"
+    },
+    "modified": "2024-05-14T02:01:48",
+    "modified_gmt": "2024-05-13T23:01:48",
+    "slug": "yehonatan-eliyahu",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/victims/yehonatan-eliyahu/",
+    "title": {
+        "rendered": "yehonatan eliyahu"
+    },
+    "content": {
+        "rendered": "\n<p>Yehonatan Eliyahu, 21, from Rishon LeZion, was murdered by Hamas terrorists at the \u201cNova\u201d music festival massacre near Kibbutz Re\u2019im.</p>\n\n\n\n<p>His family and friends remember him as an amazing, smart and funny person who loved nature, partying and dancing, sports and photography. He was a caring and attentive person who was always surrounded by friends.</p>\n\n\n\n<p>His partner, Alina Falahati, 21 years old, was also murdered at the festival. Their last moments were captured in a video taken by one of the festival goers, as they tried to escape during the massacre.<br><br>He was planning on finishing his graphic designer and content manager studies by the end of the year.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Yehonatan Eliyahu, 21, from Rishon LeZion, was murdered by <a  href=\"/hamas\">Hamas</a> terrorists at the \u201cNova\u201d music festival massacre near Kibbutz Re\u2019im. His family and friends remember him as an amazing, smart and funny person who loved nature, partying and dancing, sports and photography. He was a caring and attentive person who was always surrounded by friends. His partner, Alina Falahati, 21 years old, was also murdered at the festival. Their last moments were captured in a video taken by one of the festival goers, as they tried to escape during the massacre. He was planning on finishing his graphic designer and</p>\n",
+        "protected": false
+    },
+    "author": 16,
+    "featured_media": 2409,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-october-7th-victims",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 21,
+        "footnotes": ""
+    },
+    "categories": [
+        21
+    ],
+    "tags": [
+        34,
+        120
+    ],
+    "class_list": [
+        "post-2408",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-victims",
+        "tag-nova",
+        "tag-rishon-letsiyon"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2408
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2408",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/16"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2408"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2408/revisions"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/2409"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2408"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2408"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2408"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

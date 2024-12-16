@@ -1,0 +1,124 @@
+{
+    "id": 8189,
+    "date": "2024-07-05T15:20:15",
+    "date_gmt": "2024-07-05T12:20:15",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10356-en/"
+    },
+    "modified": "2024-07-05T15:20:15",
+    "modified_gmt": "2024-07-05T12:20:15",
+    "slug": "10356-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10356-en/",
+    "title": {
+        "rendered": "&#8220;IDF and Shin Bet&#8217;s Operation in Jenin: Seven Terrorists Eliminated, Justice for Captain Alon Skajio&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint statement from the IDF Spokesperson and the Shin Bet Spokesperson:</p>\n<p>The IDF and Shin Bet eliminated seven terrorists in an operation in Jenin, including the cell responsible for the death of Captain Alon Skajio, may his memory be blessed; four terrorists were eliminated from the air.</p>\n<p>In recent hours, fighters from the Duvdevan Unit and the Haruv Reconnaissance Battalion, under the intelligence guidance of Shin Bet, operated to thwart terrorism in the Jenin area.</p>\n<p>As part of the operation, the forces engaged in exchanges of fire with the terrorists in the area while simultaneously executing a &#8220;Pressure Cooker&#8221; procedure on a building where additional terrorists were holed up. At the end of the procedure, our forces eliminated the terrorist Mahmoud Hashash, along with another terrorist, and located a handgun in the building. The two terrorists had participated in the attack on our forces during the operation in which Captain Alon Skajio, may his memory be blessed, was killed. </p>\n<p>Additionally, as part of the operation, Air Force aircraft targeted and eliminated an armed terrorist cell identified in the area.</p>\n<p>At the conclusion of the operation in which Captain Alon Skajio, may his memory be blessed, was killed, Shin Bet conducted an intelligence effort in cooperation with the IDF, after which those involved in the attack on our forces were located. On July 3rd, the terrorist Nadal Amar, who also participated in the explosive attack, was eliminated by the Judea and Samaria Police Special Forces.</p>\n<p>Attached is documentation of the airstrike on the terrorist cell: https://bit.ly/3zyPJ8E</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint statement from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a> and the Shin Bet Spokesperson: The IDF and Shin Bet eliminated seven terrorists in an operation in Jenin, including the cell responsible for the death of Captain Alon Skajio, may his memory be blessed; four terrorists were eliminated from the air. In recent hours, fighters from the <a  href=\"https://iron-swords.co.il/t/duvdevan-unit/\">Duvdevan Unit</a> and the Haruv Reconnaissance Battalion, under the intelligence guidance of Shin Bet, operated to thwart terrorism in the Jenin area. As part of the operation, the forces engaged in exchanges of fire with the terrorists in the area while simultaneously executing a &#8220;Pressure Cooker&#8221; procedure</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8189",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8189,
+        "he": 8190,
+        "ru": 8191
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8189",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8189"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8189/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8189"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8189"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8189"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 3488,
+    "date": "2024-04-03T12:00:18",
+    "date_gmt": "2024-04-03T09:00:18",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9325/"
+    },
+    "modified": "2024-04-03T12:00:18",
+    "modified_gmt": "2024-04-03T09:00:18",
+    "slug": "9325",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9325/",
+    "title": {
+        "rendered": "&#8220;Inside Look: Paratroopers Target Terror Infrastructures in Al-Amal Neighborhood&#8221;"
+    },
+    "content": {
+        "rendered": "<p>&#8220;We are raiding terror infrastructures and eliminating terrorists: this is what the activity of the paratroopers looks like in the Al-Amal neighborhood.&#8221;<br />\nhttps://www.idf.il/189443<br />\n(The above is a link to the Israel Defense Forces website pertaining to the context.)</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>&#8220;We are raiding terror infrastructures and eliminating terrorists: this is what the activity of the paratroopers looks like in the Al-Amal neighborhood.&#8221; https://www.idf.il/189443 (The above is a link to the <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> Defense Forces website pertaining to the context.)</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3488",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3488
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3488",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3488"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3488/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3488"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3488"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3488"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

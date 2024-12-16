@@ -1,0 +1,122 @@
+{
+    "id": 4161,
+    "date": "2024-01-17T18:00:43",
+    "date_gmt": "2024-01-17T16:00:43",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8638/"
+    },
+    "modified": "2024-01-17T18:00:43",
+    "modified_gmt": "2024-01-17T16:00:43",
+    "slug": "8638",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8638/",
+    "title": {
+        "rendered": "&#8220;IDF Casualties and Injuries Update: Honoring Corporal Uriah Eymelk Gushen and Sergeant (res.) Anuar Serhan&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Attached is a message from the IDF Spokesperson regarding the names of two IDF casualties, whose notification has been delivered to their families: https://IDFANC.activetrail.biz/ANC17012024.52874</p>\n<p>Attached is a link to the IDF website, where information and photos of the casualties are published and updated:<br />\nhttps://www.idf.il/59780</p>\n<p>In addition, in a combat where Corporal Uriah Eymelk Gushen fell, a soldier and a fighting officer from the Givati Brigade were seriously injured.</p>\n<p>Also, in the road accident in which Sergeant (res.) Anuar Serhan perished, a reserve soldier in the 910 Battalion, the Etzion Regional Brigade, was seriously injured.</p>\n<p>The injured were taken for medical treatment at the hospital and their families have been updated.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Attached is a message from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a> regarding the names of two IDF casualties, whose notification has been delivered to their families: https://IDFANC.activetrail.biz/ANC17012024.52874 Attached is a link to the IDF website, where information and photos of the casualties are published and updated: https://www.idf.il/59780 In addition, in a combat where Corporal Uriah Eymelk Gushen fell, a soldier and a fighting officer from the <a  href=\"https://iron-swords.co.il/t/givati-brigade/\">Givati Brigade</a> were seriously injured. Also, in the road accident in which <a  href=\"https://iron-swords.co.il/t/sergeant/\">Sergeant</a> (res.) Anuar Serhan perished, a reserve soldier in the 910 Battalion, the Etzion Regional Brigade, was seriously injured. The injured were taken for medical</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4161",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4161
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4161",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4161"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4161/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4161"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4161"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4161"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 4729,
+    "date": "2023-12-01T14:36:41",
+    "date_gmt": "2023-12-01T12:36:41",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8060/"
+    },
+    "modified": "2023-12-01T14:36:41",
+    "modified_gmt": "2023-12-01T12:36:41",
+    "slug": "8060",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8060/",
+    "title": {
+        "rendered": "&#8220;Joint IDF, Police &#038; ISA Investigation Launched Following Fatal Jerusalem Attack: An Inside Look&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Following the attack in Jerusalem, yesterday (Thursday), an investigation was opened by the Israel Police and the ISA (Israel Security Agency). Upon receiving the initial investigation details and in light of the event&#8217;s circumstances, it was decided that the investigation will be conducted in partnership with the Military Police Criminal Investigation Division.<br />\nThe IDF expresses sorrow over the death of the civilian.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Following the attack in <a  href=\"https://iron-swords.co.il/t/jerusalem/\">Jerusalem</a>, yesterday (Thursday), an investigation was opened by the <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> Police and the ISA (Israel Security Agency). Upon receiving the initial investigation details and in light of the event&#8217;s circumstances, it was decided that the investigation will be conducted in partnership with the Military Police Criminal Investigation Division. The IDF expresses sorrow over the death of the civilian.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4729",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4729
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4729",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4729"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4729/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4729"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4729"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4729"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

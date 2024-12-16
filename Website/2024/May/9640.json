@@ -1,0 +1,122 @@
+{
+    "id": 3181,
+    "date": "2024-05-06T15:57:48",
+    "date_gmt": "2024-05-06T12:57:48",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9640/"
+    },
+    "modified": "2024-05-06T15:57:48",
+    "modified_gmt": "2024-05-06T12:57:48",
+    "slug": "9640",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9640/",
+    "title": {
+        "rendered": "&#8220;Cracking Down on Terrorism: IDF&#8217;s Successful Counter-Terrorism Operation in Batul Kerem&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Approximately 4,000 fugitives across Central Command since the beginning of the war, numerous IDF, Shin Bet, and Police forces commenced a counter-terrorism operation in Batul Kerem in Manasseh last night;</p>\n<p>Numerous IDF, Shin Bet and Police forces, under the guidance of Military Intelligence and Shin Bet, have been working since last night on a counter-terrorism operation in the area of Batul Kerem in the Manasseh Brigade.</p>\n<p>So far in the operation, the soldiers have eliminated an armed terrorist, destroyed an explosives lab, found another explosives lab, and retrieved a Kalashnikov rifle.</p>\n<p>Engineering forces have uncovered several explosives hidden under axes, raided compounds and buildings, searched for weapons, and investigated suspects.</p>\n<p>Simultaneously, IDF, Shin Bet, and Border Police forces worked overnight to arrest 13 fugitives across Judea and Samaria.</p>\n<p>The arrested fugitives have been transferred for further investigation by the security forces, our troops have not been harmed.</p>\n<p>As of now, since the beginning of the war, approximately 4,000 fugitives have been arrested across the Judea and Samaria Division and in the Rift Valley and Omen Brigade, about 1,700 of them are affiliated with the Hamas terrorist organization.</p>\n<p>Enclosed is documentation from the operation of the Duvdevan unit in Batul Kerem: https://bit.ly/3WoQjz3</p>\n<p>Attached are pictures from the operation in Batul Kerem: https://IDFANC.activetrail.biz/ANC06052024638965986543</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Approximately 4,000 fugitives across Central Command since the beginning of the war, numerous IDF, Shin Bet, and Police forces commenced a counter-terrorism operation in Batul Kerem in Manasseh last night; Numerous IDF, Shin Bet and Police forces, under the guidance of Military Intelligence and Shin Bet, have been working since last night on a counter-terrorism operation in the area of Batul Kerem in the Manasseh Brigade. So far in the operation, the soldiers have eliminated an armed terrorist, destroyed an explosives lab, found another explosives lab, and retrieved a Kalashnikov rifle. Engineering forces have uncovered several explosives hidden</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3181",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3181
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3181",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3181"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3181/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3181"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3181"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3181"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

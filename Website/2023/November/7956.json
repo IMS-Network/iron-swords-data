@@ -1,0 +1,122 @@
+{
+    "id": 4830,
+    "date": "2023-11-22T19:11:45",
+    "date_gmt": "2023-11-22T17:11:45",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/7956/"
+    },
+    "modified": "2023-11-22T19:11:45",
+    "modified_gmt": "2023-11-22T17:11:45",
+    "slug": "7956",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/7956/",
+    "title": {
+        "rendered": "&#8220;IDF Launches Successful Strikes Against Hezbollah in Lebanon: A Comprehensive Report on Recent Military Actions&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF combat aircraft have completed another strike in Lebanese territory; a series of terror targets where Hezbollah terrorists were operating were destroyed.</p>\n<p>For the second time in the last day, combat aircraft attacked a number of terrorist infrastructure and a military site of the Hezbollah terror organization in Lebanon a short while ago.</p>\n<p>In addition, an aircraft combined with artillery fire attacked a terrorist cell from the Hezbollah terror organization that had been shooting from Lebanon into Israeli territory near the Hanita area, and a military building from which shooting was carried out to the Matat area was also attacked, where IDF forces were operating earlier today.</p>\n<p>Also, following alerts activated in the north of the country, a number of launches were identified that crossed from Lebanese territory to Israeli territory.</p>\n<p>IDF forces attacked the sources of the shooting.</p>\n<p>Attached is documentation from the strikes: https://bit.ly/47ET2r3</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF combat aircraft have completed another strike in Lebanese territory; a series of terror targets where <a  href=\"/hezbollah\">Hezbollah</a> terrorists were operating were destroyed. For the second time in the last day, combat aircraft attacked a number of terrorist infrastructure and a military site of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> in Lebanon a short while ago. In addition, an aircraft combined with artillery fire attacked a terrorist cell from the Hezbollah terror organization that had been shooting from Lebanon into Israeli territory near the Hanita area, and a military building from which shooting was carried out to the Matat area was</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4830",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4830
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4830",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4830"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4830/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4830"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4830"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4830"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

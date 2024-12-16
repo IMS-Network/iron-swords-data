@@ -1,0 +1,122 @@
+{
+    "id": 3217,
+    "date": "2024-05-01T19:48:45",
+    "date_gmt": "2024-05-01T16:48:45",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9604/"
+    },
+    "modified": "2024-05-01T19:48:45",
+    "modified_gmt": "2024-05-01T16:48:45",
+    "slug": "9604",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9604/",
+    "title": {
+        "rendered": "&#8220;IDF Chief of Staff Expresses Profound Gratitude to Northern Reserve Soldiers: A Comprehensive Lebanese Border Assessment&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>Chief of Staff to the reserve soldiers in the North: Immense appreciation for you on behalf of the IDF and the State of Israel</p>\n<p>The Chief of Staff, Lieutenant General Hertzi Halevi, today (Wednesday) conducted a tour and situation assessment on the Lebanese border with the Commander of the Northern Command, Major General Uri Gordin, the Commander of the 146th Division, Brigadier General Israel Shomer, and other commanders.<br />\nDuring the tour, the Chief of Staff talked with reserve commanders of the &#8220;Atsyoni&#8221; Brigade (6) who have held a line in the Western Galilee in recent weeks.</p>\n<p>Attached is a video on the subject: https://bit.ly/4blJceL</p>\n<p>Attached are photos on the subject: https://idfanc.activetrail.biz/ANC1524352</p>\n<p>The Chief of Staff&#8217;s full remarks are attached: &#8220;The attack in Gaza will be strong, its goals are to restore security to the residents around Gaza, and to bring the captured back home. From a defensive stance in the North, you are doing this excellently, and we are preparing an attack in the North. We are taking the severe event of October 7th, we regrouped, came out strong forward, and are sending a very clear message about our presence here moving forward. The reserve world has a significant part in this. The State of Israel, I say this on my behalf, I say this on behalf of the IDF, I allow myself to say in the name of the State of Israel, the Israeli government, immense appreciation for this long presence here.&#8221;</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: Chief of Staff to the reserve soldiers in the North: Immense appreciation for you on behalf of the IDF and the State of <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> The Chief of Staff, Lieutenant General Hertzi Halevi, today (Wednesday) conducted a tour and situation assessment on the Lebanese border with the Commander of the Northern Command, Major General Uri Gordin, the Commander of the 146th Division, Brigadier General Israel Shomer, and other commanders. During the tour, the Chief of Staff talked with reserve commanders of the &#8220;Atsyoni&#8221; Brigade (6) who have held a line in the Western Galilee in recent weeks. Attached is</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3217",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3217
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3217",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3217"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3217/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3217"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3217"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3217"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

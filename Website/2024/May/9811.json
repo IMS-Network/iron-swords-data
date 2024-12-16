@@ -1,0 +1,122 @@
+{
+    "id": 3014,
+    "date": "2024-05-21T08:43:07",
+    "date_gmt": "2024-05-21T05:43:07",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9811/"
+    },
+    "modified": "2024-05-21T08:43:07",
+    "modified_gmt": "2024-05-21T05:43:07",
+    "slug": "9811",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9811/",
+    "title": {
+        "rendered": "&#8220;IDF Neutralizes Hezbollah&#8217;s Rocket Commander: A Closer Look at Kassem Saklawi&#8217;s Elimination&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF has eliminated the commander of the rocket and missile system in the Coastal Strip of the terrorist organization Hezbollah</p>\n<p>Last night (Monday), the IDF attacked and eliminated, by means of aircraft from the Air Force, in the region of Tyre in Lebanon, the terrorist, Kassem Saklawi, the commander of the rocket and missile system in the Coastal Strip of the terrorist organization.</p>\n<p>Terrorist Saklawi was responsible in his role for planning and executing many rocket fire trajectories towards the Israeli rear. As part of his role, he dealt with promoting and planning rocket launches and surface-to-surface missiles towards the State of Israel from the Coastal region in Lebanon.</p>\n<p>In addition, fighter jets attacked a launch site of the terrorist organization Hezbollah in the area of Ramiya.</p>\n<p>Following the alerts in the Western Galilee area last night, several isolated launches were identified that fell in open areas.</p>\n<p>Attached is documentation of the elimination: https://bit.ly/3wLkcz3</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF has eliminated the commander of the rocket and missile system in the Coastal Strip of the terrorist organization <a  href=\"/hezbollah\">Hezbollah</a> Last night (Monday), the IDF attacked and eliminated, by means of aircraft from the Air Force, in the region of Tyre in Lebanon, the terrorist, Kassem Saklawi, the commander of the rocket and missile system in the Coastal Strip of the terrorist organization. Terrorist Saklawi was responsible in his role for planning and executing many rocket fire trajectories towards the Israeli rear. As part of his role, he dealt with promoting and planning rocket launches and surface-to-surface</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3014",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3014
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3014",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3014"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3014/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3014"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3014"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3014"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

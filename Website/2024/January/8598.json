@@ -1,0 +1,122 @@
+{
+    "id": 4199,
+    "date": "2024-01-14T11:08:55",
+    "date_gmt": "2024-01-14T09:08:55",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8598/"
+    },
+    "modified": "2024-01-14T11:08:55",
+    "modified_gmt": "2024-01-14T09:08:55",
+    "slug": "8598",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8598/",
+    "title": {
+        "rendered": "&#8220;IDF Thwarts Terror: Arrests 14 Wanted Individuals and Seizes Weapons and Funds Across Judea, Samaria and Jordan Valley&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>IDF Soldiers, along with Shin Bet and Border Police units, conducted operations overnight leading to the arrest of 14 wanted individuals throughout Judea and Samaria, and in the Jordan Valley and Valleys Brigade. During a brigade operation aimed at thwarting terror last night in the Jordan Valley, two wanted individuals were arrested and observation equipment was found.</p>\n<p>In a brigade operation in the Jordan Valley and Valleys Brigade, the soldiers arrested two wanted individuals, investigated many suspects, and located and seized observation equipment and terror funds.</p>\n<p>In the village of Aroura and Al-Bireh in the Binyamin Regional Council, forces arrested the two sisters of the deputy head of the political bureau of the terror organization Hamas, Saleh al-Arouri, after they incited terror against the State of Israel.</p>\n<p>In the city of Nablus in the Samaria Regional Council, three wanted individuals were arrested and materials for the manufacture of explosives and a drone were seized. In addition, during an initiated activity in the city, a suspicious vehicle that tried to escape from the forces was arrested, and a loaded M4 weapon was found in it. The two suspects who were in the vehicle were arrested.<br />\nIn addition, in the village of Umm Safa and in Hebron city in the Judea Regional Council, and in the village of Mazra&#8217;a al-Qibliya in the Ephraim Regional Council, the forces located and seized weapons, terror funds, and additional means of warfare.</p>\n<p>The arrested wanted individuals were transferred for further investigation by security forces, no casualties to our forces.</p>\n<p>Since the beginning of the war, over 2650 wanted individuals have been arrested throughout the Judea and Samaria Division and the Jordan Valley and Valleys Brigade, about 1300 of them are affiliated with the terror organization Hamas.</p>\n<p>Attached are pictures of the confiscated means of warfare: https://IDFANC.activetrail.biz/ANC14012024OINGEOIRN</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: IDF Soldiers, along with Shin Bet and Border Police units, conducted operations overnight leading to the arrest of 14 wanted individuals throughout Judea and Samaria, and in the Jordan Valley and Valleys Brigade. During a brigade operation aimed at thwarting terror last night in the Jordan Valley, two wanted individuals were arrested and observation equipment was found. In a brigade operation in the Jordan Valley and Valleys Brigade, the soldiers arrested two wanted individuals, investigated many suspects, and located and seized observation equipment and terror funds. In the village of Aroura and Al-Bireh in the Binyamin Regional Council,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4199",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4199
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4199",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4199"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4199/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4199"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4199"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4199"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 3051,
+    "date": "2024-05-17T16:32:02",
+    "date_gmt": "2024-05-17T13:32:02",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9774/"
+    },
+    "modified": "2024-05-17T16:32:02",
+    "modified_gmt": "2024-05-17T13:32:02",
+    "slug": "9774",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9774/",
+    "title": {
+        "rendered": "&#8220;Unexploded Missile Lands in Yated Community: IDF Launches Investigation Amid Ongoing Attacks&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>This morning (Friday), during an attack by a fighter jet over Rafah, a missile fell into the community of Yated. The missile did not detonate. This is an unusual event, the circumstances of which will be thoroughly investigated. The attack on the target was completed several minutes later.</p>\n<p>Technical teams from the Air Force arrived at the scene and began an intensive investigation into the incident. The investigation will be presented to the commander of the Air Force.</p>\n<p>The fallen missile was now collected by IDF forces and will be disposed of later. The public is asked to stay away from the area until the security forces&#8217; activity is completed.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: This morning (Friday), during an attack by a fighter jet over Rafah, a missile fell into the community of <a  href=\"https://iron-swords.co.il/t/yated/\">Yated</a>. The missile did not detonate. This is an unusual event, the circumstances of which will be thoroughly investigated. The attack on the target was completed several minutes later. Technical teams from the Air Force arrived at the scene and began an intensive investigation into the incident. The investigation will be presented to the commander of the Air Force. The fallen missile was now collected by IDF forces and will be disposed of later. The public is asked to</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3051",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3051
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3051",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3051"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3051/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3051"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3051"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3051"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

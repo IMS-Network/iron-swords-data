@@ -1,0 +1,122 @@
+{
+    "id": 3505,
+    "date": "2024-04-01T12:17:34",
+    "date_gmt": "2024-04-01T09:17:34",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9307/"
+    },
+    "modified": "2024-04-01T12:17:34",
+    "modified_gmt": "2024-04-01T09:17:34",
+    "slug": "9307",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9307/",
+    "title": {
+        "rendered": "&#8220;IDF and Shin Bet Conduct Overnight Operations: 9 Arrests and Weapon Seizure in Judea and Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF soldiers, Shin Bet and Border Police operated in the house of the terrorist from the attack in Gan Yavne overnight; nine wanted individuals were arrested last night across Judea and Samaria.</p>\n<p>IDF soldiers, Shin Bet, and Border Police worked last night to arrest nine wanted individuals across Judea and Samaria.</p>\n<p>During the night, the forces operated in the house of the terrorist who carried out the attack yesterday in Gan Yavne, in the village of Dura in the Judea Brigade. The forces investigated suspects and conducted searches in the area.</p>\n<p>In the village of Sabah al-Khair in the Menashe Brigade, the soldiers arrested a wanted individual and as part of searches in the area, the soldiers found and confiscated weapons.</p>\n<p>The wanted individuals who were arrested and the weapons that were confiscated were transferred for further handling by the security forces, our forces were not harmed.</p>\n<p>So far, since the beginning of the war, about 3,600 wanted persons have been arrested across the Judea and Samaria Division and in the Valley and Plains Brigade, about 1,600 of them are affiliated with the Hamas terror organization.</p>\n<p>Attached is documentation of the force&#8217;s activity in the house of the terrorist who carried out the attack in Gan Yavne: https://bit.ly/3PG0efm</p>\n<p>Attached are photos from the force&#8217;s activity in the house of the terrorist: https://idfanc.activetrail.biz/ANC0104202457647</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>IDF soldiers, Shin Bet and Border Police operated in the house of the terrorist from the attack in Gan Yavne overnight; nine wanted individuals were arrested last night across Judea and Samaria. IDF soldiers, Shin Bet, and Border Police worked last night to arrest nine wanted individuals across Judea and Samaria. During the night, the forces operated in the house of the terrorist who carried out the attack yesterday in Gan Yavne, in the village of Dura in the Judea Brigade. The forces investigated suspects and conducted searches in the area. In the village of Sabah al-Khair in the Menashe</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3505",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3505
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3505",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3505"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3505/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3505"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3505"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3505"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

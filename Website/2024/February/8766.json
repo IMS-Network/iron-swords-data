@@ -1,0 +1,122 @@
+{
+    "id": 4036,
+    "date": "2024-02-01T20:01:35",
+    "date_gmt": "2024-02-01T18:01:35",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8766/"
+    },
+    "modified": "2024-02-01T20:01:35",
+    "modified_gmt": "2024-02-01T18:01:35",
+    "slug": "8766",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8766/",
+    "title": {
+        "rendered": "&#8220;Inside Look: IDF Chief of Staff&#8217;s Strategic Assessment Tour on the Northern Border&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The Chief of Staff Toured the Northern Border</p>\n<p>The Chief of Staff held a situation assessment on the border with Lebanon today (Thursday), together with the head of the Northern Command, Major General Uri Gordin, and the commander of the 91st Division, Brigadier General Shai Klapper, speaking with battalion commanders on the regular and reserve fronts of the line since the beginning of the war. </p>\n<p>The Chief of Staff expressed his high regard for their actions and operational achievements, and told them: &#8220;We will only bring the residents back here when it is safe. This requires our professionalism, readiness, and patience.&#8221;</p>\n<p>Attached is a video on the subject: https://bit.ly/3ugRzIM</p>\n<p>Attached are pictures on the subject: https://IDFANC.activetrail.biz/ANC653468</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The Chief of Staff Toured the Northern Border The Chief of Staff held a situation assessment on the border with Lebanon today (Thursday), together with the head of the Northern Command, Major General Uri Gordin, and the commander of the <a  href=\"https://iron-swords.co.il/t/91st-division/\">91st Division</a>, Brigadier General Shai Klapper, speaking with battalion commanders on the regular and reserve fronts of the line since the beginning of the war. The Chief of Staff expressed his high regard for their actions and operational achievements, and told them: &#8220;We will only bring the residents back here when it is safe. This requires our professionalism,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4036",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4036
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4036",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4036"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4036/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4036"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4036"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4036"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

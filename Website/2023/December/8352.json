@@ -1,0 +1,122 @@
+{
+    "id": 4441,
+    "date": "2023-12-20T22:19:13",
+    "date_gmt": "2023-12-20T20:19:13",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8352/"
+    },
+    "modified": "2023-12-20T22:19:13",
+    "modified_gmt": "2023-12-20T20:19:13",
+    "slug": "8352",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8352/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Back: Decisive Action Against Hezbollah and Syrian Army &#8211; A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>A short while ago, air force fighter jets attacked a Hezbollah terror organization&#8217;s operational headquarters in Lebanon.</p>\n<p>Following the alerts activated in the Golan Heights area, four launches from Syrian territory were identified that crossed into Israeli territory. IDF forces attacked the sources of the fire as well as a military post of the Syrian army.</p>\n<p>In addition, IDF forces identified several terrorists who approached the fence system from Lebanese territory along the border in the Metula area. The force fired at them, hits were identified.</p>\n<p>Attached is documentation from the attacks: https://bit.ly/3RR62UO</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: A short while ago, air force fighter jets attacked a <a  href=\"/hezbollah\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a>&#8217;s operational headquarters in Lebanon. Following the alerts activated in the Golan Heights area, four launches from Syrian territory were identified that crossed into Israeli territory. IDF forces attacked the sources of the fire as well as a military post of the Syrian army. In addition, IDF forces identified several terrorists who approached the fence system from Lebanese territory along the border in the Metula area. The force fired at them, hits were identified. Attached is documentation from the attacks: https://bit.ly/3RR62UO</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4441",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4441
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4441",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4441"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4441/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4441"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4441"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4441"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

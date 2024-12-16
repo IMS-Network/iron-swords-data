@@ -1,0 +1,124 @@
+{
+    "id": 9335,
+    "date": "2024-06-03T08:46:24",
+    "date_gmt": "2024-06-03T05:46:24",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/9971-en/"
+    },
+    "modified": "2024-06-03T08:46:24",
+    "modified_gmt": "2024-06-03T05:46:24",
+    "slug": "9971-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9971-en/",
+    "title": {
+        "rendered": "&#8220;Honoring Dolev Yehud: IDF Confirms Recovery of Fallen Medic from Kibbutz Nir Oz&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF has located the body of Dolev Yehud, of blessed memory.</p>\n<p>The body of Dolev Yehud, of blessed memory, was located in Kibbutz Nir Oz after an intensive investigation by the Itan Unit in collaboration with anthropologists and following scientific identification.</p>\n<p>Dolev Yehud, of blessed memory, a member of Kibbutz Nir Oz, served as a medic in United Hatzalah and Magen David Adom. During the terrorist attack, he left his home to assist and save lives.<br />\nDolev was murdered by the Hamas terrorist organization on October 7, the 22nd of Tishrei 5784, and his body was found in Kibbutz Nir Oz.</p>\n<p>After identification was carried out by medical personnel at the National Institute of Forensic Medicine and the Tzvi Institute, IDF representatives conveyed the message to the family.<br />\nThe IDF shares in the family&#8217;s sorrow during this difficult time.</p>\n<p>Attached is a photo of Dolev Yehud, of blessed memory: https://IDFANC.activetrail.biz/ANC0306202423764182734531245124</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF has located the body of Dolev Yehud, of blessed memory. The body of Dolev Yehud, of blessed memory, was located in Kibbutz <a  href=\"https://iron-swords.co.il/t/nir-oz/\">Nir Oz</a> after an intensive investigation by the Itan Unit in collaboration with anthropologists and following scientific identification. Dolev Yehud, of blessed memory, a member of Kibbutz Nir Oz, served as a medic in United Hatzalah and Magen David Adom. During the terrorist attack, he left his home to assist and save lives. Dolev was murdered by the <a  href=\"/hamas\">Hamas</a> terrorist organization on October 7, the 22nd of Tishrei 5784, and his body was found</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9335",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9335,
+        "he": 9336,
+        "ru": 9337
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9335",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9335"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9335/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9335"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9335"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9335"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

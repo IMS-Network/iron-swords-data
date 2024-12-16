@@ -1,0 +1,122 @@
+{
+    "id": 4534,
+    "date": "2023-12-14T18:18:48",
+    "date_gmt": "2023-12-14T16:18:48",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8259/"
+    },
+    "modified": "2023-12-14T18:18:48",
+    "modified_gmt": "2023-12-14T16:18:48",
+    "slug": "8259",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8259/",
+    "title": {
+        "rendered": "&#8220;Over 500 Aerial Attacks: Unveiling the IDF&#8217;s Ground-Air Cooperation in Combatting Hamas Terror Cells&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Neutralization of threats and real-time aerial assistance to ground forces; The Air Force&#8217;s cooperation unit carried out over 500 attacks this week using fighter jets, combat helicopters, and remotely piloted aircraft. </p>\n<p>Ground forces and the Air Force continue their close cooperation as part of the ground warfare in the Gaza Strip, with ongoing intelligence guidance. In the past week, fighter jets, combat helicopters, and remotely piloted aircraft have carried out over 500 aerial attacks at the direction of the soldiers operating throughout the Strip. </p>\n<p>The cooperation unit in the Air Force leads the connection between the ground and air forces and together they exterminate terrorist cells and destroy observation areas, weapons storage facilities, tunnel entrances, and many terror infrastructures to undermine capabilities and harm the terrorist organization Hamas.</p>\n<p>Attached is documentation of the Air Force attacks in assistance to ground forces: https://bit.ly/46Y7xVp</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Neutralization of threats and real-time aerial assistance to ground forces; The Air Force&#8217;s cooperation unit carried out over 500 attacks this week using fighter jets, combat helicopters, and remotely piloted aircraft. Ground forces and the Air Force continue their close cooperation as part of the ground warfare in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip, with ongoing intelligence guidance. In the past week, fighter jets, combat helicopters, and remotely piloted aircraft have carried out over 500 aerial attacks at the direction of the soldiers operating throughout the Strip. The cooperation unit in the Air Force leads the connection between the ground and</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4534",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4534
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4534",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4534"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4534/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4534"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4534"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4534"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

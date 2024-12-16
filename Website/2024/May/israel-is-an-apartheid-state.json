@@ -1,0 +1,138 @@
+{
+    "id": 2555,
+    "date": "2024-05-23T23:06:10",
+    "date_gmt": "2024-05-23T20:06:10",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=2555"
+    },
+    "modified": "2024-05-23T23:06:15",
+    "modified_gmt": "2024-05-23T20:06:15",
+    "slug": "israel-is-an-apartheid-state",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/israel-is-an-apartheid-state/",
+    "title": {
+        "rendered": "Israel is an apartheid state"
+    },
+    "content": {
+        "rendered": "\n<p>The incorrect and malicious accusation that Israel is an apartheid state is intended to demonize and delegitimize Israel. Unfortunately, once trusted organizations such as Amnesty International are willing to twist both the definition of apartheid as well as reality in order to join forces with those who seek Israel\u2019s destruction. An honest look at the facts utterly destroys the Apartheid charges: Arab citizens of Israel enjoy the same rights and privileges as Jewish Israelis; there is not a single legal, political or civil right held by a Jewish citizen of Israel that is not also held by an Arab citizen of Israel. Arabs residing in the \u201cWest Bank\u201d and the Gaza Strip are not now, and never have been Israeli citizens, therefore they cannot claim rights due to Israeli citizens.</p>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<iframe loading=\"lazy\" title=\"Israel isn&#039;t an apartheid state, so stop with this lie!\" width=\"500\" height=\"375\" src=\"https://www.youtube.com/embed/FtP3Zm6iS9M?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n</div></figure>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>The incorrect and malicious accusation that <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> is an apartheid state is intended to demonize and delegitimize Israel. </p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 2563,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 53,
+        "footnotes": ""
+    },
+    "categories": [
+        53
+    ],
+    "tags": [
+        54
+    ],
+    "class_list": [
+        "post-2555",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-facts",
+        "tag-education"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2555
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2555",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2555"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2555/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 2564,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2555/revisions/2564"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/2563"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2555"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2555"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2555"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

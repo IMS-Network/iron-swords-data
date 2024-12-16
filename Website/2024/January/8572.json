@@ -1,0 +1,122 @@
+{
+    "id": 4225,
+    "date": "2024-01-10T21:02:07",
+    "date_gmt": "2024-01-10T19:02:07",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8572/"
+    },
+    "modified": "2024-01-10T21:02:07",
+    "modified_gmt": "2024-01-10T19:02:07",
+    "slug": "8572",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8572/",
+    "title": {
+        "rendered": "&#8220;Unveiling the Truth: Two Alleged Journalists Revealed as Active Terrorist Members in Gaza Strip &#8211; An IDF Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Over the past few days, various Palestinian media outlets reported that two journalists named Hamza Aldahdouh and Mitzfa Thrie were killed during an attack occurring earlier this week in the vicinity of Rafah. </p>\n<p>Intelligence possessed by the IDF confirms the identities of the two deceased as active members of terrorist organizations in the Gaza Strip, who were involved in promoting terrorist activities against IDF forces.</p>\n<p>Prior to the attack, they operated drones in a manner that posed a real threat to our forces, highlighting a target for an Air Force aircraft to strike the terrorists responsible for its operation. </p>\n<p>Mitzfa Thrie served as an active member of the Hamas terrorist organization in the Gaza City brigade. A document located by IDF forces in the strip during combat shows the organizational structure of all the members in the Al-Qadsia brigade of the organization, in which Mitzfa&#8217;s name is listed next to his role in the organization &#8211; deputy commander of a battalion.</p>\n<p>Hamza Wael Hamdan Al Dahdouh served as an active member of the PLO terrorist organization and carried out terrorist acts against the State of Israel. In the documents located by the IDF forces during combat in the Strip, Dahdouh is on the list of active members in the PLO&#8217;s Electronic Engineering division. The documents also show that Dahdouh previously served as deputy commander of a department in the Zaitun brigade of the organization and today he&#8217;s responsible for a department in the PLO&#8217;s rocket unit.</p>\n<p>Attached is a picture of a document from the PLO terrorist organization listing the names of the organization&#8217;s Electronic Warfare activists, including the name of Al Dahdouh and his military number: https://IDFANC.activetrail.biz/ANC10012024541</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Over the past few days, various Palestinian media outlets reported that two journalists named Hamza Aldahdouh and Mitzfa Thrie were killed during an attack occurring earlier this week in the vicinity of Rafah. Intelligence possessed by the IDF confirms the identities of the two deceased as active members of terrorist organizations in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip, who were involved in promoting terrorist activities against IDF forces. Prior to the attack, they operated drones in a manner that posed a real threat to our forces, highlighting a target for an Air Force aircraft to strike the terrorists responsible for its</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4225",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4225
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4225",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4225"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4225/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4225"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4225"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4225"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

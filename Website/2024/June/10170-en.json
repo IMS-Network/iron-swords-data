@@ -1,0 +1,124 @@
+{
+    "id": 8741,
+    "date": "2024-06-19T09:46:47",
+    "date_gmt": "2024-06-19T06:46:47",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10170-en/"
+    },
+    "modified": "2024-06-19T09:46:47",
+    "modified_gmt": "2024-06-19T06:46:47",
+    "slug": "10170-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10170-en/",
+    "title": {
+        "rendered": "&#8220;Step Up: Discover the New Standard Issue Shoes for IDF Recruits!&#8221;"
+    },
+    "content": {
+        "rendered": "<p>One more step for the &#8220;Revolution in Clothing&#8221; program:<br />\nAre you about to enlist? Meet the new shoes you will receive from now on.<br />\nhttps://www.idf.il/209605</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>One more step for the &#8220;Revolution in Clothing&#8221; program: Are you about to enlist? Meet the new shoes you will receive from now on. https://www.idf.il/209605</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8741",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8741,
+        "he": 8742,
+        "ru": 8743
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8741",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8741"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8741/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8741"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8741"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8741"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

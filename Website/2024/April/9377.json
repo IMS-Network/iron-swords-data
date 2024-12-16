@@ -1,0 +1,122 @@
+{
+    "id": 3436,
+    "date": "2024-04-08T13:17:16",
+    "date_gmt": "2024-04-08T10:17:16",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9377/"
+    },
+    "modified": "2024-04-08T13:17:16",
+    "modified_gmt": "2024-04-08T10:17:16",
+    "slug": "9377",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9377/",
+    "title": {
+        "rendered": "&#8220;New &#8216;Star Missile&#8217; Squadron Launches at Palmachim: A Game-Changer for IDF&#8217;s &#8216;Charging Ram'&#8221;"
+    },
+    "content": {
+        "rendered": "<p>&#8220;It will be a tremendous addition to the force&#8221;: A new squadron operating the &#8220;Star Missile&#8221; has opened in Palmachim &#8211; &#8220;The Charging Ram&#8221;</p>\n<p>For the full article:<br />\nhttps://www.idf.il/191149</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>&#8220;It will be a tremendous addition to the force&#8221;: A new squadron operating the &#8220;Star Missile&#8221; has opened in Palmachim &#8211; &#8220;The Charging Ram&#8221; For the full article: https://www.idf.il/191149</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3436",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3436
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3436",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3436"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3436/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3436"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3436"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3436"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 3480,
+    "date": "2024-04-04T08:59:38",
+    "date_gmt": "2024-04-04T05:59:38",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9333/"
+    },
+    "modified": "2024-04-04T08:59:38",
+    "modified_gmt": "2024-04-04T05:59:38",
+    "slug": "9333",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9333/",
+    "title": {
+        "rendered": "&#8220;Decisive IDF Strikes: Uncovering and Neutralizing Terror Cells in the Central Strip&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Documentation: After being identified close to the forces, the IDF attacked and destroyed an armed terrorist cell operating in the central strip; fighters&#8217; activity continues in the strip.</p>\n<p>In the central strip, combat soldiers from Nahal Brigade identified an armed terrorist cell that was operating inside a terror infrastructure located near the fighters. The forces from the brigade pursued the terrorists. After a certain identification of the terrorists in the field, a fighter jet and an additional IDF aircraft attacked the cell and killed it. Minutes later, the same fighter jet attacked the terror infrastructure where the terrorists were operating.</p>\n<p>In the Al-Amal area, combat soldiers from the Commando Brigade eliminated several terrorists and found warfare means during the last day.</p>\n<p>Combat team forces of Brigade 7 continued operating in the Ambsan area. Over the past day, the forces destroyed terror infrastructures and eliminated terrorists through tank fire.</p>\n<p>Additionally, air force aircraft attacked terror targets of terror organizations in the stripe during the last day, including launching positions and terror infrastructures.</p>\n<p>Also, last night (Wednesday), several launches were identified from the Gaza Strip into the envelope area. The Southern Command, along with air force forces, attacked the shooting sources along with several launchers and additional terror infrastructures in the Gaza Strip.</p>\n<p>Attached is a recording of the elimination of the terrorists in the central strip: https://bit.ly/43GLOl7</p>\n<p>Attached is documentation of IDF attacks in the strip: https://bit.ly/43GMnvf</p>\n<p>Attached photos from the IDF forces&#8217; activity in the strip: https://IDFANC.activetrail.biz/ANC040420248249785</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Documentation: After being identified close to the forces, the IDF attacked and destroyed an armed terrorist cell operating in the central strip; fighters&#8217; activity continues in the strip. In the central strip, combat soldiers from <a  href=\"https://iron-swords.co.il/t/nahal-brigade/\">Nahal Brigade</a> identified an armed terrorist cell that was operating inside a terror infrastructure located near the fighters. The forces from the brigade pursued the terrorists. After a certain identification of the terrorists in the field, a fighter jet and an additional IDF aircraft attacked the cell and killed it. Minutes later, the same fighter jet attacked the terror infrastructure where the terrorists</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3480",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3480
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3480",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3480"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3480/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3480"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3480"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3480"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

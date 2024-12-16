@@ -1,0 +1,122 @@
+{
+    "id": 4092,
+    "date": "2024-01-26T11:30:06",
+    "date_gmt": "2024-01-26T09:30:06",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8708/"
+    },
+    "modified": "2024-01-26T11:30:06",
+    "modified_gmt": "2024-01-26T09:30:06",
+    "slug": "8708",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8708/",
+    "title": {
+        "rendered": "&#8220;Unit 636&#8217;s Battle Against RPG Terrorist Cells in the Gaza Strip: An Inside Look&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Locating a terrorist cell with RPG missiles and eliminating them from the air:<br />\nFighters of the Collection Unit 636 are fighting in the Gaza Strip<br />\nhttps://www.idf.il/176315</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Locating a terrorist cell with RPG missiles and eliminating them from the air: Fighters of the Collection Unit 636 are fighting in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip https://www.idf.il/176315</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4092",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4092
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4092",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4092"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4092/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4092"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4092"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4092"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

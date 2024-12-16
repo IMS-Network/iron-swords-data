@@ -1,0 +1,122 @@
+{
+    "id": 3511,
+    "date": "2024-03-31T18:53:16",
+    "date_gmt": "2024-03-31T15:53:16",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9301/"
+    },
+    "modified": "2024-03-31T18:53:16",
+    "modified_gmt": "2024-03-31T15:53:16",
+    "slug": "9301",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9301/",
+    "title": {
+        "rendered": "&#8220;IDF Neutralizes Key Hezbollah Activist: Inside the Elimination of Explosives Expert Ismail Ali Elzein&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF has eliminated a key activist in the explosives unit of Radwan Force in the terrorist organization, Hezbollah.</p>\n<p>An aircraft of the Air Force attacked a short while ago a vehicle in the vicinity of the village of Kounin in which the terrorist, Ismail Ali Elzein, a key activist in the explosives unit of Radwan Force in the terrorist organization, Hezbollah, was located.<br />\nIsmail Ali Elzein serves as a commander in Radwan, is a central knowledge hub in the field of explosives, and is responsible for dozens of explosive attacks aimed at IDF forces and the Israeli home front.</p>\n<p>Attached is documentation of the elimination: https://bit.ly/3vJ7397</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF has eliminated a key activist in the explosives unit of Radwan Force in the terrorist organization, <a  href=\"/hezbollah\">Hezbollah</a>. An aircraft of the Air Force attacked a short while ago a vehicle in the vicinity of the village of Kounin in which the terrorist, Ismail Ali Elzein, a key activist in the explosives unit of Radwan Force in the terrorist organization, <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a>, was located. Ismail Ali Elzein serves as a commander in Radwan, is a central knowledge hub in the field of explosives, and is responsible for dozens of explosive attacks aimed at IDF forces and the Israeli</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3511",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3511
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3511",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3511"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3511/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3511"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3511"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3511"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

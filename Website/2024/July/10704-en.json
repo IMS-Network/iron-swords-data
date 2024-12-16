@@ -1,0 +1,124 @@
+{
+    "id": 7159,
+    "date": "2024-07-31T18:43:39",
+    "date_gmt": "2024-07-31T15:43:39",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10704-en/"
+    },
+    "modified": "2024-07-31T18:43:39",
+    "modified_gmt": "2024-07-31T15:43:39",
+    "slug": "10704-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10704-en/",
+    "title": {
+        "rendered": "&#8220;IDF and Shin Bet Capture Suspect in Beit Anoun Attack: Key Details Revealed&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint statement from the IDF Spokesperson and the Shin Bet Spokesperson:</p>\n<p>IDF and Shin Bet forces have arrested the suspect in the attack this morning near the Beit Anoun junction in the Judea Brigade.</p>\n<p>Following a manhunt by IDF and Shin Bet forces, the forces located and arrested a suspect in the attack this morning near the Beit Anoun junction in the Judea Brigade.</p>\n<p>In an initial interrogation, the suspect implicated himself in the attack and was transferred for further investigation by the Shin Bet.</p>\n<p>Attached is documentation from the forces&#8217; scans in the area: https://bit.ly/3YnXnwH</p>\n<p>Attached are photos from the forces&#8217; scans in the area: https://IDFANC.activetrail.biz/ANC3107202343298532</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint statement from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a> and the Shin Bet Spokesperson: IDF and Shin Bet forces have arrested the suspect in the attack this morning near the Beit Anoun junction in the Judea Brigade. Following a manhunt by IDF and Shin Bet forces, the forces located and arrested a suspect in the attack this morning near the Beit Anoun junction in the Judea Brigade. In an initial interrogation, the suspect implicated himself in the attack and was transferred for further investigation by the Shin Bet. Attached is documentation from the forces&#8217; scans in the area: https://bit.ly/3YnXnwH Attached are photos from</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7159",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7159,
+        "he": 7160,
+        "ru": 7161
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7159",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7159"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7159/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7159"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7159"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7159"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

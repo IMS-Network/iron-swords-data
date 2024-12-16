@@ -1,0 +1,128 @@
+{
+    "id": 3794,
+    "date": "2024-03-01T09:03:33",
+    "date_gmt": "2024-03-01T07:03:33",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9009/"
+    },
+    "modified": "2024-09-04T21:51:13",
+    "modified_gmt": "2024-09-04T18:51:13",
+    "slug": "9009",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9009/",
+    "title": {
+        "rendered": "&#8220;IDF&#8217;s Strategic Battle in Khan Yunis: Defeating Hamas and Neutralizing Terror Threats in the Gaza Strip&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The combat team of the Bislach Brigade entered into battle in the heart of Khan Yunis; the IDF attacked terror targets from where yesterday&#8217;s launches were carried out towards Israeli territory.</p>\n<p>The combat team of the Bislach Brigade (828) entered last night (Thursday) into the heart of Khan Yunis and joined the battle alongside other brigade combat teams under the 98th Division, which continue to fight to defeat Hamas, the terrorist organization.<br />\nYesterday, the brigade&#8217;s forces identified two armed terrorists, one carrying a bag containing an explosive device. A combat helicopter attacked and eliminated the terrorists.</p>\n<p>The combat troops of the 7th Brigade raided a series of terror infrastructures in the west of Khan Yunis during the last day. During these operations, they located a stash of war supplies containing numerous Kalashnikov type weapons and ammunition. During the operation, the Brigade&#8217;s intensive fire guided an aircraft that eliminated four terrorists moving towards the brigade&#8217;s fighters.</p>\n<p>Also in the Khan Yunis area, a combat aircraft attacked a silo guided by the Fire Center of the 98th division, where rockets were concealed.</p>\n<p>Following yesterday&#8217;s launches from the Gaza Strip into Israeli territory, an aircraft targeted the area from where the launches were carried out in the north of the strip and several other targets in the area &#8211; among them a tunnel shaft and military buildings used by <a href=\"https://iron-swords.co.il/hamas/\"  data-wpil-monitor-id=\"50\">Hamas</a>, the terrorist organization.</p>\n<p>In the central strip, the Paratroopers Brigade&#8217;s combat team eliminated several terrorists throughout the last day. During one of the operations, the force identified a group of terrorists approaching them and eliminated them using mortar fire and a Hellfire missile.</p>\n<p>Here is the documentation from the IDF&#8217;s attacks in the strip: https://bit.ly/3wz0Tsm</p>\n<p>Attached are photos from the military operations in the strip: https://IDFANC.activetrail.biz/ANC0103202451201</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The combat team of the Bislach Brigade entered into battle in the heart of Khan Yunis; the IDF attacked terror targets from where yesterday&#8217;s launches were carried out towards Israeli territory. The combat team of the Bislach Brigade (828) entered last night (Thursday) into the heart of Khan Yunis and joined the battle alongside other brigade combat teams under the 98th Division, which continue to fight to defeat <a  href=\"/hamas\">Hamas</a>, the terrorist organization. Yesterday, the brigade&#8217;s forces identified two armed terrorists, one carrying a bag containing an explosive device. A combat helicopter attacked and eliminated the terrorists. The combat</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3794",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3794
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3794",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3794"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3794/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 17472,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3794/revisions/17472"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3794"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3794"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3794"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

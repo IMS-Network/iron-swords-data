@@ -1,0 +1,122 @@
+{
+    "id": 3845,
+    "date": "2024-02-24T20:35:10",
+    "date_gmt": "2024-02-24T18:35:10",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8958/"
+    },
+    "modified": "2024-02-24T20:35:10",
+    "modified_gmt": "2024-02-24T18:35:10",
+    "slug": "8958",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8958/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Terror Cells: Inside the Air Attacks on Weapon Depots and Command Centers&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>For the second time in a few hours &#8211; a terrorist cell was identified from the air and attacked inside a weapons depot; the IDF attacked an operational command of the Radwan force, rocket launching positions, and terror infrastructure of the Hezbollah terrorist organization.</p>\n<p>Earlier today (Saturday), IDF forces identified through an aircraft a terrorist cell entering a weapons depot of the Hezbollah terrorist organization in the vicinity of the village of Al Matmura. Within a short time, fighter jets attacked the depot where the cell was identified. After the attack, significant secondary explosions occurred indicating weapons were indeed present in the building.</p>\n<p>In addition, a short while ago, fighter jets attacked operational command used by the Radwan force of the Hezbollah terrorist organization in the area of the village of Barashit and rocket launching positions and terror infrastructure in the Gebel Blet area of southern Lebanon. Furthermore, artillery fire was carried out to eliminate the threat to the area of \u200b\u200bRashia Al-Fukhar.</p>\n<p>Attached is documentation of the attacks: https://bit.ly/3TesiJa</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: For the second time in a few hours &#8211; a terrorist cell was identified from the air and attacked inside a weapons depot; the IDF attacked an operational command of the Radwan force, rocket launching positions, and terror infrastructure of the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization. Earlier today (Saturday), IDF forces identified through an aircraft a terrorist cell entering a weapons depot of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization in the vicinity of the village of Al Matmura. Within a short time, fighter jets attacked the depot where the cell was identified. After the attack, significant secondary explosions occurred indicating weapons were</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3845",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3845
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3845",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3845"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3845/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3845"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3845"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3845"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

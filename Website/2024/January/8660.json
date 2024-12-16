@@ -1,0 +1,122 @@
+{
+    "id": 4139,
+    "date": "2024-01-20T08:58:23",
+    "date_gmt": "2024-01-20T06:58:23",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8660/"
+    },
+    "modified": "2024-01-20T08:58:23",
+    "modified_gmt": "2024-01-20T06:58:23",
+    "slug": "8660",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8660/",
+    "title": {
+        "rendered": "&#8220;Decisive IDF Operations: Eliminating Threats and Destroying Terror Infrastructure in the Gaza Strip&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF activity in the Gaza Strip: The forces destroyed launchers used for firing into Israel&#8217;s territory and eliminated terrorists using explosive devices near our troops.</p>\n<p>The ground forces continue to operate in the Gaza Strip, aided by naval forces and in cooperation with the air force, which attacks and destroys terror infrastructure and weaponry in various regions.</p>\n<p>During operations in the north of the Strip, troops belonging to the Yiftah Brigade&#8217;s combat squad identified terrorists near them attempting to plant explosive devices. The soldiers responded with gunfire, and the brigade&#8217;s fire control directed an air force aircraft to attack and eliminate the terrorists.</p>\n<p>As part of further operations of the same brigade in the north of the Strip, the brigade&#8217;s observation company detected a group of terrorists moving towards a missile launcher housed inside a military compound near our troops, simultaneously with the identification of a number of enemy lookouts in the area. The fire control unit directed combat helicopters to eliminate the missile group and destroy the buildings where enemy observers were operating.</p>\n<p>During the activity of combat team 5 in the north of the Strip, the forces located several launchers used for firing into Israel&#8217;s territory. An engineering unit of the division destroyed the launchers.</p>\n<p>In the city of Khan Yunis in the south of the Gaza Strip, the 7th Brigade&#8217;s combat team raided a military compound, where they located and destroyed six missile launchers with ready-to-launch rockets. In addition, the soldiers found an underground tunnel and explosive charges in the area. During the operation, the forces identified two armed men who threatened the troops and directed an air force aircraft to eliminate the terrorists.</p>\n<p>Attached is footage of the IDF attacks in the Strip: https://bit.ly/48Erpyt</p>\n<p>Attached is footage of IDF troop operations in the Strip: https://bit.ly/3Hpz9IH</p>\n<p>Attached are photos from the IDF troop operations in the Strip: https://IDFANC.activetrail.biz/ANC2001202498190430</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF activity in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip: The forces destroyed launchers used for firing into <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>&#8217;s territory and eliminated terrorists using explosive devices near our troops. The ground forces continue to operate in the Gaza Strip, aided by naval forces and in cooperation with the air force, which attacks and destroys terror infrastructure and weaponry in various regions. During operations in the north of the Strip, troops belonging to the Yiftah Brigade&#8217;s combat squad identified terrorists near them attempting to plant explosive devices. The soldiers responded with gunfire, and the brigade&#8217;s fire control directed an air force aircraft to</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4139",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4139
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4139",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4139"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4139/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4139"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4139"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4139"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

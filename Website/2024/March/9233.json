@@ -1,0 +1,122 @@
+{
+    "id": 3579,
+    "date": "2024-03-24T18:47:30",
+    "date_gmt": "2024-03-24T16:47:30",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9233/"
+    },
+    "modified": "2024-03-24T18:47:30",
+    "modified_gmt": "2024-03-24T16:47:30",
+    "slug": "9233",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9233/",
+    "title": {
+        "rendered": "&#8220;IDF and Shin Bet Target Terrorist Activities in Al-Amal: A Call for Hamas to Cease Using Civilian Infrastructure&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Following precise intelligence information possessed by the IDF and the Shin Bet, which indicates that terrorists in the Al-Amal area are using civilian infrastructure for terror purposes, the IDF and Shin Bet have begun operating in the area. </p>\n<p>The IDF will continue to fight terrorism and calls on Hamas terrorists to stop using hospitals and other civilian facilities as shields for their terrorist activities, thereby harming innocent civilians.</p>\n<p>The IDF will continue to act in accordance with international law, while giving the utmost consideration to the security and welfare of the civilians.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Following precise intelligence information possessed by the IDF and the Shin Bet, which indicates that terrorists in the Al-Amal area are using civilian infrastructure for terror purposes, the IDF and Shin Bet have begun operating in the area. The IDF will continue to fight terrorism and calls on <a  href=\"/hamas\">Hamas</a> terrorists to stop using hospitals and other civilian facilities as shields for their terrorist activities, thereby harming innocent civilians. The IDF will continue to act in accordance with international law, while giving the utmost consideration to the security and welfare of the civilians.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3579",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3579
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3579",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3579"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3579/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3579"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3579"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3579"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

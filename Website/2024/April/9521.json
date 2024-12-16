@@ -1,0 +1,122 @@
+{
+    "id": 3299,
+    "date": "2024-04-21T14:25:42",
+    "date_gmt": "2024-04-21T11:25:42",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9521/"
+    },
+    "modified": "2024-04-21T14:25:42",
+    "modified_gmt": "2024-04-21T11:25:42",
+    "slug": "9521",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9521/",
+    "title": {
+        "rendered": "&#8220;Revolutionizing Soldier Care: IDF&#8217;s New Clinics Enhance Service Quality with Pigeon Availability &#038; Combat Reaction Monitoring&#8221;"
+    },
+    "content": {
+        "rendered": "<p>High availability of pigeons, improving service quality, and monitoring combat reaction victims:<br />\nThe new IDF clinics that will care for the soldier&#8217;s soul<br />\nhttps://www.idf.il/193265</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>High availability of pigeons, improving service quality, and monitoring combat reaction victims: The new IDF clinics that will care for the soldier&#8217;s soul https://www.idf.il/193265</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3299",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3299
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3299",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3299"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3299/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3299"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3299"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3299"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

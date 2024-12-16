@@ -1,0 +1,124 @@
+{
+    "id": 8702,
+    "date": "2024-06-19T20:41:43",
+    "date_gmt": "2024-06-19T17:41:43",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10183-en/"
+    },
+    "modified": "2024-06-19T20:41:43",
+    "modified_gmt": "2024-06-19T17:41:43",
+    "slug": "10183-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10183-en/",
+    "title": {
+        "rendered": "&#8220;IDF&#8217;s Mission: Unwavering Commitment to Defeat Hamas in Gaza&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF is committed to achieving the war objectives as defined by the cabinet, and is operating in this manner throughout the war, day and night, and will continue to do so. IDF commanders and personnel are fighting determinedly and persistently to destroy the military capabilities and the governmental and organizational infrastructure of Hamas in Gaza, a clear military objective.</p>\n<p>The IDF spokesperson referred in his remarks to the destruction of Hamas as an ideology and as an idea, and his statements were made clearly and explicitly. Any other claims are a misrepresentation of the context.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF is committed to achieving the war objectives as defined by the cabinet, and is operating in this manner throughout the war, day and night, and will continue to do so. IDF commanders and personnel are fighting determinedly and persistently to destroy the military capabilities and the governmental and organizational infrastructure of <a  href=\"/hamas\">Hamas</a> in <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>, a clear military objective. The IDF spokesperson referred in his remarks to the destruction of <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> as an ideology and as an idea, and his statements were made clearly and explicitly. Any other claims are a misrepresentation of the context.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8702",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8702,
+        "he": 8703,
+        "ru": 8704
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8702",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8702"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8702/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8702"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8702"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8702"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

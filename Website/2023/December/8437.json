@@ -1,0 +1,122 @@
+{
+    "id": 4357,
+    "date": "2023-12-28T12:43:14",
+    "date_gmt": "2023-12-28T10:43:14",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8437/"
+    },
+    "modified": "2023-12-28T12:43:14",
+    "modified_gmt": "2023-12-28T10:43:14",
+    "slug": "8437",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8437/",
+    "title": {
+        "rendered": "&#8220;Inside IDF&#8217;s Intense Combat with Hamas: A Deep Dive into Khan Yunis Operations and Heroic Sacrifices&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Confrontations with terrorists in the heart of a mosque: The fighter squad of Brigade 7 continues the attack in the heart of Khan Yunis.</p>\n<p>The fighting team of Brigade 7 has been operating in the Khan Yunis area for the past two weeks. The fighters have located stockpiles of weapons, neutralized many terrorists in confrontations and ambushes, and directed aircraft that carried out aerial strikes.</p>\n<p>During an operation of the combat team of Battalion 12 in the &#8220;Qutaybah&#8221; mosque in the Khan Yunis area, which is affiliated with the Hamas terror organization, the fighters identified an extensive underground infrastructure in the mosque. In one of the rooms, a device was detonated and fire was opened on the forces. The fighters retaliated while they were evacuating the wounded battalion fighters, and with aerial support eliminated additional terrorists trying to escape from the mosque. In this operation, Sergeant Maor Cohen Eizenkot and Staff Sergeant Yonatan Din Chaim fell in battle.</p>\n<p>In addition, during raids on terror infrastructures, the fighters located and confiscated weapons and teaching manuals.</p>\n<p>Attached is documentation from the activities of Battalion 12 in Khan Yunis: https://bit.ly/3tAhM4O</p>\n<p>Attached are photos from the operation in Khan Yunis: https://IDFANC.activetrail.biz/ANC36879608</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Confrontations with terrorists in the heart of a mosque: The fighter squad of Brigade 7 continues the attack in the heart of Khan Yunis. The fighting team of Brigade 7 has been operating in the Khan Yunis area for the past two weeks. The fighters have located stockpiles of weapons, neutralized many terrorists in confrontations and ambushes, and directed aircraft that carried out aerial strikes. During an operation of the combat team of Battalion 12 in the &#8220;Qutaybah&#8221; mosque in the Khan Yunis area, which is affiliated with the <a  href=\"/hamas\">Hamas</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a>, the fighters identified an extensive underground</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4357",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4357
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4357",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4357"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4357/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4357"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4357"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4357"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

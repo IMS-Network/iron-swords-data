@@ -1,0 +1,122 @@
+{
+    "id": 4037,
+    "date": "2024-02-01T19:01:28",
+    "date_gmt": "2024-02-01T17:01:28",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8765/"
+    },
+    "modified": "2024-02-01T19:01:28",
+    "modified_gmt": "2024-02-01T17:01:28",
+    "slug": "8765",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8765/",
+    "title": {
+        "rendered": "&#8220;IDF&#8217;s Major General Yaron Finkelman Asserts Continued Operations in Gaza City: An Inside Look&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Commander of Southern Command in the north of the Gaza Strip: &#8220;Our ability to operate in the heart of Gaza City again, while hitting dozens of terrorists, is an important one &#8211; and we will continue to do this&#8221;</p>\n<p>The Commander of the Southern Command, Major General Yaron Finkelman, held a situation assessment and spoke with commanders and soldiers in the north of the Gaza Strip yesterday (Wednesday), along with the commander of Brigade 162, Brigadier General Itzik Cohen and the brigade commanders.</p>\n<p>Attached is footage of the comments from the Commander of the Southern Command: https://bit.ly/3Or4COL</p>\n<p>Attached is footage on the subject: https://bit.ly/3SGgoY4</p>\n<p>Attached are photos on the subject: https://idfanc.activetrail.biz/ANC656422</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Commander of Southern Command in the north of the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip: &#8220;Our ability to operate in the heart of Gaza City again, while hitting dozens of terrorists, is an important one &#8211; and we will continue to do this&#8221; The Commander of the Southern Command, Major General Yaron Finkelman, held a situation assessment and spoke with commanders and soldiers in the north of the Gaza Strip yesterday (Wednesday), along with the commander of Brigade 162, Brigadier General Itzik Cohen and the brigade commanders. Attached is footage of the comments from the Commander of the Southern Command: https://bit.ly/3Or4COL Attached</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4037",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4037
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4037",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4037"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4037/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4037"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4037"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4037"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": 9041,
+    "date": "2024-06-10T15:01:17",
+    "date_gmt": "2024-06-10T12:01:17",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10070-en/"
+    },
+    "modified": "2024-06-10T15:01:17",
+    "modified_gmt": "2024-06-10T12:01:17",
+    "slug": "10070-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10070-en/",
+    "title": {
+        "rendered": "&#8220;Drone Surveillance Leads to Successful Neutralization of Terrorist by Battalion 101&#8221;"
+    },
+    "content": {
+        "rendered": "<p>After drone identification:<br />\nA terrorist emerges from a pit with an RPG and is neutralized by soldiers from Battalion 101. Documentation<br />\nhttps://www.idf.il/207945</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>After drone identification: A terrorist emerges from a pit with an RPG and is neutralized by soldiers from Battalion 101. Documentation https://www.idf.il/207945</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9041",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9041,
+        "he": 9042,
+        "ru": 9043
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9041",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9041"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9041/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9041"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9041"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9041"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

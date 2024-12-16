@@ -1,0 +1,140 @@
+{
+    "id": 16453,
+    "date": "2023-12-15T00:00:00",
+    "date_gmt": "2023-12-14T22:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/15-12-2023/"
+    },
+    "modified": "2024-08-27T23:52:12",
+    "modified_gmt": "2024-08-27T20:52:12",
+    "slug": "15-12-2023",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/aid/15-12-2023/",
+    "title": {
+        "rendered": "Israel Aid and Humanitarian Efforts in Gaza: Dec. 15, 2023"
+    },
+    "content": {
+        "rendered": "<h2>Kerem Shalom Crossing Opens for Security Checks</h2>\n<p>On December 12, the Kerem Shalom Crossing opened for security checks on aid shipments from Al Arish. The simultaneous security checks at Kerem Shalom and Nitzana crossings expand the volume of aid delivered through the Rafah Crossing and admitted into the Gaza Strip.</p>\n<h2>Aid Delivery Update</h2>\n<p>Yesterday (Dec. 14), 193 humanitarian aid trucks were inspected and transferred to the Gaza Strip via the Rafah Crossing. Of these, 79 trucks were inspected at Kerem Shalom and 114 trucks at Nitzana. Additional equipment and personnel for the UAE and Jordanian field hospitals also entered the Gaza Strip.</p>\n<h2>Fuel and Gas Shipment</h2>\n<p>Yesterday, (Dec. 14), four tankers of fuel and two tankers of cooking gas designated for the operation of essential infrastructure in Gaza entered the Gaza Strip.</p>\n<h2>IDF Tactical Pause</h2>\n<p>Today, (Dec. 15), between 10:00 and 14:00, the IDF will pause operations in the western neighborhood in Rafah to enable the movement of humanitarian aid.</p>\n<h2>Medical Response Overview</h2>\n<p><strong>Field Hospitals</strong><br />\nWith a capacity of 41 beds and a personnel of 154, the Jordanian hospital has treated over 500 patients. In contrast, the United Arab Emirates field hospital, featuring a capacity of 200 beds and staffed with 100, has treated over 150 patients.</p>\n<h2>Tactical Pause Details</h2>\n<p>The tactical pause on Dec. 14 took place in the Al-Salam neighborhood in Rafah.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Kerem Shalom Crossing opens for increased humanitarian aid delivery.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 15696,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        1338
+    ],
+    "tags": [
+        1352
+    ],
+    "class_list": [
+        "post-16453",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-aid",
+        "tag-daily-humanitarian-aid-update"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 16453,
+        "he": 16454,
+        "ru": 16455
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16453",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=16453"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16453/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 16456,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16453/revisions/16456"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/15696"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=16453"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=16453"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=16453"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

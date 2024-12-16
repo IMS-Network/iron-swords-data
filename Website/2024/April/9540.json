@@ -1,0 +1,122 @@
+{
+    "id": 3281,
+    "date": "2024-04-23T12:45:30",
+    "date_gmt": "2024-04-23T09:45:30",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9540/"
+    },
+    "modified": "2024-04-23T12:45:30",
+    "modified_gmt": "2024-04-23T09:45:30",
+    "slug": "9540",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9540/",
+    "title": {
+        "rendered": "&#8220;Decisive IDF Strike: Key Hezbollah Air Defense Terrorists Eliminated in Southern Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF eliminated a key terrorist in the air defense array of the Hezbollah terrorist organization in Southern Lebanon and another key terrorist in the air unit of Force Radwan in the organization</p>\n<p>The IDF attacked and eliminated this morning (Tuesday) through an aircraft of the Air Force in Southern Lebanon, Hussein Ali Azzcool, a central terrorist in the air defense array of the Hezbollah terrorist organization in Southern Lebanon. </p>\n<p>Azzcool was heavily involved in the array&#8217;s activity and took part in the planning and execution of various terrorist activities. His elimination constitutes a significant hit on the array&#8217;s and the organization&#8217;s abilities in the area.</p>\n<p>Additionally, during the night the terrorist Muhammad Khalil Attiyah was killed in the Erez region, a central terrorist in the air unit of Force Radwan in the Hezbollah terrorist organization. As part of his role, Attiyah was involved in the preparation and execution of terrorist routes into Israel.</p>\n<p>Documentary evidence of the elimination of the central terrorist in the air defense array of the Hezbollah terrorist organization in Southern Lebanon is attached: https://bit.ly/3vUvn8p</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF eliminated a key terrorist in the air defense array of the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization in Southern Lebanon and another key terrorist in the air unit of Force Radwan in the organization The IDF attacked and eliminated this morning (Tuesday) through an aircraft of the Air Force in Southern Lebanon, Hussein Ali Azzcool, a central terrorist in the air defense array of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization in Southern Lebanon. Azzcool was heavily involved in the array&#8217;s activity and took part in the planning and execution of various terrorist activities. His elimination constitutes a significant hit on the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3281",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3281
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3281",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3281"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3281/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3281"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3281"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3281"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

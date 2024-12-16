@@ -1,0 +1,122 @@
+{
+    "id": 3851,
+    "date": "2024-02-24T10:51:05",
+    "date_gmt": "2024-02-24T08:51:05",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8952/"
+    },
+    "modified": "2024-02-24T10:51:05",
+    "modified_gmt": "2024-02-24T08:51:05",
+    "slug": "8952",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8952/",
+    "title": {
+        "rendered": "&#8220;IDF&#8217;s Overnight Operation: Mapping Terrorist Homes, Arresting Wanted Individuals in Judea, Samaria &#038; Jordan Valley&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF soldiers mapped overnight the homes of the terrorists who carried out this week&#8217;s attack at the Al-Za&#8217;im checkpoint; IDF, Shin Bet, and Yamam forces arrested five wanted individuals across Judea and Samaria and in the Jordan Valley and Emekim divisions. </p>\n<p>IDF soldiers operated overnight in the village of Za&#8217;atara in the Atezyon division and mapped two houses belonging to the terrorists who carried out this week&#8217;s shooting attack at the Al-Za&#8217;im checkpoint near Maale Adumim. </p>\n<p>IDF, Shin Bet and Yamam forces arrested two wanted men in the village of Burka in Samaria, two more wanted men in Bazzaria in Samaria, and another wanted man in Zabidat in the Jordan Valley. </p>\n<p>The arrested wanted men were transferred for further investigation by the security forces, our forces suffered no casualties. </p>\n<p>So far, since the beginning of the war, over 3,200 wanted individuals have been arrested across the Judea and Samaria Brigade and the Jordan Valley and Emekim divisions, over 1,350 of them are associated with the Hamas terror organization. </p>\n<p>Attached is documentation from the force&#8217;s activities in mapping the houses of the terrorists: https://bit.ly/3I9y3RZ </p>\n<p>Attached are photos on the subject: https://IDFANC.activetrail.biz/ANC24022024.15615689</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF soldiers mapped overnight the homes of the terrorists who carried out this week&#8217;s attack at the Al-Za&#8217;im checkpoint; IDF, Shin Bet, and Yamam forces arrested five wanted individuals across Judea and Samaria and in the Jordan Valley and Emekim divisions. IDF soldiers operated overnight in the village of Za&#8217;atara in the Atezyon division and mapped two houses belonging to the terrorists who carried out this week&#8217;s shooting attack at the Al-Za&#8217;im checkpoint near Maale Adumim. IDF, Shin Bet and Yamam forces arrested two wanted men in the village of Burka in Samaria, two more wanted men in</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3851",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3851
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3851",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3851"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3851/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3851"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3851"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3851"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

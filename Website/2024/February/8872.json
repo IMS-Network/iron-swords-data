@@ -1,0 +1,122 @@
+{
+    "id": 3931,
+    "date": "2024-02-14T17:58:06",
+    "date_gmt": "2024-02-14T15:58:06",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8872/"
+    },
+    "modified": "2024-02-14T17:58:06",
+    "modified_gmt": "2024-02-14T15:58:06",
+    "slug": "8872",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8872/",
+    "title": {
+        "rendered": "&#8220;IDF Casualty Identified: Update on Sergeant Omer Sara Benjo and Other Injured Soldiers&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Attached is a message from the IDF spokesperson regarding the name of the IDF casualty, which was given to her family: https://IDFANC.activetrail.biz/ANC1402202428936523</p>\n<p>In addition, attached is a link to the IDF website, where details and photographs of the casualties are published and updated: https://www.idf.il/59780</p>\n<p>Furthermore, in the event in which Sergeant Omer Sara Benjo fell, a reserve soldier from the Communications Branch was severely injured. Additionally, other soldiers were injured at varying degrees in the incident.</p>\n<p>All the soldiers were evacuated for medical treatment at a hospital and their families have been updated.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Attached is a message from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a> regarding the name of the IDF casualty, which was given to her family: https://IDFANC.activetrail.biz/ANC1402202428936523 In addition, attached is a link to the IDF website, where details and photographs of the casualties are published and updated: https://www.idf.il/59780 Furthermore, in the event in which <a  href=\"https://iron-swords.co.il/t/sergeant/\">Sergeant</a> <a  href=\"https://iron-swords.co.il/t/omer/\">Omer</a> Sara Benjo fell, a reserve soldier from the Communications Branch was severely injured. Additionally, other soldiers were injured at varying degrees in the incident. All the soldiers were evacuated for medical treatment at a hospital and their families have been updated.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3931",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3931
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3931",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3931"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3931/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3931"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3931"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3931"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

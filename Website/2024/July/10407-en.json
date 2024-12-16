@@ -1,0 +1,124 @@
+{
+    "id": 8045,
+    "date": "2024-07-09T09:44:25",
+    "date_gmt": "2024-07-09T06:44:25",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10407-en/"
+    },
+    "modified": "2024-07-09T09:44:25",
+    "modified_gmt": "2024-07-09T06:44:25",
+    "slug": "10407-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10407-en/",
+    "title": {
+        "rendered": "&#8220;IDF Division 99: Major Operations in Gaza Yield Dozens of Terrorist Eliminations and Weapon Discoveries&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Forces of Division 99 continue to operate in the city of Gaza, having eliminated dozens of terrorists so far and located a significant amount of weaponry; in Shuja&#8217;iyya and Rafah, dozens of terrorists have been eliminated in the last day.</p>\n<p>The forces of Division 99 continue to operate in the city of Gaza, following prior intelligence information indicating the existence of terrorist infrastructures belonging to the terrorist organizations Hamas and Islamic Jihad in the area. The forces have eliminated dozens of terrorists and found numerous weapons in the area.</p>\n<p>The forces of Division 98 are operating in Shuja&#8217;iyya, simultaneously above and below ground.<br />\nAs part of their operations, the forces have eliminated several terrorists and identified many weapons, including sniper equipment, RPGs, grenades, &#8220;Kalashnikov&#8221; type weapons, and more. Additionally, the forces have destroyed terrorist infrastructures and underground pathways in the area.</p>\n<p>In the past day, combat teams from Brigade 162, under the command of the division, have eliminated dozens of terrorists in the Rafah area in face-to-face encounters and in cooperation with fighter jets and air force aircraft.</p>\n<p>Over the past day, aircraft and fighter jets of the air force attacked terrorist targets in the Strip. Among the targets attacked were military buildings, underground shafts, terrorist infrastructures, and more.</p>\n<p>Attached is documentation of the IDF&#8217;s activities in the Gaza Strip: https://bit.ly/3XSbAlh</p>\n<p>Attached is documentation of IDF strikes in the Gaza Strip: https://bit.ly/4cJuQps</p>\n<p>Attached are images from the IDF&#8217;s activities in the Gaza Strip: https://IDFANC.activetrail.biz/ANC0907202423554</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Forces of Division 99 continue to operate in the city of <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>, having eliminated dozens of terrorists so far and located a significant amount of weaponry; in Shuja&#8217;iyya and Rafah, dozens of terrorists have been eliminated in the last day. The forces of Division 99 continue to operate in the city of Gaza, following prior intelligence information indicating the existence of terrorist infrastructures belonging to the terrorist organizations <a  href=\"/hamas\">Hamas</a> and Islamic Jihad in the area. The forces have eliminated dozens of terrorists and found numerous weapons in the area. The forces of Division 98 are operating in Shuja&#8217;iyya,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8045",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8045,
+        "he": 8046,
+        "ru": 8047
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8045",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8045"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8045/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8045"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8045"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8045"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

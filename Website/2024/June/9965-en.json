@@ -1,0 +1,124 @@
+{
+    "id": 9353,
+    "date": "2024-06-02T16:44:43",
+    "date_gmt": "2024-06-02T13:44:43",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/9965-en/"
+    },
+    "modified": "2024-06-02T16:44:43",
+    "modified_gmt": "2024-06-02T13:44:43",
+    "slug": "9965-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9965-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah: Fighter Jets Target Weapons Depot Amid Rocket Attacks&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Fighter jets attacked a Hezbollah weapons depot and eliminated a terrorist who was inside; a military structure of the organization was attacked in the area from which rockets were launched this morning towards Metula.</p>\n<p>The artillery division of Brigade 91, in cooperation with the Air Force, identified today (Sunday) a terrorist entering a Hezbollah weapons depot in the Mis al-Jabal area in southern Lebanon via aerial reconnaissance. Shortly thereafter, fighter jets attacked the weapons depot where the terrorist was located.<br />\nAfter the attack, secondary explosions were detected, indicating the presence of numerous weapons in the depot.</p>\n<p>Earlier today, several launches were identified crossing from Lebanese territory towards Metula, and air defense forces successfully intercepted all launches.<br />\nIn a follow-up operation, fighter jets attacked a military structure of Hezbollah in the village of Kila from which the launches towards Metula originated.</p>\n<p>Following alerts raised in northern Israel regarding the intrusion of hostile aircraft and rocket and missile fire, an interceptor was launched toward a target suspected of being a hostile aerial target. The incident has concluded and is currently under investigation.<br />\nAlerts regarding rocket and missile fire in Nahariya were activated due to the interceptor launch and concerns about debris from the interception.</p>\n<p>Additionally, about fifteen launches were identified towards the Katzrin area, landing in open fields with no casualties. Fires broke out in several locations in the area, and firefighting and rescue forces are currently working to extinguish the fires.</p>\n<p>Attached is a documentation of the attacks: https://bit.ly/4bHOjqu</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Fighter jets attacked a <a  href=\"/hezbollah\">Hezbollah</a> weapons depot and eliminated a terrorist who was inside; a military structure of the organization was attacked in the area from which rockets were launched this morning towards Metula. The artillery division of Brigade 91, in cooperation with the Air Force, identified today (Sunday) a terrorist entering a <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> weapons depot in the Mis al-Jabal area in southern Lebanon via aerial reconnaissance. Shortly thereafter, fighter jets attacked the weapons depot where the terrorist was located. After the attack, secondary explosions were detected, indicating the presence of numerous weapons in the depot. Earlier today,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9353",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9353,
+        "he": 9354,
+        "ru": 9355
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9353",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9353"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9353/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9353"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9353"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9353"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 3966,
+    "date": "2024-02-10T20:02:59",
+    "date_gmt": "2024-02-10T18:02:59",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8837/"
+    },
+    "modified": "2024-02-10T20:02:59",
+    "modified_gmt": "2024-02-10T18:02:59",
+    "slug": "8837",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8837/",
+    "title": {
+        "rendered": "&#8220;Inside Hamas Underground Warfare: An Exclusive Look at UNRWA Headquarters in Gaza Strip&#8221;"
+    },
+    "content": {
+        "rendered": "<p>A significant asset of Hamas underground and warfare means in offices:<br />\nSpecial documentation &#8211; This is how the central headquarters of UNRWA in the Gaza Strip looks like<br />\nhttps://www.idf.il/179467</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>A significant asset of <a  href=\"/hamas\">Hamas</a> underground and warfare means in offices: Special documentation &#8211; This is how the central headquarters of <a  href=\"https://iron-swords.co.il/c/know-your-enemies/unrwa/\">UNRWA</a> in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip looks like https://www.idf.il/179467</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3966",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3966
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3966",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3966"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3966/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3966"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3966"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3966"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

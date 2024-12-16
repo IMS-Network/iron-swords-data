@@ -1,0 +1,122 @@
+{
+    "id": 4516,
+    "date": "2023-12-15T19:49:54",
+    "date_gmt": "2023-12-15T17:49:54",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8277/"
+    },
+    "modified": "2023-12-15T19:49:54",
+    "modified_gmt": "2023-12-15T17:49:54",
+    "slug": "8277",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8277/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Back: Dismantling Hezbollah&#8217;s Terror Infrastructure in Lebanon Post-Missile Attack&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Terror infrastructure, military command, military sites, and launch site from where a missile was fired into Israel; IDF completed another attack in Lebanon territory</p>\n<p>In response to the recent firings, air force aircraft attacked and destroyed a series of Hezbollah terror targets in Lebanon.</p>\n<p>Among the targets attacked were terror infrastructures, command posts, and military sites where the organization&#8217;s terrorists operated. Moreover, IDF forces attacked a launcher site, using the Iron Sting system, from where missiles were fired towards Israel earlier today.</p>\n<p>Following an alert in the Shetula region, several firings were detected crossing from Lebanese territory.</p>\n<p>Attached is footage of the attacks: https://bit.ly/3RL0RpA</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Terror infrastructure, military command, military sites, and launch site from where a missile was fired into <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>; IDF completed another attack in Lebanon territory In response to the recent firings, air force aircraft attacked and destroyed a series of <a  href=\"/hezbollah\">Hezbollah</a> terror targets in Lebanon. Among the targets attacked were terror infrastructures, command posts, and military sites where the organization&#8217;s terrorists operated. Moreover, IDF forces attacked a launcher site, using the Iron Sting system, from where missiles were fired towards Israel earlier today. Following an alert in the Shetula region, several firings were detected crossing from Lebanese territory. Attached</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4516",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4516
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4516",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4516"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4516/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4516"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4516"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4516"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

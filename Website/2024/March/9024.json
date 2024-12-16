@@ -1,0 +1,128 @@
+{
+    "id": 3779,
+    "date": "2024-03-03T23:10:01",
+    "date_gmt": "2024-03-03T21:10:01",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9024/"
+    },
+    "modified": "2024-03-03T23:10:01",
+    "modified_gmt": "2024-03-03T21:10:01",
+    "slug": "9024",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9024/",
+    "title": {
+        "rendered": "&#8220;Joint IDF-SHABAK Operation: Top Hamas Recruiter Mahmoud Hachat Eliminated in Gaza Strike&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF and SHABAK Spokesperson:</p>\n<p>In a joint operation of the IDF and SHABAK, the terrorist Mahmoud Mahmoud Abd Hachat was killed this morning at the central camps in the Gaza Strip by an aircraft. Hachat was a trustful in his military role in recruiting new activists to the Hamas terror organization, and specifically for the Zeitun Brigades. Hachat operated in aspects of fundraising and financing for terror purposes for the military activity of the <a href=\"https://iron-swords.co.il/hamas/\"  data-wpil-monitor-id=\"49\">Hamas</a> terror organization.</p>\n<p>Attached is footage from the elimination: https://bit.ly/3uWPnXk</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>IDF and SHABAK Spokesperson: In a joint operation of the IDF and SHABAK, the terrorist Mahmoud Mahmoud Abd Hachat was killed this morning at the central camps in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip by an aircraft. Hachat was a trustful in his military role in recruiting new activists to the <a  href=\"/hamas\">Hamas</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a>, and specifically for the Zeitun Brigades. Hachat operated in aspects of fundraising and financing for terror purposes for the military activity of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> terror organization. Attached is footage from the elimination: https://bit.ly/3uWPnXk</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3779",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3779
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3779",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3779"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3779/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 17471,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3779/revisions/17471"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3779"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3779"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3779"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

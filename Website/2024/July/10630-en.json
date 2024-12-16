@@ -1,0 +1,124 @@
+{
+    "id": 7381,
+    "date": "2024-07-25T17:47:44",
+    "date_gmt": "2024-07-25T14:47:44",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10630-en/"
+    },
+    "modified": "2024-07-25T17:47:44",
+    "modified_gmt": "2024-07-25T14:47:44",
+    "slug": "10630-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10630-en/",
+    "title": {
+        "rendered": "&#8220;Inside the Tunnel: IDF&#8217;s Heroic Hostage Rescue Operation Revealed&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint message from the IDF Spokesperson and the Shin Bet Spokesperson:</p>\n<p>*Revealing new materials from the hostage rescue operation; documentation of the brigade combat team of the Commando Division from within the tunnel where the hostages were found*</p>\n<p>In a joint operation by the brigade combat team of the Commando Division, the Egoz Unit, the Yahalom Unit, and Shin Bet investigators and coordinators, the kidnapped victim who was murdered, Miah Goren, may her memory be a blessing, along with the deceased hostages, Sergeant Major (Res.) Ravid Aryeh Katz, may his memory be a blessing, Sergeant (Res.) Oren Goldin, may his memory be a blessing, Corporal Tomer Ahimas, may his memory be a blessing, and Corporal Kirill Brodsky, may his memory be a blessing, were rescued yesterday (Wednesday).</p>\n<p>In recent weeks, an intelligence team from the Hostage Command at the Intelligence Directorate and Shin Bet conducted intensive intelligence research and interrogations of detainees to locate and identify the remains of the hostages in the Khan Younis area.</p>\n<p>Following the information, the forces identified an underground shaft in the humanitarian area adjusted for the division&#8217;s operations. In the shaft, a tunnel approximately 200 meters long and 20 meters deep was found, containing several rooms where the hostages were located.</p>\n<p>Attached is documentation from the activities of the Yahalom, Egoz, and Engineering units during the hostage rescue operation: https://bit.ly/4bWR0nh</p>\n<p>Attached is a video snippet of the Egoz Unit commander, Lieutenant Colonel A&#8217;: https://bit.ly/3LEaEtr</p>\n<p>Attached is a graphic of the location of the tunnel from which the hostages were rescued in the adjusted humanitarian area: https://idfanc.activetrail.biz/250724411</p>\n<p>Attached are photos on the subject: https://IDFANC.activetrail.biz/ANC359467</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint message from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a> and the Shin Bet Spokesperson: *Revealing new materials from the hostage rescue operation; documentation of the brigade combat team of the Commando Division from within the tunnel where the <a  href=\"https://iron-swords.co.il/t/hostages/\">hostages</a> were found* In a joint operation by the brigade combat team of the Commando Division, the Egoz Unit, the Yahalom Unit, and Shin Bet investigators and coordinators, the kidnapped victim who was murdered, Miah Goren, may her memory be a blessing, along with the deceased hostages, <a  href=\"https://iron-swords.co.il/t/sergeant/\">Sergeant</a> Major (Res.) Ravid Aryeh Katz, may his memory be a blessing, Sergeant (Res.) Oren Goldin, may his</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7381",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7381,
+        "he": 7382,
+        "ru": 7383
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7381",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7381"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7381/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7381"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7381"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7381"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

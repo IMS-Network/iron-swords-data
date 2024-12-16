@@ -1,0 +1,122 @@
+{
+    "id": 3315,
+    "date": "2024-04-19T14:48:16",
+    "date_gmt": "2024-04-19T11:48:16",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9505/"
+    },
+    "modified": "2024-04-19T14:48:16",
+    "modified_gmt": "2024-04-19T11:48:16",
+    "slug": "9505",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9505/",
+    "title": {
+        "rendered": "&#8220;Operation in Nur a-Shams: IDF and Allies Thwart Terrorism, Arrest Suspects, and Uncover Explosives&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF, Shin Bet, and Border Police have launched an operation to thwart terrorism in Nur a-Shams; so far, the forces have eliminated a number of terrorists, arrested several wanted individuals, searched buildings, and exposed explosives.</p>\n<p>The IDF, Shin Bet, and Border Police launched a counter-terrorism operation in Nur a-Shams in the Menashe Brigade overnight. The troops have so far eliminated several terrorists, arrested a number of wanted individuals, exposed explosives and routes, and searched buildings.</p>\n<p>Two IDF soldiers from the Carob Commando Unit were lightly injured during the operation, in addition to a lone soldier from the Paratroopers Unit and a reserve officer from the Marom Brigade who were moderately injured. All the injured soldiers were evacuated for medical treatment at the hospital and their families have been updated.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF, Shin Bet, and Border Police have launched an operation to thwart terrorism in Nur a-Shams; so far, the forces have eliminated a number of terrorists, arrested several wanted individuals, searched buildings, and exposed explosives. The IDF, Shin Bet, and Border Police launched a counter-terrorism operation in Nur a-Shams in the Menashe Brigade overnight. The troops have so far eliminated several terrorists, arrested a number of wanted individuals, exposed explosives and routes, and searched buildings. Two IDF soldiers from the Carob Commando Unit were lightly injured during the operation, in addition to a lone soldier from the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3315",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3315
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3315",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3315"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3315/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3315"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3315"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3315"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

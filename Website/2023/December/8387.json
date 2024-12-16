@@ -1,0 +1,122 @@
+{
+    "id": 4406,
+    "date": "2023-12-24T06:01:52",
+    "date_gmt": "2023-12-24T04:01:52",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8387/"
+    },
+    "modified": "2023-12-24T06:01:52",
+    "modified_gmt": "2023-12-24T04:01:52",
+    "slug": "8387",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8387/",
+    "title": {
+        "rendered": "&#8220;Remembering the Brave: Unveiling the Stories of Eight IDF Casualties and Wounded Soldiers from Recent Battles&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Attached is a message from the IDF spokesperson on the names of eight IDF casualties whose information was communicated to their families: https://IDFANC.activetrail.biz/ANC241220239579395</p>\n<p>Attached is a link to the IDF website, where their details and pictures are published and updated:<br />\nhttps://www.idf.il/59780</p>\n<p>In the battle in which the soldiers from &#8216;Saar Golan&#8217; (7) fell, two other soldiers were seriously wounded.</p>\n<p>In addition, in the battle in which the soldiers from Battalion 6646 fell, three more soldiers were seriously wounded.</p>\n<p>Also, in the battle in which the soldiers from Battalion 7810 fell, a reserve soldier was seriously wounded.</p>\n<p>All wounded soldiers were evacuated for medical treatment in the hospital, and their families were informed.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Attached is a message from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a> on the names of eight IDF casualties whose information was communicated to their families: https://IDFANC.activetrail.biz/ANC241220239579395 Attached is a link to the IDF website, where their details and pictures are published and updated: https://www.idf.il/59780 In the battle in which the soldiers from &#8216;Saar Golan&#8217; (7) fell, two other soldiers were seriously wounded. In addition, in the battle in which the soldiers from Battalion 6646 fell, three more soldiers were seriously wounded. Also, in the battle in which the soldiers from Battalion 7810 fell, a reserve soldier was seriously wounded. All wounded soldiers were</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4406",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4406
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4406",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4406"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4406/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4406"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4406"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4406"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

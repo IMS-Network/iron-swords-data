@@ -1,0 +1,132 @@
+{
+    "id": 2396,
+    "date": "2023-10-07T08:30:00",
+    "date_gmt": "2023-10-07T05:30:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=2396"
+    },
+    "modified": "2024-05-13T16:26:22",
+    "modified_gmt": "2024-05-13T13:26:22",
+    "slug": "yonat-or",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/victims/yonat-or/",
+    "title": {
+        "rendered": "yonat or"
+    },
+    "content": {
+        "rendered": "\n<p>Yonat Or, aged 50, was tragically murdered in her home in Kibbutz Be\u2019eri by Hamas terrorists on October 7th. Her husband, Dror, and children Noam, 17, and Alma, 13, along with her nephew Liam Or, 17, were taken hostage into Gaza on the same day. Noam and Alma were released on November 25th, and Liam was freed on November 29th. The kibbutz announced on May 2nd that Dror had also been killed on October 7th and his body taken captive to Gaza. Yonat, a respected entrepreneur and interior designer, owned her own carpentry shop and home design business in Be\u2019eri, called Ayuna, which had earned national acclaim. Described as kind-hearted and peace-loving, she leaves behind a legacy of creativity and warmth. Her family and community mourn her loss deeply.</p>\n\n\n\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\">\n<p></p>\n<cite>This summary is based on the post found at <a href=\"https://www.timesofisrael.com/yonat-or-50-designer-whose-kidnapped-family-was-partially-freed/\">timesofisrael</a></cite></blockquote>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Yonat Or, aged 50, was tragically <a  href=\"https://iron-swords.co.il/t/murdered-in-her-home/\">murdered in her home</a> in Kibbutz Be\u2019eri by <a  href=\"/hamas\">Hamas</a> terrorists on October 7th. Her husband, Dror, and children Noam, 17, and Alma, 13, along with her nephew Liam Or, 17, were taken hostage into <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> on the same day. Noam and Alma were released on November 25th, and Liam was freed on November 29th. The kibbutz announced on May 2nd that Dror had also been killed on October 7th and his body taken captive to Gaza. Yonat, a respected entrepreneur and interior designer, owned her own carpentry shop and home design business in Be\u2019eri,</p>\n",
+        "protected": false
+    },
+    "author": 6,
+    "featured_media": 2397,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-october-7th-victims",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 21,
+        "footnotes": ""
+    },
+    "categories": [
+        21
+    ],
+    "tags": [
+        116
+    ],
+    "class_list": [
+        "post-2396",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-victims",
+        "tag-kibbutz-beeri"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2396
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2396",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/6"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2396"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2396/revisions"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/2397"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2396"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2396"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2396"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

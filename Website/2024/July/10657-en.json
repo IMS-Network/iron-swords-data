@@ -1,0 +1,124 @@
+{
+    "id": 7300,
+    "date": "2024-07-27T19:02:33",
+    "date_gmt": "2024-07-27T16:02:33",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10657-en/"
+    },
+    "modified": "2024-07-27T19:02:33",
+    "modified_gmt": "2024-07-27T16:02:33",
+    "slug": "10657-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10657-en/",
+    "title": {
+        "rendered": "&#8220;IDF Intercepts Projectiles from Lebanon: Casualties Reported in Majdal Shams&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Following the alerts activated in the north of the country at 17:24, about 30 projectiles were identified crossing from Lebanese territory. Air defense forces successfully intercepted several projectiles, while the remaining projectiles fell in open areas, and there are no casualties.</p>\n<p>Following the alert activated in the Neve Ativ area at 17:55, approximately 10 projectiles were identified crossing from Lebanese territory and fell in open areas, with no casualties reported.</p>\n<p>Shortly thereafter, an alert was activated in the Majdal Shams area, during which a projectile was identified crossing from Lebanese territory. A landing was detected in the area, and casualties were reported. Helicopters and IDF forces, in cooperation with MDA (Magen David Adom), are working to evacuate the casualties.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Following the alerts activated in the north of the country at 17:24, about 30 projectiles were identified crossing from Lebanese territory. Air defense forces successfully intercepted several projectiles, while the remaining projectiles fell in open areas, and there are no casualties. Following the alert activated in the Neve Ativ area at 17:55, approximately 10 projectiles were identified crossing from Lebanese territory and fell in open areas, with no casualties reported. Shortly thereafter, an alert was activated in the Majdal Shams area, during which a projectile was identified crossing from Lebanese territory. A landing was detected in the area,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7300",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7300,
+        "he": 7301,
+        "ru": 7302
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7300",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7300"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7300/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7300"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7300"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7300"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

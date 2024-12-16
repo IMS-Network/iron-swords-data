@@ -1,0 +1,122 @@
+{
+    "id": 4241,
+    "date": "2024-01-09T12:53:41",
+    "date_gmt": "2024-01-09T10:53:41",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8556/"
+    },
+    "modified": "2024-01-09T12:53:41",
+    "modified_gmt": "2024-01-09T10:53:41",
+    "slug": "8556",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8556/",
+    "title": {
+        "rendered": "&#8220;Nighttime Anti-Terror Operations: IDF Arrests 13 Suspects, Destroys Explosives Across Judea and Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF soldiers, Shin Bet and Border Police operated over the night to arrest 13 wanted persons across Judea and Samaria; explosives ready for use were destroyed in an operation in Tul Karem and activities in Nablus.</p>\n<p>In an anti-terror operation in the Tul Karem refugee camp and the Nur al-Shams refugee camp in the Menashe Brigade, forces discovered and destroyed explosives ready for use that were hidden under roads in order to harm our forces. </p>\n<p>During the activity, an IDF aircraft attacked a cell of terrorists that fired at the forces. In addition, wanted persons were arrested in the Ya&#8217;bad village in the brigade area.</p>\n<p>Duvdevan reservists operated this morning in the city of Nablus, arrested a wanted person and destroyed explosives ready for use that were found in the wanted person&#8217;s house. During the activity, the forces fired at a terrorist who threw an explosive at them \u2013 the terrorist was injured.</p>\n<p>In the villages of Atara in the Binyamin Brigade and Habla in the Ephraim Brigade, the forces found and confiscated several weapons. In an operation in the Zurif village in the Etzion Brigade, the forces arrested two wanted persons and investigated numerous suspects. In the Ein Misbah village in the Binyamin Brigade, a Hamas student cell activist was arrested.</p>\n<p>The arrested suspects and confiscated weapons were transferred for further processing by the security forces, without any injuries to our forces.</p>\n<p>Attached are pictures of the confiscated combat equipment: https://IDFANC.activetrail.biz/ANC09012023.021653</p>\n<p>So far, over 2,600 wanted persons have been arrested since the beginning of the war across the Judea and Samaria Division and the Valley and the Plains Brigade, about 1,300 of them are affiliated with the Hamas terror organization.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF soldiers, Shin Bet and Border Police operated over the night to arrest 13 wanted persons across Judea and Samaria; explosives ready for use were destroyed in an operation in Tul Karem and activities in Nablus. In an anti-terror operation in the Tul Karem refugee camp and the Nur al-Shams refugee camp in the Menashe Brigade, forces discovered and destroyed explosives ready for use that were hidden under roads in order to harm our forces. During the activity, an IDF aircraft attacked a cell of terrorists that fired at the forces. In addition, wanted persons were arrested in</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4241",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4241
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4241",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4241"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4241/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4241"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4241"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4241"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

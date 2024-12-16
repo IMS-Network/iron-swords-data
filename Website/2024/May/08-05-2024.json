@@ -1,0 +1,140 @@
+{
+    "id": 16017,
+    "date": "2024-05-08T00:00:00",
+    "date_gmt": "2024-05-07T21:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/08-05-2024/"
+    },
+    "modified": "2024-08-27T21:40:56",
+    "modified_gmt": "2024-08-27T18:40:56",
+    "slug": "08-05-2024",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/aid/08-05-2024/",
+    "title": {
+        "rendered": "Israel Aid and Humanitarian Efforts in Gaza: May 8, 2024"
+    },
+    "content": {
+        "rendered": "<h2>Security Concerns at Crossings</h2>\n<p>Yesterday (May 7), the Kerem Shalom and Nitzana crossings remained closed due to security concerns resulting from Hamas rocket fire.</p>\n<h2>Airdrops of Food Aid</h2>\n<p>Airdrops: On May 7, 185 pallets containing tens of thousands of packages of food aid were airdropped, in coordination with partner countries over northern Gaza.</p>\n<h2>Coordination of Aid to Northern Gaza</h2>\n<p>Aid to northern Gaza: 64 aid trucks were coordinated to northern Gaza on May 7.</p>\n<h2>Coordination Requests Overview</h2>\n<p>Coordinations (May 7): Out of 40 general coordination requests, 24 were approved. Out of 10 coordination requests to northern Gaza, 7 were approved, and out of 21 UN coordination requests, 10 were approved. Since January 1, 2024, 88% of all coordination requests have been approved.</p>\n<h2>Logistics and Transport Updates</h2>\n<p>Ashdod Port: 25 trucks were coordinated via the Ashdod port through the Erez Crossing on May 7.</p>\n<p>Jordanian Route: 35 trucks were coordinated via the Jordanian Route on May 7.</p>\n<h2>Bakeries and Daily Bread Production</h2>\n<p>Currently, 26 bakeries are operational in Gaza, providing close to 5 million breads, rolls, and pita breads daily.</p>\n<h2>Casualties and Evacuations</h2>\n<p>So far, 3,204 injured and sick individuals and 725 escorts have been evacuated from the strip. Additionally, 55 foreign nationals were scheduled to exit Gaza on May 7.</p>\n<h2>Water Supply Update</h2>\n<p>The northern water pipeline from Israel is now fully operational, providing an average of 50 liters per person per day.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"/hamas\">Hamas</a> rocket fire halted crossings; aid and evacuations continued.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 15696,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        1338
+    ],
+    "tags": [
+        1352
+    ],
+    "class_list": [
+        "post-16017",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-aid",
+        "tag-daily-humanitarian-aid-update"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 16017,
+        "he": 16018,
+        "ru": 16019
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16017",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=16017"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16017/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 16020,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16017/revisions/16020"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/15696"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=16017"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=16017"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=16017"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

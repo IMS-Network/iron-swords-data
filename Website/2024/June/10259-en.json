@@ -1,0 +1,124 @@
+{
+    "id": 8477,
+    "date": "2024-06-26T17:04:16",
+    "date_gmt": "2024-06-26T14:04:16",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10259-en/"
+    },
+    "modified": "2024-06-26T17:04:16",
+    "modified_gmt": "2024-06-26T14:04:16",
+    "slug": "10259-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10259-en/",
+    "title": {
+        "rendered": "&#8220;IDF Airstrikes: Targeting Terrorists with Precision and Minimizing Civilian Impact&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Documentation of the elimination of a militant who launched an anti-tank missile at our forces; dozens of successful targeting closures, more than 100 aerial strikes, and close collaborations.</p>\n<p>In the past week, aerial assets of the Air Force, including fighter jets, attack helicopters, and remotely piloted aircraft, have attacked over 100 terrorist infrastructures and operatives, in close support of ground forces.</p>\n<p>The aircraft and control cells are in direct communication with the maneuvering forces through the cooperation unit.</p>\n<p>The aircraft, with close guidance and direct communication with the forces on the ground, are eliminating armed militants and terrorist hubs aimed at harming our forces, while minimizing harm to civilians.</p>\n<p>Attached is documentation of the strike on the militant after he launched an anti-tank missile at our forces: https://bit.ly/3zlbZTi</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Documentation of the elimination of a militant who launched an anti-tank missile at our forces; dozens of successful targeting closures, more than 100 aerial strikes, and close collaborations. In the past week, aerial assets of the Air Force, including fighter jets, attack helicopters, and remotely piloted aircraft, have attacked over 100 terrorist infrastructures and operatives, in close support of ground forces. The aircraft and control cells are in direct communication with the maneuvering forces through the cooperation unit. The aircraft, with close guidance and direct communication with the forces on the ground, are eliminating armed militants and terrorist</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8477",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8477,
+        "he": 8478,
+        "ru": 8479
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8477",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8477"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8477/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8477"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8477"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8477"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

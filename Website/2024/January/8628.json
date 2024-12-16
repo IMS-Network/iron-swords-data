@@ -1,0 +1,122 @@
+{
+    "id": 4170,
+    "date": "2024-01-16T20:01:08",
+    "date_gmt": "2024-01-16T18:01:08",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8628/"
+    },
+    "modified": "2024-01-16T20:01:08",
+    "modified_gmt": "2024-01-16T18:01:08",
+    "slug": "8628",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8628/",
+    "title": {
+        "rendered": "&#8220;Unit 646 and YAHL&#8221;AM Forces Successfully Neutralize Strategic Hamas Terror Tunnel in Gaza Strip&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Beneath Salah al-Din Street that crosses the Gaza Strip from north to south:</p>\n<p>Fighters of Unit 646 and YAHL&#8221;AM forces destroyed a strategic terror tunnel of Hamas </p>\n<p>https://www.idf.il/173725</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Beneath Salah al-Din Street that crosses the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip from north to south: Fighters of Unit 646 and YAHL&#8221;AM forces destroyed a strategic terror tunnel of <a  href=\"/hamas\">Hamas</a> https://www.idf.il/173725</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4170",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4170
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4170",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4170"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4170/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4170"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4170"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4170"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

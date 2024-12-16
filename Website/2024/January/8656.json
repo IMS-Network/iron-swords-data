@@ -1,0 +1,122 @@
+{
+    "id": 4143,
+    "date": "2024-01-19T12:50:18",
+    "date_gmt": "2024-01-19T10:50:18",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8656/"
+    },
+    "modified": "2024-01-19T12:50:18",
+    "modified_gmt": "2024-01-19T10:50:18",
+    "slug": "8656",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8656/",
+    "title": {
+        "rendered": "&#8220;IDF Chief of Staff&#8217;s Strategic Assessment: Balancing Battlefield and Home Life for Brigade 99 Reservists in Gaza&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The Chief of Staff to the commanders of Brigade 99 in Gaza: We understand the tension between the battlefield and home for the reservists. We are operating according to plan, releasing some of the people, knowing that they will be called upon again.</p>\n<p>The Chief of Staff conducted a situation assessment in the Gaza Strip with the commander of the Southern Command, Major General Yaron Finkelman, Head of the Manpower Division, Major General Yaniv Asor and the commander of Brigade 99, Brigadier General Barak Hiram and spoke with the Brigade commanders.</p>\n<p>Attached are related photos: https://IDFANC.activetrail.biz/ANC180124786575</p>\n<p>Attached is a related video: https://bit.ly/490SH1M.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The Chief of Staff to the commanders of Brigade 99 in <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>: We understand the tension between the battlefield and home for the reservists. We are operating according to plan, releasing some of the people, knowing that they will be called upon again. The Chief of Staff conducted a situation assessment in the Gaza Strip with the commander of the Southern Command, Major General Yaron Finkelman, Head of the Manpower Division, Major General Yaniv Asor and the commander of Brigade 99, Brigadier General Barak Hiram and spoke with the Brigade commanders. Attached are related photos: https://IDFANC.activetrail.biz/ANC180124786575 Attached is</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4143",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4143
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4143",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4143"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4143/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4143"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4143"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4143"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

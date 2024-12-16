@@ -1,0 +1,122 @@
+{
+    "id": 4398,
+    "date": "2023-12-24T18:30:05",
+    "date_gmt": "2023-12-24T16:30:05",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8395/"
+    },
+    "modified": "2023-12-24T18:30:05",
+    "modified_gmt": "2023-12-24T16:30:05",
+    "slug": "8395",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8395/",
+    "title": {
+        "rendered": "&#8220;401st Brigade and Shayetet 13 Uncover Explosives in Sheikh Radwan School Raid: A Shocking Discovery&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Instead of books and students &#8211; explosives and terrorists: This is what the 401st Brigade and the Shayetet 13 found in a raid at a school in Sheikh Radwan.</p>\n<p>https://www.idf.il/165915</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Instead of books and students &#8211; explosives and terrorists: This is what the <a  href=\"https://iron-swords.co.il/t/401st-brigade/\">401st Brigade</a> and the Shayetet 13 found in a raid at a school in Sheikh Radwan. https://www.idf.il/165915</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4398",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4398
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4398",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4398"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4398/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4398"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4398"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4398"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

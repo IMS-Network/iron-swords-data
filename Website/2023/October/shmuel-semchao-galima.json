@@ -1,0 +1,140 @@
+{
+    "id": 6627,
+    "date": "2023-10-07T21:30:00",
+    "date_gmt": "2023-10-07T18:30:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=6627"
+    },
+    "modified": "2024-08-29T08:32:59",
+    "modified_gmt": "2024-08-29T05:32:59",
+    "slug": "shmuel-semchao-galima",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/victims/shmuel-semchao-galima/",
+    "title": {
+        "rendered": "shmuel semchao galima"
+    },
+    "content": {
+        "rendered": "\n<p>The late Major General Gulima Semchau, was born on the 29th day of Shevat 575 (February 10, 1975) in Ethiopia. He immigrated with his family to Israel in 1983, and married Sima. Together they raised three children: Elyan, Oriya and Elior.\n\nOn January 7, 1998, he enlisted in the Israel Police and served at the Sderot station as a dedicated and brave man. On the 22nd day of Tishrei Tashpad (October 7, 2023), during the &#8220;Iron Swords&#8221; war, he fell in battle in Sderot. Golima acted bravely against the enemy, and was appreciated by his friends and the community.\n\nAfter his death, he was promoted to the rank of rabbi against. Golima was laid to rest in the military cemetery in Kiryat Gat. He is survived by his wife, three children, parents, four brothers and a sister. Of blessed memory.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>The late Major General Gulima Semchau, was born on the 29th day of Shevat 575 (February 10, 1975) in Ethiopia. He immigrated with his family to <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> in 1983, and married Sima. Together they raised three children: Elyan, Oriya and Elior. On January 7, 1998, he enlisted in the Israel Police and served at the <a  href=\"https://iron-swords.co.il/t/sderot/\">Sderot</a> station as a dedicated and brave man. On the 22nd day of Tishrei Tashpad (October 7, 2023), during the &#8220;Iron Swords&#8221; war, he fell in battle in Sderot. Golima acted bravely against the enemy, and was appreciated by his friends and the community. After</p>\n",
+        "protected": false
+    },
+    "author": 31,
+    "featured_media": 6631,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-october-7th-victims",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 21,
+        "footnotes": ""
+    },
+    "categories": [
+        21
+    ],
+    "tags": [
+        42,
+        420
+    ],
+    "class_list": [
+        "post-6627",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-victims",
+        "tag-sderot",
+        "tag-sderot-police-station"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 6627
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/6627",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/31"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=6627"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 2,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/6627/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 16497,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/6627/revisions/16497"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/6631"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=6627"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=6627"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=6627"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

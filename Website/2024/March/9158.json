@@ -1,0 +1,122 @@
+{
+    "id": 3650,
+    "date": "2024-03-18T03:04:56",
+    "date_gmt": "2024-03-18T01:04:56",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9158/"
+    },
+    "modified": "2024-03-18T03:04:56",
+    "modified_gmt": "2024-03-18T01:04:56",
+    "slug": "9158",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9158/",
+    "title": {
+        "rendered": "&#8220;Inside the IDF&#8217;s Humanitarian Operation in Shifa Hospital: Targeting Terrorism While Safeguarding Civilians&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces are currently conducting a targeted operation in Shifa Hospital, following intelligence information about the presence of senior Hamas figures in the area who use the hospital to manage and carry out terror activities.</p>\n<p>The forces operating in the area have been prepared for the mission and were well instructed in advance about the importance of avoiding harm to citizens, sick people, medical teams, and medical equipment. Even during the operation, IDF ensures the continuity of the hospital operation, and brought Arabic speakers to the area, so they can talk with the patients staying in the hospital. IDF medics are prepared to assist those who need it. Patients and medical staff are not required to leave the hospital, but there is a passage for citizens to leave from the area.</p>\n<p>Also, as the operation continues, and after ensuring that there is no danger to IDF forces, the IDF will continue its humanitarian efforts and provide food, water, and additional supplies to the patients and citizens in the complex.</p>\n<p>The IDF will continue to operate in accordance with international law and against the terrorist organization Hamas, which operates from hospitals and civil infrastructures in a systematic and cynical routine, without distinguishing between the civilian population and terrorists of the organization.</p>\n<p>Included are statements by IDF Spokesperson, Brigadier General Daniel Haggai on the topic: https://bit.ly/48SLxfK</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces are currently conducting a targeted operation in Shifa Hospital, following intelligence information about the presence of senior <a  href=\"/hamas\">Hamas</a> figures in the area who use the hospital to manage and carry out terror activities. The forces operating in the area have been prepared for the mission and were well instructed in advance about the importance of avoiding harm to citizens, sick people, medical teams, and medical equipment. Even during the operation, IDF ensures the continuity of the hospital operation, and brought Arabic speakers to the area, so they can talk with the patients staying in the hospital.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3650",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3650
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3650",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3650"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3650/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3650"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3650"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3650"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

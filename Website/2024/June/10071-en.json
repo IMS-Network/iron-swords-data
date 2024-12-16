@@ -1,0 +1,124 @@
+{
+    "id": 9038,
+    "date": "2024-06-10T16:43:04",
+    "date_gmt": "2024-06-10T13:43:04",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10071-en/"
+    },
+    "modified": "2024-06-10T16:43:04",
+    "modified_gmt": "2024-06-10T13:43:04",
+    "slug": "10071-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10071-en/",
+    "title": {
+        "rendered": "&#8220;Discover the Ofer: A Closer Look at the Flight School&#8217;s 3.6-Meter Helicopter&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Have you ever seen a &#8216;Ofer&#8217; at a height of 3.6 meters?<br />\nIt&#8217;s time to get to know closely the new helicopter of the Flight School.<br />\nhttps://www.idf.il/207814</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Have you ever seen a &#8216;Ofer&#8217; at a height of 3.6 meters? It&#8217;s time to get to know closely the new helicopter of the Flight School. https://www.idf.il/207814</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9038",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9038,
+        "he": 9039,
+        "ru": 9040
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9038",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9038"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9038/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9038"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9038"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9038"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

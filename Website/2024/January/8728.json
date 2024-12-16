@@ -1,0 +1,122 @@
+{
+    "id": 4072,
+    "date": "2024-01-29T11:54:32",
+    "date_gmt": "2024-01-29T09:54:32",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8728/"
+    },
+    "modified": "2024-01-29T11:54:32",
+    "modified_gmt": "2024-01-29T09:54:32",
+    "slug": "8728",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8728/",
+    "title": {
+        "rendered": "&#8220;IDF Forces Thwart Stabbing Attack in Teqoa: Terrorist Neutralized&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF soldiers neutralized a terrorist who attempted to carry out a stabbing attack against them while on guard at their post in the Arab region of Teqoa.</p>\n<p>A short time ago, a terrorist armed with a knife tried to stab IDF soldiers who were stationed at a military post near the Arab Teqoa in the Etzion Brigade. Soldiers from the Tabor Battalion engaged and responded by shooting at the armed terrorist and neutralizing him. Our forces were not injured. </p>\n<p>Attached is a photo of the knife used by the terrorist: https://IDFANC.activetrail.biz/ANC2901202472874182</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF soldiers neutralized a terrorist who attempted to carry out a stabbing attack against them while on guard at their post in the Arab region of Teqoa. A short time ago, a terrorist armed with a knife tried to stab IDF soldiers who were stationed at a military post near the Arab Teqoa in the Etzion Brigade. Soldiers from the Tabor Battalion engaged and responded by shooting at the armed terrorist and neutralizing him. Our forces were not injured. Attached is a photo of the knife used by the terrorist: https://IDFANC.activetrail.biz/ANC2901202472874182</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4072",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4072
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4072",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4072"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4072/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4072"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4072"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4072"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

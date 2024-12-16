@@ -1,0 +1,122 @@
+{
+    "id": 4625,
+    "date": "2023-12-08T12:38:28",
+    "date_gmt": "2023-12-08T10:38:28",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8167/"
+    },
+    "modified": "2023-12-08T12:38:28",
+    "modified_gmt": "2023-12-08T10:38:28",
+    "slug": "8167",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8167/",
+    "title": {
+        "rendered": "&#8220;IDF Unearths and Neutralizes Terrorist Infrastructure at Al-Azhar University: An Inside Look at Underground Warfare Tactics&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Underground infrastructure and warfare equipment; The activities of the Combat Intelligence Collection battalion at Al-Azhar University in Rimal</p>\n<p>IDF soldiers from the Engineering Reserve Battalion 749, the Combat Intelligence Collection battalion, destroyed yesterday (Thursday) buildings including terrorist infrastructure that were used for Hamas military activity at Al-Azhar University in the Rimal neighborhood of the Gaza Strip.</p>\n<p>Enemy infrastructure was identified within the university compound including underground tunnels originating from the university yard and extending to a school approximately one kilometer away. Additionally, many means of warfare were discovered including improvised explosive devices, rocket parts, launchers, systems for activating explosives, and various technological devices that have been transferred for intelligence investigation. The findings on the ground indicate that the terrorist organization Hamas exploited the university building for fighting against our forces.</p>\n<p>In addition, IDF reservists from Division 14 raided an observation post of the terrorist organization Hamas in the area of Shata Hospital, where around 200 communication devices and dozens of cameras were identified. Within the observation post, a battle pit, armories, grenades, a clipping post, military equipment, and shooting debris were found.</p>\n<p>Attached are photos of the warfare equipment found in the university area: https://IDFANC.activetrail.biz/ANC07122023.56987</p>\n<p>Also attached are photos of the equipment and means of warfare found at the observation post and the discovered battle pit: https://IDFANC.activetrail.biz/ANC07122023.5645</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Underground infrastructure and warfare equipment; The activities of the Combat Intelligence Collection battalion at Al-Azhar University in Rimal IDF soldiers from the Engineering Reserve Battalion 749, the Combat Intelligence Collection battalion, destroyed yesterday (Thursday) buildings including terrorist infrastructure that were used for <a  href=\"/hamas\">Hamas</a> military activity at Al-Azhar University in the Rimal neighborhood of the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. Enemy infrastructure was identified within the university compound including underground tunnels originating from the university yard and extending to a school approximately one kilometer away. Additionally, many means of warfare were discovered including improvised explosive devices, rocket parts, launchers, systems for activating</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4625",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4625
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4625",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4625"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4625/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4625"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4625"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4625"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

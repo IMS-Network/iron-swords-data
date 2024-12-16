@@ -1,0 +1,124 @@
+{
+    "id": 8078,
+    "date": "2024-07-08T10:02:12",
+    "date_gmt": "2024-07-08T07:02:12",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10396-en/"
+    },
+    "modified": "2024-07-08T10:02:12",
+    "modified_gmt": "2024-07-08T07:02:12",
+    "slug": "10396-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10396-en/",
+    "title": {
+        "rendered": "&#8220;IDF Targets Hamas in Gaza: Operations at UNRWA Headquarters Amid Rising Tensions&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Following intelligence information about the use of Hamas operatives and the presence of terrorist infrastructures: the forces of Division 99 are currently operating in the city of Gaza, including at the UNRWA headquarters located in the area.</p>\n<p>During the night, IDF and Shin Bet forces under the command of Division 99 began operations to thwart terrorism in the Gaza City area, including at the UNRWA headquarters located in the region.</p>\n<p>The forces&#8217; activity in the area began following intelligence information about the presence of terrorist infrastructures belonging to the Hamas and PIJ organizations, including operatives, weaponry, and rooms for detention and interrogation.</p>\n<p>The IDF has previously operated in the area, eliminating and arresting many Hamas operatives and destroying an extensive underground route that ran beneath the complex.</p>\n<p>At the beginning of the operation, the IDF announced and warned civilians about the activity in the area and a designated route will be opened for the exit of uninvolved civilians from the area.</p>\n<p>The IDF will continue to operate in accordance with international law and against the Hamas and PIJ terrorist organizations, which systematically and cynically operate from civilian infrastructures, including UNRWA compounds, which they use to plan and carry out terrorist actions against the State of Israel.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Following intelligence information about the use of <a  href=\"/hamas\">Hamas</a> operatives and the presence of terrorist infrastructures: the forces of Division 99 are currently operating in the city of <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>, including at the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/unrwa/\">UNRWA</a> headquarters located in the area. During the night, IDF and Shin Bet forces under the command of Division 99 began operations to thwart terrorism in the Gaza City area, including at the UNRWA headquarters located in the region. The forces&#8217; activity in the area began following intelligence information about the presence of terrorist infrastructures belonging to the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> and PIJ organizations, including operatives, weaponry, and rooms</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8078",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8078,
+        "he": 8079,
+        "ru": 8080
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8078",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8078"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8078/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8078"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8078"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8078"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

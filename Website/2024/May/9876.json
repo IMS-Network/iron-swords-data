@@ -1,0 +1,122 @@
+{
+    "id": 2949,
+    "date": "2024-05-26T16:18:02",
+    "date_gmt": "2024-05-26T13:18:02",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9876/"
+    },
+    "modified": "2024-05-26T16:18:02",
+    "modified_gmt": "2024-05-26T13:18:02",
+    "slug": "9876",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9876/",
+    "title": {
+        "rendered": "&#8220;IDF Neutralizes Hezbollah Terrorists: Detailed Coverage of Recent Operations in Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Two swift closures of the circle recently; documentation: The IDF eliminated Hezbollah terrorists</p>\n<p>Earlier today, an aircraft of the Air Force and the Fire Center of Brigade 146 identified a Hezbollah terrorist emerging from the organization&#8217;s military building in the al-Nakoura area.<br />\nShortly afterwards, a quick closure of the loop was conducted, within which the aircraft attacked and eliminated the terrorist. </p>\n<p>In addition, not long ago, two additional Hezbollah terrorists were identified operating in the Aita al-Shaab area. </p>\n<p>Today, about 15 launches were identified from Lebanese territory to the Shlomi area, and several additional launches to different areas in the north of the country, with no casualties.<br />\nThe IDF forces attacked the sources of the fire. </p>\n<p>Attached is documentation of the elimination of the terrorists: https://bit.ly/3X0lBMT</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Two swift closures of the circle recently; documentation: The IDF eliminated <a  href=\"/hezbollah\">Hezbollah</a> terrorists Earlier today, an aircraft of the Air Force and the Fire Center of Brigade 146 identified a <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist emerging from the organization&#8217;s military building in the al-Nakoura area. Shortly afterwards, a quick closure of the loop was conducted, within which the aircraft attacked and eliminated the terrorist. In addition, not long ago, two additional Hezbollah terrorists were identified operating in the Aita al-Shaab area. Today, about 15 launches were identified from Lebanese territory to the Shlomi area, and several additional launches to different areas</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2949",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2949
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2949",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2949"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2949/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2949"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2949"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2949"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

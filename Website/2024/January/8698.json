@@ -1,0 +1,122 @@
+{
+    "id": 4101,
+    "date": "2024-01-25T09:41:35",
+    "date_gmt": "2024-01-25T07:41:35",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8698/"
+    },
+    "modified": "2024-01-25T09:41:35",
+    "modified_gmt": "2024-01-25T07:41:35",
+    "slug": "8698",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8698/",
+    "title": {
+        "rendered": "&#8220;Decisive IDF Operations: Eliminating Terror Threats in Khan Yunis and Beyond &#8211; A Detailed Account with Exclusive Footage&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Forces from Brigade 98 are deploying on military sites and eliminating dozens of terrorists in the Khan Yunis area; footage: elimination of a terrorist cell that fired at our forces in the central strip.</p>\n<p>Paratroopers operating in the Khan Yunis area have recently stormed terror targets in the Al-Amal neighborhood, killing many terrorists with sniper fire and destroying terror infrastructures and war materials in the area.</p>\n<p>The brigade&#8217;s fire department identified four armed terrorists moving towards the soldiers, guiding an Air Force aircraft to strike and kill them.</p>\n<p>In another operation in the area, the Fire Complex of the Commando Brigade identified six terrorists carrying RPGs close to the soldiers, and in response guided an Air Force aircraft to strike and kill them.</p>\n<p>The Maglan unit soldiers stormed a number of terror targets including military headquarters where they found many weapons and killed terrorists in close-range firing.</p>\n<p>In the centre of the Gaza strip as part of the activity of the Yiftach Brigade, forces stormed a number of military buildings in the area. During one of the raids, the brigade&#8217;s observation squad identified terrorists hiding in a military building in the area and fired at the soldiers. A few minutes later, the brigade&#8217;s fire department guided an air force combat helicopter to attack and kill the terrorists.</p>\n<p>In the North of the Gaza strip, Combat Team of the 5th Brigade operated. The soldiers killed several terrorists and found war materials in the area.</p>\n<p>Attached is footage from the IDF&#8217;s attacks in the strip: https://bit.ly/496hUrN</p>\n<p>Attached is footage from the attack on a military building from which terrorists shot at IDF soldiers: https://bit.ly/3SwSMEb</p>\n<p>Attached are pictures from the IDF&#8217;s activities in the strip: https://IDFANC.activetrail.biz/ANC250120247897838</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Forces from Brigade 98 are deploying on military sites and eliminating dozens of terrorists in the Khan Yunis area; footage: elimination of a terrorist cell that fired at our forces in the central strip. Paratroopers operating in the Khan Yunis area have recently stormed terror targets in the Al-Amal neighborhood, killing many terrorists with sniper fire and destroying terror infrastructures and war materials in the area. The brigade&#8217;s fire department identified four armed terrorists moving towards the soldiers, guiding an Air Force aircraft to strike and kill them. In another operation in the area, the Fire Complex of</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4101",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4101
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4101",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4101"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4101/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4101"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4101"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4101"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

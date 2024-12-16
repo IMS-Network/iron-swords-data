@@ -1,0 +1,122 @@
+{
+    "id": 4381,
+    "date": "2023-12-26T11:53:44",
+    "date_gmt": "2023-12-26T09:53:44",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8412/"
+    },
+    "modified": "2023-12-26T11:53:44",
+    "modified_gmt": "2023-12-26T09:53:44",
+    "slug": "8412",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8412/",
+    "title": {
+        "rendered": "&#8220;IDF Thwarts Terrorism: Night Raid Uncovers Bomb Factory and Seizes 30+ Weapons in Nor Al-Shams Refugee Camp&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF soldiers, the ISA, and border police operated last night in an operation in the Nor Al-Shams refugee camp in the Menashe Brigade sector, dismantling a bomb-making factory and confiscating over 30 weapons; 33 wanted individuals were arrested throughout Judea and Samaria and in the Jordan Valley and Valleys Brigade sectors.</p>\n<p>Reserve IDF soldiers, including engineering forces, worked throughout the night together with the border police and ISA on an operation to thwart terrorism in the Nor Al-Shams refugee camp in the Menashe Brigade sector. As part of the operation, engineering tools exposed and dismantled explosive devices under and beside roads intended for targeting our forces. Additionally, in sweeps of a building, a bomb-making factory was found where dozens of ready-to-use improvised explosive devices and materials for preparing devices were destroyed. Additionally, over 30 weapons, improvised rockets, and other war materials were also confiscated from the building. The suspect found at the location of the bomb-making factory and war materials was arrested.</p>\n<p>During the operation, armed individuals shot and threw explosives at the soldiers who returned fire. An IDF soldier was lightly injured by shrapnel and was transported for medical treatment at a hospital; his family was informed.</p>\n<p>In the city of Al-Bira in the Benjamin Brigade sector, Khaldah Jarrar, a terrorist suspect serving as the head of the popular front in Judea and Samaria, was arrested. Alongside her, senior popular front activists were arrested in the Ramallah Benjamin area, including notable activists Rami Fadayel, Hassan Shtayeh, and Rashad Karageh.</p>\n<p>The arrested suspects and confiscated war materials were handed over for further processing by the security forces.</p>\n<p>So far since the beginning of the war, approximately 2,550 suspects have been arrested across the Judea and Samaria division and the Jordan Valley and Valleys Brigade sectors, about 1,300 of whom are affiliated with the terrorist organization Hamas.</p>\n<p>Attached are pictures of the war materials found in the Nor Al-Shams refugee camp: https://IDFANC.activetrail.biz/ANC261220239478942459</p>\n<p>Attached is footage of the destruction of the bomb-making factory and dozens of war materials that were found and confiscated: https://bit.ly/48xKwd8.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF soldiers, the ISA, and border police operated last night in an operation in the Nor Al-Shams refugee camp in the Menashe Brigade sector, dismantling a bomb-making factory and confiscating over 30 weapons; 33 wanted individuals were arrested throughout Judea and Samaria and in the Jordan Valley and Valleys Brigade sectors. Reserve IDF soldiers, including engineering forces, worked throughout the night together with the border police and ISA on an operation to thwart terrorism in the Nor Al-Shams refugee camp in the Menashe Brigade sector. As part of the operation, engineering tools exposed and dismantled explosive devices under</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4381",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4381
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4381",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4381"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4381/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4381"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4381"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4381"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

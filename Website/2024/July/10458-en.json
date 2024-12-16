@@ -1,0 +1,124 @@
+{
+    "id": 7892,
+    "date": "2024-07-13T14:52:12",
+    "date_gmt": "2024-07-13T11:52:12",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10458-en/"
+    },
+    "modified": "2024-07-13T14:52:12",
+    "modified_gmt": "2024-07-13T11:52:12",
+    "slug": "10458-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10458-en/",
+    "title": {
+        "rendered": "&#8220;IDF and Shabak Joint Operation: Targeting Hamas Leaders in Precision Airstrike&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint statement from the IDF Spokesperson and the Shabak Spokesperson:</p>\n<p>In a joint operation of the IDF and Shabak, the Air Force and the Southern Command attacked, based on precise intelligence information from Military Intelligence and Shabak, an area where two senior officials of the Hamas terrorist organization and other terrorists were hiding among civilians.<br />\nThe attacked area is an open and forested space, containing several buildings and sheds.</p>\n<p>Attached is a picture of the compound where the senior terrorists and additional terrorists were hiding before and after the attack: https://IDFANC.activetrail.biz/ANC1307202432534564537</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint statement from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a> and the Shabak Spokesperson: In a joint operation of the IDF and Shabak, the Air Force and the Southern Command attacked, based on precise intelligence information from Military Intelligence and Shabak, an area where two senior officials of the <a  href=\"/hamas\">Hamas</a> terrorist organization and other terrorists were hiding among civilians. The attacked area is an open and forested space, containing several buildings and sheds. Attached is a picture of the compound where the senior terrorists and additional terrorists were hiding before and after the attack: https://IDFANC.activetrail.biz/ANC1307202432534564537</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7892",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7892,
+        "he": 7893,
+        "ru": 7894
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7892",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7892"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7892/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7892"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7892"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7892"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

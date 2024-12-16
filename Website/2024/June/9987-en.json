@@ -1,0 +1,124 @@
+{
+    "id": 9290,
+    "date": "2024-06-04T06:35:01",
+    "date_gmt": "2024-06-04T03:35:01",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/9987-en/"
+    },
+    "modified": "2024-06-04T06:35:01",
+    "modified_gmt": "2024-06-04T03:35:01",
+    "slug": "9987-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9987-en/",
+    "title": {
+        "rendered": "&#8220;IDF Thwarts Terror Attack: Two Armed Assailants Neutralized in Tulkarm&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Two armed terrorists were eliminated in the Tulkarm area before carrying out a shooting attack against Israeli communities in the region.</p>\n<p>During the night (Monday), two armed terrorists approached the security barrier with the intention of carrying out a shooting attack against Israeli communities from the direction of Tulkarm in the Menashe Brigade area. An ambush by fighters of Unit 636 in the area eliminated the terrorists and confiscated the weapons they intended to use.</p>\n<p>IDF soldiers are always acting to thwart any attempt to harm the citizens of the State of Israel.</p>\n<p>Attached is a photo of the confiscated weapon: https://idfanc.activetrail.biz/ANC02062024874575</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Two armed terrorists were eliminated in the Tulkarm area before carrying out a shooting attack against Israeli communities in the region. During the night (Monday), two armed terrorists approached the security barrier with the intention of carrying out a shooting attack against Israeli communities from the direction of Tulkarm in the Menashe Brigade area. An ambush by fighters of Unit 636 in the area eliminated the terrorists and confiscated the weapons they intended to use. IDF soldiers are always acting to thwart any attempt to harm the citizens of the State of <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>. Attached is a photo of</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9290",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9290,
+        "he": 9291,
+        "ru": 9292
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9290",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9290"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9290/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9290"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9290"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9290"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 4084,
+    "date": "2024-01-27T17:26:59",
+    "date_gmt": "2024-01-27T15:26:59",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8716/"
+    },
+    "modified": "2024-01-27T17:26:59",
+    "modified_gmt": "2024-01-27T15:26:59",
+    "slug": "8716",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8716/",
+    "title": {
+        "rendered": "&#8220;IDF Launches Successful Strikes Against Hezbollah Targets in Lebanon: In-Depth Coverage and Analysis&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson: </p>\n<p>A military structure alongside additional terror targets; IDF attacked in Lebanese territory</p>\n<p>A short while ago, IDF fighter jets attacked a number of terrorist targets of the Hezbollah terrorist organization in Lebanon.</p>\n<p>Among the targets attacked were a military post and a military building in the Layda and Marwahin areas, which served the organization&#8217;s terrorists alongside other terrorist infrastructure in the Ayta ash-Shab area.</p>\n<p>In addition, following the warning about the penetration of a hostile aircraft in the north of the country earlier today, air defense fighters successfully intercepted a suspected aerial target in Lebanon that was allegedly making its way into the country.</p>\n<p>Also, during the day several launches were identified crossing from Lebanon into the north of the country.</p>\n<p>Attached is footage from the attacks: https://bit.ly/47UzPR8</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: A military structure alongside additional terror targets; IDF attacked in Lebanese territory A short while ago, IDF fighter jets attacked a number of terrorist targets of the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization in Lebanon. Among the targets attacked were a military post and a military building in the Layda and Marwahin areas, which served the organization&#8217;s terrorists alongside other terrorist infrastructure in the Ayta ash-Shab area. In addition, following the warning about the penetration of a hostile aircraft in the north of the country earlier today, air defense fighters successfully intercepted a suspected aerial target in Lebanon that was allegedly</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4084",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4084
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4084",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4084"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4084/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4084"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4084"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4084"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

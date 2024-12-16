@@ -1,0 +1,122 @@
+{
+    "id": 3755,
+    "date": "2024-03-05T18:55:01",
+    "date_gmt": "2024-03-05T16:55:01",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9048/"
+    },
+    "modified": "2024-03-05T18:55:01",
+    "modified_gmt": "2024-03-05T16:55:01",
+    "slug": "9048",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9048/",
+    "title": {
+        "rendered": "&#8220;IDF Soldier Severely Injured in Stabbing Attack at Yitzhar Junction: Exclusive Details from Scene&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Following the stabbing attack that occurred earlier today (Tuesday) at the major Yitzhar junction in the Samaria Division, an IDF soldier was seriously injured in the attack. The soldier has been evacuated for medical treatment and his family has been updated.</p>\n<p>Attached is a link from First Sergeant A, a platoon commander in Battalion 90, the force commander who neutralized the terrorist in the attack: https://bit.ly/3P6JKN0</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Following the stabbing attack that occurred earlier today (Tuesday) at the major Yitzhar junction in the Samaria Division, an IDF soldier was seriously injured in the attack. The soldier has been evacuated for medical treatment and his family has been updated. Attached is a link from First <a  href=\"https://iron-swords.co.il/t/sergeant/\">Sergeant</a> A, a platoon commander in Battalion 90, the force commander who neutralized the terrorist in the attack: https://bit.ly/3P6JKN0</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3755",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3755
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3755",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3755"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3755/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3755"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3755"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3755"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

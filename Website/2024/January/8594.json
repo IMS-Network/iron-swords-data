@@ -1,0 +1,122 @@
+{
+    "id": 4203,
+    "date": "2024-01-13T21:04:33",
+    "date_gmt": "2024-01-13T19:04:33",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8594/"
+    },
+    "modified": "2024-01-13T21:04:33",
+    "modified_gmt": "2024-01-13T19:04:33",
+    "slug": "8594",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8594/",
+    "title": {
+        "rendered": "&#8220;Air Force Drone Crashes in Tel Aviv: Technical Malfunction Suspected, No Security Threat Anticipated&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>A remotely piloted aircraft of the Air Force fell yesterday (Wednesday) during activity in the maritime area within the country&#8217;s territory due to a technical malfunction. The event is being investigated, there is no fear of an information leak.</p>\n<p>After tracking by Sea Corps and Air Force, part of the aircraft was located on the seashore in Tel Aviv city and was retrieved by security forces. There is no concern for a security event.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: A remotely piloted aircraft of the Air Force fell yesterday (Wednesday) during activity in the maritime area within the country&#8217;s territory due to a technical malfunction. The event is being investigated, there is no fear of an information leak. After tracking by Sea Corps and Air Force, part of the aircraft was located on the seashore in <a  href=\"https://iron-swords.co.il/t/tel-aviv/\">Tel Aviv</a> city and was retrieved by security forces. There is no concern for a security event.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4203",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4203
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4203",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4203"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4203/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4203"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4203"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4203"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

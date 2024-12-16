@@ -1,0 +1,128 @@
+{
+    "id": 3642,
+    "date": "2024-03-18T14:29:17",
+    "date_gmt": "2024-03-18T12:29:17",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9166/"
+    },
+    "modified": "2024-09-04T21:50:52",
+    "modified_gmt": "2024-09-04T18:50:52",
+    "slug": "9166",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9166/",
+    "title": {
+        "rendered": "&#8220;IDF and SHABAK Neutralize Key Hamas Leader in Strategic Operation at Shifa Hospital&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint message from the IDF spokesperson and SHABAK spokesperson:</p>\n<p>During an operation to thwart terror at Shifa Hospital: IDF and SHABAK eliminated the head of the Operations Directorate in the Interior Security of the terror organization Hamas.</p>\n<p>Following intelligence information from SHABAK and AMAN regarding the presence of senior Hamas figures at Shifa Hospital, IDF and SHABAK launched a targeted arrest operation last night. During this operation, the forces eliminated the terrorist, Fa&#8217;ak Mabuch.</p>\n<p>In his role, Mabuch was the head of the Operations Directorate in the Interior Security of the terror organization <a href=\"https://iron-swords.co.il/hamas/\"  data-wpil-monitor-id=\"45\">Hamas</a>. Among other things, Mabuch was responsible for the synchronization of Hamas mechanisms in routine and war situations.</p>\n<p>Mabuch was killed in a firefight with the forces while armed and hiding within the premises of Shifa Hospital from where he conducted terror activities. A large quantity of weapons was found in the room adjacent to where he was eliminated.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint message from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a> and SHABAK spokesperson: During an operation to thwart terror at Shifa Hospital: IDF and SHABAK eliminated the head of the Operations Directorate in the Interior Security of the <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> <a  href=\"/hamas\">Hamas</a>. Following intelligence information from SHABAK and AMAN regarding the presence of senior <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> figures at Shifa Hospital, IDF and SHABAK launched a targeted arrest operation last night. During this operation, the forces eliminated the terrorist, Fa&#8217;ak Mabuch. In his role, Mabuch was the head of the Operations Directorate in the Interior Security of the terror organization Hamas. Among other things, Mabuch was responsible</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3642",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3642
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3642",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3642"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3642/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 17467,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3642/revisions/17467"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3642"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3642"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3642"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

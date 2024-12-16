@@ -1,0 +1,122 @@
+{
+    "id": 4593,
+    "date": "2023-12-10T16:15:05",
+    "date_gmt": "2023-12-10T14:15:05",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8200/"
+    },
+    "modified": "2023-12-10T16:15:05",
+    "modified_gmt": "2023-12-10T14:15:05",
+    "slug": "8200",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8200/",
+    "title": {
+        "rendered": "&#8220;Revival of Golani: Recruitment Day Returns to Shuja&#8217;iyya for November Cycle Soldiers&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Golani returns to Shuja&#8217;iyya on recruitment day for November cycle soldiers:<br />\n&#8220;Almost a decade ago, we lost friends and fighters here. Today is our time&#8221;. Documentation from the battle</p>\n<p>https://www.idf.il/160839</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Golani returns to Shuja&#8217;iyya on recruitment day for November cycle soldiers: &#8220;Almost a decade ago, we lost friends and fighters here. Today is our time&#8221;. Documentation from the battle https://www.idf.il/160839</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4593",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4593
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4593",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4593"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4593/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4593"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4593"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4593"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

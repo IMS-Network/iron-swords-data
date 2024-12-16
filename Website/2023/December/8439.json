@@ -1,0 +1,122 @@
+{
+    "id": 4355,
+    "date": "2023-12-28T16:00:05",
+    "date_gmt": "2023-12-28T14:00:05",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8439/"
+    },
+    "modified": "2023-12-28T16:00:05",
+    "modified_gmt": "2023-12-28T14:00:05",
+    "slug": "8439",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8439/",
+    "title": {
+        "rendered": "&#8220;Decoding War Secrets: How the Intelligence Wing Analyzed 65 Million Files &#038; 500,000 Hamas Documents&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Over 65 million files and 500,000 Hamas documents:<br />\nThis is how the enemy research unit in the intelligence wing has been operating since the beginning of the war<br />\nhttps://www.idf.il/167320</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Over 65 million files and 500,000 <a  href=\"/hamas\">Hamas</a> documents: This is how the enemy research unit in the intelligence wing has been operating since the beginning of the war https://www.idf.il/167320</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4355",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4355
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4355",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4355"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4355/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4355"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4355"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4355"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

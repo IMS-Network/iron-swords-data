@@ -1,0 +1,124 @@
+{
+    "id": 7849,
+    "date": "2024-07-14T17:59:40",
+    "date_gmt": "2024-07-14T14:59:40",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10472-en/"
+    },
+    "modified": "2024-07-14T17:59:40",
+    "modified_gmt": "2024-07-14T14:59:40",
+    "slug": "10472-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10472-en/",
+    "title": {
+        "rendered": "&#8220;IDF Responds to Terror Attack: Injuries Reported at Nir Tzvi Junction&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Earlier today (Sunday), a terrorist carried out an attack at the Nir Tzvi junction near the Tzrifin base in central Israel. Border Police officers who were dispatched to the scene engaged with the terrorist and neutralized him.</p>\n<p>In the attack, an officer and a soldier from the IDF were seriously injured, another IDF soldier was moderately injured, and a cadet in an officers\u2019 course sustained minor injuries.</p>\n<p>The injured soldiers were evacuated to receive medical treatment in a hospital, and their families have been informed.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Earlier today (Sunday), a terrorist carried out an attack at the Nir Tzvi junction near the Tzrifin base in central <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>. Border Police officers who were dispatched to the scene engaged with the terrorist and neutralized him. In the attack, an officer and a soldier from the IDF were seriously injured, another IDF soldier was moderately injured, and a cadet in an officers\u2019 course sustained minor injuries. The injured soldiers were evacuated to receive medical treatment in a hospital, and their families have been informed.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7849",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7849,
+        "he": 7850,
+        "ru": 7851
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7849",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7849"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7849/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7849"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7849"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7849"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

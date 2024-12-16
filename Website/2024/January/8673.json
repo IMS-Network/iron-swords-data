@@ -1,0 +1,122 @@
+{
+    "id": 4126,
+    "date": "2024-01-22T11:21:12",
+    "date_gmt": "2024-01-22T09:21:12",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8673/"
+    },
+    "modified": "2024-01-22T11:21:12",
+    "modified_gmt": "2024-01-22T09:21:12",
+    "slug": "8673",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8673/",
+    "title": {
+        "rendered": "&#8220;15 Suspects Arrested and Terror Funds Seized in Nighttime IDF Operation Across Judea, Samaria, and Jordan Valley&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF soldiers, Shin Bet and Border Police arrested 15 wanted individuals overnight across Judea and Samaria, and in the Jordan Valley and the Valleys Brigade, and have confiscated a significant amount of terror funds.</p>\n<p>Throughout the night, IDF soldiers, Shin Bet and Border Police arrested 15 wanted individuals across Judea and Samaria, and in the Jordan Valley and the Valleys Brigade.</p>\n<p>In the villages of Mitilon and Nazlat Issa in the Manasseh Brigade area, the forces arrested eight wanted individuals and destroyed explosive devices that were found in the area.</p>\n<p>Moreover, in Beitunia in the Binyamin Brigade area, and in Marj Rabah in the Etsion Brigade area, a significant amount of terror funds were confiscated.</p>\n<p>The arrested suspects and the confiscated terror funds were handed over for further handling by security forces. There were no casualties on our side.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF soldiers, Shin Bet and Border Police arrested 15 wanted individuals overnight across Judea and Samaria, and in the Jordan Valley and the Valleys Brigade, and have confiscated a significant amount of terror funds. Throughout the night, IDF soldiers, Shin Bet and Border Police arrested 15 wanted individuals across Judea and Samaria, and in the Jordan Valley and the Valleys Brigade. In the villages of Mitilon and Nazlat Issa in the Manasseh Brigade area, the forces arrested eight wanted individuals and destroyed explosive devices that were found in the area. Moreover, in Beitunia in the Binyamin Brigade area,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4126",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4126
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4126",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4126"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4126/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4126"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4126"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4126"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

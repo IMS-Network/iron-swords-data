@@ -1,0 +1,122 @@
+{
+    "id": 4314,
+    "date": "2024-01-01T18:30:20",
+    "date_gmt": "2024-01-01T16:30:20",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8480/"
+    },
+    "modified": "2024-01-01T18:30:20",
+    "modified_gmt": "2024-01-01T16:30:20",
+    "slug": "8480",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8480/",
+    "title": {
+        "rendered": "&#8220;Brigade 99&#8217;s Heroics: Inside the Gaza City Battle Against Booby-Trapped Buildings and IEDs in Kindergartens&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Attack on a booby-trapped building and locating an IED in a kindergarten:<br />\nThe battle is expanding &#8211; documentation of Brigade 99&#8217;s activities near the city of Gaza.<br />\nhttps://www.idf.il/168654</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Attack on a booby-trapped building and locating an IED in a kindergarten: The battle is expanding &#8211; documentation of Brigade 99&#8217;s activities near the city of <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>. https://www.idf.il/168654</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4314",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4314
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4314",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4314"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4314/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4314"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4314"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4314"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 3163,
+    "date": "2024-05-08T07:37:38",
+    "date_gmt": "2024-05-08T04:37:38",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9658/"
+    },
+    "modified": "2024-05-08T07:37:38",
+    "modified_gmt": "2024-05-08T04:37:38",
+    "slug": "9658",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9658/",
+    "title": {
+        "rendered": "&#8220;IDF&#8217;s Unwavering Night Raids on Hezbollah&#8217;s Terror Targets in Southern Lebanon: An In-depth Analysis&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>During the night, the IDF attacked Hezbollah&#8217;s terror targets in six areas in southern Lebanon.</p>\n<p>Overnight, Air Force fighter jets attacked military buildings of the terrorist organization Hezbollah in southern Lebanon in the areas of Kfar Kila, Aita al-Shaab, Al-Hiam, and Maroun al-Ras.</p>\n<p>In addition, the organization&#8217;s terror infrastructures in the areas of Hula and Ayta ash Shab, in southern Lebanon, were attacked.</p>\n<p>In addition, IDF forces attacked during the night to remove threats in the areas of Tyre Harfa and Al-Jibin.</p>\n<p>Footage from the attacks is attached: https://bit.ly/3wBw8TQ</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: During the night, the IDF attacked <a  href=\"/hezbollah\">Hezbollah</a>&#8217;s terror targets in six areas in southern Lebanon. Overnight, Air Force fighter jets attacked military buildings of the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in southern Lebanon in the areas of Kfar Kila, Aita al-Shaab, Al-Hiam, and Maroun al-Ras. In addition, the organization&#8217;s terror infrastructures in the areas of Hula and Ayta ash Shab, in southern Lebanon, were attacked. In addition, IDF forces attacked during the night to remove threats in the areas of Tyre Harfa and Al-Jibin. Footage from the attacks is attached: https://bit.ly/3wBw8TQ</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3163",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3163
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3163",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3163"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3163/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3163"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3163"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3163"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

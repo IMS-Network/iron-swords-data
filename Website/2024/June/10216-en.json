@@ -1,0 +1,124 @@
+{
+    "id": 8606,
+    "date": "2024-06-23T14:15:07",
+    "date_gmt": "2024-06-23T11:15:07",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10216-en/"
+    },
+    "modified": "2024-06-23T14:15:07",
+    "modified_gmt": "2024-06-23T11:15:07",
+    "slug": "10216-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10216-en/",
+    "title": {
+        "rendered": "&#8220;IDF&#8217;s Givati Brigade: Precision Airstrikes and Targeted Operations in Rafah&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Elimination of terrorists from the air and locating shafts:<br />\nGivati Brigade conducts operations against terror targets in Rafah<br />\nhttps://www.idf.il/210494</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Elimination of terrorists from the air and locating shafts: <a  href=\"https://iron-swords.co.il/t/givati-brigade/\">Givati Brigade</a> conducts operations against terror targets in Rafah https://www.idf.il/210494</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8606",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8606,
+        "he": 8607,
+        "ru": 8608
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8606",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8606"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8606/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8606"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8606"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8606"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

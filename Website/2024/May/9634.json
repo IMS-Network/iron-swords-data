@@ -1,0 +1,122 @@
+{
+    "id": 3187,
+    "date": "2024-05-06T09:39:46",
+    "date_gmt": "2024-05-06T06:39:46",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9634/"
+    },
+    "modified": "2024-05-06T09:39:46",
+    "modified_gmt": "2024-05-06T06:39:46",
+    "slug": "9634",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9634/",
+    "title": {
+        "rendered": "&#8220;Surviving the Holocaust: An Inspiring Tale of Resilience and Legacy&#8221;"
+    },
+    "content": {
+        "rendered": "<p>&#8220;I didn&#8217;t escape the Holocaust, I survived it&#8221;:<br />\nIn Birkenau, May &#8217;45, Menachem heard a promise over the loudspeaker. Today, he sits next to his grandson who is fighting on his behalf<br />\nhttps://www.idf.il/195648</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>&#8220;I didn&#8217;t escape the <a  href=\"https://iron-swords.co.il/t/holocaust/\">Holocaust</a>, I survived it&#8221;: In Birkenau, May &#8217;45, Menachem heard a promise over the loudspeaker. Today, he sits next to his grandson who is fighting on his behalf https://www.idf.il/195648</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3187",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3187
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3187",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3187"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3187/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3187"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3187"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3187"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "id": 17822,
+    "date": "2024-09-26T08:04:46",
+    "date_gmt": "2024-09-26T05:04:46",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=17822"
+    },
+    "modified": "2024-09-26T09:03:11",
+    "modified_gmt": "2024-09-26T06:03:11",
+    "slug": "humanitarian-emergency-in-lebanon",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/fixed/humanitarian-emergency-in-lebanon/",
+    "title": {
+        "rendered": "UNHCR: \u05f4Humanitarian emergency in Lebanon\u05f4"
+    },
+    "content": {
+        "rendered": "\n<p>UNHCR\u2019s recent announcement on ramping up support in Lebanon due to the &#8220;humanitarian emergency&#8221; underscores a significant discrepancy in their response to the crisis in the region. While the plight of Lebanese civilians certainly warrants international attention and aid, it is critical to highlight the context in which this crisis has unfolded and the UNHCR\u2019s glaring omission in their narrative.</p>\n\n\n\n<p>For nearly a year, Hezbollah has relentlessly attacked northern Israel, targeting 2 million civilians with continuous bombings. This aggression forced the IDF to initiate Operation Northern Arrows to defend these civilians and facilitate the return of approximately 100,000 Israelis who had been displaced due to these attacks. Despite the clear and present danger these Israeli civilians faced daily, there was no substantial acknowledgment or condemnation from UNHCR, nor was there a similar call for urgent action to assist these victims.</p>\n\n\n\n<p>Now, as Israel responds to protect its citizens and to push Hezbollah\u2019s threats away from its borders, UNHCR has quickly mobilized to address the repercussions in Lebanon, citing the loss of 558 lives and the displacement of thousands. While every civilian life lost is tragic and demands response, the question arises: Why has the UNHCR remained silent about the terror inflicted on Israeli civilians for almost a year? Where was the call for protection and assistance when Israeli children, women, and men were under siege in their own homes?</p>\n\n\n\n<p>This selective concern contributes to a skewed portrayal of the conflict, suggesting a bias that undermines the UNHCR&#8217;s role as a neutral humanitarian organization. By focusing solely on the effects of Israeli defensive actions while ignoring the causative context of Hezbollah\u2019s unprovoked aggression, UNHCR is not only failing the Israeli civilians but also misrepresenting the dynamics of the conflict.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>With more than 558 lives lost and thousands displaced, urgent action is needed to protect civilians and provide assistance to those affected.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 17749,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 343,
+        "footnotes": ""
+    },
+    "categories": [
+        343
+    ],
+    "tags": [
+        1586
+    ],
+    "class_list": [
+        "post-17822",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-fixed",
+        "tag-northern-arrows"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 17822
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/17822",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=17822"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/17822/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 17823,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/17822/revisions/17823"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/17749"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=17822"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=17822"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=17822"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 4096,
+    "date": "2024-01-25T18:00:07",
+    "date_gmt": "2024-01-25T16:00:07",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8703/"
+    },
+    "modified": "2024-01-25T18:00:07",
+    "modified_gmt": "2024-01-25T16:00:07",
+    "slug": "8703",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8703/",
+    "title": {
+        "rendered": "&#8220;Close-Range Combat in Khan Younis: Paratroopers and Precise Sniper Shots in the El Amal Neighborhood&#8221;"
+    },
+    "content": {
+        "rendered": "<p>They expanded their fighting to the &#8216;El Amal&#8217; neighborhood in Khan Younis:<br />\nParatroopers are engaging in close-range battles with terrorists. Documenting the moment of a precise sniper shot.<br />\nhttps://www.idf.il/176254</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>They expanded their fighting to the &#8216;El Amal&#8217; neighborhood in Khan Younis: Paratroopers are engaging in close-range battles with terrorists. Documenting the moment of a precise sniper shot. https://www.idf.il/176254</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4096",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4096
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4096",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4096"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4096/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4096"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4096"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4096"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

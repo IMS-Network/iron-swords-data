@@ -1,0 +1,122 @@
+{
+    "id": 3218,
+    "date": "2024-05-01T19:40:03",
+    "date_gmt": "2024-05-01T16:40:03",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9603/"
+    },
+    "modified": "2024-05-01T19:40:03",
+    "modified_gmt": "2024-05-01T16:40:03",
+    "slug": "9603",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9603/",
+    "title": {
+        "rendered": "&#8220;Israeli Air Force Neutralizes Terrorists and Mortar Launch Sites in Central Gaza Strip: A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>An aircraft of the Air Force eliminated several terrorists while they were firing mortars at our forces and attacked the launch areas.</p>\n<p>Earlier today, several mortar launches were identified against IDF forces operating in the center of the Gaza Strip.<br />\nAn aircraft of the Israeli Air Force, in collaboration with the Artillery Corps of Brigade 99, eliminated the terrorists who carried out the launches, attacked the launch area and a terror infrastructure in the area, and killed two terrorists operating in a nearby terror infrastructure in the center of the Gaza Strip.</p>\n<p>Earlier today, four fatalities were identified in an open area in the Holit region, no injuries and no damage was caused.</p>\n<p>Attached is documentation of the elimination of the terrorists who fired mortars at our forces: https://bit.ly/4dnG2JC.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: An aircraft of the Air Force eliminated several terrorists while they were firing mortars at our forces and attacked the launch areas. Earlier today, several mortar launches were identified against IDF forces operating in the center of the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. An aircraft of the Israeli Air Force, in collaboration with the Artillery Corps of Brigade 99, eliminated the terrorists who carried out the launches, attacked the launch area and a terror infrastructure in the area, and killed two terrorists operating in a nearby terror infrastructure in the center of the Gaza Strip. Earlier today, four fatalities were identified</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3218",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3218
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3218",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3218"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3218/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3218"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3218"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3218"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

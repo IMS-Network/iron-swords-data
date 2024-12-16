@@ -1,0 +1,122 @@
+{
+    "id": 4768,
+    "date": "2023-11-28T19:50:03",
+    "date_gmt": "2023-11-28T17:50:03",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8021/"
+    },
+    "modified": "2023-11-28T19:50:03",
+    "modified_gmt": "2023-11-28T17:50:03",
+    "slug": "8021",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8021/",
+    "title": {
+        "rendered": "&#8220;Inside the IDF&#8217;s Operational Learning Forum: Combat Techniques, Enemy Insights, and Plans for Future Engagements&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The Southern Command conducted yesterday (Monday) an operational learning forum at the Gaza Division led by the commander of the Southern Command, Major General Yaron Finkelman, with the participation of the commanders of the divisions and matriculating brigades. In addition, the head of the Operations Department, Major General Oded Basiuk, the commander of the Ground Forces, Major General Tamir Yadai, and the commander of the Air Force, Major General Tomer Bar, took part in the forum.</p>\n<p>Throughout the day, the brigade commanders presented key takeaways from the fighting so far and the operational plans for the continuation. The commanders discussed combat techniques, operational meaning, the mode of operation of our forces, and insights into enemy activity.</p>\n<p>In addition, as part of the day, a learning performance took place on the subject of fire operation, with the participation of the matriculating brigade commanders and squadron commanders in the Air Force. This forum is a continuation of the operational learning effort throughout the IDF during the lull, and its purpose is to derive insights and takeaways from the fighting until the end of the operation.</p>\n<p>The IDF takes advantage of the operational lull for learning and drawing conclusions, alongside readiness for the continuation of the fighting, approval of plans, and improving the preparedness of the forces.</p>\n<p>Attached is footage from the operational learning forum: https://bit.ly/3Rhi4Xk</p>\n<p>Attached are photos on the subject: https://IDFANC.activetrail.biz/ANC28112023573068</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The Southern Command conducted yesterday (Monday) an operational learning forum at the <a  href=\"https://iron-swords.co.il/t/gaza-division/\">Gaza Division</a> led by the commander of the Southern Command, Major General Yaron Finkelman, with the participation of the commanders of the divisions and matriculating brigades. In addition, the head of the Operations Department, Major General Oded Basiuk, the commander of the Ground Forces, Major General Tamir Yadai, and the commander of the Air Force, Major General Tomer Bar, took part in the forum. Throughout the day, the brigade commanders presented key takeaways from the fighting so far and the operational plans for the continuation. The</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4768",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4768
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4768",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4768"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4768/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4768"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4768"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4768"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

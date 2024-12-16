@@ -1,0 +1,124 @@
+{
+    "id": 7693,
+    "date": "2024-07-18T15:12:08",
+    "date_gmt": "2024-07-18T12:12:08",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10525-en/"
+    },
+    "modified": "2024-07-18T15:12:08",
+    "modified_gmt": "2024-07-18T12:12:08",
+    "slug": "10525-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10525-en/",
+    "title": {
+        "rendered": "&#8220;IDF&#8217;s Major Operation: 9 Arrests and Seized Weapons in Judea and Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces completed a large-scale battalion operation in the villages near Route 90; IDF soldiers, Shin Bet, and Border Police arrested nine wanted individuals throughout the night across Judea and Samaria.</p>\n<p>During the night, IDF forces and Border Police operated in a wide-ranging battalion operation in the area of the Jordan Valley and the Jezreel Valley, during which the soldiers interrogated dozens of suspects and gathered information in the villages near Route 90.</p>\n<p>In the Etzion Brigade, the forces located two handguns, arrested two wanted individuals, and confiscated terrorism-related funds.</p>\n<p>In Bnei Naim and Beit Kahil, the soldiers arrested two wanted individuals and also located and confiscated two handguns. In Beit Likya, within the Ephraim Brigade, and in the village of Tal within the Samaria Brigade, four wanted individuals were arrested, two of whom were inciting terrorism. Another wanted individual was arrested in Nablus.</p>\n<p>The arrested wanted individuals and the confiscated weapons have been transferred for further handling by the security forces; there were no injuries among our forces.</p>\n<p>Since the beginning of the war, approximately 4,400 wanted individuals have been arrested across the Judea and Samaria Division and the Jordan Valley, around 1,850 of whom are affiliated with the Hamas terrorist organization.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces completed a large-scale battalion operation in the villages near Route 90; IDF soldiers, Shin Bet, and Border Police arrested nine wanted individuals throughout the night across Judea and Samaria. During the night, IDF forces and Border Police operated in a wide-ranging battalion operation in the area of the Jordan Valley and the Jezreel Valley, during which the soldiers interrogated dozens of suspects and gathered information in the villages near Route 90. In the Etzion Brigade, the forces located two handguns, arrested two wanted individuals, and confiscated terrorism-related funds. In Bnei Naim and Beit Kahil, the soldiers</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7693",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7693,
+        "he": 7694,
+        "ru": 7695
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7693",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7693"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7693/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7693"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7693"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7693"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

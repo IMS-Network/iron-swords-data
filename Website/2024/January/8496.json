@@ -1,0 +1,122 @@
+{
+    "id": 4298,
+    "date": "2024-01-03T10:19:51",
+    "date_gmt": "2024-01-03T08:19:51",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8496/"
+    },
+    "modified": "2024-01-03T10:19:51",
+    "modified_gmt": "2024-01-03T08:19:51",
+    "slug": "8496",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8496/",
+    "title": {
+        "rendered": "&#8220;IDF Combat Teams Target Terror Objectives: Inside the Operations in Al-Awja, Khan Yunis, and Deir al-Balah&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>*During a mission by the Combat Team of Brigade 5 in Al-Awja, a tunnel shaft was located in a school; the Givati Brigade Combat Team fighters eliminated a terrorist who attempted to place a charge on a tank.*</p>\n<p>In Al-Awja, the brigade 5 Combat Team continues fighting, our fighters, including Armored Corps and sappers, raided major targets in the area, including a tunnel shaft and images of warfare means found in a school. The brigade\u2019s firepower targeted terror objectives, among them lookout posts and rocket-launching sites.</p>\n<p>In Khan Yunis, IDF forces continue with fierce fighting, intensifying their attacks. The brigade Combat Team fighters from Givati identified a terrorist trying to place a charge on a tank, and directed an aircraft that eliminated him and three other terrorists who were in the area. Moreover, fighters discovered means of warfare and a safe, holding hundreds of thousands of shekels, in the house of a notorious terrorist. In addition, an Israeli Air Force fighter jet attacked a warfare production compound in Khan Yunis that belongs to the Palestinian Islamic Jihad terrorist organization, while guided by the Kfir Brigade\u2019s Fire Support Unit.</p>\n<p>In Deir al-Balah, the Nahal Brigade\u2019s Firepower Unit identified a squad of terrorists that operated drones keeping our forces under surveillance in the territory. An IDF UAV swiftly closed the loop, coordinated with artillery forces and the ground forces, it attacked the squad and eliminated the terrorists.</p>\n<p>Attached is a picture of the tunnel shaft and images of the means of warfare found in the school by the Brigade 5 Combat Team: https://IDFANC.activetrail.biz/ANC02012024.2121</p>\n<p>Attached is footage from the operation in the Gaza strip: https://bit.ly/3vssR8s</p>\n<p>Attached is a record from the IDF attacks in the Gaza strip: https://bit.ly/4aIOGRp</p>\n<p>Attached are photos from the operation in the Gaza strip: https://IDFANC.activetrail.biz/ANC03012023.0216549</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: *During a mission by the Combat Team of Brigade 5 in Al-Awja, a tunnel shaft was located in a school; the <a  href=\"https://iron-swords.co.il/t/givati-brigade/\">Givati Brigade</a> Combat Team fighters eliminated a terrorist who attempted to place a charge on a tank.* In Al-Awja, the brigade 5 Combat Team continues fighting, our fighters, including Armored Corps and sappers, raided major targets in the area, including a tunnel shaft and images of warfare means found in a school. The brigade\u2019s firepower targeted terror objectives, among them lookout posts and rocket-launching sites. In Khan Yunis, IDF forces continue with fierce fighting, intensifying their attacks.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4298",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4298
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4298",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4298"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4298/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4298"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4298"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4298"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

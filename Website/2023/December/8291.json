@@ -1,0 +1,122 @@
+{
+    "id": 4502,
+    "date": "2023-12-17T11:10:30",
+    "date_gmt": "2023-12-17T09:10:30",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8291/"
+    },
+    "modified": "2023-12-17T11:10:30",
+    "modified_gmt": "2023-12-17T09:10:30",
+    "slug": "8291",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8291/",
+    "title": {
+        "rendered": "&#8220;IDF Neutralizes Terrorist Threats: Inside the Operation at Nor-a Shams Refugee Camp in Tulkarm&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>In an operation to combat terror in the Nor a-Shams refugee camp in the city of Tulkarm in the Menashe Brigade: aircraft attacked terrorist cells that opened fire, threw explosives, and endangered the forces. During the sweeps, the soldiers located an explosive in a clinic where wanted individuals were hiding.</p>\n<p>Last night, IDF reservists and Border Police operated in an operation to combat terror in the Nor-a Shams refugee camp in Tulkarm under the command of the Menashe Brigade, guided by the Shin Bet and AMAN. During the operation, engineering tools exposed and neutralized explosives below and on the sides of the roads intended to harm our forces. Moreover, they arrested four wanted individuals, found and seized an M-16 weapon and a hunting rifle. Also, during the activity, Lotar soldiers located an explosive inside a clinic in the refugee camp where wanted individuals were hiding.</p>\n<p>During the operation, terrorists shot and threw explosives and Molotov cocktails at our forces who returned fire. Air Force aircraft attacked several armed terrorist cells that opened fire, threw explosives, and endangered the forces. As a result of the attacks, at least four terrorists were killed and additional terrorists were injured. The forces seized ready-to-use explosives found in the terrorist area after the attack.</p>\n<p>So far, since the beginning of the war, about 2400 wanted individuals have been arrested throughout the Judea and Samaria Division and the Jordan Valley and Valleys Brigade, about 1200 of them are affiliated with the Hamas terrorist organization.</p>\n<p>Attached are pictures of the weapons that were found during the operation: https://IDFANC.activetrail.biz/ANC17122023.8445164/9</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: In an operation to combat terror in the Nor a-Shams refugee camp in the city of Tulkarm in the Menashe Brigade: aircraft attacked terrorist cells that opened fire, threw explosives, and endangered the forces. During the sweeps, the soldiers located an explosive in a clinic where wanted individuals were hiding. Last night, IDF reservists and Border Police operated in an operation to combat terror in the Nor-a Shams refugee camp in Tulkarm under the command of the Menashe Brigade, guided by the Shin Bet and AMAN. During the operation, engineering tools exposed and neutralized explosives below and on</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4502",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4502
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4502",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4502"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4502/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4502"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4502"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4502"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

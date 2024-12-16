@@ -1,0 +1,122 @@
+{
+    "id": 3142,
+    "date": "2024-05-09T15:34:27",
+    "date_gmt": "2024-05-09T12:34:27",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9681/"
+    },
+    "modified": "2024-05-09T15:34:27",
+    "modified_gmt": "2024-05-09T12:34:27",
+    "slug": "9681",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9681/",
+    "title": {
+        "rendered": "&#8220;Commemorating Israel&#8217;s Fallen Soldiers: Chief of Staff Pledges Enduring Protection for Jewish People&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The Chief of Staff: &#8220;The memory of all the fallen is engraved in our hearts forever, and our obligation to all is one: to be the protector of our people in their land, home, and a refuge for the Jewish people against any enemy acting against us nearby and afar. In times of war, their legacy strengthens us to do everything in our power and strength to ensure the peace of the state&#8217;s citizens and their security.&#8221;</p>\n<p>Attached is the daily order of the Chief of the General Staff, Lieutenant General Herzl Halevi, in commemoration of Israel&#8217;s Fallen Soldiers Remembrance Day 5784: https://did.li/hPJTY</p>\n<p>Attached are images of The Chief of Staff: https://idfanc.activetrail.biz/ANC838537</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The Chief of Staff: &#8220;The memory of all the fallen is engraved in our hearts forever, and our obligation to all is one: to be the protector of our people in their land, home, and a refuge for the Jewish people against any enemy acting against us nearby and afar. In times of war, their legacy strengthens us to do everything in our power and strength to ensure the peace of the state&#8217;s citizens and their security.&#8221; Attached is the daily order of the Chief of the General Staff, Lieutenant General Herzl Halevi, in commemoration of <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>&#8217;s Fallen</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3142",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3142
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3142",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3142"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3142/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3142"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3142"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3142"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

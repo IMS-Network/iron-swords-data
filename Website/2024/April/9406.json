@@ -1,0 +1,122 @@
+{
+    "id": 3408,
+    "date": "2024-04-10T20:48:58",
+    "date_gmt": "2024-04-10T17:48:58",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9406/"
+    },
+    "modified": "2024-04-10T20:48:58",
+    "modified_gmt": "2024-04-10T17:48:58",
+    "slug": "9406",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9406/",
+    "title": {
+        "rendered": "&#8220;Decoding IDF&#8217;s Strategic Strikes Against Hezbollah: A Detailed Account of Recent Attacks in Southern Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Fighter jets of the air force attacked a military building where Hezbollah terrorists were located; the IDF attacked the terror infrastructure of the organization in southern Lebanon</p>\n<p>A short time ago, fighter jets of the air force attacked a military building in the area of \u200b\u200bAita al-Shaab, where terrorists from the terror organization Hezbollah were staying, along with another terror infrastructure in the region of Al-Khiyam in southern Lebanon. Earlier today, an IDF force carried out a removal of threat in the area of \u200b\u200bAl-Nakura.</p>\n<p>Embedded is footage from the IDF&#8217;s attacks in southern Lebanon: https://bit.ly/3xF7x0z</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Fighter jets of the air force attacked a military building where <a  href=\"/hezbollah\">Hezbollah</a> terrorists were located; the IDF attacked the terror infrastructure of the organization in southern Lebanon A short time ago, fighter jets of the air force attacked a military building in the area of \u200b\u200bAita al-Shaab, where terrorists from the <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> were staying, along with another terror infrastructure in the region of Al-Khiyam in southern Lebanon. Earlier today, an IDF force carried out a removal of threat in the area of \u200b\u200bAl-Nakura. Embedded is footage from the IDF&#8217;s attacks in southern Lebanon: https://bit.ly/3xF7x0z</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3408",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3408
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3408",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3408"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3408/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3408"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3408"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3408"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

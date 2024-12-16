@@ -1,0 +1,124 @@
+{
+    "id": 8873,
+    "date": "2024-06-14T15:34:27",
+    "date_gmt": "2024-06-14T12:34:27",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10126-en/"
+    },
+    "modified": "2024-06-14T15:34:27",
+    "modified_gmt": "2024-06-14T12:34:27",
+    "slug": "10126-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10126-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Terror Bases in Southern Lebanon Following Rocket Attacks&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesman:</p>\n<p>The IDF attacked Hezbollah\u2019s terror infrastructure in southern Lebanon.</p>\n<p>Fighter jets targeted terror infrastructures of the terrorist organization Hezbollah earlier today in the areas of Al-Adaisa and the village of Kila in southern Lebanon.</p>\n<p>Following alerts activated regarding rocket and missile fire in the north of the country at 11:00, approximately 35 launches were identified from Lebanese territory toward the Kiryat Shmonah area and the village of Sald in northern Israel, some of which were intercepted, with no casualties reported. As a result of the launches, a fire broke out in the area of the village of Sald. The IDF responded with artillery fire at the sources of the fire.</p>\n<p>Attached is documentation of the attacks: https://bit.ly/3Vrtokm</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>IDF Spokesman: The IDF attacked <a  href=\"/hezbollah\">Hezbollah</a>\u2019s terror infrastructure in southern Lebanon. Fighter jets targeted terror infrastructures of the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> earlier today in the areas of Al-Adaisa and the village of Kila in southern Lebanon. Following alerts activated regarding rocket and missile fire in the north of the country at 11:00, approximately 35 launches were identified from Lebanese territory toward the Kiryat Shmonah area and the village of Sald in northern <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>, some of which were intercepted, with no casualties reported. As a result of the launches, a fire broke out in the area of the village of Sald.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8873",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8873,
+        "he": 8874,
+        "ru": 8875
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8873",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8873"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8873/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8873"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8873"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8873"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

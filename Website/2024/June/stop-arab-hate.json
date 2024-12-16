@@ -1,0 +1,138 @@
+{
+    "id": 5575,
+    "date": "2024-06-25T23:26:25",
+    "date_gmt": "2024-06-25T20:26:25",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=5575"
+    },
+    "modified": "2024-06-25T23:26:29",
+    "modified_gmt": "2024-06-25T20:26:29",
+    "slug": "stop-arab-hate",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/hamas-supporters/stop-arab-hate/",
+    "title": {
+        "rendered": "Stop Arab Hate"
+    },
+    "content": {
+        "rendered": "\n<p><strong>Stop Arab Hate</strong> is a Palestinian propaganda account on X (formerly known as Twitter). <br>This account attributes actions against Palestinian supporters as Arab hate.</p>\n\n\n\n<p>The account was created shortly after the October 7th massacre and is part of a global digital campaign against Jews and the destruction of the state of Israel. <br>This campaign began while Israel was still recovering from the October 7th massacre, even before Israel had a chance to deploy ground forces in Gaza.</p>\n\n\n\n<p>The <strong>Stop Arab Hate</strong> X account is part of a larger network of accounts and organizations that started operating right after the October 7th massacre. <br>This account primarily takes videos of pro-Hamas and jihad sympathizer protesters, distorts the narrative, and portrays Jews as the &#8220;problem.&#8221;</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Stop Arab Hate is a Palestinian propaganda account on X (formerly known as Twitter). This account attributes actions against Palestinian supporters as Arab hate. The account was created shortly after the <a  href=\"https://iron-swords.co.il/c/october-7th/\">October 7th massacre</a> and is part of a global digital campaign against Jews and the destruction of the state of <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>. This campaign began while Israel was still recovering from the October 7th massacre, even before Israel had a chance to deploy ground forces in <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>. The Stop Arab Hate X account is part of a larger network of accounts and organizations that started operating right after the October</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 5579,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-hams-support",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 12,
+        "footnotes": ""
+    },
+    "categories": [
+        12
+    ],
+    "tags": [
+        33
+    ],
+    "class_list": [
+        "post-5575",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-hamas-supporters",
+        "tag-terror-organization"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 5575
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/5575",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=5575"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/5575/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 5578,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/5575/revisions/5578"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/5579"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=5575"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=5575"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=5575"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

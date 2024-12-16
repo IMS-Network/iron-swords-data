@@ -1,0 +1,122 @@
+{
+    "id": 4114,
+    "date": "2024-01-23T13:29:26",
+    "date_gmt": "2024-01-23T11:29:26",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8685/"
+    },
+    "modified": "2024-01-23T13:29:26",
+    "modified_gmt": "2024-01-23T11:29:26",
+    "slug": "8685",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8685/",
+    "title": {
+        "rendered": "&#8220;Nighttime IDF Operations: Eight Arrests, Weapon Seizures and Terrorist Funds Confiscated across Judea and Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>IDF soldiers, the Israel Security Agency (Shin Bet) and Border Patrol arrested eight wanted individuals overnight across Judea and Samaria. Reserve soldiers also operated simultaneously in the casbah and in the Balata refugee camp in Nablus.</p>\n<p>Throughout the night, IDF soldiers, Shin Bet, and Border Patrol arrested eight wanted individuals across Judea and Samaria and seized weapons and bomb-making materials.</p>\n<p>In the village of Shiokh in the Etzion Brigade and in the city of Hebron in the Judea Brigade, forces seized tens of thousands of shekels intended for terrorist activities.</p>\n<p>IDF reserve soldiers carried out independent operations simultaneously in the casbah and the Balata refugee camp in Nablus.</p>\n<p>In the village of Mazzraa in Ephraim, forces arrested a wanted individual and found weapons. During the operation, an IDF soldier was lightly injured by glass shards and was evacuated for medical treatment in a hospital. His family has been notified.</p>\n<p>In Hirbat Al-Luziya and Dharieyh in the Judea Brigade, forces seized weapons.</p>\n<p>Early this morning, an armed terrorist with a knife approached a military post in the fence area of the settlement of Psagot in the Binyamin Brigade. IDF reserve soldiers from the 7035 Battalion who identified the approaching terrorist, responded with gunfire and neutralized her before she crossed the settlement&#8217;s fence.</p>\n<p>The arrested individuals, weapons, and seized terrorist funds have been transferred for further processing by security forces.</p>\n<p>Since the beginning of the war, about 2,700 wanted individuals have been arrested across the Judea and Samaria Division and the Jordan Valley and Valley Brigades, over 1,300 of whom are affiliated with the Hamas terrorist organization.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: IDF soldiers, the <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> Security Agency (Shin Bet) and Border Patrol arrested eight wanted individuals overnight across Judea and Samaria. Reserve soldiers also operated simultaneously in the casbah and in the Balata refugee camp in Nablus. Throughout the night, IDF soldiers, Shin Bet, and Border Patrol arrested eight wanted individuals across Judea and Samaria and seized weapons and bomb-making materials. In the village of Shiokh in the Etzion Brigade and in the city of Hebron in the Judea Brigade, forces seized tens of thousands of shekels intended for terrorist activities. IDF reserve soldiers carried out independent operations simultaneously</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4114",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4114
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4114",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4114"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4114/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4114"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4114"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4114"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

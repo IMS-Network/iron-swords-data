@@ -1,0 +1,122 @@
+{
+    "id": 4788,
+    "date": "2023-11-26T18:23:19",
+    "date_gmt": "2023-11-26T16:23:19",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8001/"
+    },
+    "modified": "2023-11-26T18:23:19",
+    "modified_gmt": "2023-11-26T16:23:19",
+    "slug": "8001",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8001/",
+    "title": {
+        "rendered": "&#8220;Breaking News: 12 Abducted Persons Returned to Israel &#8211; IDF and Red Cross Collaborate for Successful Rescue&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>*The returning abducted persons are on their way to Israel*</p>\n<p>A short while ago, representatives of the Red Cross transferred 12 abducted persons back into the hands of an elite IDF unit and a Shin Bet force, near the border fence in the central Gaza Strip. They will then make their way to Hatzor base.</p>\n<p>One additional abductee who returned to the country was immediately taken to the hospital.</p>\n<p>At the same time, four abducted persons returned to the country via the Rafah crossing to Egypt, from there they will make their way to our meeting point in Israel.</p>\n<p>IDF representatives are continually updating the families of the abducted persons.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: *The returning abducted persons are on their way to <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>* A short while ago, representatives of the Red Cross transferred 12 abducted persons back into the hands of an elite IDF unit and a Shin Bet force, near the border fence in the central <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. They will then make their way to Hatzor base. One additional abductee who returned to the country was immediately taken to the hospital. At the same time, four abducted persons returned to the country via the Rafah crossing to Egypt, from there they will make their way to our meeting point in</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4788",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4788
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4788",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4788"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4788/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4788"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4788"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4788"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

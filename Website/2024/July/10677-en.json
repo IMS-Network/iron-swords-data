@@ -1,0 +1,124 @@
+{
+    "id": 7240,
+    "date": "2024-07-29T23:47:59",
+    "date_gmt": "2024-07-29T20:47:59",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10677-en/"
+    },
+    "modified": "2024-07-29T23:47:59",
+    "modified_gmt": "2024-07-29T20:47:59",
+    "slug": "10677-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10677-en/",
+    "title": {
+        "rendered": "&#8220;IDF Chief of Staff Addresses Security Concerns at Beit Lid Base Amid Riots&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The Chief of Staff at Beit Lid: &#8220;The IDF supports its soldiers in regular service and reserves. We arrived at Beit Lid because our soldiers are here, and to ensure that nothing more severe happens. The arrival of rioters and attempts to break into bases is serious behavior contrary to the law, bordering on anarchy, harming the IDF, state security, and the war effort.&#8221;</p>\n<p>The Chief of Staff, Lieutenant General Herzl Halevi, visited the &#8220;Beit Lid&#8221; base this evening (Monday) and held a situational assessment following the attempted break-ins at the base with the head of the Human Resources Directorate, Major General Yaniv Asor, the Chief Military Police Officer, Brigadier General Aviv Mishmer, and additional commanders.</p>\n<p>Attached are relevant images: https://IDFANC.activetrail.biz/ANC8775</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The Chief of Staff at Beit Lid: &#8220;The IDF supports its soldiers in regular service and reserves. We arrived at Beit Lid because our soldiers are here, and to ensure that nothing more severe happens. The arrival of rioters and attempts to break into bases is serious behavior contrary to the law, bordering on anarchy, harming the IDF, state security, and the war effort.&#8221; The Chief of Staff, Lieutenant General Herzl Halevi, visited the &#8220;Beit Lid&#8221; base this evening (Monday) and held a situational assessment following the attempted break-ins at the base with the head of the Human</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7240",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7240,
+        "he": 7241,
+        "ru": 7242
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7240",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7240"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7240/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7240"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7240"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7240"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

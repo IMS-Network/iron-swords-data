@@ -1,0 +1,122 @@
+{
+    "id": 3083,
+    "date": "2024-05-15T07:06:08",
+    "date_gmt": "2024-05-15T04:06:08",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9741/"
+    },
+    "modified": "2024-05-15T07:06:08",
+    "modified_gmt": "2024-05-15T04:06:08",
+    "slug": "9741",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9741/",
+    "title": {
+        "rendered": "&#8220;Israeli Air Force Strikes: IDF Eliminates Key Hezbollah Territory Commander in Tyre&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF eliminates a senior territory commander in the &#8220;Southern Front&#8221; of the terrorist organization Hezbollah.</p>\n<p>During the night, the IDF attacked and eliminated, by means of an aircraft of the Air Force, in the area of Tyre, the terrorist Hussein Ibrahim Maki, a senior territory commander in the Southern Front of the terrorist organization Hezbollah. Hussein was responsible for planning and executing many terror plots against the Israeli home front during the conflict.</p>\n<p>As part of his role, he was involved in promoting various plots against the Israeli home front and also previously served as the coastal strip commander in the organization.</p>\n<p>Attached is documentation of the elimination: https://bit.ly/3WGopOX</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF eliminates a senior territory commander in the &#8220;Southern Front&#8221; of the terrorist organization <a  href=\"/hezbollah\">Hezbollah</a>. During the night, the IDF attacked and eliminated, by means of an aircraft of the Air Force, in the area of Tyre, the terrorist Hussein Ibrahim Maki, a senior territory commander in the Southern Front of the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a>. Hussein was responsible for planning and executing many terror plots against the Israeli home front during the conflict. As part of his role, he was involved in promoting various plots against the Israeli home front and also previously served as the coastal strip</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3083",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3083
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3083",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3083"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3083/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3083"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3083"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3083"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

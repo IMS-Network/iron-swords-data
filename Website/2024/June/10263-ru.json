@@ -1,0 +1,124 @@
+{
+    "id": 8467,
+    "date": "2024-06-27T09:27:23",
+    "date_gmt": "2024-06-27T06:27:23",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10263-ru/"
+    },
+    "modified": "2024-06-27T09:27:23",
+    "modified_gmt": "2024-06-27T06:27:23",
+    "slug": "10263-ru",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/ru/idf-updates/10263-ru/",
+    "title": {
+        "rendered": "&#8220;IDF \u0423\u0434\u0430\u0440\u0438\u043b \u043f\u043e \u0425\u0410\u041c\u0410\u0421: \u0410\u0442\u0430\u043a\u0430 \u043d\u0430 \u0448\u043a\u043e\u043b\u0443 \u0432 \u0425\u0430\u043d \u042e\u043d\u0438\u0441\u0435&#8221;"
+    },
+    "content": {
+        "rendered": "<p>spokesman of the IDF:</p>\n<p>The IDF attacked terrorists who were located in a school compound in Khan Younis, which served as a headquarters for Hamas terrorists from where they coordinated terrorist activities against our forces.</p>\n<p>Aircraft and fighter jets of the Air Force, under the guidance of the Southern Command, attacked terrorists in the compound of the &#8220;Al Hassana&#8221; school in the Khan Younis area.<br />\nThe school served as a headquarters for the terrorist organization Hamas, from which Hamas operatives planned, coordinated, and executed many terrorist plots against our forces operating in the Gaza Strip.</p>\n<p>The attack was carefully planned and executed, using precise munitions while avoiding, as much as possible, harm to non-combatants.</p>\n<p>Attached are images from the forces&#8217; activities in the Gaza Strip: https://IDFANC.activetrail.biz/ANC27062024754785478</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>spokesman of the IDF: The IDF attacked terrorists who were located in a school compound in Khan Younis, which served as a headquarters for <a  href=\"/hamas\">Hamas</a> terrorists from where they coordinated terrorist activities against our forces. Aircraft and fighter jets of the Air Force, under the guidance of the Southern Command, attacked terrorists in the compound of the &#8220;Al Hassana&#8221; school in the Khan Younis area. The school served as a headquarters for the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a>, from which Hamas operatives planned, coordinated, and executed many terrorist plots against our forces operating in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. The attack was carefully planned</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        518
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8467",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "ru",
+    "translations": {
+        "ru": 8467,
+        "he": 8466,
+        "en": 8465
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8467",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8467"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8467/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8467"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8467"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8467"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

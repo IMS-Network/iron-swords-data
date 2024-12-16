@@ -1,0 +1,122 @@
+{
+    "id": 4337,
+    "date": "2023-12-30T08:51:15",
+    "date_gmt": "2023-12-30T06:51:15",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8457/"
+    },
+    "modified": "2023-12-30T08:51:15",
+    "modified_gmt": "2023-12-30T06:51:15",
+    "slug": "8457",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8457/",
+    "title": {
+        "rendered": "&#8220;Inside IDF&#8217;s Intense Anti-Terror Operations: Eliminating Threats and Destroying Infrastructure in the Gaza Strip&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF continues its operations in the Gaza Strip. Military facilities and many terrorist infrastructures were attacked from the air; about 30 terrorists were killed in the city of Gaza in less than a day.</p>\n<p>IDF forces continue to operate throughout the Gaza Strip. The fighters are conducting intense battles against terrorists, the Air Force attacks cells and terrorist infrastructures in the direction of the forces, and the Navy supports the forces entrenched in the strip with strikes and fire from the sea.</p>\n<p>In an operation in the Shejaiya area north of the Gaza Strip, fighters from the Collection Battalion 414 identified a group of terrorists operating nearby, including a terrorist armed with an RPG. An aircraft from the Air Force attacked and eliminated the terror cell on the fighter&#8217;s direction.</p>\n<p>As part of the combat team&#8217;s operations of the Reserve Division 14 in the city of Gaza in the last day, the soldiers eliminated scores of terrorists. In four different identifications performed by the forces, more than 15 armed terrorists were killed from the air in less than three hours, and following the battles fought by the soldiers, additional terrorists were killed in the area. </p>\n<p>In the activity of the Combat Team Division 551 in the Beit Lahiya area north of the Strip, reservists from the combat team destroyed two military buildings used by Hamas. Prior to the attack of the buildings, the soldiers located many weapons at the site, including explosives, firearms, military equipment and communication devices.</p>\n<p>Also, in another activity conducted by the forces in the area, the soldiers identified two enemy scouts in a building near the rest of the forces and after certain identification of the terrorists, an armored force fired a tank at the building where the scouts were and eliminated them.</p>\n<p>Attached is documentation from IDF attacks in the Strip: https://bit.ly/3REd6mA</p>\n<p>Attached are pictures from the forces&#8217; activity in the Strip: https://IDFANC.activetrail.biz/ANC30122023897397630</p>\n<p>Attached is documentation from the forces&#8217; activity in the Strip: https://bit.ly/48uX59P</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF continues its operations in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. Military facilities and many terrorist infrastructures were attacked from the air; about 30 terrorists were killed in the city of Gaza in less than a day. IDF forces continue to operate throughout the Gaza Strip. The fighters are conducting intense battles against terrorists, the Air Force attacks cells and terrorist infrastructures in the direction of the forces, and the Navy supports the forces entrenched in the strip with strikes and fire from the sea. In an operation in the Shejaiya area north of the Gaza Strip, fighters from the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4337",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4337
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4337",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4337"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4337/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4337"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4337"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4337"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

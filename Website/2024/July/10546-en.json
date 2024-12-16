@@ -1,0 +1,124 @@
+{
+    "id": 7644,
+    "date": "2024-07-19T17:42:38",
+    "date_gmt": "2024-07-19T14:42:38",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10546-en/"
+    },
+    "modified": "2024-07-19T17:42:38",
+    "modified_gmt": "2024-07-19T14:42:38",
+    "slug": "10546-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10546-en/",
+    "title": {
+        "rendered": "&#8220;IDF and Shin Bet Target Hamas Military Intel Officer in Strategic Airstrike&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint statement from the IDF Spokesperson and the Shin Bet Spokesperson:</p>\n<p>The IDF and Shin Bet eliminated the military intelligence officer of the Gaza City Brigade in the Hamas terrorist organization.</p>\n<p>As part of the joint operation carried out by the IDF and Shin Bet last night (Thursday), in which a fighter jet attacked terrorists located in the UNRWA compound in the Zeitoun area, which served as the headquarters of the Gaza City Brigade of the Hamas terrorist organization; the terrorist Adel Hamdiya, military intelligence officer of the Gaza City Brigade in the organization, was eliminated.</p>\n<p>Hamdiya has been in his position since 2019 and was responsible for operating intelligence collection and building the brigade&#8217;s intelligence picture in preparation for the murderous massacre on October 7.<br />\nDuring the war, he served as the person in charge of directing offensive activities against our forces and developing the intelligence picture regarding the maneuvering forces.</p>\n<p>Additionally, in his role, Hamdiya was responsible for intelligence gathering and situational assessments for senior officials of the Gaza Brigade and for senior officials of the military wing of the Hamas terrorist organization.<br />\nHis department was responsible for promoting operational plans against our maneuvering forces and in front of southern settlements.</p>\n<p>The Hamas terrorist organization systematically violates international law, exploiting civilian institutions and the population as a human shield for terrorist activities.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint statement from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a> and the Shin Bet Spokesperson: The IDF and Shin Bet eliminated the military intelligence officer of the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> City Brigade in the <a  href=\"/hamas\">Hamas</a> terrorist organization. As part of the joint operation carried out by the IDF and Shin Bet last night (Thursday), in which a fighter jet attacked terrorists located in the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/unrwa/\">UNRWA</a> compound in the Zeitoun area, which served as the headquarters of the Gaza City Brigade of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> terrorist organization; the terrorist Adel Hamdiya, military intelligence officer of the Gaza City Brigade in the organization, was eliminated. Hamdiya has been in</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7644",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7644,
+        "he": 7645,
+        "ru": 7646
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7644",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7644"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7644/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7644"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7644"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7644"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

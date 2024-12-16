@@ -1,0 +1,124 @@
+{
+    "id": 8558,
+    "date": "2024-06-24T18:01:39",
+    "date_gmt": "2024-06-24T15:01:39",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10232-en/"
+    },
+    "modified": "2024-06-24T18:01:39",
+    "modified_gmt": "2024-06-24T15:01:39",
+    "slug": "10232-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10232-en/",
+    "title": {
+        "rendered": "&#8220;IDF Chief of Staff Declares Progress Against Rafah Brigade: Key Updates from Gaza Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The Chief of Staff in Rafah: We are approaching the point where we will defeat the Rafah Brigade</p>\n<p>The Chief of Staff, Lieutenant General Herzi Halevi, held a situational assessment last night (Sunday) in the Rafah area of the Gaza Strip with the Commander of the Southern Command, Major General Yaron Finkelman, the Commander of the 162nd Division, Brigadier General Itzik Cohen, brigade commanders, and other commanders.</p>\n<p>Attached is a video of the Chief of Staff&#8217;s remarks: https://bit.ly/4eyXlI6</p>\n<p>Attached are images on the topic: https://IDFANC.activetrail.biz/ANC24061402</p>\n<p>The full statements of the Chief of Staff are attached: &#8220;We are achieving very high results in the fighting in Rafah, and I tell you there is a lot of appreciation for that. This is reflected in both the number of terrorists killed and the destroyed infrastructure underground, in its mapping, its destruction, and the progress made in the underground fighting, which is very complex. The very fact that the 162nd Division now controls the Philadelphi route from the sea to the triangle of the borders between Israel, Gaza, and Egypt is extremely significant for closing the oxygen supply line of Hamas for future smuggling, and we are currently addressing the underground assets. We are definitely approaching the point where we say we have dismantled the Rafah Brigade; it is defeated not in the sense that there are no more terrorists, but in the sense that it cannot operate as a combat unit, it has many casualties, and you will ensure that until the mission is complete here, we will kill as many terrorists as possible and destroy as much infrastructure as we can going forward. A lot of appreciation; what is happening here is very impressive professionally, keep it up.&#8221;</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The Chief of Staff in Rafah: We are approaching the point where we will defeat the Rafah Brigade The Chief of Staff, Lieutenant General Herzi Halevi, held a situational assessment last night (Sunday) in the Rafah area of the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip with the Commander of the Southern Command, Major General Yaron Finkelman, the Commander of the 162nd Division, Brigadier General Itzik Cohen, brigade commanders, and other commanders. Attached is a video of the Chief of Staff&#8217;s remarks: https://bit.ly/4eyXlI6 Attached are images on the topic: https://IDFANC.activetrail.biz/ANC24061402 The full statements of the Chief of Staff are attached: &#8220;We are achieving</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8558",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8558,
+        "he": 8559,
+        "ru": 8560
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8558",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8558"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8558/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8558"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8558"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8558"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

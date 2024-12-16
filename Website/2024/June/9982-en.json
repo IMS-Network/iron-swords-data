@@ -1,0 +1,124 @@
+{
+    "id": 9305,
+    "date": "2024-06-03T17:42:42",
+    "date_gmt": "2024-06-03T14:42:42",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/9982-en/"
+    },
+    "modified": "2024-06-03T17:42:42",
+    "modified_gmt": "2024-06-03T14:42:42",
+    "slug": "9982-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9982-en/",
+    "title": {
+        "rendered": "&#8220;IDF Intercepts Drone Threats: Tensions Rise on Israel-Lebanon Border&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>A short while ago, approximately 30 launches were identified crossing from Lebanese territory towards northern Golan Heights, landing in open areas.</p>\n<p>Following alerts about the penetration of hostile aircraft in the northern region earlier today, air defense fighters intercepted an explosive UAV that crossed from Lebanese territory near the Keren Naftali area. Additionally, another explosive UAV was identified crossing from Lebanon and fell in the area.</p>\n<p>Meanwhile, an explosive drone that crossed from Lebanon fell in the Metula area.</p>\n<p>Shortly thereafter, another alert was activated in the northern region, during which an interceptor was launched towards a suspicious aerial target that crossed into the country from Lebanon; the incident concluded.</p>\n<p>There were no casualties in any of the events.</p>\n<p>During the past few hours, Israeli Air Force aircraft attacked a Hezbollah operative identified in the area of Naqoura. Earlier today, fighter jets of the Israeli Air Force struck a military structure of the terrorist organization Hezbollah in the Haneen area.</p>\n<p>Attached is documentation of the attacks: https://bit.ly/4bIuxLl</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: A short while ago, approximately 30 launches were identified crossing from Lebanese territory towards northern Golan Heights, landing in open areas. Following alerts about the penetration of hostile aircraft in the northern region earlier today, air defense fighters intercepted an explosive UAV that crossed from Lebanese territory near the Keren Naftali area. Additionally, another explosive UAV was identified crossing from Lebanon and fell in the area. Meanwhile, an explosive drone that crossed from Lebanon fell in the Metula area. Shortly thereafter, another alert was activated in the northern region, during which an interceptor was launched towards a suspicious</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9305",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9305,
+        "he": 9306,
+        "ru": 9307
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9305",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9305"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9305/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9305"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9305"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9305"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

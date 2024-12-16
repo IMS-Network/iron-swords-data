@@ -1,0 +1,122 @@
+{
+    "id": 4568,
+    "date": "2023-12-12T08:20:15",
+    "date_gmt": "2023-12-12T06:20:15",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8225/"
+    },
+    "modified": "2023-12-12T08:20:15",
+    "modified_gmt": "2023-12-12T06:20:15",
+    "slug": "8225",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8225/",
+    "title": {
+        "rendered": "&#8220;IDF Targets and Eliminates Rocket-Launching Sites in Gaza: An Inside Look into the Successful Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The Air Force destroyed a rocket-launching site last night as it fired rockets towards the city of Sderot, Duvdevan soldiers discovered around 250 ready-to-use mortars.</p>\n<p>The Air Force attacked a number of rocket-launching sites throughout the Strip in the last day. Soldiers from Brigade 162 in Jabalia, along with soldiers from Border Defense Collection Unit 636, spotted a launching site during the firing of rockets at the city of Sderot. The forces directed an aircraft which attacked and destroyed the launching site.</p>\n<p>Duvdevan soldiers raided a Hamas militants&#8217; building and found around 250 rockets, mortars, and RPG missiles ready to be used. Additional military equipment and weapons were also found in that location. Later on, soldiers from the Givati Brigade destroyed a weapons manufacturing plant and discovered hundreds of grenades, rockets, and LAW missiles.</p>\n<p>The Naval Forces identified and attacked a terrorist cell that fired towards forces operating in the Gaza Strip.</p>\n<p>Attached is footage from the attack on the rocket-launching site and weapons warehouse: https://bit.ly/3RA1cv5</p>\n<p>Attached is footage from the forces\u2019 operation: https://bit.ly/4adG8ll</p>\n<p>Attached is footage from IDF strikes in the Strip: https://bit.ly/4ajsLjq</p>\n<p>Pictures on the topic are attached: https://IDFANC.activetrail.biz/ANC12122023.151981</p>\n<p>Attached is an image of the mortars found by Duvdevan soldiers: https://IDFANC.activetrail.biz/ANC12122023.1871980</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The Air Force destroyed a rocket-launching site last night as it fired rockets towards the city of <a  href=\"https://iron-swords.co.il/t/sderot/\">Sderot</a>, Duvdevan soldiers discovered around 250 ready-to-use mortars. The Air Force attacked a number of rocket-launching sites throughout the Strip in the last day. Soldiers from Brigade 162 in Jabalia, along with soldiers from Border Defense Collection Unit 636, spotted a launching site during the firing of rockets at the city of Sderot. The forces directed an aircraft which attacked and destroyed the launching site. Duvdevan soldiers raided a <a  href=\"/hamas\">Hamas</a> militants&#8217; building and found around 250 rockets, mortars, and RPG missiles</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4568",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4568
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4568",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4568"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4568/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4568"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4568"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4568"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

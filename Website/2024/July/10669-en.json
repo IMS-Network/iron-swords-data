@@ -1,0 +1,124 @@
+{
+    "id": 7264,
+    "date": "2024-07-29T08:48:17",
+    "date_gmt": "2024-07-29T05:48:17",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10669-en/"
+    },
+    "modified": "2024-07-29T08:48:17",
+    "modified_gmt": "2024-07-29T05:48:17",
+    "slug": "10669-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10669-en/",
+    "title": {
+        "rendered": "&#8220;IDF Forces Intensify Combat Operations in Gaza: Key Updates and Airstrike Highlights&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces continue to engage in combat at several locations in the Gaza Strip.</p>\n<p>The combat teams of the Givati and 401 brigades, under the command of Division 162, are fighting in the Rafah area. Over the past day, the forces have eliminated several militants in face-to-face encounters, as well as through airstrike actions conducted by the Air Force.</p>\n<p>The combat teams of the 7th and Paratroopers Brigades, under the command of Division 98, continue to fight in Khan Yunis. Over the last day, the forces, alongside aerial units, have eliminated many militants, including those who fired at our troops, and destroyed terror infrastructure.</p>\n<p>Air Force aircraft and fighter jets attacked approximately 35 terror targets in the Gaza Strip over the past day, including armed terrorist cells, military structures, terror infrastructure, and booby-trapped buildings.</p>\n<p>Attached is documentation from IDF strikes in the Gaza Strip: https://bit.ly/4c5OtqZ</p>\n<p>Attached is documentation from the activities of Division 98 forces in Khan Yunis: https://bit.ly/46mWCWQ</p>\n<p>Attached are photos from the forces&#8217; activities in the Gaza Strip: https://idfanc.activetrail.biz/ANC2907202446978</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces continue to engage in combat at several locations in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. The combat teams of the Givati and 401 brigades, under the command of Division 162, are fighting in the Rafah area. Over the past day, the forces have eliminated several militants in face-to-face encounters, as well as through airstrike actions conducted by the Air Force. The combat teams of the 7th and Paratroopers Brigades, under the command of Division 98, continue to fight in Khan Yunis. Over the last day, the forces, alongside aerial units, have eliminated many militants, including those who fired at</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7264",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7264,
+        "he": 7265,
+        "ru": 7266
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7264",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7264"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7264/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7264"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7264"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7264"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

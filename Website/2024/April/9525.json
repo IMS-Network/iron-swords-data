@@ -1,0 +1,122 @@
+{
+    "id": 3295,
+    "date": "2024-04-21T17:32:39",
+    "date_gmt": "2024-04-21T14:32:39",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9525/"
+    },
+    "modified": "2024-04-21T17:32:39",
+    "modified_gmt": "2024-04-21T14:32:39",
+    "slug": "9525",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9525/",
+    "title": {
+        "rendered": "&#8220;IDF Plans to Demolish Home of Terrorist Behind Fatal Shooting Attack at British Police Junction&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF has announced its intention to demolish and destroy the home of terrorist Morid Dachadcha who carried out the shooting attack at the British police junction.</p>\n<p>Yesterday (Saturday), a notice was delivered regarding the intention to demolish and destroy the home of terrorist Morid Dachadcha, located in the village of Atara. Dachadcha, along with other terrorists, carried out a shooting attack on January 7, 2023, at the British police junction, in which Amar Munir and Dr. Lara Tanus were tragically killed.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF has announced its intention to demolish and destroy the home of terrorist Morid Dachadcha who carried out the shooting attack at the British police junction. Yesterday (Saturday), a notice was delivered regarding the intention to demolish and destroy the home of terrorist Morid Dachadcha, located in the village of Atara. Dachadcha, along with other terrorists, carried out a shooting attack on January 7, 2023, at the British police junction, in which Amar Munir and Dr. Lara Tanus were tragically killed.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3295",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3295
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3295",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3295"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3295/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3295"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3295"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3295"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

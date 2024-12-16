@@ -1,0 +1,122 @@
+{
+    "id": 4796,
+    "date": "2023-11-26T07:38:52",
+    "date_gmt": "2023-11-26T05:38:52",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/7992/"
+    },
+    "modified": "2023-11-26T07:38:52",
+    "modified_gmt": "2023-11-26T05:38:52",
+    "slug": "7992",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/7992/",
+    "title": {
+        "rendered": "&#8220;IDF and Shin Bet Joint Operation: Arrest of Suspected Double Murderer Asama Bani Fadl in Jenin Refugee Camp&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint message from the IDF spokesperson and the Shin Bet spokespersons:</p>\n<p>In a joint operation by the Shin Bet and the IDF last night (Sunday) at the Jenin refugee camp, reservists arrested Asama Bani Fadl as he left the village of Aqraba, near Nablus. Asama is suspected of perpetrating the double murder attack in Hawara in August 2023 in which Saiel-Shai Nigracker and his son Aviad Nir were killed. Asama was arrested armed in a wanted apartment in the Jenin refugee camp. Asama was transferred for further investigation by the Shin Bet. The operation in the Jenin camp is still ongoing at this time.</p>\n<p>Attached is a photo of the weapons found in his apartment: https://IDFANC.activetrail.biz/ANC26112023.07845612.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint message from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a> and the Shin Bet spokespersons: In a joint operation by the Shin Bet and the IDF last night (Sunday) at the Jenin refugee camp, reservists arrested Asama Bani Fadl as he left the village of Aqraba, near Nablus. Asama is suspected of perpetrating the double murder attack in Hawara in August 2023 in which Saiel-Shai Nigracker and his son Aviad Nir were killed. Asama was arrested armed in a wanted apartment in the Jenin refugee camp. Asama was transferred for further investigation by the Shin Bet. The operation in the Jenin camp is still</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4796",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4796
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4796",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4796"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4796/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4796"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4796"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4796"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

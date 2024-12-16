@@ -1,0 +1,124 @@
+{
+    "id": 8258,
+    "date": "2024-07-03T18:09:33",
+    "date_gmt": "2024-07-03T15:09:33",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10333-en/"
+    },
+    "modified": "2024-07-03T18:09:33",
+    "modified_gmt": "2024-07-03T15:09:33",
+    "slug": "10333-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10333-en/",
+    "title": {
+        "rendered": "&#8220;IDF Airstrike Eliminates Key Hezbollah Commander Muhammad Nasser&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF eliminated Muhammad Nasser, commander of the &#8216;Aziz&#8217; unit in the Hezbollah terror organization.</p>\n<p>In an airstrike in the Tyre area today (Wednesday), Muhammad Naama Nasser, the commander of the &#8216;Aziz&#8217; unit in the Hezbollah terror organization, responsible for firing from the southwest region of Lebanon into Israeli territory, was eliminated.</p>\n<p>Nasser held his position since 2016 and led anti-tank missile and rocket fire from southwestern Lebanon targeting the rear of the State of Israel and IDF forces. Additionally, he directed numerous terror plots towards Israel throughout the war and before that, and played key roles in Hezbollah.</p>\n<p>Nasser was the counterpart of Taleb Sami Abdullah, commander of the &#8216;Nazar&#8217; unit, who was eliminated about a month ago. Both were key officials of Hezbollah in the southern Lebanon sector.</p>\n<p>Attached is the identification card of the terrorist Muhammad Naama Nasser: https://idfanc.activetrail.biz/ANC030720249595</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF eliminated Muhammad Nasser, commander of the &#8216;Aziz&#8217; unit in the <a  href=\"/hezbollah\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a>. In an airstrike in the Tyre area today (Wednesday), Muhammad Naama Nasser, the commander of the &#8216;Aziz&#8217; unit in the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terror organization, responsible for firing from the southwest region of Lebanon into Israeli territory, was eliminated. Nasser held his position since 2016 and led anti-tank missile and rocket fire from southwestern Lebanon targeting the rear of the State of <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> and IDF forces. Additionally, he directed numerous terror plots towards Israel throughout the war and before that, and played key roles in</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8258",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8258,
+        "he": 8259,
+        "ru": 8260
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8258",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8258"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8258/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8258"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8258"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8258"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

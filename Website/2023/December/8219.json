@@ -1,0 +1,122 @@
+{
+    "id": 4574,
+    "date": "2023-12-11T18:15:11",
+    "date_gmt": "2023-12-11T16:15:11",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8219/"
+    },
+    "modified": "2023-12-11T18:15:11",
+    "modified_gmt": "2023-12-11T16:15:11",
+    "slug": "8219",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8219/",
+    "title": {
+        "rendered": "&#8220;Inside the Nahal Brigade&#8217;s Unique RPG Training Facility at Jebaliya Mosque: A Deep Dive into Combat Team Activities&#8221;"
+    },
+    "content": {
+        "rendered": "<p>An RPG training facility inside a mosque and many combat means:<br />\nActivity of the combat team soldiers of the Nahal Brigade in Jebaliya<br />\nhttps://www.idf.il/161285</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>An RPG training facility inside a mosque and many combat means: Activity of the combat team soldiers of the <a  href=\"https://iron-swords.co.il/t/nahal-brigade/\">Nahal Brigade</a> in Jebaliya https://www.idf.il/161285</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4574",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4574
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4574",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4574"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4574/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4574"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4574"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4574"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

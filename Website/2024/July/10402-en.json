@@ -1,0 +1,124 @@
+{
+    "id": 8060,
+    "date": "2024-07-08T20:45:45",
+    "date_gmt": "2024-07-08T17:45:45",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10402-en/"
+    },
+    "modified": "2024-07-08T20:45:45",
+    "modified_gmt": "2024-07-08T17:45:45",
+    "slug": "10402-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10402-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Targets: Key Military Structures and Terror Infrastructure Hit in Southern Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Infrastructure for directing terrorism and military structures; the IDF struck Hezbollah terror targets.</p>\n<p>Fighter jets attacked military structures of the terrorist organization Hezbollah in the Maroun al-Ras area in southern Lebanon a short while ago. In addition, fighter jets struck infrastructure for directing terrorism in the Ayta ash-Shab and Hula regions in southern Lebanon.</p>\n<p>Following alerts that were activated a short while ago in the Upper Galilee, nine launches were identified crossing from Lebanese territory and landing in open areas, with no casualties.</p>\n<p>Additionally, following alerts that were activated in the northern part of the country at 5:58 PM and 6:30 PM, about 15 launches were identified crossing from Lebanese territory, some of which were intercepted, with no casualties.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Infrastructure for directing terrorism and military structures; the IDF struck <a  href=\"/hezbollah\">Hezbollah</a> terror targets. Fighter jets attacked military structures of the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in the Maroun al-Ras area in southern Lebanon a short while ago. In addition, fighter jets struck infrastructure for directing terrorism in the Ayta ash-Shab and Hula regions in southern Lebanon. Following alerts that were activated a short while ago in the Upper Galilee, nine launches were identified crossing from Lebanese territory and landing in open areas, with no casualties. Additionally, following alerts that were activated in the northern part of the country at 5:58</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8060",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8060,
+        "he": 8061,
+        "ru": 8062
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8060",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8060"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8060/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8060"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8060"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8060"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

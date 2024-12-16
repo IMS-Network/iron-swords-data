@@ -1,0 +1,122 @@
+{
+    "id": 3569,
+    "date": "2024-03-25T15:49:20",
+    "date_gmt": "2024-03-25T13:49:20",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9243/"
+    },
+    "modified": "2024-03-25T15:49:20",
+    "modified_gmt": "2024-03-25T13:49:20",
+    "slug": "9243",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9243/",
+    "title": {
+        "rendered": "&#8220;Stymieing Iran&#8217;s Advanced Arms Smuggling: A Look at Seized Weapons Destined for Judea and Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>50 pistols, 33 M4s, and 15 kg of C4:<br />\nThwarting of advanced arms smuggling from Iran to Judea and Samaria. This is the seized weapon<br />\nhttps://www.idf.il/187783</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>50 pistols, 33 M4s, and 15 kg of C4: Thwarting of advanced arms smuggling from <a  href=\"https://iron-swords.co.il/c/know-your-enemies/iran/\">Iran</a> to Judea and Samaria. This is the seized weapon https://www.idf.il/187783</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3569",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3569
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3569",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3569"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3569/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3569"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3569"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3569"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

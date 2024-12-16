@@ -1,0 +1,124 @@
+{
+    "id": 9266,
+    "date": "2024-06-04T17:00:07",
+    "date_gmt": "2024-06-04T14:00:07",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/9995-en/"
+    },
+    "modified": "2024-06-04T17:00:07",
+    "modified_gmt": "2024-06-04T14:00:07",
+    "slug": "9995-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9995-en/",
+    "title": {
+        "rendered": "&#8220;Inside Battalion 679: Targeted Raids and Destruction of Terrorist Infrastructure in Jabalia&#8221;"
+    },
+    "content": {
+        "rendered": "<p>&#8220;Equipment in UNRWA sacks, targeted raids in Jabalia and the destruction of terrorist infrastructure:<br />\nThis is what the fighting of Battalion 679 looks like in the corridor area.&#8221;<br />\n[Link to IDF website]</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>&#8220;Equipment in <a  href=\"https://iron-swords.co.il/c/know-your-enemies/unrwa/\">UNRWA</a> sacks, targeted raids in Jabalia and the destruction of terrorist infrastructure: This is what the fighting of Battalion 679 looks like in the corridor area.&#8221; [Link to IDF website]</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9266",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9266,
+        "he": 9267,
+        "ru": 9268
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9266",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9266"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9266/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9266"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9266"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9266"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

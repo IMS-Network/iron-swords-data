@@ -1,0 +1,122 @@
+{
+    "id": 4727,
+    "date": "2023-12-01T15:53:01",
+    "date_gmt": "2023-12-01T13:53:01",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8062/"
+    },
+    "modified": "2023-12-01T15:53:01",
+    "modified_gmt": "2023-12-01T13:53:01",
+    "slug": "8062",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8062/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Over 200 Targets in Renewed Gaza Strip Conflict: Ground and Air Operations Detailed&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>The fighting in the Gaza Strip has been renewed; starting from 07:00, the Air Force, in collaboration with the combat brigades, struck over 200 terror targets in the Gaza Strip.</p>\n<p>In recent hours, aircraft of the Air Force attacked a series of terror targets throughout the Gaza Strip, in the north of the Strip and in the south, in Khan Younis and Rafah. Some of the strikes were coordinated by ground forces operating in the Strip from Gaza, 162, 36, and 252 brigades.</p>\n<p>The forces destroyed areas booby-trapped with explosives, tunnel openings, launching posts, and military headquarters that served the Hamas terror organization in preparation for the continuation of the fighting.</p>\n<p>Additionally, a missile boat of the Naval Arm attacked auxiliary targets as part of the return to warfare, and multiple strikes were carried out by tanks and artillery.</p>\n<p>Attached is documentation of the attacks: https://bit.ly/3T9vJRx</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: The fighting in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip has been renewed; starting from 07:00, the Air Force, in collaboration with the combat brigades, struck over 200 terror targets in the Gaza Strip. In recent hours, aircraft of the Air Force attacked a series of terror targets throughout the Gaza Strip, in the north of the Strip and in the south, in Khan Younis and Rafah. Some of the strikes were coordinated by ground forces operating in the Strip from Gaza, 162, 36, and 252 brigades. The forces destroyed areas booby-trapped with explosives, tunnel openings, launching posts, and military headquarters that</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4727",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4727
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4727",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4727"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4727/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4727"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4727"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4727"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

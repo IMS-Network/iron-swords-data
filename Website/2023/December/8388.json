@@ -1,0 +1,122 @@
+{
+    "id": 4405,
+    "date": "2023-12-24T08:59:05",
+    "date_gmt": "2023-12-24T06:59:05",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8388/"
+    },
+    "modified": "2023-12-24T08:59:05",
+    "modified_gmt": "2023-12-24T06:59:05",
+    "slug": "8388",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8388/",
+    "title": {
+        "rendered": "&#8220;IDF Decimates 200 Targets in Gaza: Inside Operations Against Hamas Terror Infrastructure&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>A warfare depot was located in a civilian building containing dozens of mortar bombs and hundreds of grenades; IDF forces continue to operate in the Gaza Strip; IDF attacked around 200 targets in the Gaza Strip during the last day.</p>\n<p>In the last day, the Air Force, the ground forces and the navy attacked about 200 targets in the Gaza Strip territory.</p>\n<p>The soldiers continue to lead intense battles with terrorists, destroying terror infrastructure and locating numerous weapons.</p>\n<p>In an operation north of the Gaza Strip, fighters from the Yiftach (11) Brigade&#8217;s battle team identified several terrorists emerging from a military structure of the Hamas terror organization where observation equipment had been installed. The forces directed an aircraft and an Air Force attack helicopter to attack the structure and the terrorists who were killed.</p>\n<p>Additionally, the 261st Brigade&#8217;s (School of Infantry Professions 1) Battle Team located in a building housing civilians in the northern Gaza Strip, a depot of warfare belonging to the Hamas terrorist organization. The depot is located near schools, a mosque, and a clinic, where explosive belts designed for children, dozens of rocket-propelled mortars, hundreds of grenades, and organization intelligence documents were found.</p>\n<p>During an operation by the 460th Brigade&#8217;s battle team in the Jebalya area, the forces directed an Air Force aircraft, and combined with artillery fire carried out by the brigade soldiers, seven terrorists were killed and four observation posts belonging to the Hamas terrorist organization scattered in the area were destroyed.</p>\n<p>In addition, as part of a raid on a military command, the soldiers of the 900th Brigade&#8217;s battle team in Khan Yunis located many weapons, including dozens of grenades and explosives.</p>\n<p>Enclosed is documentation of IDF attacks in the Gaza Strip: https://bit.ly/3GVSIYV</p>\n<p>Enclosed is documentation of the killing of the terrorists in the operation in the northern Gaza Strip: https://bit.ly/3vaURO3</p>\n<p>Enclosed is documentation of IDF forces operation in the Gaza Strip: https://bit.ly/476Nlkx</p>\n<p>Enclosed are photos from IDF forces operation in the Gaza Strip: https://IDFANC.activetrail.biz/ANC241220237494792045876</p>\n<p>Enclosed are photos of the weapons found: https://IDFANC.activetrail.biz/ANC24122024989484944</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: A warfare depot was located in a civilian building containing dozens of mortar bombs and hundreds of grenades; IDF forces continue to operate in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip; IDF attacked around 200 targets in the Gaza Strip during the last day. In the last day, the Air Force, the ground forces and the navy attacked about 200 targets in the Gaza Strip territory. The soldiers continue to lead intense battles with terrorists, destroying terror infrastructure and locating numerous weapons. In an operation north of the Gaza Strip, fighters from the Yiftach (11) Brigade&#8217;s battle team identified several terrorists emerging</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4405",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4405
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4405",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4405"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4405/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4405"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4405"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4405"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

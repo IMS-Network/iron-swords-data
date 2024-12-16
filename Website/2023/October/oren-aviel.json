@@ -1,0 +1,140 @@
+{
+    "id": 1652,
+    "date": "2023-10-07T06:30:00",
+    "date_gmt": "2023-10-07T03:30:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=1652"
+    },
+    "modified": "2024-04-25T19:13:55",
+    "modified_gmt": "2024-04-25T16:13:55",
+    "slug": "oren-aviel",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/victims/oren-aviel/",
+    "title": {
+        "rendered": "Oren Aviel"
+    },
+    "content": {
+        "rendered": "\n<p>At 29, Aviel Oren&#8217;s life was tragically cut short during a <a href=\"https://iron-swords.co.il/t/nova/\">nova festival</a> near Re&#8217;im. <br><a href=\"https://iron-swords.co.il/hamas/\" data-type=\"page\" data-id=\"86\">Hamas terortits</a> critically injured Aviel, and despite frantic efforts to get help, no aid arrived. </p>\n\n\n\n<p>Aviel, along with friends Ortal Bobetz Ben Ayon and Daniel Ohana, was murdered by assailants who ambushed the party. <br>Ortal\u2019s sister, Shirael, survived the <a href=\"https://iron-swords.co.il/t/nova/\" data-type=\"post_tag\" data-id=\"34\">Nova Party massacre</a>. Aviel&#8217;s close bond with his two brothers in Jerusalem was highlighted by Jasmine Cohen, his brother\u2019s wife, who mentioned their deep friendship.</p>\n\n\n\n<p>Their initial escape in a vehicle failed when it overturned by a <a href=\"https://iron-swords.co.il/hamas/\" data-type=\"page\" data-id=\"86\">Hamas RPG Rocket </a><br>Hiding underneath, they were found and shot by <a href=\"https://iron-swords.co.il/hamas/\" data-type=\"page\" data-id=\"86\">Hamas terortits</a> , Aviel was hit in the legs and couldn&#8217;t escape on foot. </p>\n\n\n\n<p>Aviel\u2019s story is a grim reminder of the suddenness of violence and the deep scars it leaves on survivors and communities alike.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>At 29, Aviel Oren&#8217;s life was tragically cut short during a nova festival near Re&#8217;im. <a  href=\"/hamas\">Hamas</a> terortits critically injured Aviel, and despite frantic efforts to get help, no aid arrived. Aviel, along with friends Ortal Bobetz Ben Ayon and Daniel Ohana, was murdered by assailants who ambushed the party. Ortal\u2019s sister, Shirael, survived the Nova Party massacre. Aviel&#8217;s close bond with his two brothers in <a  href=\"https://iron-swords.co.il/t/jerusalem/\">Jerusalem</a> was highlighted by Jasmine Cohen, his brother\u2019s wife, who mentioned their deep friendship. Their initial escape in a vehicle failed when it overturned by a <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> RPG Rocket Hiding underneath, they were found and</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 1660,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-october-7th-victims",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 21,
+        "footnotes": ""
+    },
+    "categories": [
+        21
+    ],
+    "tags": [
+        44,
+        34
+    ],
+    "class_list": [
+        "post-1652",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-victims",
+        "tag-jerusalem",
+        "tag-nova"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 1652
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1652",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=1652"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 5,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1652/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 1675,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1652/revisions/1675"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/1660"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=1652"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=1652"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=1652"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

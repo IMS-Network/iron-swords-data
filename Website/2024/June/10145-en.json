@@ -1,0 +1,124 @@
+{
+    "id": 8816,
+    "date": "2024-06-16T18:25:58",
+    "date_gmt": "2024-06-16T15:25:58",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10145-en/"
+    },
+    "modified": "2024-06-16T18:25:58",
+    "modified_gmt": "2024-06-16T15:25:58",
+    "slug": "10145-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10145-en/",
+    "title": {
+        "rendered": "&#8220;Strengthening Border Security: IDF&#8217;s Home Front Command Meets Municipal Leaders&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The Chief of the Home Front Command met with the heads of municipalities along the border.</p>\n<p>Today (Sunday), the Chief of the Home Front Command, Major General Rafi Miloh, met with the heads of municipalities along the border. During the meeting, the general reviewed the IDF&#8217;s efforts in the various sectors, focusing on the Home Front Command&#8217;s initiatives and the acceleration of preparedness for possible scenarios. He also emphasized the cooperation between the IDF and the heads of municipalities and its importance in continuing to strengthen the border.</p>\n<p>From the words of Major General Rafi Miloh, Chief of the Home Front Command: &#8220;Throughout the war, the Home Front Command has operated with an expansive approach, and as part of that, worked to formulate a security component plan and lead efforts to enhance safety and the sense of security in municipalities along the border. As I said in our previous meeting, I reiterate that strengthening the border is one of the most important tasks of the Home Front Command.&#8221;</p>\n<p>Attached are images on the subject: https://IDFANC.activetrail.biz/ANC96942</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The Chief of the Home Front Command met with the heads of municipalities along the border. Today (Sunday), the Chief of the Home Front Command, Major General Rafi Miloh, met with the heads of municipalities along the border. During the meeting, the general reviewed the IDF&#8217;s efforts in the various sectors, focusing on the Home Front Command&#8217;s initiatives and the acceleration of preparedness for possible scenarios. He also emphasized the cooperation between the IDF and the heads of municipalities and its importance in continuing to strengthen the border. From the words of Major General Rafi Miloh, Chief of</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8816",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8816,
+        "he": 8817,
+        "ru": 8818
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8816",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8816"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8816/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8816"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8816"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8816"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": 9077,
+    "date": "2024-06-09T22:35:28",
+    "date_gmt": "2024-06-09T19:35:28",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10058-en/"
+    },
+    "modified": "2024-06-09T22:35:28",
+    "modified_gmt": "2024-06-09T19:35:28",
+    "slug": "10058-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10058-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Back: Targeting Terror Cells in Lebanon After Missile Attack on Fighter Jets&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF eliminated a terrorist cell that launched surface-to-air missiles at fighter jets operating over Lebanon: additional terror targets were attacked in Lebanese territory.</p>\n<p>Earlier today, a terrorist cell launched several surface-to-air missiles at fighter jets operating in the skies over Lebanon. There was no threat to the aircraft, and there were no casualties.<br />\nA few minutes later, an IDF aircraft attacked in the Tyre area and eliminated the terrorist cell responsible for the launch.</p>\n<p>Additionally, shortly ago, IDF fighter jets, guided by Division 210, attacked a military structure of the terrorist organization Hezbollah in the Shebaa area.<br />\nAt the same time, two additional military structures in the areas of Aitaroun and Markabah were attacked from the air, along with terror infrastructure in the Aitaroun area and a launcher of the organization in the Al-Tiri area, from which fire was aimed at Israeli territory.</p>\n<p>During the day, Golani Brigade reconnaissance forces identified several terrorists entering a military structure of the terrorist organization Hezbollah in the Houla area in southern Lebanon.<br />\nShortly thereafter, IDF fighter jets attacked the structure.</p>\n<p>Attached is documentation from the attacks: https://bit.ly/4eccsqP</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF eliminated a terrorist cell that launched surface-to-air missiles at fighter jets operating over Lebanon: additional terror targets were attacked in Lebanese territory. Earlier today, a terrorist cell launched several surface-to-air missiles at fighter jets operating in the skies over Lebanon. There was no threat to the aircraft, and there were no casualties. A few minutes later, an IDF aircraft attacked in the Tyre area and eliminated the terrorist cell responsible for the launch. Additionally, shortly ago, IDF fighter jets, guided by Division 210, attacked a military structure of the terrorist organization <a  href=\"/hezbollah\">Hezbollah</a> in the Shebaa area.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9077",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9077,
+        "he": 9078,
+        "ru": 9079
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9077",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9077"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9077/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9077"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9077"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9077"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

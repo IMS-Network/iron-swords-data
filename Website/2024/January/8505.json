@@ -1,0 +1,122 @@
+{
+    "id": 4290,
+    "date": "2024-01-03T23:33:30",
+    "date_gmt": "2024-01-03T21:33:30",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8505/"
+    },
+    "modified": "2024-01-03T23:33:30",
+    "modified_gmt": "2024-01-03T21:33:30",
+    "slug": "8505",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8505/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Targets: Inside the Latest Anti-Terror Operations in Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Attack on a terrorist cell, military infrastructure, and surveillance equipment; The IDF attacked targets of Hezbollah terrorist organization in Lebanon territory.</p>\n<p>A short while ago, the IDF forces attacked a terrorist cell operating in the area of the village Yaroun. In addition, the IDF attacked surveillance equipment and military infrastructure where members of the Hezbollah terrorist organization were active. </p>\n<p>Also, a number of launches were identified crossing from Lebanon territory and fell into open areas in the Goren region.</p>\n<p>Attached is footage from the attacks: https://bit.ly/41IWePW</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Attack on a terrorist cell, military infrastructure, and surveillance equipment; The IDF attacked targets of <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization in Lebanon territory. A short while ago, the IDF forces attacked a terrorist cell operating in the area of the village Yaroun. In addition, the IDF attacked surveillance equipment and military infrastructure where members of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization were active. Also, a number of launches were identified crossing from Lebanon territory and fell into open areas in the Goren region. Attached is footage from the attacks: https://bit.ly/41IWePW</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4290",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4290
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4290",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4290"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4290/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4290"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4290"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4290"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

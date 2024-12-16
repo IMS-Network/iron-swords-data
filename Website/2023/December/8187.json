@@ -1,0 +1,122 @@
+{
+    "id": 4605,
+    "date": "2023-12-09T17:21:11",
+    "date_gmt": "2023-12-09T15:21:11",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8187/"
+    },
+    "modified": "2023-12-09T17:21:11",
+    "modified_gmt": "2023-12-09T15:21:11",
+    "slug": "8187",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8187/",
+    "title": {
+        "rendered": "&#8220;Decisive IDF Operations Eliminate Terrorists and Dismantle Hamas Infrastructure in Khan Yunis: A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Soldiers from Brigade 98 and the Air Force continue to fight in Khan Yunis; many terrorists were eliminated in the raid of 12th battalion on a mosque that Hampton used as a terrorist infrastructure.</p>\n<p>In a raid on a mosque that contained Hamas&#8217;s terror infrastructure in the last day, soldiers of the 12th Battalion&#8217;s combat team eliminated a group of terrorists. During the operation, a charge detonated near the forces and immediately afterwards, the brigade fire complex directed a number of quick attacks in the area &#8211; a combat helicopter eliminated several terrorists who were lurking on the mosque roof, several terrorists who emerged from a tunnel shaft, and additional terrorists who were in the area. In the end, the combat aircraft destroyed the mosque and the subterranean infrastructure system underneath it.</p>\n<p>Soldiers from the Maglan unit identified last night three terrorists who emerged from a tunnel shaft in the center of Khan Yunis and fired an RPG missile at the forces, the soldiers responded with gunfire and eliminated the terrorists. Later, the forces directed remotely piloted aircraft that eliminated additional terrorists identified in the area and destroyed a number of tunnel shafts.<br />\nSoldiers from the Duvdevan unit located a military command post of the Hamas terror organization last night with several terrorists who planned to ambush the forces, the soldiers launched an attack on the building and Air Force combat aircraft eliminated a group of terrorists near the force.</p>\n<p>In the last day, the brigade&#8217;s combat team of Givati eliminated terrorists, worked to locate and expose wide tunnel shafts, destroyed terror infrastructures and located large amounts of warfare means. This morning, in a brigade operation, terror infrastructures, rocket launching posts and buildings used for hiding by Hamas terrorists were attacked by helicopters and combat aircraft of the Air Force.</p>\n<p>Attached is documentation of IDF attacks in Khan Yunis: https://bit.ly/3tkfLJI</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Soldiers from Brigade 98 and the Air Force continue to fight in Khan Yunis; many terrorists were eliminated in the raid of 12th battalion on a mosque that Hampton used as a terrorist infrastructure. In a raid on a mosque that contained <a  href=\"/hamas\">Hamas</a>&#8217;s terror infrastructure in the last day, soldiers of the 12th Battalion&#8217;s combat team eliminated a group of terrorists. During the operation, a charge detonated near the forces and immediately afterwards, the brigade fire complex directed a number of quick attacks in the area &#8211; a combat helicopter eliminated several terrorists who were lurking on the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4605",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4605
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4605",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4605"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4605/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4605"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4605"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4605"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

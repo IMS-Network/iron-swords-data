@@ -1,0 +1,122 @@
+{
+    "id": 2957,
+    "date": "2024-05-25T22:27:08",
+    "date_gmt": "2024-05-25T19:27:08",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9868/"
+    },
+    "modified": "2024-05-25T22:27:08",
+    "modified_gmt": "2024-05-25T19:27:08",
+    "slug": "9868",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9868/",
+    "title": {
+        "rendered": "&#8220;IDF Targets Hezbollah Terrorist Operations in Southern Lebanon: A Comprehensive Report on Recent Attacks&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked a military structure in which Hezbollah terrorists were operating in southern Lebanon.</p>\n<p>Forces from Division 91 and the Air Force identified this evening, (Saturday) several terrorists operating in a military building of the Hezbollah terrorist organization in the Itarun area of southern Lebanon, through an aircraft. Following the identification, the forces directed combat aircraft that attacked the military building where the terrorists were operating.</p>\n<p>In addition, the IDF attacked artillery positions to remove threats in the area of the village of Kila in southern Lebanon.</p>\n<p>Also, this evening several missile launches were identified from the Lebanese territory towards several areas in the north of the country, no casualties were reported. Damage was caused to buildings in the place.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked a military structure in which <a  href=\"/hezbollah\">Hezbollah</a> terrorists were operating in southern Lebanon. Forces from Division 91 and the Air Force identified this evening, (Saturday) several terrorists operating in a military building of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization in the Itarun area of southern Lebanon, through an aircraft. Following the identification, the forces directed combat aircraft that attacked the military building where the terrorists were operating. In addition, the IDF attacked artillery positions to remove threats in the area of the village of Kila in southern Lebanon. Also, this evening several missile launches were identified from the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2957",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2957
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2957",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2957"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2957/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2957"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2957"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2957"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

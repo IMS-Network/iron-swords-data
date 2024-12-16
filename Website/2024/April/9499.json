@@ -1,0 +1,122 @@
+{
+    "id": 3321,
+    "date": "2024-04-18T18:24:03",
+    "date_gmt": "2024-04-18T15:24:03",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9499/"
+    },
+    "modified": "2024-04-18T18:24:03",
+    "modified_gmt": "2024-04-18T15:24:03",
+    "slug": "9499",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9499/",
+    "title": {
+        "rendered": "&#8220;Drone Surveillance Identifies Hezbollah Terrorists: IDF&#8217;s Golani Brigade Takes Action with Airstrikes&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Golani Brigade soldiers identified Hezbollah terrorists with a drone: combat aircraft attacked the building in which they were staying.</p>\n<p>The soldiers of the Golani Brigade identified earlier today via drone a number of terrorists from the Hezbollah organization. The terrorists were in a military building in the area of Blida in southern Lebanon, which, after being spotted, was attacked by Air Force combat planes.</p>\n<p>In relation to the alarms that were activated a short while ago due to an intrusion of a hostile aircraft in the area of the Western Galilee, it was a false identification. In addition, a single launch was identified from Lebanese territory, there were no casualties.</p>\n<p>Attached is footage of the attack on the military building in which the terrorists were located: https://bit.ly/3Q7Nuyg.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: <a  href=\"https://iron-swords.co.il/t/golani-brigade-2/\">Golani Brigade</a> soldiers identified <a  href=\"/hezbollah\">Hezbollah</a> terrorists with a drone: combat aircraft attacked the building in which they were staying. The soldiers of the <a  href=\"https://iron-swords.co.il/t/golani-brigade/\">Golani Brigade</a> identified earlier today via drone a number of terrorists from the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> organization. The terrorists were in a military building in the area of Blida in southern Lebanon, which, after being spotted, was attacked by Air Force combat planes. In relation to the alarms that were activated a short while ago due to an intrusion of a hostile aircraft in the area of the Western Galilee, it was a false identification. In addition,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3321",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3321
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3321",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3321"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3321/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3321"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3321"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3321"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

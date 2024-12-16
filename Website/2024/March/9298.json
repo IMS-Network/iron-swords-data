@@ -1,0 +1,122 @@
+{
+    "id": 3514,
+    "date": "2024-03-31T14:37:08",
+    "date_gmt": "2024-03-31T11:37:08",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9298/"
+    },
+    "modified": "2024-03-31T14:37:08",
+    "modified_gmt": "2024-03-31T11:37:08",
+    "slug": "9298",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9298/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah&#8217;s Military Targets in Southern Lebanon: An Inside Look at the Ongoing Conflict&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>The IDF attacked military buildings and terror infrastructure of the terrorist organization Hezbollah in southern Lebanon.</p>\n<p>Combat aircraft attacked a short while ago, terrorist infrastructures of the terrorist organization Hezbollah in the Al-Hiyam and Rab Al-Tlaten areas in southern Lebanon. In addition, the IDF attacked with artillery in the Hula area to remove threats.</p>\n<p>Last night combat aircraft attacked a military building of the organization in the Al-Jibin area.</p>\n<p>In the last few hours, rockets were launched from Lebanese territory that crossed into the Margaliot and Malkia areas, the IDF attacked the fire sources. As a result of the shootings, an IDF soldier was slightly injured and was evacuated to receive medical treatment in a hospital, his family was updated.</p>\n<p>Attached is documentation from the attacks: https://bit.ly/3PKZPbv</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: The IDF attacked military buildings and terror infrastructure of the terrorist organization <a  href=\"/hezbollah\">Hezbollah</a> in southern Lebanon. Combat aircraft attacked a short while ago, terrorist infrastructures of the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in the Al-Hiyam and Rab Al-Tlaten areas in southern Lebanon. In addition, the IDF attacked with artillery in the Hula area to remove threats. Last night combat aircraft attacked a military building of the organization in the Al-Jibin area. In the last few hours, rockets were launched from Lebanese territory that crossed into the Margaliot and Malkia areas, the IDF attacked the fire sources. As a result of</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3514",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3514
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3514",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3514"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3514/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3514"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3514"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3514"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

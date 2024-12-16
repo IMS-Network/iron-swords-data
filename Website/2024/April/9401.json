@@ -1,0 +1,122 @@
+{
+    "id": 3413,
+    "date": "2024-04-10T12:21:55",
+    "date_gmt": "2024-04-10T09:21:55",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9401/"
+    },
+    "modified": "2024-04-10T12:21:55",
+    "modified_gmt": "2024-04-10T09:21:55",
+    "slug": "9401",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9401/",
+    "title": {
+        "rendered": "&#8220;Joint IDF, Shin Bet &#038; Border Police Operation: 9 Arrests and Weapon Seizure Across Judea and Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesman:</p>\n<p>The IDF, Shin Bet, and Border Police Forces operated last night to arrest nine wanted individuals across Judea and Samaria; in the Kalandia area, the forces arrested wanted individuals and seized weapons.</p>\n<p>The IDF, Shin Bet, and Border Police Forces operated last night to arrest nine wanted individuals across Judea and Samaria.</p>\n<p>During the operation in the Kalandia area, soldiers from the Binyamin brigade arrested three wanted individuals and seized two M-16 rifles along with three handguns.</p>\n<p>In Tulkarm, which is part of the Menashe brigade, and in the area of the Samaria brigade, soldiers arrested six wanted individuals and investigated additional suspects. In Adna, which is part of the Judah brigade, forces found and seized identified weapons. In the city of Hebron, terror funds were seized.</p>\n<p>The wanted individuals who were arrested and the weapons that were seized have been transferred for further treatment by the security forces, with no injuries to our forces.</p>\n<p>*Since the start of the war, approximately 3,700 wanted individuals have been arrested across the Judea and Samaria Division and in the Jordan Valley and Emek brigades, around 1,600 of whom are associated with the Hamas terror organization.*</p>\n<p>Enclosed are pictures from the forces&#8217; operation across Judea and Samaria: https://idfanc.activetrail.biz/ANC10042024875973</p>\n<p>Enclosed are pictures of the seized weapons: https://IDFANC.activetrail.biz/ANC10042024890280294</p>\n<p>Enclosed is documentation from the forces&#8217; operation: https://bit.ly/3TQjZlS</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>IDF Spokesman: The IDF, Shin Bet, and Border Police Forces operated last night to arrest nine wanted individuals across Judea and Samaria; in the Kalandia area, the forces arrested wanted individuals and seized weapons. The IDF, Shin Bet, and Border Police Forces operated last night to arrest nine wanted individuals across Judea and Samaria. During the operation in the Kalandia area, soldiers from the Binyamin brigade arrested three wanted individuals and seized two M-16 rifles along with three handguns. In Tulkarm, which is part of the Menashe brigade, and in the area of the Samaria brigade, soldiers arrested six wanted</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3413",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3413
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3413",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3413"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3413/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3413"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3413"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3413"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

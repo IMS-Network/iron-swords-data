@@ -1,0 +1,122 @@
+{
+    "id": 4132,
+    "date": "2024-01-21T09:13:24",
+    "date_gmt": "2024-01-21T07:13:24",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8667/"
+    },
+    "modified": "2024-01-21T09:13:24",
+    "modified_gmt": "2024-01-21T07:13:24",
+    "slug": "8667",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8667/",
+    "title": {
+        "rendered": "&#8220;IDF Eliminates Threats and Seizes Weapons in Ongoing Gaza Strip Operations: An Inside Look&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesman:</p>\n<p>The naval force identified and attacked a building where terrorists were ambushing soldiers</p>\n<p>The fighting in the strip continues: In the last day, IDF soldiers eliminated dozens of terrorists and found many weapons.</p>\n<p>The naval forces continue to assist the ground forces operating in the Gaza Strip in surveillance and attacking targets of terrorist organizations. In the last day, they identified a building in which terrorists were ambushing our forces in the center of the strip and, in cooperation with the 179th Brigade fighters, they attacked the terrorists and removed the threat.</p>\n<p>The fighting in Khan Yunis continues, in cooperation with the Air Force, the snipers of Oz Brigade Commando eliminated many terrorists. Also, 55th Brigade soldiers found many weapons in a Hamas military building.</p>\n<p>In the Diraj Tuffah area in the north of the strip, the 401st Brigade combat team conducted firefights and eliminated about 15 terrorists. In addition, they raided a Hamas military building and found artillery and many weapons.</p>\n<p>Attached is footage from the naval forces&#8217; attacks in the Gaza Strip: https://bit.ly/4b2lrJv </p>\n<p>Attached are photos from the troops&#8217; activities throughout the strip in the last day: https://IDFANC.activetrail.biz/ANC2101202484753</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>IDF Spokesman: The naval force identified and attacked a building where terrorists were ambushing soldiers The fighting in the strip continues: In the last day, IDF soldiers eliminated dozens of terrorists and found many weapons. The naval forces continue to assist the ground forces operating in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip in surveillance and attacking targets of terrorist organizations. In the last day, they identified a building in which terrorists were ambushing our forces in the center of the strip and, in cooperation with the 179th Brigade fighters, they attacked the terrorists and removed the threat. The fighting in Khan Yunis continues,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4132",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4132
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4132",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4132"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4132/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4132"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4132"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4132"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

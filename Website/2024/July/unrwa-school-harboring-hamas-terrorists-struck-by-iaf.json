@@ -1,0 +1,142 @@
+{
+    "id": 15578,
+    "date": "2024-07-06T17:00:00",
+    "date_gmt": "2024-07-06T14:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=15578"
+    },
+    "modified": "2024-11-05T09:16:28",
+    "modified_gmt": "2024-11-05T07:16:28",
+    "slug": "unrwa-school-harboring-hamas-terrorists-struck-by-iaf",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/know-your-enemies/unrwa/unrwa-school-harboring-hamas-terrorists-struck-by-iaf/",
+    "title": {
+        "rendered": "UNRWA School Harboring Hamas Terrorists Struck by IAF"
+    },
+    "content": {
+        "rendered": "\n<p>leveraging precise IDF and ISA intelligence, the IAF conducted a strike on terrorists operating within structures near UNRWA&#8217;s Al-Jaouni School in central Gaza. These locations were being used as hideouts and operational bases for launching attacks against IDF forces in Gaza. To minimize civilian casualties, extensive precautions were taken before the strike, including precise aerial surveillance and comprehensive intelligence efforts.</p>\n\n\n\n<p>Hamas continues to systematically violate international law by using civilian structures and populations as human shields for its terrorist activities against Israel.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>leveraging precise IDF and ISA intelligence, the IAF conducted a strike on terrorists operating within structures near <a  href=\"https://iron-swords.co.il/c/know-your-enemies/unrwa/\">UNRWA</a>&#8217;s Al-Jaouni School in central <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>. These locations were being used as hideouts and operational bases for launching attacks against IDF forces in Gaza. To minimize civilian casualties, extensive precautions were taken before the strike, including precise aerial surveillance and comprehensive intelligence efforts. <a  href=\"/hamas\">Hamas</a> continues to systematically violate international law by using civilian structures and populations as human shields for its terrorist activities against <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 15568,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-unrwa",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1342,
+        "footnotes": ""
+    },
+    "categories": [
+        1342
+    ],
+    "tags": [
+        1663,
+        33,
+        1340
+    ],
+    "class_list": [
+        "post-15578",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-unrwa",
+        "tag-philippe-lazzarini",
+        "tag-terror-organization",
+        "tag-the-un"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 15578
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15578",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=15578"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15578/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 15579,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15578/revisions/15579"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/15568"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=15578"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=15578"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=15578"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

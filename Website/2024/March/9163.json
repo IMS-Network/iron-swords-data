@@ -1,0 +1,122 @@
+{
+    "id": 3645,
+    "date": "2024-03-18T11:18:05",
+    "date_gmt": "2024-03-18T09:18:05",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9163/"
+    },
+    "modified": "2024-03-18T11:18:05",
+    "modified_gmt": "2024-03-18T09:18:05",
+    "slug": "9163",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9163/",
+    "title": {
+        "rendered": "&#8220;IDF and Security Forces Thwart Terrorism: Arrest 14 Suspects and Seize Weapons Across Judea, Samaria, and Jordan Valley&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF soldiers, Shin Bet, Border Police, and Prison Service officers arrested 14 suspects last night across Judea and Samaria and in the Jordan Valley and Valleys Brigade.</p>\n<p>During an operation to thwart terrorism in Deheisheh in Gush Etzion, in cooperation with the Masada unit of the Prison Service, two suspects were arrested and many suspects were interrogated.</p>\n<p>In Yatta in Judea, the soldiers located a pistol and in Hawara in Samaria another handgun was found. In Bitunia and El Bireh in Binyamin, three suspects thought to be inciting terrorism were arrested.</p>\n<p>The suspects who were arrested and the warfare tools that were seized have been transferred for further treatment by the security forces, our forces were not harmed.</p>\n<p>So far, since the start of the war, about 3,500 suspects have been arrested throughout Judea and Samaria Division and the Jordan Valley and Valleys Brigade, over 1,500 of them are affiliated with the Hamas terrorist organization.</p>\n<p>Attached is documentation of the forces&#8217; operation: https://bit.ly/3x5JQya</p>\n<p>Attached are photos from the forces&#8217; operation: https://IDFANC.activetrail.biz/ANC1803202248623732456</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF soldiers, Shin Bet, Border Police, and Prison Service officers arrested 14 suspects last night across Judea and Samaria and in the Jordan Valley and Valleys Brigade. During an operation to thwart terrorism in Deheisheh in Gush Etzion, in cooperation with the Masada unit of the Prison Service, two suspects were arrested and many suspects were interrogated. In Yatta in Judea, the soldiers located a pistol and in Hawara in Samaria another handgun was found. In Bitunia and El Bireh in Binyamin, three suspects thought to be inciting terrorism were arrested. The suspects who were arrested and the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3645",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3645
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3645",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3645"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3645/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3645"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3645"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3645"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

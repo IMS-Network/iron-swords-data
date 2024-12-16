@@ -1,0 +1,124 @@
+{
+    "id": 9236,
+    "date": "2024-06-05T13:58:06",
+    "date_gmt": "2024-06-05T10:58:06",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10005-en/"
+    },
+    "modified": "2024-06-05T13:58:06",
+    "modified_gmt": "2024-06-05T10:58:06",
+    "slug": "10005-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10005-en/",
+    "title": {
+        "rendered": "&#8220;IDF Intercepts Hostile Aerial Target Over Metula: No Injuries Reported&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Documentation; Air defense fighters intercepted a suspicious aerial target in the Metula area.</p>\n<p>Following the alert regarding the incursion of hostile aircraft activated in northern Israel, air defense fighters successfully intercepted a suspicious aerial target in the Metula area that crossed from Lebanon.</p>\n<p>Shortly thereafter, another alert was activated in northern Israel, during which an interceptor was launched at a suspicious aerial target that crossed into the country&#8217;s territory from Lebanon; the incident concluded.</p>\n<p>Alerts for rocket and missile fire were activated due to concerns about debris from the interception.</p>\n<p>There were no damages or injuries in any of the incidents.</p>\n<p>Attached is documentation of the target interception: https://bit.ly/3yVKGhT</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Documentation; Air defense fighters intercepted a suspicious aerial target in the Metula area. Following the alert regarding the incursion of hostile aircraft activated in northern <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>, air defense fighters successfully intercepted a suspicious aerial target in the Metula area that crossed from Lebanon. Shortly thereafter, another alert was activated in northern Israel, during which an interceptor was launched at a suspicious aerial target that crossed into the country&#8217;s territory from Lebanon; the incident concluded. Alerts for rocket and missile fire were activated due to concerns about debris from the interception. There were no damages or injuries in any</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9236",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9236,
+        "he": 9237,
+        "ru": 9238
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9236",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9236"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9236/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9236"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9236"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9236"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

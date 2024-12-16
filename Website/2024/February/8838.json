@@ -1,0 +1,122 @@
+{
+    "id": 3965,
+    "date": "2024-02-10T20:15:20",
+    "date_gmt": "2024-02-10T18:15:20",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8838/"
+    },
+    "modified": "2024-02-10T20:15:20",
+    "modified_gmt": "2024-02-10T18:15:20",
+    "slug": "8838",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8838/",
+    "title": {
+        "rendered": "&#8220;Success and Ongoing Challenges: IDF Chiefs Evaluate Situation in Khan Yunis&#8221;"
+    },
+    "content": {
+        "rendered": "<p>The Chief of Staff and the Head of the Shin Bet in a situation assessment on the Strip:<br />\n&#8220;So far, we agree on the success of the fight in Khan Yunis, we are far from finishing it&#8221;<br />\nhttps://www.idf.il/179530</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>The Chief of Staff and the Head of the Shin Bet in a situation assessment on the Strip: &#8220;So far, we agree on the success of the fight in Khan Yunis, we are far from finishing it&#8221; https://www.idf.il/179530</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3965",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3965
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3965",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3965"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3965/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3965"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3965"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3965"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

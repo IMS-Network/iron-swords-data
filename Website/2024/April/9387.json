@@ -1,0 +1,122 @@
+{
+    "id": 3426,
+    "date": "2024-04-09T09:24:11",
+    "date_gmt": "2024-04-09T06:24:11",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9387/"
+    },
+    "modified": "2024-04-09T09:24:11",
+    "modified_gmt": "2024-04-09T06:24:11",
+    "slug": "9387",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9387/",
+    "title": {
+        "rendered": "&#8220;Clarifying IDF Statement: Investigation Launched into Misleading Video of Hajar&#8217;s Radwan Force Commander&#8217;s Elimination&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>We would like to clarify that the message published yesterday (Monday) about the elimination of the commander of Hajar&#8217;s Radwan force, Ali Ahmad Hussein, was accompanied by a video clip of a military building being attacked in the Kfar Kila area that same night, not of the elimination itself.<br />\nThe event will be investigated and the necessary lessons will be drawn to prevent a recurrence of the error. </p>\n<p>Attached is footage from the elimination of the commander of Hajar&#8217;s Radwan force: https://bit.ly/49zamh4</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: We would like to clarify that the message published yesterday (Monday) about the elimination of the commander of Hajar&#8217;s Radwan force, Ali Ahmad Hussein, was accompanied by a video clip of a military building being attacked in the Kfar Kila area that same night, not of the elimination itself. The event will be investigated and the necessary lessons will be drawn to prevent a recurrence of the error. Attached is footage from the elimination of the commander of Hajar&#8217;s Radwan force: https://bit.ly/49zamh4</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3426",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3426
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3426",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3426"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3426/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3426"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3426"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3426"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

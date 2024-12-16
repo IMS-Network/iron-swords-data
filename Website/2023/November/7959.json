@@ -1,0 +1,122 @@
+{
+    "id": 4827,
+    "date": "2023-11-23T08:08:50",
+    "date_gmt": "2023-11-23T06:08:50",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/7959/"
+    },
+    "modified": "2023-11-23T08:08:50",
+    "modified_gmt": "2023-11-23T06:08:50",
+    "slug": "7959",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/7959/",
+    "title": {
+        "rendered": "&#8220;Inside IDF&#8217;s Strategic Assault: A Comprehensive Review of 300 Targets Attacked and Terror Infrastructures Destroyed&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Israel Defense Forces Spokesperson:</p>\n<p>In the past few days, the IDF has attacked approximately 300 targets comprised of the Hamas terrorist organization from the air; ground forces continue to fight, eliminate the enemy, locate underground, and destroy terror infrastructures.</p>\n<p>During the IDF operations in the strip, approximately 300 terror targets of Hamas were attacked from the air in the last day, including operational commands, underground war tunnels, weapon storages, weapon production sites, and rocket launching posts.</p>\n<p>The 215th Artillery Brigade of the 162nd Division targets terror objectives within the vicinity of the Jabalia neighborhood. Directed by the brigade, remotely piloted aircrafts struck terrorists moving towards IDF forces with artillery and an observation post that endangered our forces through precise shooting was attacked.</p>\n<p>Remotely piloted aircrafts and tanks eliminated several terrorist groups during battles in the northern part of the strip, directed by Givati brigade soldiers. Soldiers from the 828 Combat Team located an entrance to a tunnel situated in a mosque.</p>\n<p>Troops from the 924th engineering battalion in the 12th Division located a tunnel entry in the agricultural area of Beit Hanoun and destroyed it. Troops from the 14th Division found numerous weapons and a tunnel entrance in a civilian house in Beit Hanoun.</p>\n<p>Attached is documentation of the destruction of the tunnel entry in the agricultural area of Beit Hanoun: https://bit.ly/49M6FpH</p>\n<p>Attached is documentation of the IDF&#8217;s operations in the strip: https://bit.ly/3GwpLmt</p>\n<p>Attached is documentation of the Air Force strikes in the strip: https://bit.ly/3sMJ2g0</p>\n<p>Attached are pictures from the forces&#8217; operations in the strip: https://IDFANC.activetrail.biz/ANC23112023.4518198</p>\n<p>Attached are pictures of the combat equipment located by the soldiers from the 551 Combat Team: https://IDFANC.activetrail.biz/ANC23112023.7845123.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> Defense Forces Spokesperson: In the past few days, the IDF has attacked approximately 300 targets comprised of the <a  href=\"/hamas\">Hamas</a> terrorist organization from the air; ground forces continue to fight, eliminate the enemy, locate underground, and destroy terror infrastructures. During the IDF operations in the strip, approximately 300 terror targets of <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> were attacked from the air in the last day, including operational commands, underground war tunnels, weapon storages, weapon production sites, and rocket launching posts. The 215th Artillery Brigade of the 162nd Division targets terror objectives within the vicinity of the Jabalia neighborhood. Directed by the brigade, remotely piloted</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4827",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4827
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4827",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4827"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4827/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4827"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4827"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4827"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

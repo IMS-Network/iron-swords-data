@@ -1,0 +1,122 @@
+{
+    "id": 3671,
+    "date": "2024-03-15T18:23:39",
+    "date_gmt": "2024-03-15T16:23:39",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9137/"
+    },
+    "modified": "2024-03-15T18:23:39",
+    "modified_gmt": "2024-03-15T16:23:39",
+    "slug": "9137",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9137/",
+    "title": {
+        "rendered": "&#8220;Exposed: Armed Palestinians Firing Near Civilians Prior to Aid Convoy&#8217;s Arrival &#8211; An IDF Investigation&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Special documentation of armed Palestinians firing around Gazan civilians about an hour before the aid convoy entered the South Zeitoun area. </p>\n<p>About an hour before the aid convoy entered last night, armed Palestinians were observed firing around Gazan civilians. It should be emphasized that IDF forces did not fire towards the aid convoy in Khuza&#8217;a Square. The IDF continues to investigate the incident while making great efforts to bring humanitarian aid to the residents of the Strip, while Hamas terrorists are harming the residents of Gaza and spreading lies in order to blame the State of Israel for it.</p>\n<p>Attached is documentation of armed Palestinians firing around Gazan civilians about an hour before the aid convoy entered the South Zeitoun area: https://bit.ly/3TgH4xH</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Special documentation of armed Palestinians firing around Gazan civilians about an hour before the aid convoy entered the South Zeitoun area. About an hour before the aid convoy entered last night, armed Palestinians were observed firing around Gazan civilians. It should be emphasized that IDF forces did not fire towards the aid convoy in Khuza&#8217;a Square. The IDF continues to investigate the incident while making great efforts to bring humanitarian aid to the residents of the Strip, while <a  href=\"/hamas\">Hamas</a> terrorists are harming the residents of <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> and spreading lies in order to blame the State of <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> for</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3671",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3671
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3671",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3671"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3671/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3671"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3671"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3671"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

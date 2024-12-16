@@ -1,0 +1,122 @@
+{
+    "id": 4496,
+    "date": "2023-12-17T17:53:38",
+    "date_gmt": "2023-12-17T15:53:38",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8297/"
+    },
+    "modified": "2023-12-17T17:53:38",
+    "modified_gmt": "2023-12-17T15:53:38",
+    "slug": "8297",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8297/",
+    "title": {
+        "rendered": "&#8220;IDF Apprehends Terrorist Behind Recent Stabbing Incident Near Rantis Village: A Detailed Account&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces captured the terrorist who carried out the stabbing attack at the gas station near the village of Rantis</p>\n<p>A terrorist carried out a stabbing attack a short while ago at a gas station near the village of Rantis in the Ephraim Regional Brigade&#8217;s territory. A reservist IDF soldier was moderately injured as a result of the stabbing and opened fire at the terrorist. Additional forces initiated a pursuit of the terrorist and blocked routes in the area.</p>\n<p>During the search in the area of the village of Rantis, the forces captured the terrorist suspected of carrying out the attack. </p>\n<p>IDF forces provided first medical treatment to the soldier at the scene and he was evacuated to receive medical care at a hospital. His family was updated.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces captured the terrorist who carried out the stabbing attack at the gas station near the village of Rantis A terrorist carried out a stabbing attack a short while ago at a gas station near the village of Rantis in the Ephraim Regional Brigade&#8217;s territory. A reservist IDF soldier was moderately injured as a result of the stabbing and opened fire at the terrorist. Additional forces initiated a pursuit of the terrorist and blocked routes in the area. During the search in the area of the village of Rantis, the forces captured the terrorist suspected of carrying</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4496",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4496
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4496",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4496"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4496/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4496"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4496"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4496"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

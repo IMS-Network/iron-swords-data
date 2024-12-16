@@ -1,0 +1,124 @@
+{
+    "id": 7523,
+    "date": "2024-07-22T17:28:05",
+    "date_gmt": "2024-07-22T14:28:05",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10585-en/"
+    },
+    "modified": "2024-07-22T17:28:05",
+    "modified_gmt": "2024-07-22T14:28:05",
+    "slug": "10585-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10585-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah: UAV Interceptions and Targeted Airstrikes in Southern Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked a military structure belonging to the terrorist organization Hezbollah, where a terrorist was present; seven unmanned aerial vehicles that crossed from Lebanese territory this morning were intercepted.</p>\n<p>Earlier today, an IDF force from Brigade 300 identified a terrorist entering a military structure in the Shehin area of southern Lebanon. Shortly thereafter, Air Force fighter jets attacked the military structure where the terrorist was located.</p>\n<p>Additionally, fire was directed to remove threats in the Mis Al-Jabal and Kfar Shuba areas.</p>\n<p>In the morning hours, seven unmanned aerial vehicles were identified crossing into the territory from Lebanon, and the air defense fighters successfully intercepted all seven UAVs.</p>\n<p>Attached is footage of the interceptions: https://we.tl/t-ouU6Alnc9u</p>\n<p>Attached is footage of the attack on the military structure: https://we.tl/t-50QbAp6eif</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked a military structure belonging to the terrorist organization <a  href=\"/hezbollah\">Hezbollah</a>, where a terrorist was present; seven unmanned aerial vehicles that crossed from Lebanese territory this morning were intercepted. Earlier today, an IDF force from Brigade 300 identified a terrorist entering a military structure in the Shehin area of southern Lebanon. Shortly thereafter, Air Force fighter jets attacked the military structure where the terrorist was located. Additionally, fire was directed to remove threats in the Mis Al-Jabal and Kfar Shuba areas. In the morning hours, seven unmanned aerial vehicles were identified crossing into the territory from Lebanon,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7523",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7523,
+        "he": 7524,
+        "ru": 7525
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7523",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7523"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7523/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7523"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7523"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7523"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

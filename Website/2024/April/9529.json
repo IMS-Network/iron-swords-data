@@ -1,0 +1,122 @@
+{
+    "id": 3291,
+    "date": "2024-04-22T02:00:12",
+    "date_gmt": "2024-04-21T23:00:12",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9529/"
+    },
+    "modified": "2024-04-22T02:00:12",
+    "modified_gmt": "2024-04-21T23:00:12",
+    "slug": "9529",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9529/",
+    "title": {
+        "rendered": "&#8220;Air Force Drone Downed: IDF Investigates Ground-to-Air Missile Attack in Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Earlier tonight, a ground-to-air missile was fired at a remotely piloted aircraft of the Air Force operating in the skies of Lebanon, resulting in damage and the craft falling in Lebanese territory. The incident is under investigation.<br />\nAir Force combat aircraft attacked the launch site from which the missile was fired.<br />\nThe Air Force will continue to operate in the skies of Lebanon to carry out IDF missions.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Earlier tonight, a ground-to-air missile was fired at a remotely piloted aircraft of the Air Force operating in the skies of Lebanon, resulting in damage and the craft falling in Lebanese territory. The incident is under investigation. Air Force combat aircraft attacked the launch site from which the missile was fired. The Air Force will continue to operate in the skies of Lebanon to carry out IDF missions.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3291",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3291
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3291",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3291"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3291/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3291"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3291"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3291"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

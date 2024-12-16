@@ -1,0 +1,122 @@
+{
+    "id": 4829,
+    "date": "2023-11-22T20:02:03",
+    "date_gmt": "2023-11-22T18:02:03",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/7957/"
+    },
+    "modified": "2023-11-22T20:02:03",
+    "modified_gmt": "2023-11-22T18:02:03",
+    "slug": "7957",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/7957/",
+    "title": {
+        "rendered": "&#8220;Exposing the Hidden Terror: Hamas Combat Tunnels Under Shifa Hospital Uncovered&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Combat, hiding and detention rooms of Hamas and additional factions:</p>\n<p>Dozens of meters of a collapsed terror tunnel were exposed under Shifa Hospital.</p>\n<p>https://www.idf.il/155087</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Combat, hiding and detention rooms of <a  href=\"/hamas\">Hamas</a> and additional factions: Dozens of meters of a collapsed terror tunnel were exposed under Shifa Hospital. https://www.idf.il/155087</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4829",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4829
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4829",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4829"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4829/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4829"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4829"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4829"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

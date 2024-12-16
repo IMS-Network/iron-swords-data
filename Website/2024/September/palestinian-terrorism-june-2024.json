@@ -1,0 +1,138 @@
+{
+    "id": 17560,
+    "date": "2024-09-12T19:27:20",
+    "date_gmt": "2024-09-12T16:27:20",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=17560"
+    },
+    "modified": "2024-09-12T19:27:25",
+    "modified_gmt": "2024-09-12T16:27:25",
+    "slug": "palestinian-terrorism-june-2024",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/terror-attacks/palestinian-terrorism-june-2024/",
+    "title": {
+        "rendered": "Palestinian Terrorism |\u00a0June 2024"
+    },
+    "content": {
+        "rendered": "\n<p><strong>June 20</strong> \u2013 Palestinians violently attacked an Israeli civilian near the Eliyahu crossing and stole his car. During the robbery, the civilian suffered a heart attack and passed away a few hours later.</p>\n\n\n\n<p><strong>June 22</strong> \u2013 An Israeli civilian was shot and murdered after entering Qalqilya with his private vehicle to buy fruits and vegetables. His car was later set on fire. In August 2024, the two Palestinian terrorists responsible for the attack were killed in an airstrike by the Israeli Air Force in Tulkarm.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>In June, Palestinians carried out 398 terrorist attacks, including stone-throwing incidents, resulting in 2 deaths and 25 injuries</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 17542,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1570,
+        "footnotes": ""
+    },
+    "categories": [
+        1570
+    ],
+    "tags": [
+        1574
+    ],
+    "class_list": [
+        "post-17560",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-terror-attacks",
+        "tag-palestinian-terrorism"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 17560
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/17560",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=17560"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/17560/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 17561,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/17560/revisions/17561"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/17542"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=17560"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=17560"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=17560"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

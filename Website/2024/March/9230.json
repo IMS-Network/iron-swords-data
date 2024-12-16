@@ -1,0 +1,122 @@
+{
+    "id": 3582,
+    "date": "2024-03-24T13:27:35",
+    "date_gmt": "2024-03-24T11:27:35",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9230/"
+    },
+    "modified": "2024-03-24T13:27:35",
+    "modified_gmt": "2024-03-24T11:27:35",
+    "slug": "9230",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9230/",
+    "title": {
+        "rendered": "&#8220;Crackdown in Gush Etzion: IDF Arrests Five Suspects, Seizes Weapons in Overnight Operation&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF soldiers, the Shin Bet, and the Border Police arrested five wanted individuals overnight throughout the Gush Etzion brigade&#8217;s area.</p>\n<p>The forces arrested five wanted individuals throughout the Gush Etzion brigade&#8217;s area during the night. In the city of Bethlehem, the forces seized weapons.</p>\n<p>The arrested suspects and the seized weapons have been transferred for further handling by security forces, our forces have not been harmed.</p>\n<p>So far, since the start of the war, about 3,600 wanted individuals have been arrested throughout the Judea and Samaria Division and in the Jordan Valley and the Valleys brigade, about 1,600 of them are affiliated with the terrorist organization Hamas.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF soldiers, the Shin Bet, and the Border Police arrested five wanted individuals overnight throughout the Gush Etzion brigade&#8217;s area. The forces arrested five wanted individuals throughout the Gush Etzion brigade&#8217;s area during the night. In the city of Bethlehem, the forces seized weapons. The arrested suspects and the seized weapons have been transferred for further handling by security forces, our forces have not been harmed. So far, since the start of the war, about 3,600 wanted individuals have been arrested throughout the <a  href=\"https://iron-swords.co.il/t/judea-and-samaria-division/\">Judea and Samaria Division</a> and in the Jordan Valley and the Valleys brigade, about 1,600</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3582",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3582
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3582",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3582"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3582/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3582"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3582"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3582"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

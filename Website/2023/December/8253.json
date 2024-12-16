@@ -1,0 +1,122 @@
+{
+    "id": 4540,
+    "date": "2023-12-14T12:00:34",
+    "date_gmt": "2023-12-14T10:00:34",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8253/"
+    },
+    "modified": "2023-12-14T12:00:34",
+    "modified_gmt": "2023-12-14T10:00:34",
+    "slug": "8253",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8253/",
+    "title": {
+        "rendered": "&#8220;Bravery Beyond Bounds: Remembering Lieutenant Tomer Greenberg&#8217;s Heroic Actions in Shejaia&#8221;"
+    },
+    "content": {
+        "rendered": "<p>&#8220;I am with all my platoon, whatever needs to be done, we are waiting for missions&#8221;: These are the contact voices of MAG&#8221;D 13, Lieutenant Tomer Greenberg of blessed memory, as he jumped to rescue his soldiers under fire in Shejaia.<br />\nhttps://www.idf.il/162033</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>&#8220;I am with all my platoon, whatever needs to be done, we are waiting for missions&#8221;: These are the contact voices of MAG&#8221;D 13, Lieutenant Tomer Greenberg of blessed memory, as he jumped to rescue his soldiers under fire in Shejaia. https://www.idf.il/162033</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4540",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4540
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4540",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4540"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4540/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4540"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4540"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4540"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

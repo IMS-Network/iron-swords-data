@@ -1,0 +1,124 @@
+{
+    "id": 8399,
+    "date": "2024-06-29T09:31:38",
+    "date_gmt": "2024-06-29T06:31:38",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10286-en/"
+    },
+    "modified": "2024-06-29T09:31:38",
+    "modified_gmt": "2024-06-29T06:31:38",
+    "slug": "10286-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10286-en/",
+    "title": {
+        "rendered": "&#8220;IDF Division 98 Strikes Terrorist Targets in Gaza: Key Updates on Operations and Successes&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Division 98 continues its attack on terrorist targets in Shuja&#8217;iya; many terrorists have been eliminated across the Gaza Strip from the air and ground.</p>\n<p>Forces of Division 98 are continuing their assault on terrorist targets in the Shuja&#8217;iya area, fighting both above and below ground simultaneously. In the last 24 hours, combat teams from the 7th Brigade and the Paratroopers Brigade have eliminated many terrorists in clashes and uncovered a weapons storage facility in the vicinity of a school.</p>\n<p>As part of Division 98&#8217;s activities, Air Force aircraft have targeted terrorist objectives and armed terrorist cells, including a terrorist cell that was on its way to fire at our forces and was eliminated before it could shoot.</p>\n<p>In Rafah, the combat teams of the Nahal and Givati Brigades under the command of Division 162 have eliminated several terrorists in the area over the last 24 hours, and, in cooperation with the Air Force, destroyed numerous terrorist infrastructures, including tunnel shafts.</p>\n<p>In the central Gaza Strip, forces from Division 99 eliminated several terrorists using machine gun fire and guided Air Force strikes. As part of the forces&#8217; activities in the area, Air Force aircraft targeted several anti-tank positions from which launches had been made during the conflict towards forces in the central Gaza Strip.</p>\n<p>Last night (Friday), two launches were detected crossing from northern Gaza into the area of Sderot. Air defense fighters successfully intercepted one launch, while another fell into open territory, causing no casualties. Shortly thereafter, aircraft led by the Gaza Division and the Air Force struck an underground facility near the position from which the launches were made, and Division forces responded with artillery fire at the source of the shooting.</p>\n<p>Attached is documentation from IDF strikes in the Gaza Strip: https://bit.ly/4eK7Hoz</p>\n<p>Attached are images from the forces&#8217; activities in the Gaza Strip: https://IDFANC.activetrail.biz/ANC29062024769625454</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Division 98 continues its attack on terrorist targets in Shuja&#8217;iya; many terrorists have been eliminated across the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip from the air and ground. Forces of Division 98 are continuing their assault on terrorist targets in the Shuja&#8217;iya area, fighting both above and below ground simultaneously. In the last 24 hours, combat teams from the 7th Brigade and the <a  href=\"https://iron-swords.co.il/t/paratroopers-brigade/\">Paratroopers Brigade</a> have eliminated many terrorists in clashes and uncovered a weapons storage facility in the vicinity of a school. As part of Division 98&#8217;s activities, Air Force aircraft have targeted terrorist objectives and armed terrorist cells, including a</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8399",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8399,
+        "he": 8400,
+        "ru": 8401
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8399",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8399"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8399/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8399"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8399"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8399"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

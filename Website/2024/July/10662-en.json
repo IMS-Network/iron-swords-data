@@ -1,0 +1,124 @@
+{
+    "id": 7285,
+    "date": "2024-07-28T05:59:02",
+    "date_gmt": "2024-07-28T02:59:02",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10662-en/"
+    },
+    "modified": "2024-07-28T05:59:02",
+    "modified_gmt": "2024-07-28T02:59:02",
+    "slug": "10662-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10662-en/",
+    "title": {
+        "rendered": "&#8220;Remembering Our Heroes: IDF Soldier Name Announcement and Tribute Details&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Attached is a statement from the IDF Spokesperson regarding the name of the fallen IDF soldier for whom a notification was given to the family: https://IDFANC.activetrail.biz/ANC27072024253456457</p>\n<p>A link is attached to the IDF website, where the details and photographs of the fallen soldiers are published and updated: https://www.idf.il/59780</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Attached is a statement from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a> regarding the name of the fallen IDF soldier for whom a notification was given to the family: https://IDFANC.activetrail.biz/ANC27072024253456457 A link is attached to the IDF website, where the details and photographs of the fallen soldiers are published and updated: https://www.idf.il/59780</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7285",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7285,
+        "he": 7286,
+        "ru": 7287
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7285",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7285"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7285/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7285"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7285"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7285"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

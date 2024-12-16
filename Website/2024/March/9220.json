@@ -1,0 +1,122 @@
+{
+    "id": 3589,
+    "date": "2024-03-23T18:07:26",
+    "date_gmt": "2024-03-23T16:07:26",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9220/"
+    },
+    "modified": "2024-03-23T18:07:26",
+    "modified_gmt": "2024-03-23T16:07:26",
+    "slug": "9220",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9220/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Military Bases and Observation Posts: Inside the Counter-Terrorism Operations in Southern Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>At several points along the border: The IDF attacked military buildings and an observation post of the Hezbollah terrorist organization. </p>\n<p>An IDF force from unit 869 identified a terrorist entering a military building of the Hezbollah terrorist organization in the village of Kila in southern Lebanon using a drone a short time ago. The building was attacked by Air Force fighter jets. </p>\n<p>In Baanwaara and Ayta ash Shaab, military buildings of the terrorist organization were attacked by fighter jets. In Al-Khiyam, an observation post of the organization was attacked. </p>\n<p>During the day, several rocket launches from Lebanon towards Mount Dov, Margaliot, and Shomera were identified, and in the afternoon, a report was received on debris from an aircraft at two points in the Kfar Blum area. There were no casualties.</p>\n<p>Attached is documentation on the subject: https://bit.ly/4arKWTy</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: At several points along the border: The IDF attacked military buildings and an observation post of the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization. An IDF force from unit 869 identified a terrorist entering a military building of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization in the village of Kila in southern Lebanon using a drone a short time ago. The building was attacked by Air Force fighter jets. In Baanwaara and Ayta ash Shaab, military buildings of the terrorist organization were attacked by fighter jets. In Al-Khiyam, an observation post of the organization was attacked. During the day, several rocket launches from Lebanon towards</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3589",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3589
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3589",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3589"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3589/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3589"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3589"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3589"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

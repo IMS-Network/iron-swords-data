@@ -1,0 +1,122 @@
+{
+    "id": 4307,
+    "date": "2024-01-02T10:35:44",
+    "date_gmt": "2024-01-02T08:35:44",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8487/"
+    },
+    "modified": "2024-01-02T10:35:44",
+    "modified_gmt": "2024-01-02T08:35:44",
+    "slug": "8487",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8487/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Bases in Yaroun and Syrian Army Infrastructure: A Response to Attacks on Israeli Territory&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>The IDF attacked Hezbollah terrorist infrastructures in the Yaroun village area; a fighter jet attacked a Syrian army infrastructure overnight in response to launches towards Israeli territory.</p>\n<p>Air Force fighter jets recently attacked terrorist infrastructures where Hezbollah terrorists were operating in the Yaroun village area in Lebanon.</p>\n<p>Overnight, the IDF attacked a military infrastructure of the Syrian army in response to launches yesterday (Monday) towards Israeli territory.</p>\n<p>In addition, two launches from Lebanese territory towards Shlomi were identified a short while ago.</p>\n<p>Attached is documentation of the attack on the Hezbollah terrorist organization\u2019s infrastructures in Lebanon: https://bit.ly/41KcJLH</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: The IDF attacked <a  href=\"/hezbollah\">Hezbollah</a> terrorist infrastructures in the Yaroun village area; a fighter jet attacked a Syrian army infrastructure overnight in response to launches towards Israeli territory. Air Force fighter jets recently attacked terrorist infrastructures where <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorists were operating in the Yaroun village area in Lebanon. Overnight, the IDF attacked a military infrastructure of the Syrian army in response to launches yesterday (Monday) towards Israeli territory. In addition, two launches from Lebanese territory towards Shlomi were identified a short while ago. Attached is documentation of the attack on the Hezbollah terrorist organization\u2019s infrastructures in Lebanon: https://bit.ly/41KcJLH</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4307",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4307
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4307",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4307"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4307/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4307"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4307"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4307"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

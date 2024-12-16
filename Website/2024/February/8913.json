@@ -1,0 +1,122 @@
+{
+    "id": 3890,
+    "date": "2024-02-19T13:55:46",
+    "date_gmt": "2024-02-19T11:55:46",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8913/"
+    },
+    "modified": "2024-02-19T13:55:46",
+    "modified_gmt": "2024-02-19T11:55:46",
+    "slug": "8913",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8913/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Targets in Southern Lebanon: A Detailed Overview of Recent Anti-Terrorist Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF struck targets of the Hezbollah terrorist organization in various areas in southern Lebanon; a circle closed in a building in which a terrorist operative was identified by observation</p>\n<p>A short while ago, fighters struck Hezbollah terrorist infrastructures in the area of \u200b\u200bthe village of Al-Dahira in southern Lebanon.</p>\n<p>Yesterday (Sunday), a visual intelligence analyst in Unit 869 identified the entry of a terrorist operative into a military building of Hezbollah in the Aita al-Shaab area. Immediately after the identification, a report was transferred to the Fire Center in the Northern Command and combat aircrafts were launched that attacked the building hosting the operative shortly afterwards.</p>\n<p>In the past day, a launch site of the organization in the Itarun area was attacked alongside a terrorist infrastructure in the Al-Adaisa area, and artillery fire was carried out to other areas in Lebanon.</p>\n<p>Additionally, this morning, remains of an aircraft were found in an open area in the Arbel area of the Lower Galilee. It doesn&#8217;t seem to be an IDF aircraft. The circumstances of the event are under investigation, IDF and Israeli police forces are at the scene.</p>\n<p>Attached is documentation from the attacks: https://bit.ly/4bFEkSW.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF struck targets of the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization in various areas in southern Lebanon; a circle closed in a building in which a terrorist operative was identified by observation A short while ago, fighters struck <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist infrastructures in the area of \u200b\u200bthe village of Al-Dahira in southern Lebanon. Yesterday (Sunday), a visual intelligence analyst in Unit 869 identified the entry of a terrorist operative into a military building of Hezbollah in the Aita al-Shaab area. Immediately after the identification, a report was transferred to the Fire Center in the Northern Command and combat aircrafts were launched</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3890",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3890
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3890",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3890"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3890/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3890"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3890"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3890"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

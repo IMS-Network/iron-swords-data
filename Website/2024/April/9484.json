@@ -1,0 +1,122 @@
+{
+    "id": 3333,
+    "date": "2024-04-17T14:59:54",
+    "date_gmt": "2024-04-17T11:59:54",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9484/"
+    },
+    "modified": "2024-04-17T14:59:54",
+    "modified_gmt": "2024-04-17T11:59:54",
+    "slug": "9484",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9484/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Terror Sites in Southern Lebanon: A Detailed Report on the Operation&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked the sources from which the missiles were fired towards Arab al-Aramshe; in parallel, a military building where terrorists were staying in southern Lebanon was attacked.</p>\n<p>Fighter jets attacked a short while ago a military building where Hezbollah terror organization&#8217;s operatives were staying in the area of Ayta al-Shaab in southern Lebanon.</p>\n<p>During the last hour, a number of launches were detected from Lebanon towards the area of Arab al-Aramshe, the IDF attacked the firing sources.</p>\n<p>Attached is a documentation of the attack on the building where terrorists were detected: https://bit.ly/3JnzwEQ</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked the sources from which the missiles were fired towards Arab al-Aramshe; in parallel, a military building where terrorists were staying in southern Lebanon was attacked. Fighter jets attacked a short while ago a military building where <a  href=\"/hezbollah\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a>&#8217;s operatives were staying in the area of Ayta al-Shaab in southern Lebanon. During the last hour, a number of launches were detected from Lebanon towards the area of Arab al-Aramshe, the IDF attacked the firing sources. Attached is a documentation of the attack on the building where terrorists were detected: https://bit.ly/3JnzwEQ</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3333",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3333
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3333",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3333"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3333/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3333"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3333"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3333"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

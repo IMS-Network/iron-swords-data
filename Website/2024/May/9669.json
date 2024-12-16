@@ -1,0 +1,122 @@
+{
+    "id": 3154,
+    "date": "2024-05-08T19:00:19",
+    "date_gmt": "2024-05-08T16:00:19",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9669/"
+    },
+    "modified": "2024-05-08T19:00:19",
+    "modified_gmt": "2024-05-08T16:00:19",
+    "slug": "9669",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9669/",
+    "title": {
+        "rendered": "&#8220;Brigade 162&#8217;s Strategic APC 401 Transport Operations in Eastern Rafah: Airstrikes Neutralize 30 Terrorists&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Brigade 162 in the transport of APC 401 are operating in Eastern Rafah:<br />\nAround 100 targets were attacked from the air and 30 terrorists were eliminated</p>\n<p>https://www.idf.il/196950</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Brigade 162 in the transport of APC 401 are operating in Eastern Rafah: Around 100 targets were attacked from the air and 30 terrorists were eliminated https://www.idf.il/196950</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3154",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3154
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3154",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3154"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3154/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3154"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3154"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3154"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": 8114,
+    "date": "2024-07-07T18:02:27",
+    "date_gmt": "2024-07-07T15:02:27",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10384-en/"
+    },
+    "modified": "2024-07-07T18:02:27",
+    "modified_gmt": "2024-07-07T15:02:27",
+    "slug": "10384-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10384-en/",
+    "title": {
+        "rendered": "&#8220;Honoring Our Heroes: IDF Spokesperson Announces Fallen Soldier&#8217;s Name and Family Notification&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Attached is a message from the IDF Spokesperson regarding the name of an IDF fallen soldier for whom a notification was delivered to his family: https://IDFANC.activetrail.biz/ANC070720249289289284</p>\n<p>Included is a link to the IDF website, where the details and photos of the fallen soldiers are published and updated: https://www.idf.il/59780</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Attached is a message from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a> regarding the name of an IDF fallen soldier for whom a notification was delivered to his family: https://IDFANC.activetrail.biz/ANC070720249289289284 Included is a link to the IDF website, where the details and photos of the fallen soldiers are published and updated: https://www.idf.il/59780</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8114",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8114,
+        "he": 8115,
+        "ru": 8116
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8114",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8114"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8114/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8114"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8114"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8114"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

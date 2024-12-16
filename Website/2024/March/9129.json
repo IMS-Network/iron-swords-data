@@ -1,0 +1,122 @@
+{
+    "id": 3679,
+    "date": "2024-03-14T17:50:21",
+    "date_gmt": "2024-03-14T15:50:21",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9129/"
+    },
+    "modified": "2024-03-14T17:50:21",
+    "modified_gmt": "2024-03-14T15:50:21",
+    "slug": "9129",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9129/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Military Targets in al-Nakoura and Yaroun: A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked military buildings of the terror organization Hezbollah in the area of al-Nakoura and a terror infrastructure in the area of Yaroun.</p>\n<p>A short while ago, fighter jets attacked military buildings of the terror organization Hezbollah in the area of al-Nakoura. Also, the IDF attacked with artillery in Wadi Chamoul to remove a threat.</p>\n<p>Another terror infrastructure of the organization was attacked in the village area of Yaroun.</p>\n<p>In the past few hours, three launches from Lebanese territory to Israeli territory have been identified in the area of Malkia.</p>\n<p>Attached is documentation from the attacks: https://bit.ly/3TAkHVh</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked military buildings of the <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> <a  href=\"/hezbollah\">Hezbollah</a> in the area of al-Nakoura and a terror infrastructure in the area of Yaroun. A short while ago, fighter jets attacked military buildings of the terror organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in the area of al-Nakoura. Also, the IDF attacked with artillery in Wadi Chamoul to remove a threat. Another terror infrastructure of the organization was attacked in the village area of Yaroun. In the past few hours, three launches from Lebanese territory to Israeli territory have been identified in the area of Malkia. Attached is documentation from the attacks: https://bit.ly/3TAkHVh</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3679",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3679
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3679",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3679"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3679/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3679"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3679"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3679"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

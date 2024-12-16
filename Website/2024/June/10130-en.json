@@ -1,0 +1,124 @@
+{
+    "id": 8861,
+    "date": "2024-06-14T21:51:40",
+    "date_gmt": "2024-06-14T18:51:40",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10130-en/"
+    },
+    "modified": "2024-06-14T21:51:40",
+    "modified_gmt": "2024-06-14T18:51:40",
+    "slug": "10130-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10130-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Launchers and Weapons Facilities in Southern Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Attack on a launcher from which launches were made towards the Avivim area and an attack on a weapons storage facility and terror infrastructure; the IDF continues to strike in southern Lebanon.</p>\n<p>Aircraft attacked earlier today a launcher of the terrorist organization Hezbollah in the Yaron area of southern Lebanon, from which launches were made towards the Avivim area.</p>\n<p>In addition, fighter jets attacked earlier today a weapons storage facility in the Ramiah area, alongside a military structure in the Hula area and terror infrastructure in the Itarun area.</p>\n<p>Following alerts triggered by rocket and missile fire in Margaliot at 19:31, one launch was identified that crossed from Lebanese territory and fell in an open area, with no injuries reported.<br />\nAdditionally, following alerts triggered by rocket and missile fire in Metula at 21:09, about ten launches were identified that crossed from Lebanese territory, with no injuries reported.</p>\n<p>Attached is documentation from the attacks: https://bit.ly/3XnrO5C</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Attack on a launcher from which launches were made towards the Avivim area and an attack on a weapons storage facility and terror infrastructure; the IDF continues to strike in southern Lebanon. Aircraft attacked earlier today a launcher of the terrorist organization <a  href=\"/hezbollah\">Hezbollah</a> in the Yaron area of southern Lebanon, from which launches were made towards the Avivim area. In addition, fighter jets attacked earlier today a weapons storage facility in the Ramiah area, alongside a military structure in the Hula area and terror infrastructure in the Itarun area. Following alerts triggered by rocket and missile fire in</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8861",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8861,
+        "he": 8862,
+        "ru": 8863
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8861",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8861"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8861/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8861"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8861"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8861"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

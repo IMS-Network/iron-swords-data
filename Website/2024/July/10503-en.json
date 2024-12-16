@@ -1,0 +1,124 @@
+{
+    "id": 7761,
+    "date": "2024-07-16T18:48:59",
+    "date_gmt": "2024-07-16T15:48:59",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10503-en/"
+    },
+    "modified": "2024-07-16T18:48:59",
+    "modified_gmt": "2024-07-16T15:48:59",
+    "slug": "10503-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10503-en/",
+    "title": {
+        "rendered": "&#8220;Hamas Military Setback: 50% Leadership Loss and 14,000 Injured Militants&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Nine months of maneuvering:<br />\nHalf of the leadership of Hamas&#8217;s military wing has been eliminated and approximately 14,000 militants were injured.</p>\n<p>For all the details and documentation:</p>\n<p>https://www.idf.il/216950</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Nine months of maneuvering: Half of the leadership of <a  href=\"/hamas\">Hamas</a>&#8217;s military wing has been eliminated and approximately 14,000 militants were injured. For all the details and documentation: https://www.idf.il/216950</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7761",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7761,
+        "he": 7762,
+        "ru": 7763
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7761",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7761"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7761/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7761"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7761"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7761"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

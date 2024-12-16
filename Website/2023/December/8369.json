@@ -1,0 +1,122 @@
+{
+    "id": 4424,
+    "date": "2023-12-22T08:49:58",
+    "date_gmt": "2023-12-22T06:49:58",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8369/"
+    },
+    "modified": "2023-12-22T08:49:58",
+    "modified_gmt": "2023-12-22T06:49:58",
+    "slug": "8369",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8369/",
+    "title": {
+        "rendered": "&#8220;Unearthing Threats: IDF&#8217;s Persistent Efforts in Disarming Hamas and Securing Israeli Territory&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Speaker:</p>\n<p>The IDF&#8217;s activity in the Strip area continues; Combat teams from brigades 646 and 7 located many weapons in the Strip, including rocket launchers, which were used for firing at Israeli territory last week.</p>\n<p>In an operation by a combat team from Brigade 646 in the area of Juhar ad-Dik, the soldiers located a weapons depot with many weapons. During the operation, the unit&#8217;s intelligence forces located long-range rocket launchers, which were recently used for launching rockets at Israeli territory. The launchers were destroyed by an airstrike. </p>\n<p>During a series of offensive operations by Brigade 7 soldiers in the heart of Khan Younes recently, the troops discovered multiple weapons in a residential building, including military uniforms and explosive devices, firearms, warehouses, and combat equipment. </p>\n<p>A combat aircraft of the Air Force, under the direction of Brigade 215, targeted a Hamas engineering operative who was placing explosives against our forces and a terrorist cell that threatened our forces in the Strip area was attacked.</p>\n<p>Engineering forces from Brigade 4&#8217;s combat team destroyed a tunnel exit from which terrorists emerged and fired RPGs at our forces. </p>\n<p>In the past two days, the reserves armored brigade&#8217;s combat team conducted, based on intelligence, raids on buildings in the school on the outskirts of Shati, where Hamas terrorists operated. During the raids the soldiers found multiple weapons, warehouses, and Hamas maps. </p>\n<p>Combat soldiers from Brigade 179 &#8216;Ram&#8217; completed an operation in the south of Gaza city during which they discovered in a house near a children&#8217;s park a large amount of weapons including firearms, grenades, and explosives. In another house, the soldiers found an RPG missile ready to be launched on the window ledge, and a missile launcher ready for use and aimed towards the outskirts of Gaza.</p>\n<p>Overnight, Navy forces attacked Hamas targets on the coastline, in support of the ongoing combat forces. </p>\n<p>Attached is documentation of IDF attacks in the Strip: https://bit.ly/4apHTvX</p>\n<p>Attached are photos from IDF forces&#8217; activity in the Strip: https://IDFANC.activetrail.biz/ANC22122023.1246589451</p>\n<p>Attached are photos of the weapons found by the soldiers: https://IDFANC.activetrail.biz/ANC22102023.1548948</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>IDF Speaker: The IDF&#8217;s activity in the Strip area continues; Combat teams from brigades 646 and 7 located many weapons in the Strip, including rocket launchers, which were used for firing at Israeli territory last week. In an operation by a combat team from Brigade 646 in the area of Juhar ad-Dik, the soldiers located a weapons depot with many weapons. During the operation, the unit&#8217;s intelligence forces located long-range rocket launchers, which were recently used for launching rockets at Israeli territory. The launchers were destroyed by an airstrike. During a series of offensive operations by Brigade 7 soldiers in</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4424",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4424
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4424",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4424"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4424/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4424"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4424"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4424"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": 8648,
+    "date": "2024-06-21T16:24:53",
+    "date_gmt": "2024-06-21T13:24:53",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10202-en/"
+    },
+    "modified": "2024-06-21T16:24:53",
+    "modified_gmt": "2024-06-21T13:24:53",
+    "slug": "10202-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10202-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Targets: Aerial Threats Intercepted Over Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF continues to attack Hezbollah terrorist targets in southern Lebanon; a suspicious aerial target that crossed from Lebanon was intercepted.</p>\n<p>Fighter jets attacked over the night terrorist infrastructure of the Hezbollah organization in the regions of A-Taybeh and Deir Sirin in southern Lebanon.</p>\n<p>Additionally, IDF forces carried out artillery strikes throughout the day towards several areas in southern Lebanon.</p>\n<p>In recent hours, several launches were identified crossing from Lebanon to various areas in the north of the country, with no casualties reported. In response, IDF forces conducted artillery fire towards the villages of Hammam and Lavona in southern Lebanon.</p>\n<p>Following alerts activated at 14:21 regarding the infiltration of hostile aircraft in the Klay and Sha&#8217;al regions, air defense fighters intercepted a suspicious aerial target that crossed from Lebanese territory.</p>\n<p>Attached is documentation of the interception: https://bit.ly/45HvMbx</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF continues to attack <a  href=\"/hezbollah\">Hezbollah</a> terrorist targets in southern Lebanon; a suspicious aerial target that crossed from Lebanon was intercepted. Fighter jets attacked over the night terrorist infrastructure of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> organization in the regions of A-Taybeh and Deir Sirin in southern Lebanon. Additionally, IDF forces carried out artillery strikes throughout the day towards several areas in southern Lebanon. In recent hours, several launches were identified crossing from Lebanon to various areas in the north of the country, with no casualties reported. In response, IDF forces conducted artillery fire towards the villages of Hammam and Lavona in</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8648",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8648,
+        "he": 8649,
+        "ru": 8650
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8648",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8648"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8648/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8648"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8648"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8648"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

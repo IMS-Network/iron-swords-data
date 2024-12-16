@@ -1,0 +1,122 @@
+{
+    "id": 3128,
+    "date": "2024-05-11T14:01:22",
+    "date_gmt": "2024-05-11T11:01:22",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9695/"
+    },
+    "modified": "2024-05-11T14:01:22",
+    "modified_gmt": "2024-05-11T11:01:22",
+    "slug": "9695",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9695/",
+    "title": {
+        "rendered": "&#8220;Inside IDF&#8217;s Intense Battle in Zaytun: Uncovering Hidden Weapons, Destroying Terror Infrastructures, and Close-Combat Engagements&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The Battle in the Zaytun neighborhood: Soldiers from the Nahal Brigade&#8217;s combat team located weapons in a clinic; Brigade 162&#8217;s operations continue in east Rafah.</p>\n<p>In the northern Strip, soldiers from the Nahal Brigade&#8217;s combat team are intensifying activities in the Zaytun neighborhood area. The forces have located numerous weapons and eliminated armed terrorists at close range. During one of the sweeps in the area, weapons hidden in a clinic were found, including Kalashnikov rifles, vests, and other military equipment.</p>\n<p>During the past day, an aircraft from the Air Force attacked and destroyed dozens of terror targets throughout the Strip. Among the targets attacked were military buildings, launch sites, observation posts, terrorists, and other terror infrastructures.</p>\n<p>IDF forces under the command of Brigade 162 and guided by the Shin Bet and AMAN intelligence agencies, continue targeted operations in east Rafah against Hamas terrorists and the organization&#8217;s infrastructure. As part of the operation, combat soldiers from the Givati Brigade eliminated several terrorists in face-to-face fights in the area during the past day, and in addition, destroyed terror infrastructures in the region. Combat soldiers from Brigade 401 located several underground tunnels and closed in on armed terrorists in the area in cooperation with the Air Force.</p>\n<p>Attached is a footage of the forces&#8217; operations in the Strip: https://bit.ly/4dDEbk2</p>\n<p>Attached are pictures from the forces&#8217; operations in the Strip: https://IDFANC.activetrail.biz/ANC110520242478904782</p>\n<p>Attached is a picture of the weapons found in the Zaytun clinic: https://IDFANC.activetrail.biz/ANC11052024724897489446</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The Battle in the Zaytun neighborhood: Soldiers from the <a  href=\"https://iron-swords.co.il/t/nahal-brigade/\">Nahal Brigade</a>&#8217;s combat team located weapons in a clinic; Brigade 162&#8217;s operations continue in east Rafah. In the northern Strip, soldiers from the Nahal Brigade&#8217;s combat team are intensifying activities in the Zaytun neighborhood area. The forces have located numerous weapons and eliminated armed terrorists at close range. During one of the sweeps in the area, weapons hidden in a clinic were found, including Kalashnikov rifles, vests, and other military equipment. During the past day, an aircraft from the Air Force attacked and destroyed dozens of terror targets throughout</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3128",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3128
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3128",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3128"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3128/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3128"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3128"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3128"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

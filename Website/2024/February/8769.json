@@ -1,0 +1,122 @@
+{
+    "id": 4033,
+    "date": "2024-02-02T13:00:04",
+    "date_gmt": "2024-02-02T11:00:04",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8769/"
+    },
+    "modified": "2024-02-02T13:00:04",
+    "modified_gmt": "2024-02-02T11:00:04",
+    "slug": "8769",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8769/",
+    "title": {
+        "rendered": "&#8220;Brigade 99 Foils Terrorist Passage, Targets Hamas&#8217; Finances and Rocket Factory in Gaza&#8221;"
+    },
+    "content": {
+        "rendered": "<p>While preventing the passage of terrorists from north to central Gaza:<br />\nFighters from Brigade 99 destroyed a rocket manufacturing compound and raided Hamas&#8217; treasuries.<br />\nhttps://www.idf.il/177834</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>While preventing the passage of terrorists from north to central <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>: Fighters from Brigade 99 destroyed a rocket manufacturing compound and raided <a  href=\"/hamas\">Hamas</a>&#8217; treasuries. https://www.idf.il/177834</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4033",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4033
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4033",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4033"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4033/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4033"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4033"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4033"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

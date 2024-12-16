@@ -1,0 +1,124 @@
+{
+    "id": 8579,
+    "date": "2024-06-24T09:44:15",
+    "date_gmt": "2024-06-24T06:44:15",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10225-en/"
+    },
+    "modified": "2024-06-24T09:44:15",
+    "modified_gmt": "2024-06-24T06:44:15",
+    "slug": "10225-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10225-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes: Key Hamas Weapons Manufacturer Eliminated in Rafah Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF eliminated a central terrorist involved in the weapons manufacturing headquarters of Hamas; launchers from which attacks were carried out against our forces were identified and destroyed in Rafah.</p>\n<p>Air force aircraft targeted and eliminated the terrorist Mohammed Salah last night (Sunday), with guidance from military intelligence and the Southern Command. Salah was involved in projects and development at the weapons manufacturing headquarters of the Hamas terrorist organization. He participated in the development of strategic weapons for Hamas and commanded several terrorist cell units engaged in developing weaponry.</p>\n<p>Forces from Division 162 continue operations in the Rafah area, during targeted raids, the fighters identified numerous weapons and destroyed launchers from which attacks were carried out against our forces during the war in the Tel Sultan area.</p>\n<p>Battalion combat teams eliminated several armed terrorists in the last 24 hours who posed a threat to our forces and destroyed several tunnel shafts in the area.</p>\n<p>Forces from Division 99 continue to operate in the central Gaza Strip, where fighters identified and eliminated several terrorists operating in the area using a drone.</p>\n<p>Fighter jets and air force aircraft attacked numerous terror targets in the strip, including tunnel shafts, armed terrorist cells, and other terror infrastructures.</p>\n<p>Attached is footage of the elimination of Mohammed Salah: https://bit.ly/3VENiZz</p>\n<p>Attached are images of the weapons identified by the fighters of Battalion 401 in Rafah: https://IDFANC.activetrail.biz/ANC2406202474837434463</p>\n<p>Attached is documentation from IDF strikes in the Gaza Strip: https://bit.ly/3RF2moA</p>\n<p>Attached are images from operations by forces in the Gaza Strip: https://IDFANC.activetrail.biz/ANC240620248468965895394</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF eliminated a central terrorist involved in the weapons manufacturing headquarters of <a  href=\"/hamas\">Hamas</a>; launchers from which attacks were carried out against our forces were identified and destroyed in Rafah. Air force aircraft targeted and eliminated the terrorist Mohammed Salah last night (Sunday), with guidance from military intelligence and the Southern Command. Salah was involved in projects and development at the weapons manufacturing headquarters of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> terrorist organization. He participated in the development of strategic weapons for Hamas and commanded several terrorist cell units engaged in developing weaponry. Forces from Division 162 continue operations in the Rafah</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8579",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8579,
+        "he": 8580,
+        "ru": 8581
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8579",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8579"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8579/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8579"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8579"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8579"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

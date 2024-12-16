@@ -1,0 +1,122 @@
+{
+    "id": 3739,
+    "date": "2024-03-07T15:17:12",
+    "date_gmt": "2024-03-07T13:17:12",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9067/"
+    },
+    "modified": "2024-03-07T15:17:12",
+    "modified_gmt": "2024-03-07T13:17:12",
+    "slug": "9067",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9067/",
+    "title": {
+        "rendered": "&#8220;Meet the Future Leaders: Live Broadcast of IDF Combat Officers Course Graduation&#8221;"
+    },
+    "content": {
+        "rendered": "<p>For the live broadcast of the Combat Officers Course graduation ceremony >><br />\nhttps://www.idf.il/183858</p>\n<p>And now is the time to get acquainted with 3 of the commanders who will lead the next generation of fighters >> https://www.idf.il/184453</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>For the live broadcast of the Combat Officers Course graduation ceremony >> https://www.idf.il/183858 And now is the time to get acquainted with 3 of the commanders who will lead the next generation of fighters >> https://www.idf.il/184453</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3739",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3739
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3739",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3739"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3739/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3739"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3739"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3739"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

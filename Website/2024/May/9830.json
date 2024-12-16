@@ -1,0 +1,128 @@
+{
+    "id": 2995,
+    "date": "2024-05-22T17:19:30",
+    "date_gmt": "2024-05-22T14:19:30",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9830/"
+    },
+    "modified": "2024-09-04T21:49:11",
+    "modified_gmt": "2024-09-04T18:49:11",
+    "slug": "9830",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9830/",
+    "title": {
+        "rendered": "&#8220;Intense Combat in Gaza: IDF&#8217;s 162nd Division and Nahal Brigade Neutralize Hamas Terror Targets in Operation Rafah&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The combat team forces of the Nahal Brigade have joined the 162nd Division in Operation Rafah; forces of the 98th Division operating in the Jabalia area have eliminated many terrorists in face-to-face battles.</p>\n<p>The brigade combat teams of the 162nd Division, joined by the Nahal Reconnaissance Battalion, continued their offensive operations in Rafah last night. The forces are now operating precisely following information about terror targets in the &#8216;Brazil&#8217; neighborhood and in the &#8216;Shabora&#8217; area, while avoiding as much as possible harm to civilian population after civilians have left the area.<br />\nThe activity began with a preemptive air attack by Air Force fighter jets against <a href=\"https://iron-swords.co.il/hamas/\"  data-wpil-monitor-id=\"20\">Hamas</a>&#8216; terror targets in Rafah.</p>\n<p>Over the past day, forces from the 98th Division operating in the Jubalia area in the northern strip have eliminated many terrorists in face-to-face battles and via air strikes carried out by drones and Air Force fighters. In one of the attacks, paratroopers directed a drone that neutralized eight terrorists from the Hamas terror organization who were stationed in a weapons depot.<br />\nThe terrorists who were eliminated were involved in rocketry, drone operations, and conducting observations on our forces. </p>\n<p>Fighters from the 679th Reconnaissance Battalion eliminated several terrorists in the central area of the strip during encounters and tank fire. </p>\n<p>During the last day, air force drones and fighter jets attacked about 130 terror targets across the Gaza strip, including terrorist cells, military buildings, observation posts and additional terror infrastructures.</p>\n<p>Included is documentation of the force&#8217;s activity in the Gaza Strip: https://bit.ly/4bIEhEU</p>\n<p>Pictures from the activities of the forces in the Gaza Strip are enclosed: https://IDFANC.activetrail.biz/ANC2205202476347826</p>\n<p>Pictures of the Nahal Reconnaissance Battalion forces entering the Rafah area are attached: https://IDFANC.activetrail.biz/ANC220520247647630</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The combat team forces of the <a  href=\"https://iron-swords.co.il/t/nahal-brigade/\">Nahal Brigade</a> have joined the 162nd Division in Operation Rafah; forces of the 98th Division operating in the Jabalia area have eliminated many terrorists in face-to-face battles. The brigade combat teams of the 162nd Division, joined by the Nahal Reconnaissance Battalion, continued their offensive operations in Rafah last night. The forces are now operating precisely following information about terror targets in the &#8216;Brazil&#8217; neighborhood and in the &#8216;Shabora&#8217; area, while avoiding as much as possible harm to civilian population after civilians have left the area. The activity began with a preemptive air</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2995",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2995
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2995",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2995"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2995/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 17442,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2995/revisions/17442"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2995"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2995"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2995"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

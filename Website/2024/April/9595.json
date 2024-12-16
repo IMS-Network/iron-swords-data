@@ -1,0 +1,122 @@
+{
+    "id": 3226,
+    "date": "2024-04-30T16:30:34",
+    "date_gmt": "2024-04-30T13:30:34",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9595/"
+    },
+    "modified": "2024-04-30T16:30:34",
+    "modified_gmt": "2024-04-30T13:30:34",
+    "slug": "9595",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9595/",
+    "title": {
+        "rendered": "&#8220;Brigade 98 &#038; 162 Hone Strategy: Preparing for War Continuation in the Gaza Strip&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Preparation days, improving capabilities across all systems and commanders&#8217; discussions:<br />\nBrigade 98 and Brigade 162 are preparing for the continuation of the war in the Gaza Strip<br />\nhttps://www.idf.il/194582</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Preparation days, improving capabilities across all systems and commanders&#8217; discussions: Brigade 98 and Brigade 162 are preparing for the continuation of the war in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip https://www.idf.il/194582</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3226",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3226
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3226",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3226"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3226/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3226"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3226"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3226"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

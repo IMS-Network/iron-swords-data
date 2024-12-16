@@ -1,0 +1,124 @@
+{
+    "id": 8057,
+    "date": "2024-07-08T22:32:26",
+    "date_gmt": "2024-07-08T19:32:26",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10403-en/"
+    },
+    "modified": "2024-07-08T22:32:26",
+    "modified_gmt": "2024-07-08T19:32:26",
+    "slug": "10403-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10403-en/",
+    "title": {
+        "rendered": "&#8220;IDF Central Command Change of Command Ceremony: Key Highlights and Speeches&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Attached is a statement from the IDF Spokesperson regarding the Central Command Change of Command Ceremony: https://idfanc.activetrail.biz/ANC973533</p>\n<p>Attached is a video of remarks by the Chief of Staff, Lieutenant General Herzi Halevi: https://bit.ly/4bA8aqs</p>\n<p>Attached is a video of remarks by the outgoing Central Command Commander, General Yehuda Fox: https://bit.ly/4cOqyNx</p>\n<p>Attached is a video of remarks by the Central Command Commander, General Avi Blot: https://bit.ly/3zK9uK8</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Attached is a statement from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a> regarding the Central Command Change of Command Ceremony: https://idfanc.activetrail.biz/ANC973533 Attached is a video of remarks by the Chief of Staff, Lieutenant General Herzi Halevi: https://bit.ly/4bA8aqs Attached is a video of remarks by the outgoing Central Command Commander, General Yehuda Fox: https://bit.ly/4cOqyNx Attached is a video of remarks by the Central Command Commander, General Avi Blot: https://bit.ly/3zK9uK8</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8057",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8057,
+        "he": 8058,
+        "ru": 8059
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8057",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8057"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8057/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8057"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8057"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8057"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

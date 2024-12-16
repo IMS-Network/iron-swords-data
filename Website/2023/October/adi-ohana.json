@@ -1,0 +1,138 @@
+{
+    "id": 1417,
+    "date": "2023-10-07T06:30:00",
+    "date_gmt": "2023-10-07T03:30:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=1417"
+    },
+    "modified": "2024-04-21T18:56:50",
+    "modified_gmt": "2024-04-21T15:56:50",
+    "slug": "adi-ohana",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/victims/adi-ohana/",
+    "title": {
+        "rendered": "ADI OHANA"
+    },
+    "content": {
+        "rendered": "\n<p>Adi Ohana, an employee of an electricity company, tragically lost his life in a devastating incident during the tense period of the October 7th Massacre, near his home in Moshav Mavkiim. Amidst the heightened fear and chaos following the terrorist attack by Hamas, Adi found himself caught in a nightmare scenario when he became the victim of mistaken identity at a nearby checkpoint. In a tragic turn of events, he was mistakenly suspected and shot by police officers.</p>\n\n\n\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\">\n<p></p>\n<cite>This summary is based on information from <a href=\"https://www.ynet.co.il/news/article/bkj2ul711t\">Ynet</a>.</cite></blockquote>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Adi Ohana, an employee of an electricity company, tragically lost his life in a devastating incident during the tense period of the <a  href=\"https://iron-swords.co.il/c/october-7th/\">October 7th Massacre</a>, near his home in Moshav Mavkiim. Amidst the heightened fear and chaos following the terrorist attack by <a  href=\"/hamas\">Hamas</a>, Adi found himself caught in a nightmare scenario when he became the victim of mistaken identity at a nearby checkpoint. In a tragic turn of events, he was mistakenly suspected and shot by police officers. This summary is based on information from Ynet.</p>\n",
+        "protected": false
+    },
+    "author": 6,
+    "featured_media": 1418,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-october-7th-victims",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 21,
+        "footnotes": ""
+    },
+    "categories": [
+        21
+    ],
+    "tags": [
+        90
+    ],
+    "class_list": [
+        "post-1417",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-victims",
+        "tag-mavikiim"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 1417
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1417",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/6"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=1417"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 2,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1417/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 1420,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1417/revisions/1420"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/1418"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=1417"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=1417"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=1417"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

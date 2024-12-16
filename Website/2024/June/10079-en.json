@@ -1,0 +1,124 @@
+{
+    "id": 9014,
+    "date": "2024-06-11T06:06:10",
+    "date_gmt": "2024-06-11T03:06:10",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10079-en/"
+    },
+    "modified": "2024-06-11T06:06:10",
+    "modified_gmt": "2024-06-11T03:06:10",
+    "slug": "10079-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10079-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Targets in Southern Lebanon Following UAV Downing&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>In response to the downing of an IDF UAV operating over Lebanon: The IDF attacked during the night a military compound and terror targets of Hezbollah deep in southern Lebanon.</p>\n<p>IAF fighter jets attacked during the night a military compound of Unit 4400, the logistical enhancement unit of the terrorist organization Hezbollah, which serves as a conduit for the transfer of weapons into and within Lebanon.<br />\nThe compound was struck at two locations situated in the Baalbek area in deep Lebanon.</p>\n<p>Additionally, other terror targets in the southern Lebanon region, including a military site and two military structures of the terrorist organization Hezbollah, were attacked.</p>\n<p>The strikes were carried out in response to the downing of an IDF UAV operating over Lebanese airspace yesterday (Monday).</p>\n<p>Attached is documentation of the attack in southern Lebanon: https://bit.ly/3VlIfNc</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: In response to the downing of an IDF UAV operating over Lebanon: The IDF attacked during the night a military compound and terror targets of <a  href=\"/hezbollah\">Hezbollah</a> deep in southern Lebanon. IAF fighter jets attacked during the night a military compound of Unit 4400, the logistical enhancement unit of the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a>, which serves as a conduit for the transfer of weapons into and within Lebanon. The compound was struck at two locations situated in the Baalbek area in deep Lebanon. Additionally, other terror targets in the southern Lebanon region, including a military site and two military structures</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9014",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9014,
+        "he": 9015,
+        "ru": 9016
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9014",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9014"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9014/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9014"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9014"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9014"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

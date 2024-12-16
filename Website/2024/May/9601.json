@@ -1,0 +1,122 @@
+{
+    "id": 3220,
+    "date": "2024-05-01T13:48:26",
+    "date_gmt": "2024-05-01T10:48:26",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9601/"
+    },
+    "modified": "2024-05-01T13:48:26",
+    "modified_gmt": "2024-05-01T10:48:26",
+    "slug": "9601",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9601/",
+    "title": {
+        "rendered": "&#8220;IDF and Security Agencies Arrest Nine Suspects, Seize Weapons in Judea, Samaria, and Jordan Valley: Operation Details Inside&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces, SHABAK (Israel Security Agency) and MAGAV (Border Police) worked overnight to arrest nine suspects throughout Judea and Samaria and in the Jordan Valley and Valleys Division.</p>\n<p>In the village of Duma in the Binyamin region, the forces detained three suspects and seized weapons.</p>\n<p>In a brigade operation in El Fawwar in the Judea Brigade, soldiers interrogated many suspects and confiscated weapons.</p>\n<p>In the villages of Ein Arik in Ephraim, Deheisha in the Etzion Brigade, and Ein Umm Ashrait in Binyamin, three additional suspects were arrested.</p>\n<p>In the Ein Sultan and Aqbat Jaber areas in the Jordan Valley Brigade, the soldiers arrested three wanted individuals.</p>\n<p>IDF soldiers detonated a charge earlier today that was thrown by terrorists at an Israeli vehicle near the village of Azun in the Ephraim Brigade, no injuries or damage were reported. IDF forces continue to search for the terrorists.</p>\n<p>The arrested suspects and the seized weapons have been transferred for further investigation by security forces, no injuries were reported among our forces.</p>\n<p>So far, since the beginning of the war, about 3,850 suspects have been arrested throughout the Judea and Samaria Division and in the Jordan Valley and the Valleys Brigade, about 1,650 of them are affiliated with the Hamas terrorist organization.</p>\n<p>Attached is documentation of the forces&#8217; activity throughout Judea and Samaria: https://bit.ly/3UkDFP2</p>\n<p>Attached is a picture of one of the confiscated weapons: https://IDFANC.activetrail.biz/ANC010520245654556544  </p>\n<p>Attached are pictures from the forces&#8217; activities: https://IDFANC.activetrail.biz/ANC0105202474049387340</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces, SHABAK (<a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> Security Agency) and MAGAV (Border Police) worked overnight to arrest nine suspects throughout Judea and Samaria and in the Jordan Valley and Valleys Division. In the village of Duma in the Binyamin region, the forces detained three suspects and seized weapons. In a brigade operation in El Fawwar in the Judea Brigade, soldiers interrogated many suspects and confiscated weapons. In the villages of Ein Arik in Ephraim, Deheisha in the Etzion Brigade, and Ein Umm Ashrait in Binyamin, three additional suspects were arrested. In the Ein Sultan and Aqbat Jaber areas in the Jordan</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3220",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3220
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3220",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3220"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3220/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3220"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3220"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3220"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 4556,
+    "date": "2023-12-12T20:30:54",
+    "date_gmt": "2023-12-12T18:30:54",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8237/"
+    },
+    "modified": "2023-12-12T20:30:54",
+    "modified_gmt": "2023-12-12T18:30:54",
+    "slug": "8237",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8237/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Back: Combat Helicopter and Tanks Target Hezbollah&#8217;s Terror Infrastructures amid Rocket Fire from Lebanon and Syria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Israel Defense Forces spokesperson:</p>\n<p>Recently, an IDF combat helicopter and tanks attacked a launch site equipped with combat means and terror infrastructures of the Hezbollah terror organization.</p>\n<p>Following an alert activated earlier today (Tuesday) in the Beream area, a number of rocket and explosive devices were identified being fired towards the area, and IDF forces attacked the sources of the fire with artillery in Lebanese territory. In addition, a number of shellings were identified towards several IDF positions along the Lebanese border.</p>\n<p>In addition, three firings from Syrian territory towards Israeli territory were identified, two of which fell in Syrian territory and an additional one fell in open territory. The IDF attacked the sources of the fire.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> Defense Forces spokesperson: Recently, an IDF combat helicopter and tanks attacked a launch site equipped with combat means and terror infrastructures of the <a  href=\"/hezbollah\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a>. Following an alert activated earlier today (Tuesday) in the Beream area, a number of rocket and explosive devices were identified being fired towards the area, and IDF forces attacked the sources of the fire with artillery in Lebanese territory. In addition, a number of shellings were identified towards several IDF positions along the Lebanese border. In addition, three firings from Syrian territory towards Israeli territory were identified, two of which fell in Syrian</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4556",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4556
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4556",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4556"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4556/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4556"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4556"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4556"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 3416,
+    "date": "2024-04-10T08:53:20",
+    "date_gmt": "2024-04-10T05:53:20",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9398/"
+    },
+    "modified": "2024-04-10T08:53:20",
+    "modified_gmt": "2024-04-10T05:53:20",
+    "slug": "9398",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9398/",
+    "title": {
+        "rendered": "&#8220;IDF&#8217;s Nahal Brigade Intensifies Attacks on Gaza Strip: A Detailed Report on Recent Military Engagements and Achievements&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson: </p>\n<p>Fighters from the Nahal Brigade continue to operate in the center of the Gaza Strip; military buildings were attacked, including launchers from which rockets were fired towards our forces and towards Israeli territory.</p>\n<p>The combat team of the Nahal Brigade continues to operate in the center of the Strip and has eliminated several terrorists in the past day. During the activity, the fighters killed a group of terrorists in a face-to-face encounter that threatened the forces.</p>\n<p>Over the past day, fighter jets and aircraft of the Air Force have attacked dozens of targets in several areas in the Gaza Strip, including military sites, launchers, tunnel openings and additional terror infrastructures in the territory of the Strip. In one of the attacks, an Air Force aircraft attacked a group of terrorists from the Hamas terror organization that threatened our forces.</p>\n<p>Air defense fighters intercepted yesterday (Tuesday), a rocket fired from the Jabalia area towards Kfar Aza. To close the cycle, a fighter jet attacked the building and destroyed the launcher from which the firing was carried out.</p>\n<p>In addition, several launches were identified towards our forces operating in a focused manner in the Shajaiya area in the north of the Strip. To quickly close the cycle, a fighter jet attacked the launcher from which the launches were carried out.</p>\n<p>Attached is documentation of IDF attacks in the Strip: https://bit.ly/4auy3s6</p>\n<p>Attached are pictures of the forces&#8217; activity in the Gaza Strip: https://IDFANC.activetrail.biz/ANC100420245709574</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Fighters from the <a  href=\"https://iron-swords.co.il/t/nahal-brigade/\">Nahal Brigade</a> continue to operate in the center of the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip; military buildings were attacked, including launchers from which rockets were fired towards our forces and towards Israeli territory. The combat team of the Nahal Brigade continues to operate in the center of the Strip and has eliminated several terrorists in the past day. During the activity, the fighters killed a group of terrorists in a face-to-face encounter that threatened the forces. Over the past day, fighter jets and aircraft of the Air Force have attacked dozens of targets in several areas in the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3416",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3416
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3416",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3416"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3416/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3416"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3416"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3416"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

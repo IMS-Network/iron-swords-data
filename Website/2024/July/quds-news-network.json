@@ -1,0 +1,138 @@
+{
+    "id": 5873,
+    "date": "2024-07-04T10:33:18",
+    "date_gmt": "2024-07-04T07:33:18",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=5873"
+    },
+    "modified": "2024-07-04T10:33:22",
+    "modified_gmt": "2024-07-04T07:33:22",
+    "slug": "quds-news-network",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/hamas-supporters/quds-news-network/",
+    "title": {
+        "rendered": "Quds News Network"
+    },
+    "content": {
+        "rendered": "\n<p>Quds News Network is a Hamas-operated news station. This network was used to distribute and edit much of the footage from the October 7th massacre. <br>Additionally, it serves as a front for Hamas, engaging in information and disinformation campaigns against the state of Israel and Jews worldwide.</p>\n\n\n\n<p>Quds News Network is operated by Hamas members from tunnels under Gaza. When they say \u201cFrom #Palestine \ud83c\uddf5\ud83c\uddf8 to the world,\u201d they mean it literally, broadcasting from underground locations in Gaza to a global audience.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Quds News Network is a <a  href=\"/hamas\">Hamas</a>-operated news station. This network was used to distribute and edit much of the footage from the <a  href=\"https://iron-swords.co.il/c/october-7th/\">October 7th massacre</a>. Additionally, it serves as a front for <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a>, engaging in information and disinformation campaigns against the state of <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> and Jews worldwide. Quds News Network is operated by Hamas members from tunnels under <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>. When they say \u201cFrom #Palestine \ud83c\uddf5\ud83c\uddf8 to the world,\u201d they mean it literally, broadcasting from underground locations in Gaza to a global audience.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 5900,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-hams-support",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 12,
+        "footnotes": ""
+    },
+    "categories": [
+        12
+    ],
+    "tags": [
+        33
+    ],
+    "class_list": [
+        "post-5873",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-hamas-supporters",
+        "tag-terror-organization"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 5873
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/5873",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=5873"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 3,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/5873/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 5901,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/5873/revisions/5901"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/5900"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=5873"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=5873"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=5873"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

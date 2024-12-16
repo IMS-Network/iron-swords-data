@@ -1,0 +1,122 @@
+{
+    "id": 3134,
+    "date": "2024-05-10T15:30:27",
+    "date_gmt": "2024-05-10T12:30:27",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9689/"
+    },
+    "modified": "2024-05-10T15:30:27",
+    "modified_gmt": "2024-05-10T12:30:27",
+    "slug": "9689",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9689/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Targets in Lebanon: Inside the Yaroun and Kfar Kila Military Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked terrorist targets in Lebanon; Documentation: Two armed terrorists were attacked in the Yaroun area.</p>\n<p>In the past few hours, a team from Unit 869 identified two Hezbollah terrorists moving near a military building in the Yaroun area, while they were carrying weapons.<br />\nShortly after, air force fighter jets attacked the terrorists.</p>\n<p>Earlier today, air force fighter jets attacked a terrorist infrastructure of the Hezbollah terrorist organization in the Kfar Kila area. In addition, a military building of the organization in the Blida area, where terrorists were staying, was attacked.</p>\n<p>In continuation of the alert about the entry of a hostile aircraft in the north of the country, it was a false identification.</p>\n<p>Attached is documentation of the attack on the terrorists and IDF attacks in Lebanon: https://bit.ly/4ajK8PY</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked terrorist targets in Lebanon; Documentation: Two armed terrorists were attacked in the Yaroun area. In the past few hours, a team from Unit 869 identified two <a  href=\"/hezbollah\">Hezbollah</a> terrorists moving near a military building in the Yaroun area, while they were carrying weapons. Shortly after, air force fighter jets attacked the terrorists. Earlier today, air force fighter jets attacked a terrorist infrastructure of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization in the Kfar Kila area. In addition, a military building of the organization in the Blida area, where terrorists were staying, was attacked. In continuation of the alert about</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3134",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3134
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3134",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3134"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3134/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3134"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3134"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3134"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

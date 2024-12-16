@@ -1,0 +1,124 @@
+{
+    "id": 7970,
+    "date": "2024-07-11T08:09:11",
+    "date_gmt": "2024-07-11T05:09:11",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10431-en/"
+    },
+    "modified": "2024-07-11T08:09:11",
+    "modified_gmt": "2024-07-11T05:09:11",
+    "slug": "10431-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10431-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Targets in Southern Lebanon: Key Military Actions Explained&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>In five different areas in southern Lebanon; the IDF attacked Hezbollah terror targets throughout the night, targeting the launch site from which the fire was directed at Shatila yesterday.</p>\n<p>During the night, Air Force aircraft targeted a truck in the Ayta a-Shab area that carried the launch site used for the fire at Shatila yesterday.</p>\n<p>Additionally, Air Force fighter jets attacked several military sites in the Rab a-Talatin and al-Adaysa areas.</p>\n<p>At the same time, a Hezbollah observation post was attacked in the Ramia area, alongside a military infrastructure used by the organization in the al-Khiam area. IDF forces also conducted artillery strikes in additional areas in southern Lebanon to remove the threat.</p>\n<p>Attached is documentation from the strikes: https://bit.ly/4bDNLRm</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: In five different areas in southern Lebanon; the IDF attacked <a  href=\"/hezbollah\">Hezbollah</a> terror targets throughout the night, targeting the launch site from which the fire was directed at Shatila yesterday. During the night, Air Force aircraft targeted a truck in the Ayta a-Shab area that carried the launch site used for the fire at Shatila yesterday. Additionally, Air Force fighter jets attacked several military sites in the Rab a-Talatin and al-Adaysa areas. At the same time, a <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> observation post was attacked in the Ramia area, alongside a military infrastructure used by the organization in the al-Khiam area. IDF</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7970",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7970,
+        "he": 7971,
+        "ru": 7972
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7970",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7970"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7970/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7970"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7970"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7970"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

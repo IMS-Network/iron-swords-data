@@ -1,0 +1,122 @@
+{
+    "id": 4157,
+    "date": "2024-01-18T08:38:06",
+    "date_gmt": "2024-01-18T06:38:06",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8642/"
+    },
+    "modified": "2024-01-18T08:38:06",
+    "modified_gmt": "2024-01-18T06:38:06",
+    "slug": "8642",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8642/",
+    "title": {
+        "rendered": "&#8220;IDF Plans to Demolish Jerusalem Shooter&#8217;s Apartment: Details and Family&#8217;s Right to Appeal&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF has announced its intention to demolish the apartment of the terrorist who carried out the shooting attack near a police station in Jerusalem.</p>\n<p>Yesterday (Wednesday), a notice was issued about the IDF&#8217;s intention to confiscate and demolish the apartment where the terrorist, Khaled Almukhtasib, lived. </p>\n<p>The terrorist carried out a shooting attack near the &#8220;Shalem&#8221; police station in the city of Jerusalem on October 12, 2023. Two policemen were seriously and lightly injured in the attack.</p>\n<p>The terrorist&#8217;s family has the right to appeal against the intention to demolish the apartment.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF has announced its intention to demolish the apartment of the terrorist who carried out the shooting attack near a police station in <a  href=\"https://iron-swords.co.il/t/jerusalem/\">Jerusalem</a>. Yesterday (Wednesday), a notice was issued about the IDF&#8217;s intention to confiscate and demolish the apartment where the terrorist, Khaled Almukhtasib, lived. The terrorist carried out a shooting attack near the &#8220;Shalem&#8221; police station in the city of Jerusalem on October 12, 2023. Two policemen were seriously and lightly injured in the attack. The terrorist&#8217;s family has the right to appeal against the intention to demolish the apartment.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4157",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4157
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4157",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4157"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4157/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4157"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4157"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4157"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

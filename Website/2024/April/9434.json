@@ -1,0 +1,122 @@
+{
+    "id": 3380,
+    "date": "2024-04-14T01:17:18",
+    "date_gmt": "2024-04-13T22:17:18",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9434/"
+    },
+    "modified": "2024-04-14T01:17:18",
+    "modified_gmt": "2024-04-13T22:17:18",
+    "slug": "9434",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9434/",
+    "title": {
+        "rendered": "&#8220;Urgent Safety Alert: IDF Guidelines for Residents of Northern Golan Heights, Neve Ativ, Dimona and Eilat Amid Current Situation&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>In accordance with the situation assessment, residents of northern Golan Heights, Neve Ativ, Dimona and Eilat are requested to stay close to a protected space they can reach during an alert, until further notice.</p>\n<p>Upon receiving the alert, you should enter the protected space, if there is no protected space, you should follow the &#8220;best protection available&#8221; instructions. In any case, you should wait 10 minutes &#8211; no less.<br />\nStay updated with messages being broadcasted in the media and wait for further instructions.<br />\nFull instructions can be found at https://www.oref.org.il/12767-he/Pakar.aspx.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: In accordance with the situation assessment, residents of northern Golan Heights, Neve Ativ, <a  href=\"https://iron-swords.co.il/t/dimona/\">Dimona</a> and Eilat are requested to stay close to a protected space they can reach during an alert, until further notice. Upon receiving the alert, you should enter the protected space, if there is no protected space, you should follow the &#8220;best protection available&#8221; instructions. In any case, you should wait 10 minutes &#8211; no less. Stay updated with messages being broadcasted in the media and wait for further instructions. Full instructions can be found at https://www.oref.org.il/12767-he/Pakar.aspx.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3380",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3380
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3380",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3380"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3380/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3380"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3380"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3380"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

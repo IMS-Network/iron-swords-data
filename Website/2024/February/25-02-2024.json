@@ -1,0 +1,140 @@
+{
+    "id": 16205,
+    "date": "2024-02-25T00:00:00",
+    "date_gmt": "2024-02-24T22:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/25-02-2024/"
+    },
+    "modified": "2024-08-27T23:02:43",
+    "modified_gmt": "2024-08-27T20:02:43",
+    "slug": "25-02-2024",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/aid/25-02-2024/",
+    "title": {
+        "rendered": "Israel Aid and Humanitarian Efforts in Gaza: Feb. 25, 2024"
+    },
+    "content": {
+        "rendered": "<h2>Crossings Closure for Humanitarian Aid Distribution</h2>\n<p>In line with the agreement reached with the US, Egypt, and the UN, Kerem Shalom and Nitzana crossings will be closed on Saturdays. This is to facilitate the UN&#8217;s distribution of goods on the Gazan side of Kerem Shalom and the reception on the Egyptian side of Rafah.</p>\n<h2>Logistics of Humanitarian Aid</h2>\n<p>Yesterday, (Feb. 24) 4 tankers of cooking gas designated for the operation of essential infrastructure in Gaza entered the Gaza Strip. A truck convoy carrying humanitarian aid was coordinated to northern Gaza.</p>\n<h2>Medical Assistance Initiatives</h2>\n<p>Twelve patients and escorts are expected to exit the Gaza Strip for medical treatment in Jordan and the United Arab Emirates today (Feb. 25). A United Arab Emirates floating hospital docked at the El-Arish port on Feb. 22 and will be treating patients from Gaza.</p>\n<h2>Operational Bakeries in Gaza</h2>\n<p>Twenty bakeries are operational in Gaza, providing over 2.5 million breads, rolls, and pita breads a day for the local population. Over the last 2 weeks, the number of operational bakeries increased from 10, to 12, to 15 and now to 20, following COGAT&#8217;s facilitation.</p>\n<h2>Repair of Vital Infrastructure</h2>\n<p>The coordination of the repair of vital infrastructure has been successfully completed. Today, (Feb. 25) between 10:00 and 14:00, the IDF will pause operations in the Al-Salam neighborhood, in the town of Dier al Balah, central Gaza Strip, to enable the movement of humanitarian aid.</p>\n<h2>Water Supply Initiatives</h2>\n<p>Israel has opened two water pipes from Israel \u2014 Birkat Sa&#8217;id and Bani Suheila &#8211; providing water to hundreds of thousands of residents in central and southern Gaza Strip. On Dec. 18, the first stage of implementing a water pipeline from mobile desalination facilities situated on the Egyptian side of Rafah was successfully concluded. This initiative, led by the United Arab Emirates, aims to provide clean water access to hundreds of thousands of people.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Egypt and UN coordinate aid amid <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> crossings&#8217; Saturday closures.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 15696,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        1338
+    ],
+    "tags": [
+        1352
+    ],
+    "class_list": [
+        "post-16205",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-aid",
+        "tag-daily-humanitarian-aid-update"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 16205,
+        "he": 16206,
+        "ru": 16207
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16205",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=16205"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16205/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 16208,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16205/revisions/16208"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/15696"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=16205"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=16205"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=16205"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

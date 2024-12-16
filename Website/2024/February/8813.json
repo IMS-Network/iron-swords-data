@@ -1,0 +1,122 @@
+{
+    "id": 3990,
+    "date": "2024-02-07T12:37:46",
+    "date_gmt": "2024-02-07T10:37:46",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8813/"
+    },
+    "modified": "2024-02-07T12:37:46",
+    "modified_gmt": "2024-02-07T10:37:46",
+    "slug": "8813",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8813/",
+    "title": {
+        "rendered": "&#8220;IDF Thwarts Terrorism in Major Overnight Operation: Over 21 Suspects Arrested, Weapons Neutralized in Judea and Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces operated last night simultaneously in Nur al-Shams and in Jenin, which is part of the Menashe Brigade; 21 suspects were arrested throughout Judea and Samaria.</p>\n<p>Reservist IDF forces, paratroopers, and border police operated last night, guided by the shin Bet, simultaneously in an operation to thwart terrorism in Jenin and in Nur al-Shams, part of the Menashe Brigade. During the operation, the terrorists threw explosives and fired at the forces who responded by shooting, engineering tools uncovered hidden explosives intended to harm our forces, and seven suspects were arrested.</p>\n<p>In Qalqilya, part of the Ephraim Brigade, the forces located a warehouse containing large amounts of materials for making explosive devices, neutralized weapons, destroyed two explosives, and arrested two suspects. In the Jabal Mawaleh region, part of the Etzion Brigade, the soldiers located and neutralized weapons, and in the village of Bidu, part of the Benjamin Brigade, additional weapons were found.</p>\n<p>Furthermore, last night (Tuesday) as part of a proactive operation in the village of Ya&#8217;bad in the Menashe Brigade, soldiers arrested a suspect on whom a weapon was found.</p>\n<p>The suspects who were arrested have been transferred for further investigation by security forces, there are no casualties to our forces.</p>\n<p>So far, since the beginning of the war, over 3050 suspects have been arrested across the Judea and Samaria division and the Jordan Valley and valleys Brigade, over 1,350 of them are affiliated with the Hamas terrorist organization.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces operated last night simultaneously in Nur al-Shams and in Jenin, which is part of the Menashe Brigade; 21 suspects were arrested throughout Judea and Samaria. Reservist IDF forces, paratroopers, and border police operated last night, guided by the shin Bet, simultaneously in an operation to thwart terrorism in Jenin and in Nur al-Shams, part of the Menashe Brigade. During the operation, the terrorists threw explosives and fired at the forces who responded by shooting, engineering tools uncovered hidden explosives intended to harm our forces, and seven suspects were arrested. In Qalqilya, part of the Ephraim Brigade,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3990",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3990
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3990",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3990"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3990/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3990"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3990"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3990"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

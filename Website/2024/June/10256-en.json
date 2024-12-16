@@ -1,0 +1,124 @@
+{
+    "id": 8486,
+    "date": "2024-06-26T12:26:58",
+    "date_gmt": "2024-06-26T09:26:58",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10256-en/"
+    },
+    "modified": "2024-06-26T12:26:58",
+    "modified_gmt": "2024-06-26T09:26:58",
+    "slug": "10256-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10256-en/",
+    "title": {
+        "rendered": "&#8220;IDF Operations: Arrests and Weapon Seizures in Judea and Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF soldiers, Shin Bet, and Border Police operated last night to arrest four wanted individuals across Judea and Samaria. In Bethlehem, the Tavor Battalion forces located a significant cache of weaponry, including three long guns, approximately 40 stun and gas grenades, and additional military equipment.</p>\n<p>During operations in Qalqilya by the Ephraim Brigade, forces fired at a terrorist attempting to throw a Molotov cocktail, and in Jenin by the Menashe Brigade, two wanted individuals were arrested.</p>\n<p>The arrested individuals and the confiscated weapons have been transferred for further handling by the security forces; there are no injuries among our forces.</p>\n<p>Since the beginning of the war, around 4,150 wanted individuals have been arrested throughout the Judea and Samaria Division and the Jordan Valley Brigade, about 1,750 of whom are affiliated with the Hamas terror organization.</p>\n<p>Attached are photos of the confiscated weapons in Bethlehem: https://IDFANC.activetrail.biz/ANC2606202429436543</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF soldiers, Shin Bet, and Border Police operated last night to arrest four wanted individuals across Judea and Samaria. In Bethlehem, the Tavor Battalion forces located a significant cache of weaponry, including three long guns, approximately 40 stun and gas grenades, and additional military equipment. During operations in Qalqilya by the Ephraim Brigade, forces fired at a terrorist attempting to throw a Molotov cocktail, and in Jenin by the Menashe Brigade, two wanted individuals were arrested. The arrested individuals and the confiscated weapons have been transferred for further handling by the security forces; there are no injuries among</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8486",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8486,
+        "he": 8487,
+        "ru": 8488
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8486",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8486"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8486/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8486"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8486"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8486"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "id": 17891,
+    "date": "2024-09-30T16:04:59",
+    "date_gmt": "2024-09-30T13:04:59",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=17891"
+    },
+    "modified": "2024-09-30T16:05:06",
+    "modified_gmt": "2024-09-30T13:05:06",
+    "slug": "unhcr-%f0%9f%9a%a8-humanitarian-crisis-in-lebanon-%f0%9f%9a%a8",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/fixed/unhcr-%f0%9f%9a%a8-humanitarian-crisis-in-lebanon-%f0%9f%9a%a8/",
+    "title": {
+        "rendered": "UNHCR: &#8220;\ud83d\udea8 Humanitarian Crisis in Lebanon \ud83d\udea8&#8221;"
+    },
+    "content": {
+        "rendered": "\n<p>Lebanon is indeed hosting one of the highest numbers of refugees per capita globally. But it\u2019s crucial to understand what has brought the country to this point of crisis.</p>\n\n\n\n<p>This disaster is not just the result of unfortunate circumstances\u2014it is directly tied to <strong>Hezbollah&#8217;s aggressive actions</strong>. Since <strong>October 8, 2023</strong>, Hezbollah launched attacks on <strong>Israeli civilians</strong> from southern Lebanon, drawing the country into a destructive conflict. Hezbollah, heavily backed by <strong>Iran&#8217;s IRGC</strong>, has not only endangered Lebanese civilians but has <strong>escalated tensions and instability</strong> across the region, causing massive displacement and civilian casualties.</p>\n\n\n\n<p>More than <strong>211,000 people have been displaced</strong>, and <strong>1,540 civilians have been killed</strong> in this new wave of violence. Refugees who sought safety are now being displaced again due to Hezbollah\u2019s militarization of southern Lebanon.</p>\n\n\n\n<p>The world must hold <strong>Hezbollah and its Iranian backers</strong> accountable for this humanitarian catastrophe. This is not just about providing aid but also addressing the <strong>root cause of the crisis</strong>: the <strong>terrorist actions of Hezbollah</strong>, which continues to use Lebanese civilians as human shields and worsen the plight of refugees. Any response that ignores this truth only serves to embolden the aggressors.</p>\n\n\n\n<p><strong>Lebanon deserves peace</strong>\u2014and that peace begins with dismantling Hezbollah\u2019s stranglehold on the country.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Crisis in Lebanon, Thousands of families are escaping Israeli airstrikes in Lebanon.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 17749,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 343,
+        "footnotes": ""
+    },
+    "categories": [
+        343
+    ],
+    "tags": [
+        1586
+    ],
+    "class_list": [
+        "post-17891",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-fixed",
+        "tag-northern-arrows"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 17891
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/17891",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=17891"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/17891/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 17892,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/17891/revisions/17892"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/17749"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=17891"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=17891"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=17891"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

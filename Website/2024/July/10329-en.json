@@ -1,0 +1,124 @@
+{
+    "id": 8270,
+    "date": "2024-07-03T09:27:14",
+    "date_gmt": "2024-07-03T06:27:14",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10329-en/"
+    },
+    "modified": "2024-07-03T09:27:14",
+    "modified_gmt": "2024-07-03T06:27:14",
+    "slug": "10329-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10329-en/",
+    "title": {
+        "rendered": "&#8220;IDF Operations: Over 50 Terror Infrastructures Destroyed in Shuja&#8217;iyya&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Neutralization of terrorist squads, identification of tunnels and weapons; combat soldiers of the Paratroopers Brigade destroyed over 50 terror infrastructures in the Shuja&#8217;iyya area.</p>\n<p>In the Shuja&#8217;iyya area, forces from Division 98 eliminated terrorists, found weapons, and destroyed terror infrastructures. During the past day, combat soldiers of the Paratroopers Brigade destroyed over 50 terror infrastructures through targeted operations carried out by the forces, identifying operational tunnels and weapons including &#8216;Kalashnikov&#8217; rifles, grenades, magazines, and additional combat equipment.</p>\n<p>In the central Gaza Strip, Air Force aircraft, in cooperation with forces from Division 99, eliminated terrorists who posed a threat.</p>\n<p>In the Rafah area, Air Force fighter jets, in partnership with forces from Division 162, destroyed several terror infrastructures and eliminated terrorists in the area. In one of the strikes, a fighter jet, in cooperation with the combat forces of the Nahal Brigade, targeted a military structure and eliminated two terrorists who were inside.</p>\n<p>Attached are images of the forces&#8217; activities in the Gaza Strip: https://idfanc.activetrail.biz/ANC0307202498475</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Neutralization of terrorist squads, identification of tunnels and weapons; combat soldiers of the <a  href=\"https://iron-swords.co.il/t/paratroopers-brigade/\">Paratroopers Brigade</a> destroyed over 50 terror infrastructures in the Shuja&#8217;iyya area. In the Shuja&#8217;iyya area, forces from Division 98 eliminated terrorists, found weapons, and destroyed terror infrastructures. During the past day, combat soldiers of the Paratroopers Brigade destroyed over 50 terror infrastructures through targeted operations carried out by the forces, identifying operational tunnels and weapons including &#8216;Kalashnikov&#8217; rifles, grenades, magazines, and additional combat equipment. In the central <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip, Air Force aircraft, in cooperation with forces from Division 99, eliminated terrorists who posed a threat.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8270",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8270,
+        "he": 8271,
+        "ru": 8272
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8270",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8270"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8270/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8270"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8270"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8270"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

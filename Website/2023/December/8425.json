@@ -1,0 +1,122 @@
+{
+    "id": 4368,
+    "date": "2023-12-27T14:00:09",
+    "date_gmt": "2023-12-27T12:00:09",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8425/"
+    },
+    "modified": "2023-12-27T14:00:09",
+    "modified_gmt": "2023-12-27T12:00:09",
+    "slug": "8425",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8425/",
+    "title": {
+        "rendered": "&#8220;Uncovering Attack Tunnels &#038; Neutralizing Threats: Exclusive Footage from Commando Brigade Body Cams&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Exposure of dozens of attack tunnels and elimination of many terrorists:<br />\nSpecial documentation from the body cameras of the Commando Brigade soldiers.<br />\nhttps://www.idf.il/166993</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Exposure of dozens of attack tunnels and elimination of many terrorists: Special documentation from the body cameras of the Commando Brigade soldiers. https://www.idf.il/166993</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4368",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4368
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4368",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4368"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4368/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4368"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4368"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4368"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

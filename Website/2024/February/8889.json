@@ -1,0 +1,122 @@
+{
+    "id": 3914,
+    "date": "2024-02-16T09:31:00",
+    "date_gmt": "2024-02-16T07:31:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8889/"
+    },
+    "modified": "2024-02-16T09:31:00",
+    "modified_gmt": "2024-02-16T07:31:00",
+    "slug": "8889",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8889/",
+    "title": {
+        "rendered": "&#8220;IDF Forces Arrest Three Wanted Individuals in Judea and Samaria: A Night of Successful Anti-Terror Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>IDF forces, the Israel Security Agency, and the Border Police arrested three wanted individuals in Judea and Samaria last night; one of the arrested individuals had fired at security forces.</p>\n<p>During the night, the soldiers arrested three wanted persons in Judea and Samaria. In the village of Aqabah, within the Manasseh Brigade region, the soldiers detained a suspect who had fired towards the security forces and confiscated a gun.</p>\n<p>In an operation conducted by the forces in the village of Silat al-Daher in Samaria, two wanted individuals were detained and many suspects will be investigated. In the city of Hebron, within the Judea Brigade region, the forces confiscated thousands of shekels suspected to be intended for terrorist activities.</p>\n<p>The arrested persons and the confiscated weapons have been transferred for further investigation by the security forces; no injuries to our forces were reported.</p>\n<p>So far, since the beginning of the war, over 3,100 wanted persons have been arrested in the Judea Brigade and the Jordan Valley and Valleys Division regions, over 1,350 of them are affiliated with the Hamas terrorist organization.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: IDF forces, the <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> Security Agency, and the Border Police arrested three wanted individuals in Judea and Samaria last night; one of the arrested individuals had fired at security forces. During the night, the soldiers arrested three wanted persons in Judea and Samaria. In the village of Aqabah, within the Manasseh Brigade region, the soldiers detained a suspect who had fired towards the security forces and confiscated a gun. In an operation conducted by the forces in the village of Silat al-Daher in Samaria, two wanted individuals were detained and many suspects will be investigated. In the city</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3914",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3914
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3914",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3914"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3914/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3914"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3914"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3914"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

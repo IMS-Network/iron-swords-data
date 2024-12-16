@@ -1,0 +1,122 @@
+{
+    "id": 3994,
+    "date": "2024-02-06T19:50:19",
+    "date_gmt": "2024-02-06T17:50:19",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8809/"
+    },
+    "modified": "2024-02-06T19:50:19",
+    "modified_gmt": "2024-02-06T17:50:19",
+    "slug": "8809",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8809/",
+    "title": {
+        "rendered": "&#8220;IDF&#8217;s Preparedness Drill Controversy: Apologies Issued and Lessons Learned on the Frontlines&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The Chief of General Staff has just finished a situation assessment with IDF forces in the Gaza Strip, and subsequently referred to the drill that took place in the West Bank yesterday:</p>\n<p>&#8220;The IDF fights on all fronts, and in Judea and Samaria the forces confront brutal terror in a complex environment. The exercise conducted yesterday was designed to prepare the forces to deal with a wide range of scenarios, with the aim of improving their readiness. However, the scenario in question should not have been practiced and this is an error. We will investigate and learn, and we apologize to anyone who was hurt by this. IDF forces in the Central Command, under the command of Major General Yehuda Fuchs, are working around the clock and at the risk of their lives for the security of the residents. We will continue to work together for the security of the citizens of the State of Israel&#8221;.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The Chief of General Staff has just finished a situation assessment with IDF forces in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip, and subsequently referred to the drill that took place in the West Bank yesterday: &#8220;The IDF fights on all fronts, and in Judea and Samaria the forces confront brutal terror in a complex environment. The exercise conducted yesterday was designed to prepare the forces to deal with a wide range of scenarios, with the aim of improving their readiness. However, the scenario in question should not have been practiced and this is an error. We will investigate and learn, and</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3994",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3994
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3994",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3994"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3994/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3994"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3994"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3994"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 4748,
+    "date": "2023-11-30T12:24:56",
+    "date_gmt": "2023-11-30T10:24:56",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8041/"
+    },
+    "modified": "2023-11-30T12:24:56",
+    "modified_gmt": "2023-11-30T10:24:56",
+    "slug": "8041",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8041/",
+    "title": {
+        "rendered": "&#8220;Weekend IDF Training Sessions: Public Warned to Avoid Prohibited Areas&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperon:</p>\n<p>The IDF will continue training in the training grounds (firing ranges) across the country over the weekend. </p>\n<p>The IDF will continue training in the training grounds (firing ranges) across the country over the weekend. We emphasize that entering the training areas is prohibited and poses a risk to life and affects the activity of the forces. Additionally, noises of firing and explosions may be heard in the nearby settlements.</p>\n<p>The IDF requests in every possible way from the public not to enter prohibited areas and to allow the security forces to continue and carry out their tasks &#8211; it&#8217;s a matter of life-threatening danger.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>IDF spokesperon: The IDF will continue training in the training grounds (firing ranges) across the country over the weekend. The IDF will continue training in the training grounds (firing ranges) across the country over the weekend. We emphasize that entering the training areas is prohibited and poses a risk to life and affects the activity of the forces. Additionally, noises of firing and explosions may be heard in the nearby settlements. The IDF requests in every possible way from the public not to enter prohibited areas and to allow the security forces to continue and carry out their tasks &#8211;</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4748",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4748
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4748",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4748"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4748/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4748"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4748"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4748"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

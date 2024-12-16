@@ -1,0 +1,122 @@
+{
+    "id": 3571,
+    "date": "2024-03-25T12:35:34",
+    "date_gmt": "2024-03-25T10:35:34",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9241/"
+    },
+    "modified": "2024-03-25T12:35:34",
+    "modified_gmt": "2024-03-25T10:35:34",
+    "slug": "9241",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9241/",
+    "title": {
+        "rendered": "&#8220;IDF and Shin Bet Overnight Operation: 7 Suspects Detained, Terrorists Wounded in Judea and Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF, Shin Bet, and Border Police forces detained seven suspects throughout Judea and Samaria overnight; the forces shot and wounded assailants who hurled explosives at them. </p>\n<p>IDF, Shin Bet, and Border Police forces worked overnight arresting seven suspects throughout the Judea and Samaria Brigade.</p>\n<p>As part of a proactive operation by the Haruv unit soldiers in the Arab village of Arubona in the Menashe Brigade, the force fired at two terrorists who threw explosives at them, hits were identified. In another operation in the Menashe Brigade area, the soldiers arrested three suspects in the village of Jilbon and one suspect in the village of Sweika.</p>\n<p>During the forces&#8217; operation in the village of Elhader in the Etzion Brigade area, the soldiers arrested the suspects suspected of throwing Molotov cocktails and in the Kalandia area in the Benjamin Brigade area, the forces arrested two additional suspects.</p>\n<p>The detained suspects were handed over for further investigation by the security forces, there were no casualties to our forces.</p>\n<p>So far, since the beginning of the war, about 3,600 suspects have been arrested throughout the Judea and Samaria Brigade and in the Jordan Valley and Valleys Brigade, about 1,600 of them are affiliated with the terrorist organization Hamas.</p>\n<p>Attached is footage from the forces&#8217; operation: https://bit.ly/3PzhJOt</p>\n<p>Attached are pictures from the forces&#8217; operation: https://IDFANC.activetrail.biz/ANC2503202482168431</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF, Shin Bet, and Border Police forces detained seven suspects throughout Judea and Samaria overnight; the forces shot and wounded assailants who hurled explosives at them. IDF, Shin Bet, and Border Police forces worked overnight arresting seven suspects throughout the Judea and Samaria Brigade. As part of a proactive operation by the Haruv unit soldiers in the Arab village of Arubona in the Menashe Brigade, the force fired at two terrorists who threw explosives at them, hits were identified. In another operation in the Menashe Brigade area, the soldiers arrested three suspects in the village of Jilbon and</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3571",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3571
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3571",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3571"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3571/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3571"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3571"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3571"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

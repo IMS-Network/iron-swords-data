@@ -1,0 +1,124 @@
+{
+    "id": 9080,
+    "date": "2024-06-09T19:41:18",
+    "date_gmt": "2024-06-09T16:41:18",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10057-en/"
+    },
+    "modified": "2024-06-09T19:41:18",
+    "modified_gmt": "2024-06-09T16:41:18",
+    "slug": "10057-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10057-en/",
+    "title": {
+        "rendered": "&#8220;IDF Confirms Hamas Operative Held Hostages in Civilian Home: Ongoing Security Efforts&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>After investigations by the IDF and the Shabak, it can be confirmed that Abdullah Jamal was an operative of the Hamas terrorist organization, who held the hostages Almog Meir, Andrei Kozlov, and Shlomi Ziv in his home in Nuseirat.</p>\n<p>Hostages were held in Abdullah&#8217;s home, alongside his family members. This is further evidence that the Hamas terrorist organization uses the civilian population as human shields.</p>\n<p>Security forces will continue to operate in all efforts to return the hostages.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: After investigations by the IDF and the Shabak, it can be confirmed that Abdullah Jamal was an operative of the <a  href=\"/hamas\">Hamas</a> terrorist organization, who held the <a  href=\"https://iron-swords.co.il/t/hostages/\">hostages</a> Almog Meir, Andrei Kozlov, and Shlomi Ziv in his home in Nuseirat. Hostages were held in Abdullah&#8217;s home, alongside his family members. This is further evidence that the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> terrorist organization uses the civilian population as human shields. Security forces will continue to operate in all efforts to return the hostages.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9080",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9080,
+        "he": 9081,
+        "ru": 9082
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9080",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9080"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9080/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9080"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9080"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9080"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

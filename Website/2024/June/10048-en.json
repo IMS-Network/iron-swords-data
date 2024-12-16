@@ -1,0 +1,124 @@
+{
+    "id": 9107,
+    "date": "2024-06-08T21:19:50",
+    "date_gmt": "2024-06-08T18:19:50",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10048-en/"
+    },
+    "modified": "2024-06-08T21:19:50",
+    "modified_gmt": "2024-06-08T18:19:50",
+    "slug": "10048-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10048-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Targets in Southern Lebanon: Latest Updates and Developments&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>A military structure where terrorists were present alongside four launchers; the IDF has completed additional strikes in southern Lebanon.</p>\n<p>Golani reconnaissance troops identified earlier today (Saturday) terrorists entering a military structure of the terrorist organization Hezbollah in Markaba in southern Lebanon. In a closing of the loop from the air, fighter jets struck the structure where the terrorists were located.</p>\n<p>Additionally, fighter jets attacked shortly ago four launchers of the terrorist organization Hezbollah in the areas of Shihin, Zabqin, Hanin, and Holi in southern Lebanon.</p>\n<p>Following warnings activated at 7:15 PM in the Upper Galilee area, about five launches were identified crossing from Lebanese territory and landing in open areas. As a result of the launches, fires developed in the region.</p>\n<p>Furthermore, several anti-tank missile launches were identified crossing from Lebanon towards the areas of Malkiya and Misgav Am, which resulted in a fire in Misgav Am. There are also reports of damage to structures in Malkiya and Misgav Am due to the launches.</p>\n<p>IDF forces have attacked all sources of fire with artillery.</p>\n<p>Firefighting forces are currently working to extinguish the fire hotspots; in all incidents, there are no casualties.</p>\n<p>Attached is footage from the strikes: https://bit.ly/3x9KUBG</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: A military structure where terrorists were present alongside four launchers; the IDF has completed additional strikes in southern Lebanon. Golani reconnaissance troops identified earlier today (Saturday) terrorists entering a military structure of the terrorist organization <a  href=\"/hezbollah\">Hezbollah</a> in Markaba in southern Lebanon. In a closing of the loop from the air, fighter jets struck the structure where the terrorists were located. Additionally, fighter jets attacked shortly ago four launchers of the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in the areas of Shihin, Zabqin, Hanin, and Holi in southern Lebanon. Following warnings activated at 7:15 PM in the Upper Galilee area, about five</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9107",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9107,
+        "he": 9108,
+        "ru": 9109
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9107",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9107"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9107/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9107"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9107"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9107"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

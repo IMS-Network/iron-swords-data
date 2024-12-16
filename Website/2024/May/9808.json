@@ -1,0 +1,122 @@
+{
+    "id": 3017,
+    "date": "2024-05-20T23:32:45",
+    "date_gmt": "2024-05-20T20:32:45",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9808/"
+    },
+    "modified": "2024-05-20T23:32:45",
+    "modified_gmt": "2024-05-20T20:32:45",
+    "slug": "9808",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9808/",
+    "title": {
+        "rendered": "&#8220;Israeli Defense Forces Thwart Potential Air Incursions: Successful Interceptions from Syria and the East&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>A short while ago, combat aircraft successfully intercepted a suspicious aerial target that was heading towards Israeli territory from Syria. The target did not cross into Israeli territory. An alert was activated in open areas in the Golan Heights following a potential penetration of an enemy aircraft, in accordance with policy.There were no casualties.</p>\n<p>Additionally, in a joint operation between the Navy and the Air Force, a &#8220;Sa&#8217;ar 4.5&#8221; missile boat and combat aircraft recently successfully intercepted two aerial targets heading towards Israeli territory from the east. The targets did not cross into Israeli territory, and no alerts were triggered pursuant to policy.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: A short while ago, combat aircraft successfully intercepted a suspicious aerial target that was heading towards Israeli territory from Syria. The target did not cross into Israeli territory. An alert was activated in open areas in the Golan Heights following a potential penetration of an enemy aircraft, in accordance with policy.There were no casualties. Additionally, in a joint operation between the Navy and the Air Force, a &#8220;Sa&#8217;ar 4.5&#8221; missile boat and combat aircraft recently successfully intercepted two aerial targets heading towards Israeli territory from the east. The targets did not cross into Israeli territory, and no alerts</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3017",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3017
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3017",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3017"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3017/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3017"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3017"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3017"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

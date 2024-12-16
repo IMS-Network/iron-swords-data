@@ -1,0 +1,124 @@
+{
+    "id": 7216,
+    "date": "2024-07-30T18:21:30",
+    "date_gmt": "2024-07-30T15:21:30",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10685-en/"
+    },
+    "modified": "2024-07-30T18:21:30",
+    "modified_gmt": "2024-07-30T15:21:30",
+    "slug": "10685-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10685-en/",
+    "title": {
+        "rendered": "&#8220;IDF Indicts Reservist Soldier for Severe Abuse of Detainees: A Commitment to Justice&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The military prosecution submitted an indictment today (Tuesday) against a reservist soldier for multiple offenses of aggravated abuse and inappropriate behavior.</p>\n<p>The indictment alleges that in several incidents between February and June 2024, while he was securing transport for security detainees, the defendant used severe violence against the detainees for whom he was responsible.</p>\n<p>In some of the transports, without any danger posed by the security detainees, and while the detainees were handcuffed and shackled and blindfolded, the defendant struck them, at times with a baton and on another occasion using his personal weapon. The defendant documented these actions in video recordings.</p>\n<p>The IDF acts and will continue to act out of a deep commitment to the rule of law and meets its obligations under both Israeli and international law.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The military prosecution submitted an indictment today (Tuesday) against a reservist soldier for multiple offenses of aggravated abuse and inappropriate behavior. The indictment alleges that in several incidents between February and June 2024, while he was securing transport for security detainees, the defendant used severe violence against the detainees for whom he was responsible. In some of the transports, without any danger posed by the security detainees, and while the detainees were handcuffed and shackled and blindfolded, the defendant struck them, at times with a baton and on another occasion using his personal weapon. The defendant documented these</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7216",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7216,
+        "he": 7217,
+        "ru": 7218
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7216",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7216"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7216/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7216"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7216"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7216"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

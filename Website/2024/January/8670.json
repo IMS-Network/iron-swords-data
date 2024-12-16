@@ -1,0 +1,122 @@
+{
+    "id": 4129,
+    "date": "2024-01-21T16:30:03",
+    "date_gmt": "2024-01-21T14:30:03",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8670/"
+    },
+    "modified": "2024-01-21T16:30:03",
+    "modified_gmt": "2024-01-21T14:30:03",
+    "slug": "8670",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8670/",
+    "title": {
+        "rendered": "&#8220;Inside the Yiftach Brigade: Unveiling Covert Operations at Al Muazi Camp&#8221;"
+    },
+    "content": {
+        "rendered": "<p>A weapons manufacturing plant in the backyard of a house and a rocket launcher in an olive grove:<br />\nThis is what the activities of the &#8216;Yiftach&#8217; Brigade look like at the &#8216;Al Muazi&#8217; camp.</p>\n<p>https://www.idf.il/175025</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>A weapons manufacturing plant in the backyard of a house and a rocket launcher in an olive grove: This is what the activities of the &#8216;Yiftach&#8217; Brigade look like at the &#8216;Al Muazi&#8217; camp. https://www.idf.il/175025</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4129",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4129
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4129",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4129"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4129/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4129"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4129"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4129"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

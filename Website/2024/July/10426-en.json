@@ -1,0 +1,124 @@
+{
+    "id": 7985,
+    "date": "2024-07-10T19:15:24",
+    "date_gmt": "2024-07-10T16:15:24",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10426-en/"
+    },
+    "modified": "2024-07-10T19:15:24",
+    "modified_gmt": "2024-07-10T16:15:24",
+    "slug": "10426-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10426-en/",
+    "title": {
+        "rendered": "&#8220;IDF Operations: Successful Elimination of Terrorists and Destruction of Tunnels in Shuja&#8217;iyya&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Documentation: Terrorists hiding among the rubble eliminated; destruction of eight tunnels in Shuja&#8217;iyya completed.</p>\n<p>Forces from the Paratroopers Brigade, Brigade 7, and the Yahalom Unit completed their mission, which lasted about two weeks, in the Shuja&#8217;iyya area under the command of Division 98.</p>\n<p>Paratrooper reconnaissance fighters encountered a terrorist cell and engaged in close combat with the cell. During the battle, the fighters directed a drone and identified two armed terrorists hiding among the rubble. The terrorists attempted to shoot at the drone and were eliminated by tank fire directed at the structure.<br />\nDuring the fighting, the forces eliminated dozens of terrorists and destroyed combat compounds and booby-trapped buildings.</p>\n<p>In the last 24 hours, the forces destroyed two underground routes as part of the divisional effort in which eight tunnels were destroyed.<br />\nAlong the tunnel routes, weapons, laptops, and communication equipment were found. In addition, equipment enabling long-term stays and electrical and gas infrastructure intended for the terrorists were located.</p>\n<p>Attached is an animated infographic describing part of the underground route that was destroyed in Shuja&#8217;iyya: https://bit.ly/3SpG0In</p>\n<p>Attached is documentation from the destroyed underground route: https://bit.ly/3WgW6Gw</p>\n<p>Attached is documentation of armed terrorists identified by a drone:  https://bit.ly/4eVJcoA</p>\n<p>Attached is documentation from the combat team&#8217;s activity of the Paratroopers Brigade: https://bit.ly/3zzapNE</p>\n<p>Attached is documentation from the destruction of the tunnel route: https://bit.ly/3XYhzoP</p>\n<p>Attached are images from the forces&#8217; operations: https://IDFANC.activetrail.biz/ANC1007202444089769</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Documentation: Terrorists hiding among the rubble eliminated; destruction of eight tunnels in Shuja&#8217;iyya completed. Forces from the <a  href=\"https://iron-swords.co.il/t/paratroopers-brigade/\">Paratroopers Brigade</a>, Brigade 7, and the Yahalom Unit completed their mission, which lasted about two weeks, in the Shuja&#8217;iyya area under the command of Division 98. Paratrooper reconnaissance fighters encountered a terrorist cell and engaged in close combat with the cell. During the battle, the fighters directed a drone and identified two armed terrorists hiding among the rubble. The terrorists attempted to shoot at the drone and were eliminated by tank fire directed at the structure. During the fighting, the forces</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7985",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7985,
+        "he": 7986,
+        "ru": 7988
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7985",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7985"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7985/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7985"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7985"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7985"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

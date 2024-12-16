@@ -1,0 +1,122 @@
+{
+    "id": 4270,
+    "date": "2024-01-06T11:58:08",
+    "date_gmt": "2024-01-06T09:58:08",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8527/"
+    },
+    "modified": "2024-01-06T11:58:08",
+    "modified_gmt": "2024-01-06T09:58:08",
+    "slug": "8527",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8527/",
+    "title": {
+        "rendered": "&#8220;Decoding IDF&#8217;s Latest Offensive: Targeted Strikes on Hezbollah in Southern Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>A terrorist squad, missile launch pad, military buildings, and terror infrastructures; IDF has completed a series of attacks in Lebanese territory.</p>\n<p>Earlier today, Air Force fighter jets and additional IDF forces attacked a series of targets of the Hezbollah terrorist organization in Ayta al-Shaab, Yaron, and Ramia in southern Lebanon. The targets attacked included a missile launch pad, military buildings, and terror infrastructures.</p>\n<p>Also, earlier today, several launches were identified from the territory of Lebanon towards the areas of Metula and Margaliot. A UAV of the AirForce attacked a terrorist squad that fired towards the Metula area. </p>\n<p>Attached is documentation of the attacks: https://bit.ly/3vrI5e9</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: A terrorist squad, missile launch pad, military buildings, and terror infrastructures; IDF has completed a series of attacks in Lebanese territory. Earlier today, Air Force fighter jets and additional IDF forces attacked a series of targets of the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization in Ayta al-Shaab, Yaron, and Ramia in southern Lebanon. The targets attacked included a missile launch pad, military buildings, and terror infrastructures. Also, earlier today, several launches were identified from the territory of Lebanon towards the areas of Metula and Margaliot. A UAV of the AirForce attacked a terrorist squad that fired towards the Metula area. Attached</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4270",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4270
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4270",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4270"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4270/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4270"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4270"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4270"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

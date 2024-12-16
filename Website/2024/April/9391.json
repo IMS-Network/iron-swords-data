@@ -1,0 +1,122 @@
+{
+    "id": 3422,
+    "date": "2024-04-09T13:34:31",
+    "date_gmt": "2024-04-09T10:34:31",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9391/"
+    },
+    "modified": "2024-04-09T13:34:31",
+    "modified_gmt": "2024-04-09T10:34:31",
+    "slug": "9391",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9391/",
+    "title": {
+        "rendered": "&#8220;First Successful Test Firing of Naval Dome from Sa&#8217;ar 6 Missile Ship: A New Milestone in Maritime Defense&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>For the first time: A successful operational firing of the Naval Dome from the missile ship &#8216;Sa&#8217;ar 6&#8217;.</p>\n<p>During the night, a Sa&#8217;ar 6 type missile ship conducted, for the first time, a successful firing using the &#8220;Naval Dome&#8221; system of an unmanned aircraft, which made its way from the east and crossed into the Gulf of Eilat area.</p>\n<p>The forces in the area collaborated with the aerial control unit and with full coordination and synchronization with the Sa&#8217;ar 6 type Stingray unit of Flotilla 3.</p>\n<p>As part of the situation assessment from the start of the battle, missile ships are deployed in the Red Sea arena, including a Sa&#8217;ar 6 type missile ship performing its missions in the area.<br />\nThe navy operates in the Red Sea arena, ready for a variety of regional threats through defensive and offensive capabilities.</p>\n<p>Attached is documentation of the first firing from the missile ship &#8216;Sa&#8217;ar 6&#8217;:  https://bit.ly/3vKbPTR</p>\n<p>Attached is archive documentation of the &#8216;Naval Dome&#8217; system: https://bit.ly/4aN6U3g</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: For the first time: A successful operational firing of the Naval Dome from the missile ship &#8216;Sa&#8217;ar 6&#8217;. During the night, a Sa&#8217;ar 6 type missile ship conducted, for the first time, a successful firing using the &#8220;Naval Dome&#8221; system of an unmanned aircraft, which made its way from the east and crossed into the Gulf of Eilat area. The forces in the area collaborated with the aerial control unit and with full coordination and synchronization with the Sa&#8217;ar 6 type Stingray unit of Flotilla 3. As part of the situation assessment from the start of the battle,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3422",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3422
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3422",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3422"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3422/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3422"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3422"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3422"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 4177,
+    "date": "2024-01-16T11:38:42",
+    "date_gmt": "2024-01-16T09:38:42",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8621/"
+    },
+    "modified": "2024-01-16T11:38:42",
+    "modified_gmt": "2024-01-16T09:38:42",
+    "slug": "8621",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8621/",
+    "title": {
+        "rendered": "&#8220;IDF and ISA Crackdown: 27 Terrorists Arrested, Weapons Seized in Judea, Samaria, and Jordan Valley Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF soldiers, the ISA, and the Border Police mapped-out last night the home of an additional terrorist who carried out the attack near the British Police intersection on 07.01; the soldiers arrested 27 wanted individuals throughout Judea and Samaria and in the Jordan Valley Brigade last night.</p>\n<p>IDF soldiers, the ISA, and the Border Police arrested 27 wanted individuals throughout Judea and Samaria and in the Jordan Valley Brigade last night.</p>\n<p>The soldiers operated in the city of Ramallah to map out the home of the terrorist who carried out the shooting attack near the British Police intersection on 07.01.</p>\n<p>In an operation from the Judea Brigade in the village of Idna, from which three terrorists left to attack in the Adora settlement last Friday, the IDF and ISA soldiers investigated dozens of suspects. The village is still under curfew, IDF forces have been operating in recent days to thwart terrorism in the village, while a closure has been imposed on the area.</p>\n<p>In the Wadi al-Arais operation in the Etzion Brigade, the soldiers located and seized many weapons.</p>\n<p>In addition, IDF and ISA soldiers operated yesterday in the village of Bani Naim following the attack in the city of Ra&#8217;anana to investigate dozens of suspects in the village, and arrested two wanted individuals.</p>\n<p>The arrested wanted individuals and the confiscated weapons were transferred for further treatment by the security forces. There were no casualties among our forces.</p>\n<p>So far since the beginning of the war, about 2,700 wanted individuals have been arrested across the Judea and Samaria Division and the Jordan Valley Brigade, about 1,300 of them are affiliated with the Hamas terrorist organization.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF soldiers, the ISA, and the Border Police mapped-out last night the home of an additional terrorist who carried out the attack near the British Police intersection on 07.01; the soldiers arrested 27 wanted individuals throughout Judea and Samaria and in the Jordan Valley Brigade last night. IDF soldiers, the ISA, and the Border Police arrested 27 wanted individuals throughout Judea and Samaria and in the Jordan Valley Brigade last night. The soldiers operated in the city of Ramallah to map out the home of the terrorist who carried out the shooting attack near the British Police intersection</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4177",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4177
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4177",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4177"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4177/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4177"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4177"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4177"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

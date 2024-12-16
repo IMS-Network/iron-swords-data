@@ -1,0 +1,140 @@
+{
+    "id": 16161,
+    "date": "2024-03-14T00:00:00",
+    "date_gmt": "2024-03-13T22:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/14-03-2024/"
+    },
+    "modified": "2024-08-27T22:54:06",
+    "modified_gmt": "2024-08-27T19:54:06",
+    "slug": "14-03-2024",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/aid/14-03-2024/",
+    "title": {
+        "rendered": "Israel Aid and Humanitarian Efforts in Gaza: Mar. 14, 2024"
+    },
+    "content": {
+        "rendered": "<h2>Humanitarian Aid Efforts in Gaza: March 13 Updates</h2>\n<p>On March 13, a total of <strong>89 trucks</strong> carrying humanitarian aid were inspected and transferred to the Gaza Strip. Additionally, <strong>145 trucks</strong> were distributed by aid organizations inside Gaza. We facilitated a World Food Programme (WFP) truck convoy directly to northern Gaza as part of our ongoing efforts to enable aid access into and across the region.</p>\n<h3>Truck Convoy Operations</h3>\n<p>A convoy consisting of <strong>21 trucks</strong> made its way to northern Gaza last night. Over the past three weeks, more than <strong>150 trucks</strong> have been transferred to the northern Gaza Strip, with most being facilitated by the private sector.</p>\n<h3>Additional Aid Deliveries</h3>\n<p>Yesterday, March 13, <strong>4 tankers</strong> of cooking gas, essential for the operation of vital infrastructure in Gaza, successfully entered the Gaza Strip. Furthermore, <strong>94 packages</strong> were airdropped by Jordan on the same day.</p>\n<h3>International Collaboration</h3>\n<p>Since the onset of the war, and in cooperation with nations including the USA, UAE, Egypt, Jordan, Holland, Belgium, and France, over <strong>30 airdrops</strong> have occurred, delivering over <strong>1250 packages</strong> of humanitarian aid, mostly targeting northern Gaza.</p>\n<h3>Patient Exits and Local Support</h3>\n<p>Today, ill and wounded patients are expected to exit the Gaza Strip, following the exit of <strong>68 foreign nationals</strong> yesterday, March 13. Additionally, <strong>20 bakeries</strong> are currently operational in Gaza, producing over <strong>2 million</strong> breads, rolls, and pita breads each day for the local population.</p>\n<h3>Infrastructure Repairs and Humanitarian Aid Coordination</h3>\n<p>The coordination for the repair of vital infrastructure in Gaza has been successfully completed. Today, March 14, between <strong>10:00 and 14:00</strong>, the Israeli Defense Forces (IDF) will pause operations in the Al-Shabora neighborhood of Rafah in the southern Gaza Strip to facilitate the movement of humanitarian aid.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Humanitarian aid efforts continue in <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> amid ongoing conflict.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 15696,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        1338
+    ],
+    "tags": [
+        1352
+    ],
+    "class_list": [
+        "post-16161",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-aid",
+        "tag-daily-humanitarian-aid-update"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 16161,
+        "he": 16162,
+        "ru": 16163
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16161",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=16161"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16161/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 16164,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16161/revisions/16164"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/15696"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=16161"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=16161"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=16161"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

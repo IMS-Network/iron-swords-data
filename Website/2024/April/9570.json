@@ -1,0 +1,122 @@
+{
+    "id": 3251,
+    "date": "2024-04-26T16:24:08",
+    "date_gmt": "2024-04-26T13:24:08",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9570/"
+    },
+    "modified": "2024-04-26T16:24:08",
+    "modified_gmt": "2024-04-26T13:24:08",
+    "slug": "9570",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9570/",
+    "title": {
+        "rendered": "&#8220;IDF Successfully Evacuates Iranian Missile Remnant: A Complex Operation Explained&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces today (Friday), cleared a remnant of a ground-to-ground missile that was shot as part of the Iranian attack from the Yaelim stream area near Arad, after it was discovered by hikers earlier this week.</p>\n<p>Under the management of the Home Front Command&#8217;s southern district, an aerial evacuation was carried out using an &#8220;Yasur&#8221; air force helicopter, in collaboration and planning with the flight test center.</p>\n<p>The helicopter lifted the fallen missile with a designated holder, and then the missile was transferred for further ground treatment by fire and rescue forces and was sent for further examination.</p>\n<p>The terrain conditions and the large weight of the missile remnant made the evacuation complex. It was made possible thanks to the early preparation of the Home Front Command and the accompaniment of the Air Force&#8217;s technological staff, during the process hazardous materials were removed from the fallen missile.</p>\n<p>The hiking public is asked to act according to the instructions of the Home Front Command when encountering a suspicious object. We emphasize not to touch the debris and to report to the police hotline 100 about their discovery.</p>\n<p>Attached is a link to Deputy Commander of Southern District in the Home Front Command, Brigadier General Roy:<br />\nhttps://bit.ly/44flUVA</p>\n<p>Attached is a video on the subject:<br />\nhttps://bit.ly/3JCy8hI</p>\n<p>Attached are photos on the subject:<br />\nhttps://IDFANC.activetrail.biz/ANC2604246</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces today (Friday), cleared a remnant of a ground-to-ground missile that was shot as part of the Iranian attack from the Yaelim stream area near Arad, after it was discovered by hikers earlier this week. Under the management of the Home Front Command&#8217;s southern district, an aerial evacuation was carried out using an &#8220;Yasur&#8221; air force helicopter, in collaboration and planning with the flight test center. The helicopter lifted the fallen missile with a designated holder, and then the missile was transferred for further ground treatment by fire and rescue forces and was sent for further examination.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3251",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3251
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3251",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3251"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3251/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3251"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3251"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3251"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

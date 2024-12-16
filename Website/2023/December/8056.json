@@ -1,0 +1,122 @@
+{
+    "id": 4733,
+    "date": "2023-12-01T10:00:02",
+    "date_gmt": "2023-12-01T08:00:02",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8056/"
+    },
+    "modified": "2023-12-01T10:00:02",
+    "modified_gmt": "2023-12-01T08:00:02",
+    "slug": "8056",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8056/",
+    "title": {
+        "rendered": "&#8220;Understanding IDF&#8217;s Evacuation Zone Division in Gaza: A Guide to Population Protection Strategies During War&#8221;"
+    },
+    "content": {
+        "rendered": "<p>This is the division of evacuation zones in the Gaza Strip:<br />\nThe IDF publishes the method of managing the population&#8217;s movement in Gaza for its protection in the next stage of the war.<br />\nhttps://www.idf.il/157904</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>This is the division of evacuation zones in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip: The IDF publishes the method of managing the population&#8217;s movement in Gaza for its protection in the next stage of the war. https://www.idf.il/157904</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4733",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4733
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4733",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4733"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4733/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4733"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4733"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4733"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

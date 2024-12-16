@@ -1,0 +1,128 @@
+{
+    "id": 3566,
+    "date": "2024-03-25T21:48:15",
+    "date_gmt": "2024-03-25T19:48:15",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9246/"
+    },
+    "modified": "2024-09-04T21:50:41",
+    "modified_gmt": "2024-09-04T18:50:41",
+    "slug": "9246",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9246/",
+    "title": {
+        "rendered": "&#8220;IDF Targets and Destroys Hamas Missile Launcher Hidden in Civilian Shelter: A Strategic Move Against Terror Tactics&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF located and destroyed a Hamas launcher that was placed inside a humanitarian shelter in Deir al-Balah and was used by the terror organization to fire missiles towards Ashdod earlier today.</p>\n<p>Earlier today (Monday), several launches were identified crossing from the Gaza Strip towards the city of Ashdod. Some were intercepted by air defense soldiers and the rest were not intercepted according to policy. The launches were carried out from a humanitarian area in the Deir al-Balah region in the center of the Gaza Strip, where there is a civilian population.</p>\n<p>Air Force fighter jets attacked and destroyed a short time ago the launch position from which the firing was carried out. After the attack secondary explosions were identified indicating the presence of additional weaponry in the area.</p>\n<p>The attack was carried out precisely while avoiding harm to civilians who left the area before the attack was carried out.</p>\n<p>The terror organization <a href=\"https://iron-swords.co.il/hamas/\"  data-wpil-monitor-id=\"42\">Hamas</a> operates systematically and cynically from civilian facilities and places its assets close to civilian populations, thereby using them as human shields.</p>\n<p>Attached is documented footage of the attack on the launch position: https://bit.ly/3TPXIpd</p>\n<p>Attached is documented footage of the launch area in Deir al-Balah, after carrying out the firing towards Ashdod: https://bit.ly/3TxV1HN</p>\n<p>Attached is an aerial photograph of the launch positions located near the civilian population: https://IDFANC.activetrail.biz/ANC250320247894279847</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF located and destroyed a <a  href=\"/hamas\">Hamas</a> launcher that was placed inside a humanitarian shelter in Deir al-Balah and was used by the <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> to fire missiles towards <a  href=\"https://iron-swords.co.il/t/ashdod/\">Ashdod</a> earlier today. Earlier today (Monday), several launches were identified crossing from the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip towards the city of Ashdod. Some were intercepted by air defense soldiers and the rest were not intercepted according to policy. The launches were carried out from a humanitarian area in the Deir al-Balah region in the center of the Gaza Strip, where there is a civilian population. Air Force fighter jets attacked and</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3566",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3566
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3566",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3566"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3566/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 17464,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3566/revisions/17464"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3566"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3566"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3566"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

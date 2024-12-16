@@ -1,0 +1,124 @@
+{
+    "id": 8912,
+    "date": "2024-06-13T15:16:11",
+    "date_gmt": "2024-06-13T12:16:11",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10113-en/"
+    },
+    "modified": "2024-06-13T15:16:11",
+    "modified_gmt": "2024-06-13T12:16:11",
+    "slug": "10113-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10113-en/",
+    "title": {
+        "rendered": "&#8220;7 Questions Answered: Insights from 10 Fighters in Gaza Missions&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Among the missions in Gaza, 10 fighters answer us with:<br />\n7 questions that you probably also wanted to ask.<br />\nhttps://www.idf.il/208434</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Among the missions in <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>, 10 fighters answer us with: 7 questions that you probably also wanted to ask. https://www.idf.il/208434</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8912",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8912,
+        "he": 8913,
+        "ru": 8914
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8912",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8912"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8912/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8912"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8912"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8912"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

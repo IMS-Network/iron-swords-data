@@ -1,0 +1,122 @@
+{
+    "id": 4062,
+    "date": "2024-01-30T11:35:37",
+    "date_gmt": "2024-01-30T09:35:37",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8738/"
+    },
+    "modified": "2024-01-30T11:35:37",
+    "modified_gmt": "2024-01-30T09:35:37",
+    "slug": "8738",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8738/",
+    "title": {
+        "rendered": "&#8220;Massive Crackdown: IDF and Security Forces Arrest 19, Confiscate 500+ Weapons Amid Ongoing Conflict in Judea and Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF soldiers, Shin Bet, and Border Police arrested 19 suspects in Judea and Samaria last night; More than 500 weapons have been confiscated since the beginning of the conflict.</p>\n<p>The Menashe Brigade troops operated simultaneously in the Tul Karem and Nur A-Shams refugee camps, exposing routes where explosives might have been buried, aimed at damaging our forces.</p>\n<p>In the city of Nablus, which is within the Samaria Brigade&#8217;s area, three suspects were arrested.</p>\n<p>In the village of Ein &#8216;Arik within the Ephraim Brigade&#8217;s area, our forces arrested three suspects, located and confiscated tens of thousands of terrorism funds. In the village of &#8216;Azzun within the area of the brigade, explosives were destroyed after being located by our forces. </p>\n<p>In the village of Tarqumiyah within the Judea Brigade&#8217;s area, combat means were detected and confiscated.</p>\n<p>The arrested suspects and confiscated combat means were transferred for further handling by the security forces.</p>\n<p>So far, since the beginning of the war, about 2,980 suspects have been arrested throughout the Judea and Samaria region and the Jordan Valley and valleys brigade, over 1,350 of whom are affiliated with the Hamas terrorist organization.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF soldiers, Shin Bet, and Border Police arrested 19 suspects in Judea and Samaria last night; More than 500 weapons have been confiscated since the beginning of the conflict. The Menashe Brigade troops operated simultaneously in the Tul Karem and Nur A-Shams refugee camps, exposing routes where explosives might have been buried, aimed at damaging our forces. In the city of Nablus, which is within the Samaria Brigade&#8217;s area, three suspects were arrested. In the village of Ein &#8216;Arik within the Ephraim Brigade&#8217;s area, our forces arrested three suspects, located and confiscated tens of thousands of terrorism funds.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4062",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4062
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4062",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4062"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4062/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4062"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4062"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4062"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

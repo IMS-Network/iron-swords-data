@@ -1,0 +1,122 @@
+{
+    "id": 3007,
+    "date": "2024-05-21T23:06:04",
+    "date_gmt": "2024-05-21T20:06:04",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9818/"
+    },
+    "modified": "2024-05-21T23:06:04",
+    "modified_gmt": "2024-05-21T20:06:04",
+    "slug": "9818",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9818/",
+    "title": {
+        "rendered": "&#8220;IDF Announces Temporary Closure of Meron Area for Rabbi Shimon Bar Yochai&#8217;s Memorial Event: Key Details and Public Safety Guidelines&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson: </p>\n<p>Closure of the Meron Area </p>\n<p>Following the law for organizing the celebration of Rabbi Shimon Bar Yochai&#8217;s memorial event on Mount Meron (Temporary Order), 5784-2024, and in anticipation of the Rashbi memorial event on Mount Meron, the Home Front Command Commander has issued an order to close the area in Meron.</p>\n<p>The order will take effect from today (Tuesday) 21.5.2024 at 23:00, until Monday 27.5.2024 at 12:00.</p>\n<p>The Home Front Command clarifies that entry into the Meron area is strictly prohibited and asks the public to be vigilant and not enter the area.</p>\n<p>Any arrival in the closed area is in accordance with permissions granted by law.</p>\n<p>Arriving at the closed area without prior coordination and approval endangers public safety and human lives.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Closure of the Meron Area Following the law for organizing the celebration of Rabbi Shimon Bar Yochai&#8217;s memorial event on Mount Meron (Temporary Order), 5784-2024, and in anticipation of the Rashbi memorial event on Mount Meron, the Home Front Command Commander has issued an order to close the area in Meron. The order will take effect from today (Tuesday) 21.5.2024 at 23:00, until Monday 27.5.2024 at 12:00. The Home Front Command clarifies that entry into the Meron area is strictly prohibited and asks the public to be vigilant and not enter the area. Any arrival in the closed</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3007",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3007
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3007",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3007"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3007/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3007"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3007"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3007"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

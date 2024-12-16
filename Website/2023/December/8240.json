@@ -1,0 +1,122 @@
+{
+    "id": 4553,
+    "date": "2023-12-13T05:57:25",
+    "date_gmt": "2023-12-13T03:57:25",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8240/"
+    },
+    "modified": "2023-12-13T05:57:25",
+    "modified_gmt": "2023-12-13T03:57:25",
+    "slug": "8240",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8240/",
+    "title": {
+        "rendered": "&#8220;IDF Reveals Names of Eight Fallen Soldiers: Details, Photos, and Updates on Wounded Personnel&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Attached is a message from the IDF spokesman about the names of eight IDF casualties whose notification has been given to their families: https://IDFANC.activetrail.biz/ANC13122023NEROGHEDUHGV</p>\n<p>Also attached is a link to the IDF website, where their details and pictures are published and updated:<br />\nhttps://www.idf.il/59780</p>\n<p>In addition, in the battle last night in which Golani division soldiers fell, a soldier from battalion 51, Golani division was seriously injured.</p>\n<p>Also, in the battle in which Sgt. Uriah Jacob, may he rest in peace, fell yesterday (Tuesday), a soldier from battalion 614, the school of combat engineering, and a documentation soldier from the IDF spokesman&#8217;s unit were seriously injured.</p>\n<p>Furthermore, a soldier from battalion 605, the combat engineering corps, was seriously injured in a battle in the north of the Gaza Strip.</p>\n<p>All the injured were evacuated for medical treatment at the hospital. Their families have been updated.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Attached is a message from the IDF spokesman about the names of eight IDF casualties whose notification has been given to their families: https://IDFANC.activetrail.biz/ANC13122023NEROGHEDUHGV Also attached is a link to the IDF website, where their details and pictures are published and updated: https://www.idf.il/59780 In addition, in the battle last night in which Golani division soldiers fell, a soldier from battalion 51, Golani division was seriously injured. Also, in the battle in which Sgt. Uriah Jacob, may he rest in peace, fell yesterday (Tuesday), a soldier from battalion 614, the school of combat engineering, and a documentation soldier from the IDF</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4553",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4553
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4553",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4553"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4553/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4553"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4553"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4553"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

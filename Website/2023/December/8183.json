@@ -1,0 +1,122 @@
+{
+    "id": 4609,
+    "date": "2023-12-09T12:59:44",
+    "date_gmt": "2023-12-09T10:59:44",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8183/"
+    },
+    "modified": "2023-12-09T12:59:44",
+    "modified_gmt": "2023-12-09T10:59:44",
+    "slug": "8183",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8183/",
+    "title": {
+        "rendered": "&#8220;IDF and Security Forces Neutralize Armed Terrorist, Arrest Eight in Overnight Operations across Judea and Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF soldiers, together with Shabak and Border Police, arrested eight wanted individuals across Judea and Samaria last night; in an attempt to arrest the terrorist who carried out the shooting towards the military position near Hares, the terrorist engaged the forces and was killed.</p>\n<p>In a joint effort, IDF soldiers, Shabak and Border Police arrested eight wanted individuals overnight in various locations across Judea and Samaria.</p>\n<p>In an operation in the Judea Brigade, reserved soldiers from the 7018 battalion, guided by Shabak, attempted to arrest a terrorist who shot at a military position near the village of Hares on the 7th of December. During the arrest attempt, the terrorist attacked the forces with a knife, the forces responded by opening fire and neutralized the terrorist. A soldier was moderately injured in his hand during the incident and was evacuated for further medical treatment at the hospital. The soldier&#8217;s family has been informed. Throughout the operation, the forces seized terrorist funds worth tens of thousands of shekels and discovered a will at the terrorist&#8217;s home.</p>\n<p>Overnight, a report was received about stone-throwing at the Na\u2019alin junction in the Ephraim brigade area. Reserve soldiers who were dispatched to the scene captured and detained the suspect who had thrown the stones. A knife was found on the suspect and he was arrested. </p>\n<p>The arrested individuals have been handed over for further processing by the security forces.</p>\n<p>Attached are pictures of the knives found in the operation: https://IDFANC.activetrail.biz/ANC09122023CYBUHYU</p>\n<p>So far since the start of the war, approximately 2,200 wanted individuals have been arrested across the Judea and Samaria brigade and the Jordan Valley brigade, about 1,180 of them affiliated with the Hamas terrorist organization.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF soldiers, together with Shabak and Border Police, arrested eight wanted individuals across Judea and Samaria last night; in an attempt to arrest the terrorist who carried out the shooting towards the military position near Hares, the terrorist engaged the forces and was killed. In a joint effort, IDF soldiers, Shabak and Border Police arrested eight wanted individuals overnight in various locations across Judea and Samaria. In an operation in the Judea Brigade, reserved soldiers from the 7018 battalion, guided by Shabak, attempted to arrest a terrorist who shot at a military position near the village of Hares</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4609",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4609
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4609",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4609"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4609/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4609"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4609"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4609"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

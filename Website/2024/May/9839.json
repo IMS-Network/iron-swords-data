@@ -1,0 +1,122 @@
+{
+    "id": 2986,
+    "date": "2024-05-23T11:00:04",
+    "date_gmt": "2024-05-23T08:00:04",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9839/"
+    },
+    "modified": "2024-05-23T11:00:04",
+    "modified_gmt": "2024-05-23T08:00:04",
+    "slug": "9839",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9839/",
+    "title": {
+        "rendered": "&#8220;Operation East Rafah Continues: Brigadier General Givati Neutralizes Terrorist Warehouse &#8211; Exclusive Coverage&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Brigadier General Givati continues the operation in East Rafah: A terrorist warehouse located in a cemetery has been neutralized, terrorists have been eliminated, and terror infrastructures destroyed. Watch the documentation</p>\n<p>All the details:</p>\n<p>https://www.idf.il/203214</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Brigadier General Givati continues the operation in East Rafah: A terrorist warehouse located in a cemetery has been neutralized, terrorists have been eliminated, and terror infrastructures destroyed. Watch the documentation All the details: https://www.idf.il/203214</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2986",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2986
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2986",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2986"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2986/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2986"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2986"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2986"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

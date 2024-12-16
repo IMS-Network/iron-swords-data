@@ -1,0 +1,124 @@
+{
+    "id": 7129,
+    "date": "2024-08-01T14:29:40",
+    "date_gmt": "2024-08-01T11:29:40",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10716-en/"
+    },
+    "modified": "2024-08-01T14:29:40",
+    "modified_gmt": "2024-08-01T11:29:40",
+    "slug": "10716-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10716-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes: 24 Terror Suspects Arrested in Overnight Operation in Judea and Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF, Shin Bet, and Border Police arrested 24 individuals wanted by the terrorist organizations Hamas and Islamic Jihad overnight in Judea and Samaria.</p>\n<p>24 wanted individuals from the terrorist organizations Hamas and Islamic Jihad were arrested overnight in Judea and Samaria. This is part of an offensive operation and counter-terrorism measures carried out by IDF and Shin Bet forces in Palestinian villages and cities. The counter-terrorism activities are ongoing and include patrols, arrests, and inspections.</p>\n<p>In a raid in Kobar in the Benjamin region, one wanted individual was arrested and dozens of suspects in terrorist activities were interrogated. In the villages of Na&#8217;ama, Beit Rima, Shuqba, and Al-Midya in the Ephraim Brigade, forces arrested six wanted individuals. In Beit Kahil, Hebron, and Dura in the Yehuda Brigade, forces arrested 11 wanted individuals, and in Nablus and Talfit in the Samaria Brigade, seven additional wanted individuals were arrested.</p>\n<p>In addition, IDF forces are enhancing defensive operations along routes and in communities in Judea and Samaria. The IDF is prepared and coordinated together with security forces and authorities in the Judea and Samaria sector for various scenarios.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF, Shin Bet, and Border Police arrested 24 individuals wanted by the terrorist organizations <a  href=\"/hamas\">Hamas</a> and Islamic Jihad overnight in Judea and Samaria. 24 wanted individuals from the terrorist organizations <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> and Islamic Jihad were arrested overnight in Judea and Samaria. This is part of an offensive operation and counter-terrorism measures carried out by IDF and Shin Bet forces in Palestinian villages and cities. The counter-terrorism activities are ongoing and include patrols, arrests, and inspections. In a raid in Kobar in the Benjamin region, one wanted individual was arrested and dozens of suspects in terrorist activities were interrogated.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7129",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7129,
+        "he": 7130,
+        "ru": 7131
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7129",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7129"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7129/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7129"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7129"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7129"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

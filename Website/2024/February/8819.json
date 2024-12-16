@@ -1,0 +1,122 @@
+{
+    "id": 3984,
+    "date": "2024-02-08T10:59:23",
+    "date_gmt": "2024-02-08T08:59:23",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8819/"
+    },
+    "modified": "2024-02-08T10:59:23",
+    "modified_gmt": "2024-02-08T08:59:23",
+    "slug": "8819",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8819/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Terror Targets in Lebanon: Inside the Combat Operations and Aftermath&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Terrorist infrastructure and military facility; The IDF attacked terror targets of the Hezbollah terror organization in Lebanese territory.</p>\n<p>Combat aircraft attacked a short while ago terrorist infrastructures and a military facility that served the Hezbollah terror organization in the Al-Khiyam area in southern Lebanon, from where the launches towards the Kiryat Shmona area were identified.</p>\n<p>This morning, a number of launches were identified crossing from Lebanese territory towards the areas of Kiryat Shmona, Biriya, and Mount Hermon in the north of the country. The IDF fired artillery at the sources of the fire. As a result of the launches, an IDF officer was seriously injured and two additional reserve soldiers were lightly injured. The wounded were evacuated for medical treatment in a hospital and their families were updated.</p>\n<p>Attached is footage from the attack: https://bit.ly/4brBnoT</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Terrorist infrastructure and military facility; The IDF attacked terror targets of the <a  href=\"/hezbollah\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> in Lebanese territory. Combat aircraft attacked a short while ago terrorist infrastructures and a military facility that served the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terror organization in the Al-Khiyam area in southern Lebanon, from where the launches towards the Kiryat Shmona area were identified. This morning, a number of launches were identified crossing from Lebanese territory towards the areas of Kiryat Shmona, Biriya, and Mount Hermon in the north of the country. The IDF fired artillery at the sources of the fire. As a result of the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3984",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3984
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3984",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3984"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3984/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3984"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3984"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3984"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

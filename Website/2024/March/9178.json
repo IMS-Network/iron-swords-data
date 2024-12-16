@@ -1,0 +1,122 @@
+{
+    "id": 3630,
+    "date": "2024-03-19T15:00:04",
+    "date_gmt": "2024-03-19T13:00:04",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9178/"
+    },
+    "modified": "2024-03-19T15:00:04",
+    "modified_gmt": "2024-03-19T13:00:04",
+    "slug": "9178",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9178/",
+    "title": {
+        "rendered": "&#8220;Inside Look: Aguz and Magellan&#8217;s Anti-Terrorist Ground Operation in Hamd Neighborhood&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Ground operation and elimination of terrorists:<br />\nThis is what Aguz and Magellan&#8217;s battle looks like in the &#8216;Hamd&#8217; neighborhood.</p>\n<p>https://www.idf.il/186958</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Ground operation and elimination of terrorists: This is what Aguz and Magellan&#8217;s battle looks like in the &#8216;Hamd&#8217; neighborhood. https://www.idf.il/186958</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3630",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3630
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3630",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3630"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3630/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3630"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3630"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3630"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

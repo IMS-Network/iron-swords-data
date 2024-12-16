@@ -1,0 +1,122 @@
+{
+    "id": 3760,
+    "date": "2024-03-05T12:56:01",
+    "date_gmt": "2024-03-05T10:56:01",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9043/"
+    },
+    "modified": "2024-03-05T12:56:01",
+    "modified_gmt": "2024-03-05T10:56:01",
+    "slug": "9043",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9043/",
+    "title": {
+        "rendered": "&#8220;Major Israeli Security Operation Thwarts Imminent Terror Attack: Key Activist Arrested and 3,450 Suspects Detained Since War Onset&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint message to the IDF spokesman, Shin Bet spokeswoman, and police spokespeople:</p>\n<p>This morning, under the direction of Shin Bet, Yamam and IDF fighters arrested one of the main activists in the terror infrastructure in Balata, in light of intelligence suggesting that a terrorist attack was being planned to be carried out immediately with others.</p>\n<p>IDF, Shin Bet, and MAGAV forces worked overnight to arrest 21 wanted individuals suspected of involvement in terrorist activities throughout Judea and Samaria and in the Jordan Valley and Emekim brigades.</p>\n<p>In Balata, Yamam and IDF forces arrested this morning under the direction of the Shin Bet, the terrorist Mohammad Tanji, in light of the intelligence suggesting that he, along with others, planned to carry out an immediate terrorist attack. Mohammad is one of the main activists in the terror infrastructure in Balata in the past year. </p>\n<p>The fighters worked overnight in the village of Dan in the Menashe brigade to demolish the home of the terrorist Aabed Masad, who took part in the shooting attack on August 19, 2023, at Hawara in which Sayelas-Shai Nigarker and his son Aviad Nir Nigarker were murdered. </p>\n<p>In the Kobar village in the brigade area, the forces arrested four wanted individuals, and in the village of Yata in the Judea brigade, they arrested a wanted individual and seized terrorist funds. </p>\n<p>In Ein Sultan and in the valley following Jebr, the forces arrested three wanted individuals and seized a Carlo type weapon, in the village of Jamal in the Ephraim brigade, the forces seized two Carlo rifles and military equipment.</p>\n<p>The wanted individuals who were arrested, and the seized fighting tools have been transferred for further processing by security forces. There were no injuries to our forces.</p>\n<p>So far, since the start of the war, approximately 3,450 wanted individuals have been arrested throughout the Judea and Samaria division and the Jordan Valley and Emekim brigades, about 1,500 of whom are affiliated with the Hamas terror organization.</p>\n<p>Attached is documentation of the demolition of the terrorist&#8217;s house:https://bit.ly/49GWEd4 </p>\n<p>Attached are relevant pictures: https://IDFANC.activetrail.biz/ANC0503202451201</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint message to the IDF spokesman, Shin Bet spokeswoman, and police spokespeople: This morning, under the direction of Shin Bet, Yamam and IDF fighters arrested one of the main activists in the terror infrastructure in Balata, in light of intelligence suggesting that a terrorist attack was being planned to be carried out immediately with others. IDF, Shin Bet, and MAGAV forces worked overnight to arrest 21 wanted individuals suspected of involvement in terrorist activities throughout Judea and Samaria and in the Jordan Valley and Emekim brigades. In Balata, Yamam and IDF forces arrested this morning under the direction of the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3760",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3760
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3760",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3760"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3760/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3760"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3760"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3760"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 3302,
+    "date": "2024-04-21T11:39:07",
+    "date_gmt": "2024-04-21T08:39:07",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9518/"
+    },
+    "modified": "2024-04-21T11:39:07",
+    "modified_gmt": "2024-04-21T08:39:07",
+    "slug": "9518",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9518/",
+    "title": {
+        "rendered": "&#8220;Brave IDF Soldiers Thwart Dual-Terrorist Attack: Exclusive Inside Story from the Judah Brigade&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>Soldiers from the 92nd &#8220;Samson&#8221; Battalion stationed in the Judah Brigade thwarted a combined attack this morning (Sunday) and neutralized the two terrorists who carried out the attack.</p>\n<p>Attached is a link to First Sgt. A and First Sgt. M who took part in thwarting the attack this morning in the Judah Brigade: https://bit.ly/3JsViqJ</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: Soldiers from the 92nd &#8220;Samson&#8221; Battalion stationed in the Judah Brigade thwarted a combined attack this morning (Sunday) and neutralized the two terrorists who carried out the attack. Attached is a link to First Sgt. A and First Sgt. M who took part in thwarting the attack this morning in the Judah Brigade: https://bit.ly/3JsViqJ</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3302",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3302
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3302",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3302"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3302/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3302"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3302"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3302"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

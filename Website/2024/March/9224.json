@@ -1,0 +1,122 @@
+{
+    "id": 3585,
+    "date": "2024-03-24T09:28:34",
+    "date_gmt": "2024-03-24T07:28:34",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9224/"
+    },
+    "modified": "2024-03-24T09:28:34",
+    "modified_gmt": "2024-03-24T07:28:34",
+    "slug": "9224",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9224/",
+    "title": {
+        "rendered": "&#8220;Inside IDF&#8217;s Ongoing Battle: Detaining Terrorists, Destroying Drone Workshops and Military Targets in Gaza Strip&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF and ISA forces continue to fight specifically at Shifa Hospital; in the middle of the strip, an infantry brigade team located a drone workshop of terrorist groups.</p>\n<p>IDF and ISA forces continue with targeted combat in the area of Shifa Hospital. The combat team of Brigade 401 and troops of the 13 Naval Commando in the 162nd Division are fighting in the area while avoiding harm to citizens, patients, medical staff, and medical equipment.</p>\n<p>The soldiers detained approximately 480 people who were identified as terrorists associated with Hamas and the Islamic Jihad groups. In addition, the forces located weapons and terror infrastructure within the hospital.</p>\n<p>In the north and middle of the strip, air force fighter jets attacked about 65 targets to assist the ground forces in their recent mission. Among the targets were a strike tunnel, military buildings, armed terrorists, and additional military infrastructure.</p>\n<p>At Beit Hanoun, an aircraft struck a military structure posing a threat to the operating forces in the field.</p>\n<p>In the middle of the strip, the infantry brigade&#8217;s combat team eliminated several terrorists in the last day. The troops identified two terrorists in their zone and eliminated them through sniper fire. Brigade soldiers found and raided a drone manufacturing workshop of terrorist groups. The troops encountered terrorists outside the building and eliminated them.</p>\n<p>In the south of the Gaza Strip, troops of the 7th Brigade&#8217;s combat team eliminated several terrorists with sniper fire. Guided by the brigade soldiers, the engineering forces of the combat team located and destroyed a missile silo. Another aircraft struck a terror infrastructure.</p>\n<p>In Khan Younis, an Israeli Air Force aircraft attacked a terror infrastructure that served as a gathering point for several terrorists who were in the building during the attack.</p>\n<p>Attached is documentation of IDF strikes in the Gaza Strip: https://bit.ly/4aohr4U</p>\n<p>Attached are pictures from the drone workshop that was found by the infantry brigade combat team: https://IDFANC.activetrail.biz/ANC23032024.156189189</p>\n<p>Attached are photos from the activity of the forces in the strip: https://IDFANC.activetrail.biz/ANC24032024.156156189</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF and ISA forces continue to fight specifically at Shifa Hospital; in the middle of the strip, an infantry brigade team located a drone workshop of terrorist groups. IDF and ISA forces continue with targeted combat in the area of Shifa Hospital. The combat team of Brigade 401 and troops of the 13 Naval Commando in the 162nd Division are fighting in the area while avoiding harm to citizens, patients, medical staff, and medical equipment. The soldiers detained approximately 480 people who were identified as terrorists associated with <a  href=\"/hamas\">Hamas</a> and the Islamic Jihad groups. In addition, the forces</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3585",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3585
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3585",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3585"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3585/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3585"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3585"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3585"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

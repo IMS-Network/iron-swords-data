@@ -1,0 +1,122 @@
+{
+    "id": 3417,
+    "date": "2024-04-09T23:12:56",
+    "date_gmt": "2024-04-09T20:12:56",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9396/"
+    },
+    "modified": "2024-04-09T23:12:56",
+    "modified_gmt": "2024-04-09T20:12:56",
+    "slug": "9396",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9396/",
+    "title": {
+        "rendered": "&#8220;IDF Targets Hezbollah&#8217;s Military Infrastructure in Syria and South Lebanon: A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Spokesperson for IDF:</p>\n<p>The IDF attacked infrastructure of the Syrian army that served the Hezbollah terrorist organization; simultaneously, Hezbollah&#8217;s observation posts and terror infrastructures in south Lebanon were targeted.</p>\n<p>The IDF attacked a while ago a military infrastructure located on the Syrian front, which intelligence information indicates was used by the Hezbollah terrorist organization.</p>\n<p>The IDF sees the Syrian regime as responsible for whatever happens in its territory and will not allow attempts that would lead to the establishment of the Hezbollah terrorist organization on its front.</p>\n<p>Simultaneously, several Hezbollah&#8217;s observation posts and terror infrastructures in south Lebanon were targeted in the last few hours.</p>\n<p>Throughout the day, IDF forces conducted artillery fire to remove threats in the areas of Aadahiyya and Tyr Harfa in southern Lebanon.</p>\n<p>Footage from the IDF&#8217;s attacks in Syria is attached: https://bit.ly/3PWPZ6J</p>\n<p>Footage from the IDF&#8217;s attacks in south Lebanon is attached: https://bit.ly/4cJYzQ1</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Spokesperson for IDF: The IDF attacked infrastructure of the Syrian army that served the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization; simultaneously, <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a>&#8217;s observation posts and terror infrastructures in south Lebanon were targeted. The IDF attacked a while ago a military infrastructure located on the Syrian front, which intelligence information indicates was used by the Hezbollah terrorist organization. The IDF sees the Syrian regime as responsible for whatever happens in its territory and will not allow attempts that would lead to the establishment of the Hezbollah terrorist organization on its front. Simultaneously, several Hezbollah&#8217;s observation posts and terror infrastructures in south Lebanon were targeted</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3417",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3417
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3417",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3417"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3417/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3417"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3417"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3417"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

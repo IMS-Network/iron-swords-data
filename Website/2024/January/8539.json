@@ -1,0 +1,122 @@
+{
+    "id": 4258,
+    "date": "2024-01-07T14:02:17",
+    "date_gmt": "2024-01-07T12:02:17",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8539/"
+    },
+    "modified": "2024-01-07T14:02:17",
+    "modified_gmt": "2024-01-07T12:02:17",
+    "slug": "8539",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8539/",
+    "title": {
+        "rendered": "&#8220;Exposing Iranian-Operated Terror Infrastructure: Uncovering Strategic Missile Production in Diraj Toufah&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Under Iranian guidance &#8211; operation and construction of precise components and strategic weapon:<br />\nDirected by AMAN, Nachal&#8217;s artillery fighters exposed a terror infrastructure and missile production components in Diraj Toufah.<br />\nhttps://www.idf.il/170066</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Under Iranian guidance &#8211; operation and construction of precise components and strategic weapon: Directed by AMAN, Nachal&#8217;s artillery fighters exposed a terror infrastructure and missile production components in Diraj Toufah. https://www.idf.il/170066</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4258",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4258
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4258",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4258"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4258/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4258"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4258"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4258"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 3000,
+    "date": "2024-05-22T13:02:35",
+    "date_gmt": "2024-05-22T10:02:35",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9825/"
+    },
+    "modified": "2024-05-22T13:02:35",
+    "modified_gmt": "2024-05-22T10:02:35",
+    "slug": "9825",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9825/",
+    "title": {
+        "rendered": "&#8220;Crackdown on Terrorism: IDF Forces Thwart Attacks, Seize Explosives in Jenin Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The security forces continue the operation in Jenin; terrorists who threw explosives at the forces have been eliminated; Documentation: an armed man entered the state hospital in Jenin and used it as a hideout.</p>\n<p>IDF soldiers, the Shin Bet, fighters, and undercover Border Police officers continue to carry out operations in Jenin to thwart terrorist infrastructure located in the area.<br />\nAs part of the operation, the forces engaged in a gunfire exchange with armed men and eliminated several terrorists, including two who threw explosives at the forces.<br />\nIn addition, the soldiers seized military equipment and recovered explosives that were concealed under paving stones and intended to harm the forces.</p>\n<p>Yesterday (Wednesday), an armed man in Jenin was identified who entered the grounds of the state hospital and entrenched himself there.<br />\nThis is another example of the cynical use of armed men in Jenin using humanitarian infrastructure, including hospitals, as hides and storage locations.</p>\n<p>Attached is a documentation of the identification of the armed man arriving at the hospital in Jenin: https://bit.ly/4dPvToX</p>\n<p>Attached is a documentation of the activities of the forces in the Jenin area: https://bit.ly/3WQw4dC</p>\n<p>Included are pictures of the forces operating in the Jenin area: https://IDFANC.activetrail.biz/ANC2205202496457946539.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The security forces continue the operation in Jenin; terrorists who threw explosives at the forces have been eliminated; Documentation: an armed man entered the state hospital in Jenin and used it as a hideout. IDF soldiers, the Shin Bet, fighters, and undercover Border Police officers continue to carry out operations in Jenin to thwart terrorist infrastructure located in the area. As part of the operation, the forces engaged in a gunfire exchange with armed men and eliminated several terrorists, including two who threw explosives at the forces. In addition, the soldiers seized military equipment and recovered explosives that</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3000",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3000
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3000",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3000"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3000/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3000"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3000"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3000"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

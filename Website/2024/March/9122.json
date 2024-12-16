@@ -1,0 +1,128 @@
+{
+    "id": 3686,
+    "date": "2024-03-13T20:49:55",
+    "date_gmt": "2024-03-13T18:49:55",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9122/"
+    },
+    "modified": "2024-09-04T21:50:56",
+    "modified_gmt": "2024-09-04T18:50:56",
+    "slug": "9122",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9122/",
+    "title": {
+        "rendered": "&#8220;IDF and SHABAK Joint Operation: Successful Elimination of Key Hamas Terrorist in Rafah&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint announcement for IDF spokesperson and SHABAK speakers:</p>\n<p>Targeted elimination of a Hamas terrorist in Rafah; The IDF and SHABAK eliminated a commander in the operations department of the area of Rafah.</p>\n<p>Earlier today, an aircraft targeted and eliminated Muhammad Abu Hasna, a Hamas terrorist in the operations department of the Rafah area. The attack was carried out following accurate intelligence information from the Military Intelligence Directorate and SHABAK.</p>\n<p>Hasna was involved in the extensive activities of various <a href=\"https://iron-swords.co.il/hamas/\"  data-wpil-monitor-id=\"46\">Hamas</a> units, was in contact with Hamas field operatives, and was responsible for an intelligence operation aimed at reporting on IDF forces ahead of attacks against them.</p>\n<p>Abu Hasna is recognized as an activist in the close support system of the military arm in Hamas, was involved in taking over humanitarian aid equipment and distributing it to Hamas operatives. </p>\n<p>His targeted elimination significantly affects the functioning of various units of Hamas in Rafah.</p>\n<p>Attached is documentation of the elimination: https://bit.ly/3TiysXv</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint announcement for <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a> and SHABAK speakers: Targeted elimination of a <a  href=\"/hamas\">Hamas</a> terrorist in Rafah; The IDF and SHABAK eliminated a commander in the operations department of the area of Rafah. Earlier today, an aircraft targeted and eliminated Muhammad Abu Hasna, a <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> terrorist in the operations department of the Rafah area. The attack was carried out following accurate intelligence information from the Military Intelligence Directorate and SHABAK. Hasna was involved in the extensive activities of various Hamas units, was in contact with Hamas field operatives, and was responsible for an intelligence operation aimed at reporting on IDF forces</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3686",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3686
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3686",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3686"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3686/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 17468,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3686/revisions/17468"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3686"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3686"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3686"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

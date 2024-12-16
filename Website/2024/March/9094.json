@@ -1,0 +1,122 @@
+{
+    "id": 3712,
+    "date": "2024-03-11T08:50:44",
+    "date_gmt": "2024-03-11T06:50:44",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9094/"
+    },
+    "modified": "2024-03-11T08:50:44",
+    "modified_gmt": "2024-03-11T06:50:44",
+    "slug": "9094",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9094/",
+    "title": {
+        "rendered": "&#8220;IDF Forces Close In on Terrorists: Inside the Nahal and Commando Brigades&#8217; Operations in the Gaza Strip&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>The combat team members of the Nahal Brigade are closing in on terrorists who are threatening our forces in the center of the Strip; the Commando Brigade&#8217;s operations in the &#8216;Hamad&#8217; neighborhood of Khan Yunis continue.</p>\n<p>The combat team members of the Nahal Brigade continue to fight in the center of the Strip. In the past day, the forces encircled about 15 terrorists using sniper fire, face to face combat, and air force strikes.</p>\n<p>The brigade fire complex detected a terrorist cell, suspected of moving weaponry out of a military structure belonging to the Hamas terror organization in the area. Later, the terrorists were seen to continue to operate in the area, and were attacked by an aircraft in response. In another incident, an aircraft attacked another cell that was detected scoping out our fighters in the area. </p>\n<p>In the last day, the Commando Brigade has operated within the &#8216;Hamad&#8217; neighborhood in the southern Strip. The forces raided several apartments used for terror purposes, arrested Hamas terrorists, and found weapons, armories, and additional military equipment. During the forces&#8217; operations, a projectile was fired at the Givati Brigade soldiers with no casualties. A short time after the fire was opened, the fighters identified a terrorist in the area where the launch was carried out, and after precise tracking, the terrorist was eliminated at close range by soldiers of the Maglan unit.</p>\n<p>In the Al-Karara area of Khan Yunis, combat team members of the Bislah (828) Brigade attacked terrorists along with air force and by sniper fire and tanks.</p>\n<p>Sea Corps fighters operating in the north of the Strip directed a combat helicopter that attacked and destroyed a vessel used by terrorist organizations in the area.</p>\n<p>Attached is footage of the IDF strikes in the Strip: https://bit.ly/3vfz9si</p>\n<p>Attached is footage of IDF forces operating in the Strip: https://bit.ly/4c7cwHk</p>\n<p>Attached are photos from IDF forces operating in the Strip: https://IDFANC.activetrail.biz/ANC1103202487973928728</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: The combat team members of the <a  href=\"https://iron-swords.co.il/t/nahal-brigade/\">Nahal Brigade</a> are closing in on terrorists who are threatening our forces in the center of the Strip; the Commando Brigade&#8217;s operations in the &#8216;Hamad&#8217; neighborhood of Khan Yunis continue. The combat team members of the Nahal Brigade continue to fight in the center of the Strip. In the past day, the forces encircled about 15 terrorists using sniper fire, face to face combat, and air force strikes. The brigade fire complex detected a terrorist cell, suspected of moving weaponry out of a military structure belonging to the <a  href=\"/hamas\">Hamas</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> in</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3712",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3712
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3712",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3712"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3712/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3712"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3712"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3712"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

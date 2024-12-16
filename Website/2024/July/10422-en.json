@@ -1,0 +1,124 @@
+{
+    "id": 8000,
+    "date": "2024-07-10T14:06:44",
+    "date_gmt": "2024-07-10T11:06:44",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10422-en/"
+    },
+    "modified": "2024-07-10T14:06:44",
+    "modified_gmt": "2024-07-10T11:06:44",
+    "slug": "10422-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10422-en/",
+    "title": {
+        "rendered": "&#8220;IDF Chief of Staff: Unwavering Military Pressure on Hamas in Gaza&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The Chief of Staff in Gaza: We are applying military pressure in various ways, the common denominator is determination.</p>\n<p>The Chief of Staff, Lieutenant General Herzi Halevi, held a situational assessment yesterday (Tuesday) in the corridor of the central Gaza Strip with the commander of Division 99, Brigadier General Barak Hiram, the commander of Brigade 3, Colonel Gil Werner, and other commanders.</p>\n<p>Attached is a video of the Chief of Staff&#8217;s remarks: https://bit.ly/3WiZkJD</p>\n<p>Attached is a video on the topic: https://bit.ly/4cRHzGE</p>\n<p>Attached are photos on the topic: https://IDFANC.activetrail.biz/ANC9763</p>\n<p>The full remarks of the Chief of Staff are attached: &#8220;We are applying military pressure in various ways. What is happening in Rafah is different from what you are doing here, what you are doing here is different from what is currently happening in Shuja&#8217;iyya or in the mission itself of the corridor or in the security area along the border. What is the common denominator between the different places? The common denominator is determination; the common denominator is truly in a very qualitative way in which we carry out these actions, and ultimately, we are going on missions to destroy as many infrastructures as possible, to kill as many Hamas operatives as possible, to kill as many commanders as possible. In the end, this reduces Hamas&#8217;s capabilities, allows us to make progress with our achievements, and enables us to carry out a very important mission; pressure\u2014we will not stop also until the hostages are returned. Therefore, all these things, explain to people, there is neither stagnation nor standing in place; you are bringing very important achievements every day. We are planning ahead with a long graph that seeks opportunities against both senior officials, infrastructures, and operatives, and we are doing this really in various methods.&#8221;</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The Chief of Staff in <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>: We are applying military pressure in various ways, the common denominator is determination. The Chief of Staff, Lieutenant General Herzi Halevi, held a situational assessment yesterday (Tuesday) in the corridor of the central Gaza Strip with the commander of Division 99, Brigadier General Barak Hiram, the commander of Brigade 3, Colonel Gil Werner, and other commanders. Attached is a video of the Chief of Staff&#8217;s remarks: https://bit.ly/3WiZkJD Attached is a video on the topic: https://bit.ly/4cRHzGE Attached are photos on the topic: https://IDFANC.activetrail.biz/ANC9763 The full remarks of the Chief of Staff are attached:</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8000",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8000,
+        "he": 8001,
+        "ru": 8002
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8000",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8000"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8000/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8000"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8000"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8000"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

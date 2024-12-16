@@ -1,0 +1,124 @@
+{
+    "id": 8252,
+    "date": "2024-07-03T19:19:36",
+    "date_gmt": "2024-07-03T16:19:36",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10335-en/"
+    },
+    "modified": "2024-07-03T19:19:36",
+    "modified_gmt": "2024-07-03T16:19:36",
+    "slug": "10335-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10335-en/",
+    "title": {
+        "rendered": "&#8220;Violence Erupts in Givat Oz Zion: IDF Responds to Attack on Security Forces&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Earlier today (Wednesday), Civil Administration officers and security forces carried out enforcement activities against illegal construction recently erected in Givat Oz Zion.</p>\n<p>As the forces were leaving the area, masked Israeli individuals attacked a vehicle belonging to a Civil Administration officer of the rank of Lieutenant Colonel, shattering its windows. Additionally, a Molotov cocktail was thrown from the direction of Oz Zion at a military vehicle.</p>\n<p>The Chief of Staff, Lieutenant General Herzi Halevi, addressed the incident, stating, &#8220;This is a serious act of violence that must be condemned and denounced. The law must be applied swiftly and severely against the assailants who attacked security forces during the execution of their duties.&#8221;</p>\n<p>Attached are images on the subject: https://IDFANC.activetrail.biz/ANC030720246498634</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Earlier today (Wednesday), Civil Administration officers and security forces carried out enforcement activities against illegal construction recently erected in Givat Oz Zion. As the forces were leaving the area, masked Israeli individuals attacked a vehicle belonging to a Civil Administration officer of the rank of Lieutenant Colonel, shattering its windows. Additionally, a Molotov cocktail was thrown from the direction of Oz Zion at a military vehicle. The Chief of Staff, Lieutenant General Herzi Halevi, addressed the incident, stating, &#8220;This is a serious act of violence that must be condemned and denounced. The law must be applied swiftly and</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8252",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8252,
+        "he": 8253,
+        "ru": 8254
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8252",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8252"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8252/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8252"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8252"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8252"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

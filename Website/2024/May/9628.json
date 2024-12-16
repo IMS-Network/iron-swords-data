@@ -1,0 +1,128 @@
+{
+    "id": 3193,
+    "date": "2024-05-05T16:54:23",
+    "date_gmt": "2024-05-05T13:54:23",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9628/"
+    },
+    "modified": "2024-09-04T21:49:54",
+    "modified_gmt": "2024-09-04T18:49:54",
+    "slug": "9628",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9628/",
+    "title": {
+        "rendered": "&#8220;Israeli Fighter Jets Neutralize Hamas Missile Launcher Near Civilian Shelters: Inside Today&#8217;s Counterstrike&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Fighter jets destroyed the launcher from which missiles were fired at the Kerem Shalom region</p>\n<p>Earlier today, about ten launches were identified crossing from near the Rafah Crossing towards the Kerem Shalom area. A short time later, fighter jets, led by the Gaza Division, attacked the launcher that carried out the launches towards the area. In addition, fighter jets attacked a military building in the launch area.</p>\n<p>The launches were carried out by the <a href=\"https://iron-swords.co.il/hamas/\"  data-wpil-monitor-id=\"31\">Hamas</a> terrorist organization near the Rafah Crossing, about 350 meters from civilian shelters. This is another clear example of the systematic exploitation by Hamas terrorist organization using facilities and humanitarian spaces for terrorist purposes, while using the civilian population as a human shield.</p>\n<p>Documentation on the subject is attached: https://bit.ly/4bm6ukU</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Fighter jets destroyed the launcher from which missiles were fired at the Kerem Shalom region Earlier today, about ten launches were identified crossing from near the Rafah Crossing towards the Kerem Shalom area. A short time later, fighter jets, led by the <a  href=\"https://iron-swords.co.il/t/gaza-division/\">Gaza Division</a>, attacked the launcher that carried out the launches towards the area. In addition, fighter jets attacked a military building in the launch area. The launches were carried out by the <a  href=\"/hamas\">Hamas</a> terrorist organization near the Rafah Crossing, about 350 meters from civilian shelters. This is another clear example of the systematic exploitation by <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a></p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3193",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3193
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3193",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3193"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3193/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 17453,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3193/revisions/17453"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3193"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3193"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3193"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

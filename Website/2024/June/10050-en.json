@@ -1,0 +1,124 @@
+{
+    "id": 9101,
+    "date": "2024-06-09T11:04:27",
+    "date_gmt": "2024-06-09T08:04:27",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10050-en/"
+    },
+    "modified": "2024-06-09T11:04:27",
+    "modified_gmt": "2024-06-09T08:04:27",
+    "slug": "10050-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10050-en/",
+    "title": {
+        "rendered": "&#8220;IDF Operations Update: Division 98&#8217;s Heroic Rescue and Ongoing Combat in Gaza&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Fighting in the Gaza Strip: Division 98 continues to engage in combat after playing a central role in the operation to rescue the four hostages; an aerial strike destroyed a launch site from which rockets were fired toward our forces in the central Gaza Strip.</p>\n<p>Forces of Division 98 continue fighting in eastern Deir al-Balah and eastern al-Buriej after participating in the rescue operation of the four hostages over the last day. During the operation, the forces eliminated many terrorists and destroyed terrorist infrastructure.<br />\nFighter jets and aircraft from the Air Force provided aerial fire support to the forces involved in the operation, attacking numerous terrorist targets in the area, including armed terrorists posing a threat to our troops.</p>\n<p>Fighters from Division 162 continue focused combat operations based on intelligence in the Rafah area. The fighters identified several additional tunnel shafts during their raids, alongside mortar launchers and other weaponry.<br />\nIn a raid on a military structure, fighters from the Givati combat team discovered numerous weapons, including rifles, RPGs, explosives, magazines, grenades, and additional military equipment.</p>\n<p>During the activity of Division 99 in the central Gaza Strip, a terrorist cell that was firing at our forces was eliminated in an airstrike.</p>\n<p>In the last day, several mortar rounds were launched from the area of the Islamic University in southern Gaza City toward IDF forces operating in the corridor area in central Gaza. There were no casualties. In a closing loop from the air, aircraft attacked the launcher that conducted the firings and destroyed it.</p>\n<p>Fighter jets and aircraft from the Air Force attacked numerous terrorist targets in the Gaza Strip during the last day. In one of the attacks, an Air Force aircraft, guided by the 215 Artillery Brigade, eliminated a tactical-level commander from the terrorist organization PIJ.</p>\n<p>Attached is documentation from IDF attacks in the Gaza Strip: https://bit.ly/3X9cYjg</p>\n<p>Attached is a photo of the weaponry discovered by the warriors of Battalion 9 of the Givati Brigade: https://IDFANC.activetrail.biz/ANC090620244885878957</p>\n<p>Attached are photos from the forces&#8217; activities in the Gaza Strip: https://IDFANC.activetrail.biz/ANC0906202475467360</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Fighting in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip: Division 98 continues to engage in combat after playing a central role in the operation to rescue the four <a  href=\"https://iron-swords.co.il/t/hostages/\">hostages</a>; an aerial strike destroyed a launch site from which rockets were fired toward our forces in the central Gaza Strip. Forces of Division 98 continue fighting in eastern Deir al-Balah and eastern al-Buriej after participating in the rescue operation of the four hostages over the last day. During the operation, the forces eliminated many terrorists and destroyed terrorist infrastructure. Fighter jets and aircraft from the Air Force provided aerial fire support to the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9101",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9101,
+        "he": 9102,
+        "ru": 9103
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9101",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9101"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9101/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9101"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9101"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9101"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

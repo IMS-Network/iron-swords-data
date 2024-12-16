@@ -1,0 +1,122 @@
+{
+    "id": 4082,
+    "date": "2024-01-27T20:36:57",
+    "date_gmt": "2024-01-27T18:36:57",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8718/"
+    },
+    "modified": "2024-01-27T20:36:57",
+    "modified_gmt": "2024-01-27T18:36:57",
+    "slug": "8718",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8718/",
+    "title": {
+        "rendered": "&#8220;Carrying Forward Family Bravery: The Golani Brigade Soldier Upholding the Legacy of the Warsaw Ghetto Revolt&#8221;"
+    },
+    "content": {
+        "rendered": "<p>&#8220;If Mordechai saw me defending my country, he would be the proudest in the world&#8221;: The soldier from the Golani Brigade who continues the family bravery from the Warsaw Ghetto revolt.<br />\nHere is the link: https://www.idf.il/176033.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>&#8220;If Mordechai saw me defending my country, he would be the proudest in the world&#8221;: The soldier from the <a  href=\"https://iron-swords.co.il/t/golani-brigade/\">Golani Brigade</a> who continues the family bravery from the Warsaw Ghetto revolt. Here is the link: https://www.idf.il/176033.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4082",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4082
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4082",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4082"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4082/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4082"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4082"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4082"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

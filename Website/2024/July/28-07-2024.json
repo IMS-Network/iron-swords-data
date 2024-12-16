@@ -1,0 +1,140 @@
+{
+    "id": 15781,
+    "date": "2024-07-28T00:00:00",
+    "date_gmt": "2024-07-27T21:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/28-07-2024/"
+    },
+    "modified": "2024-08-27T20:58:11",
+    "modified_gmt": "2024-08-27T17:58:11",
+    "slug": "28-07-2024",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/aid/28-07-2024/",
+    "title": {
+        "rendered": "Israel Aid and Humanitarian Efforts in Gaza: July 28, 2024"
+    },
+    "content": {
+        "rendered": "<h2>Aid Trucks Entry</h2>\n<p>50 humanitarian aid trucks were coordinated to Gaza yesterday, via Erez crossing.</p>\n<h2>Jordanian Route</h2>\n<p>50 aid trucks were coordinated via the Jordanian Route (July 27).</p>\n<h2>Coordinations</h2>\n<p>Out of 40 general coordination requests, 33 (83%) were approved. Additionally, 81% (13 out of 16) of coordination requests to Northern Gaza were approved (July 27).</p>\n<h2>Local Tactical Pause</h2>\n<p>Today, (July 28) between 10:00 and 14:00, the IDF will pause operations in the Bani Suheila neighborhood in Deir al Balah to enable the movement of humanitarian aid.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>50 aid trucks entered <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>; local pause for aid today.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 15696,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        1338
+    ],
+    "tags": [
+        1352
+    ],
+    "class_list": [
+        "post-15781",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-aid",
+        "tag-daily-humanitarian-aid-update"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 15781,
+        "he": 15782,
+        "ru": 15783
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15781",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=15781"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15781/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 15784,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15781/revisions/15784"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/15696"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=15781"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=15781"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=15781"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

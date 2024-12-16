@@ -1,0 +1,122 @@
+{
+    "id": 4259,
+    "date": "2024-01-07T13:29:26",
+    "date_gmt": "2024-01-07T11:29:26",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8538/"
+    },
+    "modified": "2024-01-07T13:29:26",
+    "modified_gmt": "2024-01-07T11:29:26",
+    "slug": "8538",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8538/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Targets in Lebanon: A Detailed Account of the Successful Counter-Terrorism Operation&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF has completed attacks on several military targets of the Hezbollah terrorist organization in Lebanese territory.</p>\n<p>IDF soldiers attacked a terrorist cell that was identified in spacious areas. Additionally, the IDF attacked via combat aircraft several military targets of the Hezbollah terrorist organization, including buildings where secondary explosions were identified, attesting to the presence of warfare materials in them, in the areas of Lubna, Majdal Zun, and Bint Jbeil in southern Lebanon.</p>\n<p>Last night, our aerial defense soldiers intercepted a hostile airborne objective that infiltrated into Israeli territory from Lebanese soil in the area of Even Menachem.</p>\n<p>Attached is footage from the attacks: https://bit.ly/4aLdacQ</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF has completed attacks on several military targets of the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization in Lebanese territory. IDF soldiers attacked a terrorist cell that was identified in spacious areas. Additionally, the IDF attacked via combat aircraft several military targets of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization, including buildings where secondary explosions were identified, attesting to the presence of warfare materials in them, in the areas of Lubna, Majdal Zun, and Bint Jbeil in southern Lebanon. Last night, our aerial defense soldiers intercepted a hostile airborne objective that infiltrated into Israeli territory from Lebanese soil in the area of Even Menachem.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4259",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4259
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4259",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4259"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4259/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4259"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4259"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4259"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

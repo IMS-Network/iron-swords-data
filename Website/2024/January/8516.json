@@ -1,0 +1,122 @@
+{
+    "id": 4279,
+    "date": "2024-01-05T10:23:03",
+    "date_gmt": "2024-01-05T08:23:03",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8516/"
+    },
+    "modified": "2024-01-05T10:23:03",
+    "modified_gmt": "2024-01-05T08:23:03",
+    "slug": "8516",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8516/",
+    "title": {
+        "rendered": "&#8220;Crackdown on Terror: IDF and Shin Bet Arrest Five, Seize Weapons &#038; Propaganda Materials in Judea, Samaria, and Jordan Valley&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>IDF soldiers, Shin Bet and Border Patrol arrested five wanted individuals last night across Judea and Samaria and in the Jordan Valley and the Valley regions; in Gush Etzion, equipment from a printing house that printed propaganda materials for Hamas was confiscated.</p>\n<p>IDF forces, Shin Bet, and Border Patrol arrested five wanted individuals last night and located weapons across Judea and Samaria and in the Jordan Valley and the Valley regions.</p>\n<p>In the village of Halhul in Gush Etzion, reservist soldiers confiscated equipment from a printing house that printed incitement materials for the terrorist organization Hamas.<br />\nAdditionally, in the city of Hebron in the Judea region, the forces arrested a wanted individual and also confiscated explosives, Molotov cocktails, and a drone.</p>\n<p>During our forces&#8217; activity in Beit Rima in the Ephraim region, terrorists threw explosives and Molotov cocktails towards the soldiers who responded by firing, killing one terrorist and causing other injuries.</p>\n<p>The arrested individuals and confiscated weapons have been transferred for further treatment by the security forces. Our forces suffered no casualties.</p>\n<p>So far, since the beginning of the war, about 2,600 wanted individuals have been arrested across the Judea and Samaria Brigade and the Jordan Valley and Valley regions, about 1,300 of them are affiliated with the Hamas terrorist organization.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: IDF soldiers, Shin Bet and Border Patrol arrested five wanted individuals last night across Judea and Samaria and in the Jordan Valley and the Valley regions; in Gush Etzion, equipment from a printing house that printed propaganda materials for <a  href=\"/hamas\">Hamas</a> was confiscated. IDF forces, Shin Bet, and Border Patrol arrested five wanted individuals last night and located weapons across Judea and Samaria and in the Jordan Valley and the Valley regions. In the village of Halhul in Gush Etzion, reservist soldiers confiscated equipment from a printing house that printed incitement materials for the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a>. Additionally, in</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4279",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4279
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4279",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4279"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4279/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4279"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4279"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4279"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

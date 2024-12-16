@@ -1,0 +1,122 @@
+{
+    "id": 3351,
+    "date": "2024-04-16T09:03:25",
+    "date_gmt": "2024-04-16T06:03:25",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9465/"
+    },
+    "modified": "2024-04-16T09:03:25",
+    "modified_gmt": "2024-04-16T06:03:25",
+    "slug": "9465",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9465/",
+    "title": {
+        "rendered": "&#8220;Decisive IDF Action in Gaza: Eradicating Terrorists and Destroying Infrastructures &#8211; An In-Depth Look&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Elimination of terrorists and destruction of terror infrastructures; 162 Brigade forces continue the raid in the center of the Gaza Strip.</p>\n<p>The combat team soldiers of the Nachal Brigade continue their activity in the center of the strip, during which they eliminated several terrorists by tank fire who were identified moving towards them.</p>\n<p>As part of 215th Fire Brigade&#8217;s combat effort, the forces aimed an aircraft of the Air Force that attacked and destroyed terror infrastructures.</p>\n<p>Throughout the last day, fighter jets and air force aircraft attacked and destroyed a missile launcher along with dozens of terror infrastructures, tunnels and military buildings, including armed terrorists of the Hamas terror organization.</p>\n<p>Attached is the documentation of the IDF attacks in the Gaza Strip: https://bit.ly/3JkxpBD</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Elimination of terrorists and destruction of terror infrastructures; 162 Brigade forces continue the raid in the center of the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. The combat team soldiers of the Nachal Brigade continue their activity in the center of the strip, during which they eliminated several terrorists by tank fire who were identified moving towards them. As part of 215th Fire Brigade&#8217;s combat effort, the forces aimed an aircraft of the Air Force that attacked and destroyed terror infrastructures. Throughout the last day, fighter jets and air force aircraft attacked and destroyed a missile launcher along with dozens of terror infrastructures,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3351",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3351
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3351",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3351"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3351/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3351"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3351"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3351"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

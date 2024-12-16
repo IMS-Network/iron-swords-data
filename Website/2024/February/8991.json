@@ -1,0 +1,122 @@
+{
+    "id": 3812,
+    "date": "2024-02-28T14:34:12",
+    "date_gmt": "2024-02-28T12:34:12",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8991/"
+    },
+    "modified": "2024-02-28T14:34:12",
+    "modified_gmt": "2024-02-28T12:34:12",
+    "slug": "8991",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8991/",
+    "title": {
+        "rendered": "&#8220;IDF, Shin Bet, and Border Police Thwart Terrorist Attack: 10 Arrests and Weapon Seizures in Judea and Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Spokesperson for the IDF:</p>\n<p>An aircraft attacked a heavily armed terrorist in Jenin last night; IDF, Shin Bet, and Border Police arrested ten wanted individuals across Judea and Samaria.</p>\n<p>IDF fighters, Shin Bet, and Border Police operated last night to arrest ten wanted individuals across Judea and Samaria. </p>\n<p>In Jenin in Menashe, the fighters arrested a suspect with Shin Bet&#8217;s intelligence guidance and worked to uncover charges hidden under axes intended to harm the forces. In addition, an aircraft attacked a heavily armed terrorist spotted in the area.</p>\n<p>In the Betar area in Judea, the fighters arrested six wanted individuals, conducted many suspect investigations, and confiscated weapons. In Qalqilya in Ephraim, two wanted individuals were arrested, and in Abu Kash in Benjamin, the fighters arrested one more wanted individual.</p>\n<p>The arrested suspects and confiscated weapons have been transferred for further handling by security forces; no injuries to our forces.</p>\n<p>So far since the beginning of the war, about 3,400 wanted individuals have been arrested across the Judea and Samaria Division and the Jordan Valley and Valleys Brigade, about 1,500 of them are affiliated with the Hamas terrorist organization.</p>\n<p>Attached is documentation of the forces&#8217; activities: https://bit.ly/3OWtAWs</p>\n<p>Attached are pictures on the subject: https://IDFANC.activetrail.biz/ANC2802202241504</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Spokesperson for the IDF: An aircraft attacked a heavily armed terrorist in Jenin last night; IDF, Shin Bet, and Border Police arrested ten wanted individuals across Judea and Samaria. IDF fighters, Shin Bet, and Border Police operated last night to arrest ten wanted individuals across Judea and Samaria. In Jenin in Menashe, the fighters arrested a suspect with Shin Bet&#8217;s intelligence guidance and worked to uncover charges hidden under axes intended to harm the forces. In addition, an aircraft attacked a heavily armed terrorist spotted in the area. In the Betar area in Judea, the fighters arrested six wanted individuals,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3812",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3812
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3812",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3812"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3812/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3812"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3812"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3812"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

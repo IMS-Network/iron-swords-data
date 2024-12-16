@@ -1,0 +1,122 @@
+{
+    "id": 4459,
+    "date": "2023-12-19T19:00:10",
+    "date_gmt": "2023-12-19T17:00:10",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8334/"
+    },
+    "modified": "2023-12-19T19:00:10",
+    "modified_gmt": "2023-12-19T17:00:10",
+    "slug": "8334",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8334/",
+    "title": {
+        "rendered": "&#8220;Inside Look: Shaldag Unit&#8217;s Operation in Hamas Terror Tunnel, Gaza City&#8221;"
+    },
+    "content": {
+        "rendered": "<p>First documentation of the special forces in the heart of Gaza City:<br />\nThe Shaldag Unit operates within a significant Hamas terror tunnel.<br />\nhttps://www.idf.il/164023</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>First documentation of the special forces in the heart of <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> City: The Shaldag Unit operates within a significant <a  href=\"/hamas\">Hamas</a> terror tunnel. https://www.idf.il/164023</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4459",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4459
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4459",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4459"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4459/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4459"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4459"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4459"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

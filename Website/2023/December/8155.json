@@ -1,0 +1,122 @@
+{
+    "id": 4637,
+    "date": "2023-12-07T16:15:07",
+    "date_gmt": "2023-12-07T14:15:07",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8155/"
+    },
+    "modified": "2023-12-07T16:15:07",
+    "modified_gmt": "2023-12-07T14:15:07",
+    "slug": "8155",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8155/",
+    "title": {
+        "rendered": "&#8220;Brigade 36&#8217;s Heroic Battles Against Terrorism: Destroying &#8216;Amalakh&#8217; and Hidden Infrastructures Near Civilian Buildings in Shejaiya&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Destroying &#8220;Amalakh&#8221; and underground infrastructures, close to civilian buildings:<br />\nThe forces of Brigade 36 in face-to-face battles against terrorists in Shejaiya</p>\n<p>https://www.idf.il/160018</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Destroying &#8220;Amalakh&#8221; and underground infrastructures, close to civilian buildings: The forces of Brigade 36 in face-to-face battles against terrorists in Shejaiya https://www.idf.il/160018</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4637",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4637
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4637",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4637"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4637/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4637"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4637"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4637"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

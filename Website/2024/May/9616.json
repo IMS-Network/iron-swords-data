@@ -1,0 +1,122 @@
+{
+    "id": 3205,
+    "date": "2024-05-04T18:41:02",
+    "date_gmt": "2024-05-04T15:41:02",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9616/"
+    },
+    "modified": "2024-05-04T18:41:02",
+    "modified_gmt": "2024-05-04T15:41:02",
+    "slug": "9616",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9616/",
+    "title": {
+        "rendered": "&#8220;Five Terrorists Neutralized in Joint IDF, Shin Bet and Yamam Operation: A 12-Hour Standoff in Tul Karm&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint message from the IDF spokesperson, Israel Police spokesperson, and Shin Bet spokesperson:</p>\n<p>&#8220;Yamam&#8221; soldiers, IDF, and Shin Bet neutralized five terrorists who were barricaded in a building in Tul Karm in the Menashe brigade during a 12-hour battle.</p>\n<p>&#8220;Yamam&#8221; soldiers, IDF, and Shin Bet, under precise intelligence guidance from the Shin Bet and AMAN, operated for over 12 hours in Tul Karm in the Menashe brigade, in a targeted operation to eliminate a terrorist cell.</p>\n<p>&#8220;Yamam&#8221; soldiers, IDF, and Shin Bet surrounded a building where the terrorist cell had barricaded themselves and opened fire at them. The soldiers responded with gunfire, shoulder-launched missiles, and other means. In addition, an IDF remotely piloted aircraft attacked the building twice, accompanied by engineering forces that worked to demolish the building. At the end of the exchanges of fire, all five terrorists were eliminated. Furthermore, military equipment and parts of weapons were confiscated.</p>\n<p>During the operation, a &#8220;Yamam&#8221; soldier was injured and evacuated for further medical treatment at a hospital. His family has been updated.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint message from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>, <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> Police spokesperson, and Shin Bet spokesperson: &#8220;Yamam&#8221; soldiers, IDF, and Shin Bet neutralized five terrorists who were barricaded in a building in Tul Karm in the Menashe brigade during a 12-hour battle. &#8220;Yamam&#8221; soldiers, IDF, and Shin Bet, under precise intelligence guidance from the Shin Bet and AMAN, operated for over 12 hours in Tul Karm in the Menashe brigade, in a targeted operation to eliminate a terrorist cell. &#8220;Yamam&#8221; soldiers, IDF, and Shin Bet surrounded a building where the terrorist cell had barricaded themselves and opened fire at them. The soldiers responded</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3205",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3205
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3205",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3205"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3205/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3205"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3205"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3205"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

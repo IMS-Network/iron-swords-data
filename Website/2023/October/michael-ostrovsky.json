@@ -1,0 +1,129 @@
+{
+    "id": 2394,
+    "date": "2023-10-07T08:30:00",
+    "date_gmt": "2023-10-07T05:30:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=2394"
+    },
+    "modified": "2024-05-13T16:21:33",
+    "modified_gmt": "2024-05-13T13:21:33",
+    "slug": "michael-ostrovsky",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/victims/michael-ostrovsky/",
+    "title": {
+        "rendered": "michael ostrovsky"
+    },
+    "content": {
+        "rendered": "\n<p><br><br>Michael Ostrovsky, aged 77, was tragically killed on October 7th while serving as a security guard at Kibbutz Magen. Renowned for his passion for dancing and singing, particularly delighting children in his Santa costume during New Year celebrations, he brought boundless joy to those around him. An avid fisherman, he cherished the simple pleasures of life.</p>\n\n\n\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\">\n<p></p>\n<cite>This summary is based on the post from <a href=\"https://twitter.com/GLZRadio/status/1754882644368654820\">GLZ Radio</a></cite></blockquote>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Michael Ostrovsky, aged 77, was tragically killed on October 7th while serving as a security guard at Kibbutz Magen. Renowned for his passion for dancing and singing, particularly delighting children in his Santa costume during New Year celebrations, he brought boundless joy to those around him. An avid fisherman, he cherished the simple pleasures of life. This summary is based on the post from GLZ Radio</p>\n",
+        "protected": false
+    },
+    "author": 6,
+    "featured_media": 2395,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-october-7th-victims",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 21,
+        "footnotes": ""
+    },
+    "categories": [
+        21
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2394",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-victims"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2394
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2394",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/6"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2394"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2394/revisions"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/2395"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2394"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2394"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2394"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 4223,
+    "date": "2024-01-11T09:54:27",
+    "date_gmt": "2024-01-11T07:54:27",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8574/"
+    },
+    "modified": "2024-01-11T09:54:27",
+    "modified_gmt": "2024-01-11T07:54:27",
+    "slug": "8574",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8574/",
+    "title": {
+        "rendered": "&#8220;IDF Thwarts Major Weapons Escape, Arrests 24 Suspects, and Demolishes Terrorist&#8217;s House: A Comprehensive Security Update&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>Security forces have thwarted the escape of 50 weapons in the Jordan Valley and Plateau Division; The IDF is demolishing the house of another terrorist from the attack near the British Police Junction and arresting 24 wanted individuals in Judea and Samaria and the Jordan Valley and Plateau Division.</p>\n<p>Lookouts from unit 636 identified yesterday evening two suspects in the Jordan Valley and Plateau Division area who had 49 pistols and an M-16 rifle in their possession. Fighters from the Matilan unit of the Border Police of Judea and Samaria, IDF reserve forces from Battalion 5035, and the Yatar unit have been preparing for this in the last two weeks, through intelligence information from the Judea and Samaria Brigade and the Shin Bet.</p>\n<p>IDF soldiers, Shin Bet, Border Police, and Metzada acted last night to arrest 24 wanted individuals throughout Judea and Samaria and the Jordan Valley and Plateau Division. In the city of Ramallah in the Binyamin Division, the soldiers demolished the house of another terrorist from the attack that occurred earlier this week near the British Police Junction. In the village of Qariot within the Division&#8217;s area, the soldiers arrested a senior member of the students&#8217; cell of Hamas. In the village of Anabta in Menashe, the soldiers arrested two wanted individuals and found military equipment and explosives which were destroyed.</p>\n<p>The arrested wanted individuals and the confiscated weapons of warfare were transferred for further treatment by the security forces, no injuries to our forces.</p>\n<p>Attached is a picture of the 50 weapons confiscated yesterday in the Jordan Valley and Plateau Division: https://IDFANC.activetrail.biz/ANC11012024.18918</p>\n<p>Attached is a picture of the explosives that were destroyed: https://IDFANC.activetrail.biz/ANC11012024.15198</p>\n<p>So far, from the beginning of the war, about 2,650 wanted individuals have been arrested throughout the Judea and Samaria Division and the Jordan Valley and Plateau Division, about 1,300 of them are affiliated with the Hamas terrorist organization.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: Security forces have thwarted the escape of 50 weapons in the Jordan Valley and Plateau Division; The IDF is demolishing the house of another terrorist from the attack near the British Police Junction and arresting 24 wanted individuals in Judea and Samaria and the Jordan Valley and Plateau Division. Lookouts from unit 636 identified yesterday evening two suspects in the Jordan Valley and Plateau Division area who had 49 pistols and an M-16 rifle in their possession. Fighters from the Matilan unit of the Border Police of Judea and Samaria, IDF reserve forces from Battalion 5035, and the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4223",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4223
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4223",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4223"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4223/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4223"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4223"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4223"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

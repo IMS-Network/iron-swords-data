@@ -1,0 +1,124 @@
+{
+    "id": 9311,
+    "date": "2024-06-03T16:00:05",
+    "date_gmt": "2024-06-03T13:00:05",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/9979-en/"
+    },
+    "modified": "2024-06-03T16:00:05",
+    "modified_gmt": "2024-06-03T13:00:05",
+    "slug": "9979-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9979-en/",
+    "title": {
+        "rendered": "&#8220;Inside Rafah: Nahal Fighters Uncover Rockets Hidden in Children&#8217;s Beds&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Nahal fighters located rockets and mortar shells in children&#8217;s beds:<br />\nThis is what the special forces combat looks like in Rafah.<br />\nhttps://www.idf.il/206321</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Nahal fighters located rockets and mortar shells in children&#8217;s beds: This is what the special forces combat looks like in Rafah. https://www.idf.il/206321</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9311",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9311,
+        "he": 9312,
+        "ru": 9313
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9311",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9311"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9311/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9311"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9311"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9311"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

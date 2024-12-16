@@ -1,0 +1,122 @@
+{
+    "id": 4093,
+    "date": "2024-01-26T08:44:14",
+    "date_gmt": "2024-01-26T06:44:14",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8706/"
+    },
+    "modified": "2024-01-26T08:44:14",
+    "modified_gmt": "2024-01-26T06:44:14",
+    "slug": "8706",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8706/",
+    "title": {
+        "rendered": "&#8220;Inside IDF&#8217;s Intense Counter-Terrorism Operations: An In-Depth Look at Brigade 98&#8217;s Battles in Khan Yunis&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The intense fighting continues in Khan Yunis: Combat teams of Brigade 98 are eliminating dozens of terrorists and attacking terror infrastructures.</p>\n<p>Fighter jets of the Air Force, led by Brigade 98&#8217;s Fire Control Center, have conducted attacks on dozens of targets: operation rooms, ammunition warehouses, observation posts, and gathering points of terrorists.</p>\n<p>Fighters from the Paratroopers Brigade combat team identified five terrorists entering a military building of the organization. The fighters directed an aircraft which attacked and eliminated the five terrorists inside the building. </p>\n<p>Fighters from the Maglan unit identified a cell of four terrorists who had fired towards the forces just hours earlier. The fighters directed a combat aircraft and a drone which attacked and eliminated the cell. The fighters eliminated several more terrorists in additional battles. </p>\n<p>Fighters from the combat team of the Givati brigade eliminated a cell of six terrorists who threatened forces, aided by tank and sniper fire.</p>\n<p>In the north of the strip, the combat team of Brigade 5, in cooperation with the Air Force, attacked Hamas terror group&#8217;s infrastructures. The fighter jets attacked a booby-trapped building and a military building, an ATGM position, and an operational tunnel, and the brigade fighters eliminated several terrorists using tank fire and directing drones. </p>\n<p>During the night, the Naval Corps attacked targets and provided fire support along the Gaza Strip coastline, as part of an effort to assist the combat teams of the Nahal Brigade operating in the Strip. </p>\n<p>Attached is documentation from the IDF forces&#8217; activities in the Strip:  https://bit.ly/3UeHxCs</p>\n<p>Attached are photos from the IDF forces&#8217; activities in the Strip in the last day: HTTPS://IDFANC.activetrail.biz/ANC260120241234719</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The intense fighting continues in Khan Yunis: Combat teams of Brigade 98 are eliminating dozens of terrorists and attacking terror infrastructures. Fighter jets of the Air Force, led by Brigade 98&#8217;s Fire Control Center, have conducted attacks on dozens of targets: operation rooms, ammunition warehouses, observation posts, and gathering points of terrorists. Fighters from the <a  href=\"https://iron-swords.co.il/t/paratroopers-brigade/\">Paratroopers Brigade</a> combat team identified five terrorists entering a military building of the organization. The fighters directed an aircraft which attacked and eliminated the five terrorists inside the building. Fighters from the Maglan unit identified a cell of four terrorists who had fired</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4093",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4093
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4093",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4093"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4093/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4093"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4093"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4093"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 3868,
+    "date": "2024-02-21T21:07:41",
+    "date_gmt": "2024-02-21T19:07:41",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8935/"
+    },
+    "modified": "2024-02-21T21:07:41",
+    "modified_gmt": "2024-02-21T19:07:41",
+    "slug": "8935",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8935/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Targets: Inside the Recent Military Attacks on Lebanese Terror Infrastructures&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>A military position from where launches were made into Israeli territory alongside terror infrastructures; The IDF attacked in Lebanese territory.</p>\n<p>In the last few hours, fighter jets attacked terror targets of the Hezbollah terror organization.</p>\n<p>Among the targets attacked were an observation post in the Al-Khiyam area, a military post in the Zibqin village area, from which launches were made earlier today towards the Shlomi area, and several terror infrastructures.</p>\n<p>Also, during the day, a combat helicopter attacked an observation post in the Ramia area, where terrorists were located, and artillery fire was also carried out to eliminate threats in the Itron area.</p>\n<p>Attached is documentation of the attacks: https://bit.ly/48ljbud</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: A military position from where launches were made into Israeli territory alongside terror infrastructures; The IDF attacked in Lebanese territory. In the last few hours, fighter jets attacked terror targets of the <a  href=\"/hezbollah\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a>. Among the targets attacked were an observation post in the Al-Khiyam area, a military post in the Zibqin village area, from which launches were made earlier today towards the Shlomi area, and several terror infrastructures. Also, during the day, a combat helicopter attacked an observation post in the Ramia area, where terrorists were located, and artillery fire was also carried out to eliminate</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3868",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3868
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3868",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3868"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3868/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3868"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3868"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3868"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

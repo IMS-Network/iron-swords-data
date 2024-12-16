@@ -1,0 +1,122 @@
+{
+    "id": 3857,
+    "date": "2024-02-23T08:22:59",
+    "date_gmt": "2024-02-23T06:22:59",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8946/"
+    },
+    "modified": "2024-02-23T08:22:59",
+    "modified_gmt": "2024-02-23T06:22:59",
+    "slug": "8946",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8946/",
+    "title": {
+        "rendered": "&#8220;Operation Success: IDF Forces Eliminate Terror Cell and Discover Weapon Storehouses in Ongoing Gaza Combat&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Forces from the combat team of Brigade 7 and the Air Force eliminated a terrorist cell that fired an RPG missile at them while they were carrying an explosive charge; fighters from the commando unit identified a weapons storehouse containing dozens of rockets and charges; the fighting in Gaza continues.</p>\n<p>Combat team fighters of Brigade 7 continue to operate in the West of Khan Yunis and have eliminated more than ten terrorists in the last day by sniper fire and remotely controlled aircraft.<br />\nDuring the operational activity, an RPG missile was fired at an engineering unit of the force. The brigade&#8217;s fire complex identified the three terrorists who carried out the shooting while carrying an explosive charge and an Air Force aircraft attacked and eliminated the terrorists. There were no casualties to our forces in the event.<br />\nIn the past day, Air Force forces destroyed a weapon storehouse, war room, and military buildings. </p>\n<p>Fighters from the commando unit continue the fight in the West Khan Yunis.<br />\nDuring raids on terror targets, forces from Maglan unit found a weapons storehouse containing dozens of rockets, charges, and mortars.</p>\n<p>The combat team of the Givati Brigade went on the attack to destroy terror spaces and eliminate terrorists in the Khan Yunis area.<br />\nBefore the attack, the Air Force, in cooperation with the brigade&#8217;s fire complex, attacked operational buildings, sniper positions, and weapon storehouses. </p>\n<p>Forces from Brigade 162 continue the fight and raid on terror targets in the Zeitoun area in the north of the Gaza strip.</p>\n<p>During the activity of the combat team from Brigade 401 in Zeitoun, the fighters eliminated more than ten terrorists by sniper fire and with remotely controlled aircraft and combat helicopters, and they found weapons and military equipment.</p>\n<p>In the center of the Gaza strip, the combat team of the Nahal Brigade eliminated several terrorists over the last day.<br />\nIn one of the activities, the forces identified a cell of terrorists in an observatory position of the organization at a strategic location, in order to harm our forces.<br />\nThe forces on the field and in the Gaza division directed a combat helicopter, which attacked the position and eliminated the terrorists.<br />\nAdditionally, they found weapons and exposed pits in the Zeitoun area.</p>\n<p>Attached is documentation from the attacks in the Gaza strip: https://bit.ly/3wBY1uA</p>\n<p>Attached is documentation from the force activity in the Gaza strip: https://bit.ly/3wojpn3</p>\n<p>Attached are pictures from the force activity in the Gaza strip: https://IDFANC.activetrail.biz/ANC230220249823484</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Forces from the combat team of Brigade 7 and the Air Force eliminated a terrorist cell that fired an RPG missile at them while they were carrying an explosive charge; fighters from the commando unit identified a weapons storehouse containing dozens of rockets and charges; the fighting in <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> continues. Combat team fighters of Brigade 7 continue to operate in the West of Khan Yunis and have eliminated more than ten terrorists in the last day by sniper fire and remotely controlled aircraft. During the operational activity, an RPG missile was fired at an engineering unit of the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3857",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3857
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3857",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3857"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3857/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3857"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3857"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3857"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": 8228,
+    "date": "2024-07-04T12:20:08",
+    "date_gmt": "2024-07-04T09:20:08",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10343-en/"
+    },
+    "modified": "2024-07-04T12:20:08",
+    "modified_gmt": "2024-07-04T09:20:08",
+    "slug": "10343-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10343-en/",
+    "title": {
+        "rendered": "&#8220;IDF Airstrikes Target Southern Lebanon: Interceptions and False Alarms Explained&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF is currently striking in the southern Lebanon area.</p>\n<p>The Air Force is targeting launch positions in southern Lebanon.</p>\n<p>Following warnings activated in the north of the country regarding incursions by hostile aircraft and missile and rocket fire, suspicious aerial targets and launches crossing from Lebanon were identified. Air defense fighters and combat aircraft made interception attempts in the area and successfully intercepted several targets and launches.</p>\n<p>As a result of interception failures and UAVs, fires broke out in several areas, and firefighting forces are working to extinguish them. Warnings of missile and rocket fire have been activated due to concerns about debris from the interceptions.</p>\n<p>Following the alert that was activated in the Ilania area at 10:36 regarding the incursion of hostile aircraft, this has been determined to be a false alarm.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF is currently striking in the southern Lebanon area. The Air Force is targeting launch positions in southern Lebanon. Following warnings activated in the north of the country regarding incursions by hostile aircraft and missile and rocket fire, suspicious aerial targets and launches crossing from Lebanon were identified. Air defense fighters and combat aircraft made interception attempts in the area and successfully intercepted several targets and launches. As a result of interception failures and UAVs, fires broke out in several areas, and firefighting forces are working to extinguish them. Warnings of missile and rocket fire have been</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8228",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8228,
+        "he": 8229,
+        "ru": 8230
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8228",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8228"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8228/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8228"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8228"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8228"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

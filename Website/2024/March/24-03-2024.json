@@ -1,0 +1,140 @@
+{
+    "id": 16145,
+    "date": "2024-03-24T00:00:00",
+    "date_gmt": "2024-03-23T22:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/24-03-2024/"
+    },
+    "modified": "2024-08-27T22:51:08",
+    "modified_gmt": "2024-08-27T19:51:08",
+    "slug": "24-03-2024",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/aid/24-03-2024/",
+    "title": {
+        "rendered": "Israel Aid and Humanitarian Efforts in Gaza: Mar. 24, 2024"
+    },
+    "content": {
+        "rendered": "<h2>Crossing Closures for Humanitarian Aid</h2>\n<p>In line with the agreement reached with the US, Egypt, and the UN, <strong>Kerem Shalom</strong> and <strong>Nitzana crossings</strong> are closed on Saturdays. This is to facilitate the UN&#8217;s distribution of goods on the Gazan side of Kerem Shalom and the reception on the Egyptian side of Rafah.</p>\n<h3>Current Situation of Aid Trucks</h3>\n<p>Eight trucks were collected by UN aid agencies; however, hundreds of trucks are still waiting to be collected and distributed within Gaza by UN aid agencies. A total of <strong>46 aid trucks</strong> have been distributed by UN aid agencies within the Gaza Strip.</p>\n<h3>Medical and Humanitarian Aid Operations</h3>\n<p>On <strong>March 22</strong>, during the IDF\u2019s precise operation against the Hamas terrorist organization at the Shifa Hospital, we facilitated the entry of trucks full of medical equipment, food, and water into Shifa Hospital. The aid was brought into a designated compound, where sick and wounded patients were evacuated to prevent harm to them.</p>\n<h3>Recent Aid Coordination</h3>\n<p>On <strong>March 23</strong>, 29 aid trucks were coordinated to the northern Gaza Strip, with 22 coordinated by the private sector and 7 by the World Central Kitchen Organizations. Additionally, <strong>44 packages</strong> (1 ton each) of humanitarian aid were airdropped over northern Gaza.</p>\n<h3>Gas Supply and Bread Production</h3>\n<p>Furthermore, on <strong>March 23</strong>, four tankers of cooking gas designated for the operation of essential infrastructure in Gaza entered the Gaza Strip. Currently, <strong>21 bakeries</strong> are operational in Gaza, providing over <strong>2 million</strong> breads, rolls, and pita breads each day for the local population.</p>\n<h3>Humanitarian Aid Movement Operations</h3>\n<p>Today, <strong>March 24</strong>, between 10:00 and 14:00, the IDF will pause operations in the <strong>Al-Jniena neighborhood in Rafah</strong>, southern Gaza Strip, in order to enable the movement of humanitarian aid.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Egypt and UN facilitate aid delivery; crossings closed Saturdays.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 15696,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        1338
+    ],
+    "tags": [
+        1352
+    ],
+    "class_list": [
+        "post-16145",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-aid",
+        "tag-daily-humanitarian-aid-update"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 16145,
+        "he": 16146,
+        "ru": 16147
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16145",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=16145"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16145/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 16148,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16145/revisions/16148"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/15696"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=16145"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=16145"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=16145"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

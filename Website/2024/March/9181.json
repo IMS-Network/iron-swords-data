@@ -1,0 +1,122 @@
+{
+    "id": 3627,
+    "date": "2024-03-19T17:29:45",
+    "date_gmt": "2024-03-19T15:29:45",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9181/"
+    },
+    "modified": "2024-03-19T17:29:45",
+    "modified_gmt": "2024-03-19T15:29:45",
+    "slug": "9181",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9181/",
+    "title": {
+        "rendered": "&#8220;Establishment of &#8216;The Mountains&#8217; Division: New Territorial Division on the Syria-Lebanon Border&#8221;"
+    },
+    "content": {
+        "rendered": "<p>As part of the operational response adjustment:<br />\nA new territorial division was established on the Syria-Lebanon border &#8211; &#8216;The Mountains&#8217; Division<br />\nhttps://www.idf.il/187011</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>As part of the operational response adjustment: A new territorial division was established on the Syria-Lebanon border &#8211; &#8216;The Mountains&#8217; Division https://www.idf.il/187011</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3627",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3627
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3627",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3627"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3627/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3627"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3627"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3627"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

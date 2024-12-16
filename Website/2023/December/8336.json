@@ -1,0 +1,122 @@
+{
+    "id": 4457,
+    "date": "2023-12-19T23:48:44",
+    "date_gmt": "2023-12-19T21:48:44",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8336/"
+    },
+    "modified": "2023-12-19T23:48:44",
+    "modified_gmt": "2023-12-19T21:48:44",
+    "slug": "8336",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8336/",
+    "title": {
+        "rendered": "&#8220;IDF Thwarts Missile Attacks from Lebanon: A Detailed Report on Successful Interceptions and Counter-Strikes&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Following the alert in the Yiftach area, Air Defense fighters successfully intercepted six missiles launched from Lebanon. A few minutes later, an Air Force aircraft attacked the launcher and the terrorist cell that carried out the shooting in Lebanon.</p>\n<p>In addition, an Air Force aircraft attacked a military building of the Hezbollah terrorist organization in Lebanon, where an organization terrorist cell operated.</p>\n<p>Also, as a result of the shooting towards an IDF outpost in the Malkia area earlier today, two IDF reservists were moderately wounded.</p>\n<p>The fighters were evacuated for medical treatment in a hospital, their families have been updated.</p>\n<p>Attached is the documentation of the attacks: https://bit.ly/3GMnrb3</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Following the alert in the Yiftach area, Air Defense fighters successfully intercepted six missiles launched from Lebanon. A few minutes later, an Air Force aircraft attacked the launcher and the terrorist cell that carried out the shooting in Lebanon. In addition, an Air Force aircraft attacked a military building of the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization in Lebanon, where an organization terrorist cell operated. Also, as a result of the shooting towards an IDF outpost in the Malkia area earlier today, two IDF reservists were moderately wounded. The fighters were evacuated for medical treatment in a hospital, their families have</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4457",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4457
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4457",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4457"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4457/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4457"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4457"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4457"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

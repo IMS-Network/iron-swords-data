@@ -1,0 +1,124 @@
+{
+    "id": 8501,
+    "date": "2024-06-26T09:07:50",
+    "date_gmt": "2024-06-26T06:07:50",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10251-en/"
+    },
+    "modified": "2024-06-26T09:07:50",
+    "modified_gmt": "2024-06-26T06:07:50",
+    "slug": "10251-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10251-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Target Hamas Smuggler: Key Terrorist Eliminated in Rafah Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF eliminated a terrorist involved in facilitating smuggling from Rafah for Hamas: fighter jets destroyed a launch site where rockets prepared for firing were stored.</p>\n<p>IDF aircraft, guided by intelligence from the Military Intelligence Directorate (AMAN), attacked yesterday (Tuesday) in the southern Gaza Strip and eliminated the terrorist Wassam Abu Ashak, who was involved in the promotion and execution of weapons smuggling for the terrorist organization Hamas. Over the past few years, Abu Ashak managed weapons smuggling through the Rafah crossing and via underground tunnels.</p>\n<p>During the night, IDF fighter jets, under the direction of the Southern Command, attacked a launch site in the Rafah area, where rockets ready for firing were stored.</p>\n<p>Additionally, over the past 24 hours, IDF aircraft and fighter jets attacked dozens of terrorist targets in the Strip. Among the targets attacked were military buildings, terrorist squads, underground shafts, and more.</p>\n<p>Attached is footage from the attack on the launch site in Rafah: https://bit.ly/3KWVLCe</p>\n<p>Attached is footage from IDF strikes in the Strip: https://bit.ly/4eCEpIy</p>\n<p>Attached are photos from IDF operations in the Strip: https://IDFANC.activetrail.biz/ANC2606202490190653201</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF eliminated a terrorist involved in facilitating smuggling from Rafah for <a  href=\"/hamas\">Hamas</a>: fighter jets destroyed a launch site where rockets prepared for firing were stored. IDF aircraft, guided by intelligence from the Military Intelligence Directorate (AMAN), attacked yesterday (Tuesday) in the southern <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip and eliminated the terrorist Wassam Abu Ashak, who was involved in the promotion and execution of weapons smuggling for the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a>. Over the past few years, Abu Ashak managed weapons smuggling through the Rafah crossing and via underground tunnels. During the night, IDF fighter jets, under the direction of the Southern</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8501",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8501,
+        "he": 8502,
+        "ru": 8503
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8501",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8501"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8501/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8501"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8501"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8501"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 4518,
+    "date": "2023-12-15T16:14:48",
+    "date_gmt": "2023-12-15T14:14:48",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8275/"
+    },
+    "modified": "2023-12-15T16:14:48",
+    "modified_gmt": "2023-12-15T14:14:48",
+    "slug": "8275",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8275/",
+    "title": {
+        "rendered": "&#8220;IDF Neutralizes Hezbollah Military Position: A Detailed Report on the Latest Cross-Border Attacks&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson: </p>\n<p>The IDF destroyed a Hezbollah military position from which launchings were carried out into Israeli territory; a combat helicopter and Air Force aircraft in conjunction with artillery forces attacked in Lebanese territory. </p>\n<p>A short time ago, a combat helicopter and Air Force aircraft attacked and destroyed several targets of the Hezbollah terrorist organization. Among the targets destroyed were a launch site and a military position from which launches were carried out towards the northern region of the country earlier today. </p>\n<p>Following alerts in the north of the country, a number of launches were detected crossing from Lebanon into several areas in the north. Some of them were intercepted according to policy. </p>\n<p>Also, earlier today, air defense fighters successfully intercepted a suspicious aerial target from Lebanon before it crossed into Israeli territory. In addition, a drone that crossed from Lebanon fell near an IDF post in the Menara region. </p>\n<p>IDF forces attacked the sources of the fire. </p>\n<p>Attached is footage from the attacks: https://bit.ly/41mmCz6</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF destroyed a <a  href=\"/hezbollah\">Hezbollah</a> military position from which launchings were carried out into Israeli territory; a combat helicopter and Air Force aircraft in conjunction with artillery forces attacked in Lebanese territory. A short time ago, a combat helicopter and Air Force aircraft attacked and destroyed several targets of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization. Among the targets destroyed were a launch site and a military position from which launches were carried out towards the northern region of the country earlier today. Following alerts in the north of the country, a number of launches were detected crossing from Lebanon into</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4518",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4518
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4518",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4518"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4518/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4518"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4518"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4518"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

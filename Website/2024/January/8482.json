@@ -1,0 +1,122 @@
+{
+    "id": 4312,
+    "date": "2024-01-01T19:23:22",
+    "date_gmt": "2024-01-01T17:23:22",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8482/"
+    },
+    "modified": "2024-01-01T19:23:22",
+    "modified_gmt": "2024-01-01T17:23:22",
+    "slug": "8482",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8482/",
+    "title": {
+        "rendered": "&#8220;IDF Successfully Strikes Terror Targets in Lebanon: A Detailed Look at the Operation and Its Impact&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF has completed a round of strikes on terror targets in Lebanon territory</p>\n<p>In recent hours, IDF forces, combat aircraft, and air force vehicles completed a round of attacks in the territory of Lebanon.</p>\n<p>As part of the attacks, several terror infrastructures were destroyed, along with military sites where Hezbollah terrorists operated and missile launch sites. In addition, a terrorist cell operating in the Hula area was attacked.</p>\n<p>Air defense fighters have successfully intercepted a suspicious aerial target crossing from Lebanese territory. An alarm for rocket and missile fire in the area of the town of Kiryat Shmona was activated following the interception.</p>\n<p>Additionally, several launches from Lebanese territory towards the Admit area were identified.<br />\nAs a result of the launches, five reservist IDF soldiers were lightly injured. The soldiers were evacuated for medical treatment at the hospital; their families have been updated.</p>\n<p>Attached is documentation from the attacks: https://bit.ly/48DmMEM</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF has completed a round of strikes on terror targets in Lebanon territory In recent hours, IDF forces, combat aircraft, and air force vehicles completed a round of attacks in the territory of Lebanon. As part of the attacks, several terror infrastructures were destroyed, along with military sites where <a  href=\"/hezbollah\">Hezbollah</a> terrorists operated and missile launch sites. In addition, a terrorist cell operating in the Hula area was attacked. Air defense fighters have successfully intercepted a suspicious aerial target crossing from Lebanese territory. An alarm for rocket and missile fire in the area of the town of Kiryat</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4312",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4312
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4312",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4312"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4312/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4312"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4312"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4312"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

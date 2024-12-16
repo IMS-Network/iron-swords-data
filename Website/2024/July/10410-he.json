@@ -1,0 +1,124 @@
+{
+    "id": 8037,
+    "date": "2024-07-09T13:00:08",
+    "date_gmt": "2024-07-09T10:00:08",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10410-he/"
+    },
+    "modified": "2024-07-09T13:00:08",
+    "modified_gmt": "2024-07-09T10:00:08",
+    "slug": "10410-he",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/he/idf-updates/10410-he/",
+    "title": {
+        "rendered": "&#8220;\u05d4\u05e9\u05de\u05d3\u05ea 150 \u05de\u05d7\u05d1\u05dc\u05d9\u05dd: \u05dc\u05d5\u05d7\u05de\u05d9 \u05d9\u05d4\u05dc&#8221;\u05dd \u05d7\u05d9\u05e1\u05dc\u05d5 \u05de\u05e0\u05d4\u05e8\u05d5\u05ea \u05d1\u05e9\u05d2&#8217;\u05d0\u05e2\u05d9\u05d4&#8221;"
+    },
+    "content": {
+        "rendered": "<p>\u05d7\u05d5\u05e1\u05dc\u05d5 \u05db-150 \u05de\u05d7\u05d1\u05dc\u05d9\u05dd \u05d5\u05d0\u05d5\u05ea\u05e8 \u05d0\u05de\u05dc&#8221;\u05d7 \u05e8\u05d1:<br />\n\u05dc\u05d5\u05d7\u05de\u05d9 \u05d9\u05d4\u05dc&#8221;\u05dd \u05d4\u05e9\u05de\u05d9\u05d3\u05d5 \u05de\u05e0\u05d4\u05e8\u05d5\u05ea \u05d1\u05d0\u05d5\u05e8\u05da 6 \u05e7&#8221;\u05de \u05d1\u05e9\u05d2&#8217;\u05d0\u05e2\u05d9\u05d4<br />\nhttps://www.idf.il/215265</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>\u05d7\u05d5\u05e1\u05dc\u05d5 \u05db-150 \u05de\u05d7\u05d1\u05dc\u05d9\u05dd \u05d5\u05d0\u05d5\u05ea\u05e8 \u05d0\u05de\u05dc&#8221;\u05d7 \u05e8\u05d1: \u05dc\u05d5\u05d7\u05de\u05d9 \u05d9\u05d4\u05dc&#8221;\u05dd \u05d4\u05e9\u05de\u05d9\u05d3\u05d5 \u05de\u05e0\u05d4\u05e8\u05d5\u05ea \u05d1\u05d0\u05d5\u05e8\u05da 6 \u05e7&#8221;\u05de \u05d1\u05e9\u05d2&#8217;\u05d0\u05e2\u05d9\u05d4 https://www.idf.il/215265</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        515
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8037",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "he",
+    "translations": {
+        "he": 8037,
+        "en": 8036,
+        "ru": 8038
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8037",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8037"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8037/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8037"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8037"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8037"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

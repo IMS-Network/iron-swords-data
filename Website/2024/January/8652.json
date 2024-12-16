@@ -1,0 +1,122 @@
+{
+    "id": 4147,
+    "date": "2024-01-18T20:06:33",
+    "date_gmt": "2024-01-18T18:06:33",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8652/"
+    },
+    "modified": "2024-01-18T20:06:33",
+    "modified_gmt": "2024-01-18T18:06:33",
+    "slug": "8652",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8652/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Targets in Southern Lebanon: Unveiling the Day-long Operation&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson: </p>\n<p>The IDF targeted sites belonging to the terrorist organization Hezbollah in southern Lebanon throughout the day. </p>\n<p>Earlier today, Air Force fighter jets attacked a terror infrastructure and a launch site of the terrorist organization Hezbollah in the regions of Ithron and Al Adaisa in southern Lebanon. </p>\n<p>In addition, IDF forces attacked several launch sites of the terrorist organization Hezbollah throughout the day, including a building from which a missile was fired at the Menara area yesterday (Monday). </p>\n<p>Several launches were also detected throughout the day targeting the areas of Shetula, Malkia, Menara, and Har Dov. The IDF attacked the sources of the fire. </p>\n<p>Attached is documentation of the attacks: https://bit.ly/3vEfIcB</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF targeted sites belonging to the terrorist organization <a  href=\"/hezbollah\">Hezbollah</a> in southern Lebanon throughout the day. Earlier today, Air Force fighter jets attacked a terror infrastructure and a launch site of the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in the regions of Ithron and Al Adaisa in southern Lebanon. In addition, IDF forces attacked several launch sites of the terrorist organization Hezbollah throughout the day, including a building from which a missile was fired at the Menara area yesterday (Monday). Several launches were also detected throughout the day targeting the areas of Shetula, Malkia, Menara, and Har Dov. The IDF attacked</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4147",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4147
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4147",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4147"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4147/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4147"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4147"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4147"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

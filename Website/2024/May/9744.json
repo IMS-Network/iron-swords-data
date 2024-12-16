@@ -1,0 +1,122 @@
+{
+    "id": 3080,
+    "date": "2024-05-15T10:32:14",
+    "date_gmt": "2024-05-15T07:32:14",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9744/"
+    },
+    "modified": "2024-05-15T10:32:14",
+    "modified_gmt": "2024-05-15T07:32:14",
+    "slug": "9744",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9744/",
+    "title": {
+        "rendered": "&#8220;Decisive Actions Against Terrorism: IDF&#8217;s Night Ops in Jabalia and Rafah Unveiled&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Brigade 98 began operations last night in the heart of the Jabalia camp: The forces, in collaboration with the Air Force, targeted the terrorist cell that launched attacks on Sderot yesterday. Simultaneously, the activities of Brigade 162 in eastern Rafah continue.</p>\n<p>As part of the intensified activity in the Jabalia area, Brigade 98 forces began operations last night in the heart of the Jabalia camp. The combat teams of Brigade 7, the Paratroopers and 460 led intense battles against dozens of armed cells and eliminated a large number of terrorists. In one of the attacks, an Air Force aircraft targeted the terrorist cell that fired at the Sderot area yesterday.</p>\n<p>In the southern Strip, Brigade 162 forces continue their activities in recent days in the eastern part of Rafah City to clear the area of terrorists and additional terror infrastructures.</p>\n<p>In this context, the combat team of the Givati Brigade launched an assault in recent days targeting a position that served as a training site for the Hamas terror organization. Terrorists were killed during face-to-face encounters during the attack, and a site replicating IDF vehicles and many means of warfare was discovered.</p>\n<p>Over the last day, Israeli Air Force aircraft targeted and destroyed about 80 terror objectives. Among the targets attacked are military buildings, ammunition sites and warehouses, missile launchers, observation posts and other military infrastructures.</p>\n<p>Furthermore, this morning, the combat teams of the Nachal Brigade concluded their operations in the Zeitoun area and are preparing for further offensive actions, the combat team of Brigade 2 continues its activity in the Zeitoun area.</p>\n<p>Attached is documentation of the activities of the combat teams of the Givati Brigade in the eastern Rafah: https://bit.ly/4bAizD9</p>\n<p>Attached are pictures of IDF forces activities in eastern Rafah: https://IDFANC.activetrail.biz/ANC6885654</p>\n<p>Attached is a photo of a simulated tank model discovered by the combat teams of the Givati Brigade at the Hamas post: https://shorturl.at/isJW7</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Brigade 98 began operations last night in the heart of the Jabalia camp: The forces, in collaboration with the Air Force, targeted the terrorist cell that launched attacks on <a  href=\"https://iron-swords.co.il/t/sderot/\">Sderot</a> yesterday. Simultaneously, the activities of Brigade 162 in eastern Rafah continue. As part of the intensified activity in the Jabalia area, Brigade 98 forces began operations last night in the heart of the Jabalia camp. The combat teams of Brigade 7, the Paratroopers and 460 led intense battles against dozens of armed cells and eliminated a large number of terrorists. In one of the attacks, an Air Force</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3080",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3080
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3080",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3080"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3080/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3080"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3080"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3080"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

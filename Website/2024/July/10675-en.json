@@ -1,0 +1,124 @@
+{
+    "id": 7246,
+    "date": "2024-07-29T19:22:50",
+    "date_gmt": "2024-07-29T16:22:50",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10675-en/"
+    },
+    "modified": "2024-07-29T19:22:50",
+    "modified_gmt": "2024-07-29T16:22:50",
+    "slug": "10675-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10675-en/",
+    "title": {
+        "rendered": "&#8220;IDF&#8217;s Saar 6 Missile Ship Successfully Intercepts UAV in Israeli Waters&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>A &#8220;Saar 6&#8221; missile ship successfully intercepted a UAV in the economic waters of Israel.</p>\n<p>Earlier today, a missile ship of the navy\u2019s &#8220;Saar 6&#8221; class from Flotilla 3, in cooperation with the Air Force, intercepted an unmanned aerial vehicle that was approaching from Lebanese territory in the economic waters of Israel.</p>\n<p>Attached is documentation of the interception: https://bit.ly/3Wna2h2</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: A &#8220;Saar 6&#8221; missile ship successfully intercepted a UAV in the economic waters of <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>. Earlier today, a missile ship of the navy\u2019s &#8220;Saar 6&#8221; class from Flotilla 3, in cooperation with the Air Force, intercepted an unmanned aerial vehicle that was approaching from Lebanese territory in the economic waters of Israel. Attached is documentation of the interception: https://bit.ly/3Wna2h2</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7246",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7246,
+        "he": 7247,
+        "ru": 7248
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7246",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7246"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7246/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7246"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7246"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7246"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

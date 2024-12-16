@@ -1,0 +1,122 @@
+{
+    "id": 3375,
+    "date": "2024-04-14T15:36:19",
+    "date_gmt": "2024-04-14T12:36:19",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9440/"
+    },
+    "modified": "2024-04-14T15:36:19",
+    "modified_gmt": "2024-04-14T12:36:19",
+    "slug": "9440",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9440/",
+    "title": {
+        "rendered": "&#8220;Brigade 162&#8217;s Strategic Operation: Engineering Bridges to Combat Terror in Central Gaza Strip&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Brigade 162 forces continue their focused operation in the centre of the Strip:<br />\nThe 401st Armored Brigade has built an engineering bridge to cross the Gaza stream &#8211; and attack terror infrastructures in the area. Documentation</p>\n<p>https://www.idf.il/192368</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Brigade 162 forces continue their focused operation in the centre of the Strip: The 401st Armored Brigade has built an engineering bridge to cross the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> stream &#8211; and attack terror infrastructures in the area. Documentation https://www.idf.il/192368</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3375",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3375
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3375",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3375"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3375/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3375"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3375"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3375"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

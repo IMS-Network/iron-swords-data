@@ -1,0 +1,122 @@
+{
+    "id": 2885,
+    "date": "2024-05-30T21:13:11",
+    "date_gmt": "2024-05-30T18:13:11",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9939/"
+    },
+    "modified": "2024-05-30T21:13:11",
+    "modified_gmt": "2024-05-30T18:13:11",
+    "slug": "9939",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9939/",
+    "title": {
+        "rendered": "&#8220;IDF Neutralizes Hezbollah Threats in Southern Lebanon: An Inside Look at Recent Attacks&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Two Hezbollah terrorists were attacked in southern Lebanon; IDF attacked military buildings where Hezbollah terrorists were staying.</p>\n<p>Fighter jets recently attacked two military buildings where Hezbollah terrorists were staying in the Hula and Maron a-Ras areas of southern Lebanon.</p>\n<p>Earlier today, IDF forces fired to neutralize threats in several different areas in southern Lebanon.</p>\n<p>In response to the alerts activated in the Zra&#8217;it area, a number of launches were identified from Lebanon, no casualties were reported.</p>\n<p>Attached is footage from the attacks on the military buildings:  https://bit.ly/3wT4lyB</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Two <a  href=\"/hezbollah\">Hezbollah</a> terrorists were attacked in southern Lebanon; IDF attacked military buildings where <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorists were staying. Fighter jets recently attacked two military buildings where Hezbollah terrorists were staying in the Hula and Maron a-Ras areas of southern Lebanon. Earlier today, IDF forces fired to neutralize threats in several different areas in southern Lebanon. In response to the alerts activated in the Zra&#8217;it area, a number of launches were identified from Lebanon, no casualties were reported. Attached is footage from the attacks on the military buildings: https://bit.ly/3wT4lyB</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2885",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2885
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2885",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2885"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2885/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2885"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2885"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2885"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "id": 15909,
+    "date": "2024-06-14T00:00:00",
+    "date_gmt": "2024-06-13T21:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/14-06-2024/"
+    },
+    "modified": "2024-08-27T21:20:26",
+    "modified_gmt": "2024-08-27T18:20:26",
+    "slug": "14-06-2024",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/aid/14-06-2024/",
+    "title": {
+        "rendered": "Israel Aid and Humanitarian Efforts in Gaza: June 14, 2024"
+    },
+    "content": {
+        "rendered": "<h1>Aid Truck Deliveries in Gaza</h1>\n<p>On June 13, 2023, a total of <strong>220 aid trucks</strong> entered Gaza. Out of these, <strong>190 trucks</strong> entered through the <em>Kerem Shalom Crossing</em>, while <strong>30 trucks</strong> utilized the <em>Erez West crossing</em>. However, only <strong>70 trucks</strong> were collected by UN aid agencies throughout the day.</p>\n<h2>Pending Aid Trucks</h2>\n<p>The content of <strong>1,000 aid trucks</strong> is still waiting to be collected from the Gazan side of Kerem Shalom as of June 13. This backlog highlights the ongoing challenges in the delivery of humanitarian aid.</p>\n<h2>WHO Assistance</h2>\n<p>On the same day, <strong>June 13</strong>, two trucks carrying <strong>42 pallets of antibiotics</strong> were transferred to Gaza. These supplies were generously donated by the <strong>World Health Organization (WHO)</strong>. Since the beginning of the war, over <strong>24,000 tons</strong> of medical supplies and equipment, including anesthetics, insulin, and antibiotics, have entered Gaza.</p>\n<h2>Humanitarian Pauses</h2>\n<p>Looking ahead to today, <strong>June 14</strong>, the IDF has announced a temporary pause in operations in the <em>El Tahrir neighborhood</em> in Khan Yunis. This pause will occur between <strong>10:00 and 14:00</strong> and aims to facilitate the movement of humanitarian aid into the region.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>220 aid trucks entered <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>; WHO donated antibiotics today.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 15696,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        1338
+    ],
+    "tags": [
+        1352
+    ],
+    "class_list": [
+        "post-15909",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-aid",
+        "tag-daily-humanitarian-aid-update"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 15909,
+        "he": 15910,
+        "ru": 15911
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15909",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=15909"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15909/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 15912,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15909/revisions/15912"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/15696"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=15909"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=15909"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=15909"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

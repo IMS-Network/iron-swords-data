@@ -1,0 +1,122 @@
+{
+    "id": 3437,
+    "date": "2024-04-08T12:34:53",
+    "date_gmt": "2024-04-08T09:34:53",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9376/"
+    },
+    "modified": "2024-04-08T12:34:53",
+    "modified_gmt": "2024-04-08T09:34:53",
+    "slug": "9376",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9376/",
+    "title": {
+        "rendered": "&#8220;Prime Minister Netanyahu Appoints Roman Gofman as New Military Secretary: A Major General Promotion&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The Prime Minister, Benjamin Netanyahu, has chosen to appoint Brigadier General Roman Gofman as the Military Secretary to the Prime Minister. This after consulting with the Minister of Defense, Yoav Galant, and the Chief of General Staff, Lieutenant General Hertzi Halevi. The officer will be promoted to the rank of Major General.</p>\n<p>Major General Avi Gil will end his tenure of three years. The date of the transition will be determined according to situational assessment.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The Prime Minister, <a  href=\"https://iron-swords.co.il/t/benjamin-netanyahu/\">Benjamin Netanyahu</a>, has chosen to appoint Brigadier General Roman Gofman as the Military Secretary to the Prime Minister. This after consulting with the Minister of Defense, Yoav Galant, and the Chief of General Staff, Lieutenant General Hertzi Halevi. The officer will be promoted to the rank of Major General. Major General Avi Gil will end his tenure of three years. The date of the transition will be determined according to situational assessment.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3437",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3437
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3437",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3437"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3437/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3437"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3437"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3437"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

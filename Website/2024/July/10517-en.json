@@ -1,0 +1,124 @@
+{
+    "id": 7717,
+    "date": "2024-07-17T22:41:37",
+    "date_gmt": "2024-07-17T19:41:37",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10517-en/"
+    },
+    "modified": "2024-07-17T22:41:37",
+    "modified_gmt": "2024-07-17T19:41:37",
+    "slug": "10517-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10517-en/",
+    "title": {
+        "rendered": "&#8220;IDF Air Force Commander Honors Bravery and Addresses Operational Readiness Post-October 7&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Air Force Commander, Major General Tomer Bar: &#8220;In the heroic battle at Bari, we witnessed the bravery of civilians, members of the alert squad, and IDF soldiers. We saw the courage of our fighters from the Shaldag Unit, which lost two of its fighters in that battle and suffered additional casualties during the war.</p>\n<p>The graduation ceremonies for the Air Defense and Flight Supervision Officers Course and the Officers Course for the units at the &#8220;Ovda&#8221; base took place today (Wednesday). A total of 154 officers completed the courses after six months of training.</p>\n<p>From the words of Air Force Commander Major General Tomer Bar: &#8220;Recently, various statements have been made regarding the Air Force&#8217;s operational readiness on October 7. From this platform, I want to say clearly \u2013 the Air Force entered the events of that cursed Saturday without any operational readiness issues. We took off for this difficult multi-front war united, despite the protests, and since then we have not landed. We will not land until the mission is completed, until we defeat all our enemies. In the coming weeks, we will complete the unit&#8217;s inquiry, present it internally within the IDF, and then present it to the public with transparency. Last week, the inquiry into the events in the settlement of Bari was presented to the public. As their commander, I have given and will continue to give support for the decisions made in the field on the morning of October 7. A culture of inquiry is deeply rooted in the DNA of the Air Force. This is how we become better, more worthy to the citizens we have sworn to protect.&#8221;</p>\n<p>Attached is a video of the words of the Air Force Commander, Major General Tomer Bar: https://bit.ly/3WtzRft</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Air Force Commander, Major General Tomer Bar: &#8220;In the heroic battle at Bari, we witnessed the bravery of civilians, members of the alert squad, and IDF soldiers. We saw the courage of our fighters from the Shaldag Unit, which lost two of its fighters in that battle and suffered additional casualties during the war. The graduation ceremonies for the Air Defense and Flight Supervision Officers Course and the Officers Course for the units at the &#8220;Ovda&#8221; base took place today (Wednesday). A total of 154 officers completed the courses after six months of training. From the words of</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7717",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7717,
+        "he": 7718,
+        "ru": 7719
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7717",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7717"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7717/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7717"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7717"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7717"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

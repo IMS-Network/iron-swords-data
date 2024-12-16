@@ -1,0 +1,122 @@
+{
+    "id": 4285,
+    "date": "2024-01-04T16:56:40",
+    "date_gmt": "2024-01-04T14:56:40",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8510/"
+    },
+    "modified": "2024-01-04T16:56:40",
+    "modified_gmt": "2024-01-04T14:56:40",
+    "slug": "8510",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8510/",
+    "title": {
+        "rendered": "&#8220;IDF Targets Hezbollah&#8217;s Launch Sites and Terror Infrastructures in Lebanon: A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked a launch site, terror infrastructure, and observation posts of the Hezbollah terrorist organization in Lebanese territory.</p>\n<p>A short while ago, an Air Force fighter jet attacked a launch site, terror infrastructure, and an observation post of the Hezbollah terrorist organization in Lebanese territory, in the Yaroun area.</p>\n<p>Additionally, IDF forces attacked another observation post of the Hezbollah terrorist organization in the Maaroun Al Ras area.</p>\n<p>Also, IDF forces fired to remove a threat in the Aita Al Shaab area. A hit was identified.</p>\n<p>In the past few hours, several launches from Lebanese territory towards the Menara and Misgav Am areas were detected. The IDF bombarded the launch sources with artillery.</p>\n<p>Attached is footage of the attacks: https://bit.ly/48FwLcv</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked a launch site, terror infrastructure, and observation posts of the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization in Lebanese territory. A short while ago, an Air Force fighter jet attacked a launch site, terror infrastructure, and an observation post of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization in Lebanese territory, in the Yaroun area. Additionally, IDF forces attacked another observation post of the Hezbollah terrorist organization in the Maaroun Al Ras area. Also, IDF forces fired to remove a threat in the Aita Al Shaab area. A hit was identified. In the past few hours, several launches from Lebanese territory towards the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4285",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4285
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4285",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4285"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4285/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4285"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4285"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4285"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

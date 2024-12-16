@@ -1,0 +1,122 @@
+{
+    "id": 3870,
+    "date": "2024-02-21T13:27:22",
+    "date_gmt": "2024-02-21T11:27:22",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8933/"
+    },
+    "modified": "2024-02-21T13:27:22",
+    "modified_gmt": "2024-02-21T11:27:22",
+    "slug": "8933",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8933/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Commands in Southern Lebanon: Inside the Coordinated Attacks on Terrorists&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked a military building harboring terrorists in the village of Yaroun; three operational commands of the terrorist organization Hezbollah were attacked a short while ago in southern Lebanon.</p>\n<p>The intelligence forces of Unit 869 and the intelligence of the 91st Brigade identified yesterday (Tuesday) several terrorists entering a military building in the village of Yaroun in southern Lebanon, and in swift cooperation, fighter jets were dispatched to attack the building and terrorists while they were on site. </p>\n<p>In addition, a short while ago, IDF fighter jets attacked three operational commands of the terrorist organization Hezbollah in southern Lebanon, and since the morning, artillery fire has been conducted to remove threats to Alama al-Shaeb and Adh-Dhahirah areas. </p>\n<p>Attached is footage from the attacks: https://bit.ly/4bMt5Ia</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked a military building harboring terrorists in the village of Yaroun; three operational commands of the terrorist organization <a  href=\"/hezbollah\">Hezbollah</a> were attacked a short while ago in southern Lebanon. The intelligence forces of Unit 869 and the intelligence of the 91st Brigade identified yesterday (Tuesday) several terrorists entering a military building in the village of Yaroun in southern Lebanon, and in swift cooperation, fighter jets were dispatched to attack the building and terrorists while they were on site. In addition, a short while ago, IDF fighter jets attacked three operational commands of the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3870",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3870
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3870",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3870"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3870/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3870"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3870"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3870"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": 7776,
+    "date": "2024-07-16T15:11:41",
+    "date_gmt": "2024-07-16T12:11:41",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10497-en/"
+    },
+    "modified": "2024-07-16T15:11:41",
+    "modified_gmt": "2024-07-16T12:11:41",
+    "slug": "10497-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10497-en/",
+    "title": {
+        "rendered": "&#8220;IDF Intensifies Operations: Nine Arrested in Ongoing Hunt for Terrorists in Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The hunt for the terrorists who carried out the shooting this morning at an Israeli vehicle at the Ramin junction continues; IDF soldiers, Shin Bet, and Border Police arrested nine wanted individuals last night and confiscated terrorist funds and weapons throughout Judea and Samaria and in the Jordan Valley Brigade.</p>\n<p>IDF forces are continuing the pursuit of the terrorists who carried out the shooting this morning at an Israeli vehicle at the Ramin junction in northern Samaria.</p>\n<p>Additionally, IDF forces, the Civil Administration, and Border Police, under the direction of Central Command Intelligence and Shin Bet, operated last night in three regional brigades across Central Command against exchange companies that were implicated in transferring funds to terrorist organizations. The forces confiscated terrorist funds and interrogated suspects in possession of the funds.</p>\n<p>During the night, in an operation by the Benjamin Brigade in Al-Bira, Border Police fighters eliminated a terrorist who stabbed a soldier. The soldier was lightly injured and taken for medical treatment at a hospital.</p>\n<p>In the Menashe, Ephraim, Etzion, and Judea brigades, eight wanted individuals suspected of involvement in terrorist activity were arrested. </p>\n<p>In Shechem, in the Samaria Brigade, the soldiers fired at an armed individual who was identified in the area and arrested another wanted person.</p>\n<p>The arrested suspects and the confiscated weapons were transferred for further handling by the security forces.</p>\n<p>So far, since the beginning of the war, approximately 4,400 wanted individuals have been arrested throughout the Judea and Samaria Division and the Jordan Valley, about 1,850 of whom are affiliated with the terrorist organization Hamas.</p>\n<p>Attached is documentation from IDF operations in the hunt for the terrorists: https://bit.ly/3S8t5KA</p>\n<p>Attached is documentation from the forces\u2019 operations in the Judea and Samaria Division: https://bit.ly/3S50ZQr </p>\n<p>Attached are photos from the forces\u2019 operations: https://IDFANC.activetrail.biz/ANC1607202475478540</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The hunt for the terrorists who carried out the shooting this morning at an Israeli vehicle at the Ramin junction continues; IDF soldiers, Shin Bet, and Border Police arrested nine wanted individuals last night and confiscated terrorist funds and weapons throughout Judea and Samaria and in the Jordan Valley Brigade. IDF forces are continuing the pursuit of the terrorists who carried out the shooting this morning at an Israeli vehicle at the Ramin junction in northern Samaria. Additionally, IDF forces, the Civil Administration, and Border Police, under the direction of Central Command Intelligence and Shin Bet, operated last</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7776",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7776,
+        "he": 7777,
+        "ru": 7779
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7776",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7776"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7776/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7776"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7776"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7776"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

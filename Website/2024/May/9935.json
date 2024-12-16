@@ -1,0 +1,122 @@
+{
+    "id": 2889,
+    "date": "2024-05-30T13:15:01",
+    "date_gmt": "2024-05-30T10:15:01",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9935/"
+    },
+    "modified": "2024-05-30T13:15:01",
+    "modified_gmt": "2024-05-30T10:15:01",
+    "slug": "9935",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9935/",
+    "title": {
+        "rendered": "&#8220;IDF Successfully Intercepts Intruding Aircraft, False Alarms Reported: An Iron Dome System Update&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Following the two alerts that were activated a short time ago about the intrusion of an enemy aircraft in the north of the country, these were false alarms.</p>\n<p>Earlier today, an alert was activated in the north about an intrusion of an enemy aircraft. The aerial defense fighters successfully intercepted, using the &#8216;Iron Dome&#8217; system, a suspected aerial target that crossed from Lebanon, there was no damage and no casualties.</p>\n<p>An alert for rocket and missile fire was activated in the Kfar Giladi area due to fears of falling interception debris.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Following the two alerts that were activated a short time ago about the intrusion of an enemy aircraft in the north of the country, these were false alarms. Earlier today, an alert was activated in the north about an intrusion of an enemy aircraft. The aerial defense fighters successfully intercepted, using the &#8216;Iron Dome&#8217; system, a suspected aerial target that crossed from Lebanon, there was no damage and no casualties. An alert for rocket and missile fire was activated in the Kfar Giladi area due to fears of falling interception debris.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2889",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2889
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2889",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2889"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2889/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2889"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2889"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2889"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

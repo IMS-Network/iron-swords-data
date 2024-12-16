@@ -1,0 +1,124 @@
+{
+    "id": 8405,
+    "date": "2024-06-28T21:05:08",
+    "date_gmt": "2024-06-28T18:05:08",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10284-en/"
+    },
+    "modified": "2024-06-28T21:05:08",
+    "modified_gmt": "2024-06-28T18:05:08",
+    "slug": "10284-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10284-en/",
+    "title": {
+        "rendered": "&#8220;IDF Responds to Drone Incursion and Rocket Launches from Lebanon: No Casualties Reported&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Following alerts activated in the north of the country in the last hour, three unmanned aerial vehicles were identified crossing from Lebanese territory and fell in the western Galilee area, with no casualties reported. Interceptors were launched towards the aircraft that crossed from Lebanon, but no interceptions were carried out.</p>\n<p>Additionally, about twenty-five launches were identified crossing from Lebanon towards the western Galilee and the Upper Galilee, with no casualties reported; however, damage was caused to a structure in the western Galilee area. Firefighting forces are currently working to extinguish several fires that broke out as a result of the launches.</p>\n<p>IDF forces have attacked the sources of fire using artillery.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Following alerts activated in the north of the country in the last hour, three unmanned aerial vehicles were identified crossing from Lebanese territory and fell in the western Galilee area, with no casualties reported. Interceptors were launched towards the aircraft that crossed from Lebanon, but no interceptions were carried out. Additionally, about twenty-five launches were identified crossing from Lebanon towards the western Galilee and the Upper Galilee, with no casualties reported; however, damage was caused to a structure in the western Galilee area. Firefighting forces are currently working to extinguish several fires that broke out as a result</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8405",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8405,
+        "he": 8406,
+        "ru": 8407
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8405",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8405"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8405/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8405"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8405"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8405"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

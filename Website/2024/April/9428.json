@@ -1,0 +1,122 @@
+{
+    "id": 3386,
+    "date": "2024-04-13T20:35:07",
+    "date_gmt": "2024-04-13T17:35:07",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9428/"
+    },
+    "modified": "2024-04-13T20:35:07",
+    "modified_gmt": "2024-04-13T17:35:07",
+    "slug": "9428",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9428/",
+    "title": {
+        "rendered": "&#8220;New Changes in IDF&#8217;s Home Front Command Defense Policy: Impact on Educational Activities and Assembly Rules&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Changes to the Home Front Command&#8217;s defense policy</p>\n<p>Following a situation assessment, it was decided that starting tonight (Saturday) at 23:00, a change in the Home Front Command&#8217;s defense policy will take place.</p>\n<p>As part of the changes, a prohibition on holding educational activities throughout the country was decided. In green areas- Assembly is limited to 1,000 people.</p>\n<p>Attached is the Home Front Command&#8217;s defense policy: https://IDFANC.activetrail.biz/ANC130420243793590</p>\n<p>Continue to follow the directives published by the Home Front Command through official distribution means. The complete instructions are updated in the National Emergency Portal and in the Home Front Command application.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Changes to the Home Front Command&#8217;s defense policy Following a situation assessment, it was decided that starting tonight (Saturday) at 23:00, a change in the Home Front Command&#8217;s defense policy will take place. As part of the changes, a prohibition on holding educational activities throughout the country was decided. In green areas- Assembly is limited to 1,000 people. Attached is the Home Front Command&#8217;s defense policy: https://IDFANC.activetrail.biz/ANC130420243793590 Continue to follow the directives published by the Home Front Command through official distribution means. The complete instructions are updated in the National Emergency Portal and in the Home Front Command</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3386",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3386
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3386",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3386"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3386/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3386"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3386"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3386"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

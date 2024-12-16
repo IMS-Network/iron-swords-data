@@ -1,0 +1,124 @@
+{
+    "id": 8510,
+    "date": "2024-06-25T23:41:16",
+    "date_gmt": "2024-06-25T20:41:16",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10248-en/"
+    },
+    "modified": "2024-06-25T23:41:16",
+    "modified_gmt": "2024-06-25T20:41:16",
+    "slug": "10248-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10248-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes: Key Palestinian Islamic Jihad Operative Eliminated in Gaza&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF eliminated a terrorist from the Palestinian Islamic Jihad organization who was involved in promoting and developing the organization&#8217;s missile system.</p>\n<p>Earlier today (Tuesday), an Israeli Air Force aircraft, guided by the Southern Command and Military Intelligence, targeted the city of Gaza and eliminated the terrorist Fadi Jihad Muhammad Al-Wadiya, who was an operative in the Palestinian Islamic Jihad organization and was engaged in the development and promotion of the organization&#8217;s missile system.<br />\nAdditionally, the terrorist was a unique knowledge center in the organization in the fields of electronics and chemistry.</p>\n<p>Attached is documentation of the elimination: https://bit.ly/4cd3PL6</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF eliminated a terrorist from the Palestinian Islamic Jihad organization who was involved in promoting and developing the organization&#8217;s missile system. Earlier today (Tuesday), an Israeli Air Force aircraft, guided by the Southern Command and Military Intelligence, targeted the city of <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> and eliminated the terrorist Fadi Jihad Muhammad Al-Wadiya, who was an operative in the Palestinian Islamic Jihad organization and was engaged in the development and promotion of the organization&#8217;s missile system. Additionally, the terrorist was a unique knowledge center in the organization in the fields of electronics and chemistry. Attached is documentation of the elimination:</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8510",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8510,
+        "he": 8511,
+        "ru": 8512
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8510",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8510"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8510/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8510"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8510"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8510"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

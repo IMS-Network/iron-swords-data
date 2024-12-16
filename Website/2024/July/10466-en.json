@@ -1,0 +1,124 @@
+{
+    "id": 7868,
+    "date": "2024-07-14T10:11:49",
+    "date_gmt": "2024-07-14T07:11:49",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10466-en/"
+    },
+    "modified": "2024-07-14T10:11:49",
+    "modified_gmt": "2024-07-14T07:11:49",
+    "slug": "10466-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10466-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes: Successful Operations Against Terrorist Cells in Gaza City and Rafah&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Combat fighters from the Alexandroni Brigade (3) and the Air Force eliminated a terrorist cell that was identified laying an explosive device in the area of Gaza City; forces from Division 162 attacked an anti-tank position in the Rafah area and eliminated terrorists who posed a threat to them.</p>\n<p>The operations of Division 162 in the Rafah area continue. Combat teams from the Nahal Brigade, in cooperation with the Air Force, attacked an anti-tank position from which fire was directed at our forces, as well as a terrorist cell that posed a threat in the area. Additionally, combat fighters from Brigade 401 destroyed several underground shafts and identified terrorist infrastructures in the region.</p>\n<p>Combat fighters from the Alexandroni Brigade (3) eliminated several terrorists during close-quarter battles in the area of Gaza City. In one of the operations, a terrorist cell was identified moving in the area and attempting to plant an explosive device near the fighters; shortly thereafter, in conjunction with the Air Force, the forces attacked and eliminated the cell.</p>\n<p>Attached is documentation of the forces&#8217; activities in the strip: https://bit.ly/3WkAR6p</p>\n<p>Attached is documentation from IDF attacks in the strip: https://bit.ly/4bGWtOP</p>\n<p>Attached are images from IDF operations in the strip: https://IDFANC.activetrail.biz/ANC1407202428908404</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Combat fighters from the Alexandroni Brigade (3) and the Air Force eliminated a terrorist cell that was identified laying an explosive device in the area of <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> City; forces from Division 162 attacked an anti-tank position in the Rafah area and eliminated terrorists who posed a threat to them. The operations of Division 162 in the Rafah area continue. Combat teams from the <a  href=\"https://iron-swords.co.il/t/nahal-brigade/\">Nahal Brigade</a>, in cooperation with the Air Force, attacked an anti-tank position from which fire was directed at our forces, as well as a terrorist cell that posed a threat in the area. Additionally, combat</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7868",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7868,
+        "he": 7869,
+        "ru": 7870
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7868",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7868"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7868/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7868"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7868"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7868"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

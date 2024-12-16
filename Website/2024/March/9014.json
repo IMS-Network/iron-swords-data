@@ -1,0 +1,122 @@
+{
+    "id": 3789,
+    "date": "2024-03-02T08:45:08",
+    "date_gmt": "2024-03-02T06:45:08",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9014/"
+    },
+    "modified": "2024-03-02T08:45:08",
+    "modified_gmt": "2024-03-02T06:45:08",
+    "slug": "9014",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9014/",
+    "title": {
+        "rendered": "&#8220;Decisive IDF Operations: A Recap of Combat Successes Against Terrorism in Gaza Strip&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>In a matter of minutes, the IDF attacked the launch area from where the missile was launched towards the Zikim area last night, eliminating a terrorist cell that had loaded a weapon onto a vehicle driving near the forces.</p>\n<p>Following the launch that took place last night (Friday) from the territory of the Gaza Strip towards Israel, aircraft directed by the Southern Command Fire Center attacked the firing area in the northern part of the strip from which the launch took place, and several other targets including launching pits and terrorist infrastructure used by the Hamas terrorist organization.</p>\n<p>Combat team soldiers of the 7th Brigade continue to operate west of Khan Yunis and over the last day have eliminated terrorists and found weapons in the area including explosives, grenades, Kalashnikov rifles and vests. In addition, as part of a series of aerial attacks, the brigade fire complex directed an aircraft that eliminated eight terrorists, including terrorists who were carrying a suspicious object, suspected of being an explosive, near the forces.</p>\n<p>In the center of the Strip, the Nahal Brigade&#8217;s combat team eliminated about twenty terrorists over the last day. In one of the operations, the brigade&#8217;s fire complex identified a terrorist cell loading weapons onto a vehicle that started to drive near the forces, the fire complex directed an aircraft that circled them and eliminated them. In another operation carried out by the forces, they identified several terrorist cells near their forces and in collaboration with the brigade&#8217;s fire complex and ground forces, the cells were eliminated.</p>\n<p>Over the past day, the 215th Combat Brigade has directed an aircraft that attacked and eliminated three terrorists in the Remal neighborhood. In addition, in response to yesterday&#8217;s launches to Sderot, the forces directed an aircraft that attacked a terrorist infrastructure from which the launches were carried out.</p>\n<p>In the center of the Strip, fighters of the &#8220;Refaim&#8221; multi-dimensional unit continue to operate and over the last day the forces eliminated several terrorists using innovative assault methods.</p>\n<p>Attached is documentation of the IDF attacks in the Strip: https://bit.ly/3V1FPF5 </p>\n<p>Attached are pictures from the activity of the forces in the Strip: https://IDFANC.activetrail.biz/ANC03022024685412</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: In a matter of minutes, the IDF attacked the launch area from where the missile was launched towards the Zikim area last night, eliminating a terrorist cell that had loaded a weapon onto a vehicle driving near the forces. Following the launch that took place last night (Friday) from the territory of the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip towards <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>, aircraft directed by the Southern Command Fire Center attacked the firing area in the northern part of the strip from which the launch took place, and several other targets including launching pits and terrorist infrastructure used by the <a  href=\"/hamas\">Hamas</a> terrorist organization.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3789",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3789
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3789",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3789"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3789/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3789"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3789"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3789"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

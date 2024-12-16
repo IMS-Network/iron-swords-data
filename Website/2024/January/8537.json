@@ -1,0 +1,122 @@
+{
+    "id": 4260,
+    "date": "2024-01-07T10:31:08",
+    "date_gmt": "2024-01-07T08:31:08",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8537/"
+    },
+    "modified": "2024-01-07T10:31:08",
+    "modified_gmt": "2024-01-07T08:31:08",
+    "slug": "8537",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8537/",
+    "title": {
+        "rendered": "&#8220;Israeli Forces Counterattack: Six Terrorists Neutralized Following Fatal Shooting Incident&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF soldiers initiated a pursuit after the terrorists who murdered an Israeli citizen at the British Police junction; six terrorists were killed overnight in Jenin.</p>\n<p>A short while ago, a shooting attack occurred near the British Police junction in the Binyamin Brigade area, in which an Israeli citizen was killed. IDF soldiers who were dispatched to the location, and additional forces who were mobilized, initiated a pursuit after the terrorists and road closures in the area.</p>\n<p>During a nighttime operation by the security forces in the Jenin refugee camp, a Border Police vehicle hit a hidden explosive device. As a result, a Border Policewoman was killed and several other soldiers were injured in various ways. During the operation, an aircraft attacked a terrorist cell that had thrown explosives at the forces operating in the area and endangered them. Six terrorists were killed in the attack.</p>\n<p>In addition, in IDF soldiers&#8217; operation in Tarqumiya, a wanted individual was arrested and war materials were confiscated by the force.</p>\n<p>Attached is footage from the attack on the terrorist cell that threw explosives towards the security forces: https://bit.ly/3tHQRUM</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF soldiers initiated a pursuit after the terrorists who murdered an Israeli citizen at the British Police junction; six terrorists were killed overnight in Jenin. A short while ago, a shooting attack occurred near the British Police junction in the Binyamin Brigade area, in which an Israeli citizen was killed. IDF soldiers who were dispatched to the location, and additional forces who were mobilized, initiated a pursuit after the terrorists and road closures in the area. During a nighttime operation by the security forces in the Jenin refugee camp, a Border Police vehicle hit a hidden explosive device.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4260",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4260
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4260",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4260"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4260/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4260"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4260"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4260"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

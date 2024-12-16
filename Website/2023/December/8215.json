@@ -1,0 +1,122 @@
+{
+    "id": 4578,
+    "date": "2023-12-11T13:04:11",
+    "date_gmt": "2023-12-11T11:04:11",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8215/"
+    },
+    "modified": "2023-12-11T13:04:11",
+    "modified_gmt": "2023-12-11T11:04:11",
+    "slug": "8215",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8215/",
+    "title": {
+        "rendered": "&#8220;IDF, Shin Bet, and Border Police Thwart Major Terrorist Activities: 18 Arrests, Seizures of Buildings and Weapons in Latest Operation&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF soldiers, Shin Bet, and Border Police arrested 18 wanted individuals across Judea, Samaria, the Jordan Valley, and the Northern Valleys last night. Five of them are terrorists affiliated with the Hamas terror organization. In the Judea sector, forces seized a building belonging to an association funded by Hamas.</p>\n<p>During an operation in the Balata refugee camp in the Samaria sector, IDF forces and engineering vehicles opened up blocked routes and defused improvised explosive devices intended to harm our forces. In addition, two wanted individuals were arrested and parts of weapons and ammunition were found.</p>\n<p>In the village of Beit Ulla in the Judea sector, the forces seized a building belonging to a charity funded by the Hamas terror organization, and terror funds were located. In the village of Dura, the soldiers found and confiscated a gun, in Tarqumia a &#8216;Carlo&#8217; type rifle was located and confiscated, and in the village of Beitilo in Ephraim, a drone was found and confiscated.</p>\n<p>The arrested suspects have been handed over for further investigation by the security forces. There were no casualties to our forces.</p>\n<p>Since the beginning of the war, approximately 2,200 wanted individuals have been arrested across the Judea and Samaria Brigade, the Jordan Valley, and the Northern Valleys, about 1,190 of whom are affiliated with the Hamas terror organization.</p>\n<p>Attached are pictures of the confiscated warfare equipment: https://IDFANC.activetrail.biz/ANC11122023583953209</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF soldiers, Shin Bet, and Border Police arrested 18 wanted individuals across Judea, Samaria, the Jordan Valley, and the Northern Valleys last night. Five of them are terrorists affiliated with the <a  href=\"/hamas\">Hamas</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a>. In the Judea sector, forces seized a building belonging to an association funded by <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a>. During an operation in the Balata refugee camp in the Samaria sector, IDF forces and engineering vehicles opened up blocked routes and defused improvised explosive devices intended to harm our forces. In addition, two wanted individuals were arrested and parts of weapons and ammunition were found. In the village</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4578",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4578
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4578",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4578"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4578/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4578"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4578"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4578"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

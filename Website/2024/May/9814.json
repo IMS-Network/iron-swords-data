@@ -1,0 +1,122 @@
+{
+    "id": 3011,
+    "date": "2024-05-21T16:34:28",
+    "date_gmt": "2024-05-21T13:34:28",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9814/"
+    },
+    "modified": "2024-05-21T16:34:28",
+    "modified_gmt": "2024-05-21T13:34:28",
+    "slug": "9814",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9814/",
+    "title": {
+        "rendered": "&#8220;IDF&#8217;s Counter-Terrorism Operation in Jenin: Exchange of Fire and Demolition of Terrorist Ahmed Barakat&#8217;s House&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF operation in Jenin: Security forces are exchanging fire and hitting terrorists, the forces acted to demolish the house of the terrorist Ahmed Barakat who carried out the shooting attack in Hares.</p>\n<p>IDF, Border Police, and Shin Bet forces launched a counter-terrorism operation in Jenin this morning. This was in the light of intelligence information from the Shin Bet indicating active armed terrorists identified with the Hamas and PLO terrorist organizations and the presence of many terrorist infrastructures in the area.</p>\n<p>As part of the operation, security forces are exchanging fire with armed terrorists in the area and are working to destroy terrorist infrastructures. Hits have been identified on terrorists.</p>\n<p>In addition, a short time ago, security forces operated in the area to demolish the house of the terrorist Ahmed Barakat, who carried out two shooting attacks, including the attack in Hares, on May 30, 2023, in which Meir Tamari was murdered. The terrorist was killed in an air strike in March.</p>\n<p>Attached is footage from the demolition of the terrorist&#8217;s house: https://bit.ly/3QW38ND</p>\n<p>Attached are pictures from the forces&#8217; operation in Jenin: https://IDFANC.activetrail.biz/ANC21052024824984298</p>\n<p>Attached are pictures of the operation&#8217;s quartermaster of the Menashe Brigade during the operation: https://IDFANC.activetrail.biz/ANC2105202428492409842</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF operation in Jenin: Security forces are exchanging fire and hitting terrorists, the forces acted to demolish the house of the terrorist Ahmed Barakat who carried out the shooting attack in Hares. IDF, Border Police, and Shin Bet forces launched a counter-terrorism operation in Jenin this morning. This was in the light of intelligence information from the Shin Bet indicating active armed terrorists identified with the <a  href=\"/hamas\">Hamas</a> and PLO terrorist organizations and the presence of many terrorist infrastructures in the area. As part of the operation, security forces are exchanging fire with armed terrorists in the area and</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3011",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3011
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3011",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3011"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3011/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3011"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3011"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3011"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

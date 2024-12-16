@@ -1,0 +1,124 @@
+{
+    "id": 7755,
+    "date": "2024-07-17T06:04:35",
+    "date_gmt": "2024-07-17T03:04:35",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10505-en/"
+    },
+    "modified": "2024-07-17T06:04:35",
+    "modified_gmt": "2024-07-17T03:04:35",
+    "slug": "10505-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10505-en/",
+    "title": {
+        "rendered": "&#8220;IDF Targets Hezbollah in Southern Lebanon: Nighttime Airstrikes and Interceptions&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked during the night the terrorist infrastructure of the Hezbollah terrorist organization in southern Lebanon.</p>\n<p>Israeli Air Force fighter jets attacked during the night terrorist infrastructure of the Hezbollah terrorist organization in the areas of Yaroun, Aita a-Shaab, and Alma a-Shaab in southern Lebanon.</p>\n<p>Additionally, the IDF carried out artillery fire to eliminate a threat in the Majdel Zoun area.</p>\n<p>Also, during the night, alerts were activated in the Nahariya area. About 15 launches were identified crossing from Lebanon, some of which were intercepted by air defense fighters, while the rest fell in open areas. There are no damages and no casualties.</p>\n<p>Attached is documentation of the attacks: https://bit.ly/3zEChQo</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked during the night the terrorist infrastructure of the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization in southern Lebanon. Israeli Air Force fighter jets attacked during the night terrorist infrastructure of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization in the areas of Yaroun, Aita a-Shaab, and Alma a-Shaab in southern Lebanon. Additionally, the IDF carried out artillery fire to eliminate a threat in the Majdel Zoun area. Also, during the night, alerts were activated in the Nahariya area. About 15 launches were identified crossing from Lebanon, some of which were intercepted by air defense fighters, while the rest fell in open areas. There</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7755",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7755,
+        "he": 7756,
+        "ru": 7757
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7755",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7755"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7755/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7755"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7755"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7755"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

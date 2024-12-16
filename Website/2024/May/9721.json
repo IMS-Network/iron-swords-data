@@ -1,0 +1,122 @@
+{
+    "id": 3102,
+    "date": "2024-05-13T16:33:51",
+    "date_gmt": "2024-05-13T13:33:51",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9721/"
+    },
+    "modified": "2024-05-13T16:33:51",
+    "modified_gmt": "2024-05-13T13:33:51",
+    "slug": "9721",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9721/",
+    "title": {
+        "rendered": "&#8220;Commemorating Heroes: IDF Soldiers Honor Fallen Comrades Amidst Gaza Strip Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF soldiers are commemorating Memorial Day for the fallen soldiers of Israel in the Gaza Strip.</p>\n<p>Brigades 99, 98 and 162 are fighting with high intensity in the north, center and south of the Gaza Strip. Alongside the fighting, the forces have held memorial ceremonies in the last few days for the commemoration and remembrance of the fallen soldiers of Israel and the victims of hostile activities. </p>\n<p>In Brigade 401, each soldier in the Gaza Strip received a kit containing a memorial candle, matches, a picture and the name of one of the fallen, and a &#8220;Yizkor&#8221; sticker.</p>\n<p>The IDF forces embrace the bereaved families and continue to fight in the light and spirit of the fallen.</p>\n<p>Attached is a documentation of the Memorial Day observance by the three combat brigades in the Gaza Strip: https://bit.ly/3UWA4Ib</p>\n<p>Attached is the message for Memorial Day from the commander of Brigade 401, Lieutenant Colonel Binyamin Aaron: https://bit.ly/44EkeoR</p>\n<p>Attached are pictures on the subject: https://idfanc.activetrail.biz/ANC15242</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF soldiers are commemorating Memorial Day for the fallen soldiers of <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. Brigades 99, 98 and 162 are fighting with high intensity in the north, center and south of the Gaza Strip. Alongside the fighting, the forces have held memorial ceremonies in the last few days for the commemoration and remembrance of the fallen soldiers of Israel and the victims of hostile activities. In Brigade 401, each soldier in the Gaza Strip received a kit containing a memorial candle, matches, a picture and the name of one of the fallen, and a &#8220;Yizkor&#8221; sticker.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3102",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3102
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3102",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3102"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3102/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3102"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3102"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3102"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

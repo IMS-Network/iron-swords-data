@@ -1,0 +1,124 @@
+{
+    "id": 7883,
+    "date": "2024-07-13T18:12:13",
+    "date_gmt": "2024-07-13T15:12:13",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10461-en/"
+    },
+    "modified": "2024-07-13T18:12:13",
+    "modified_gmt": "2024-07-13T15:12:13",
+    "slug": "10461-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10461-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Launchers in Lebanon: No Casualties Reported&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF continues to carry out attacks within Lebanese territory; launchers that were used to carry out launches towards the Metula and Ma&#8217;ayan Baruch areas were targeted earlier today.</p>\n<p>An IDF force attacked the launcher from which launches were made towards the Metula area earlier today. In addition, fighter jets attacked a launcher belonging to the terrorist organization Hezbollah in the Houla area, which had launched rockets towards Ma&#8217;ayan Baruch earlier today. Furthermore, fighter jets attacked a military structure in which a member of the organization was operating in the Ayta ash-Shab area.</p>\n<p>Following the alerts activated at 3:30 PM in Kiryat Shmona, about ten launches that crossed from Lebanese territory were detected; most were intercepted, and there are no casualties.</p>\n<p>Attached is documentation from the attack on the launcher from which launches were made towards the Ma&#8217;ayan Baruch area: https://bit.ly/3S6rk0r</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF continues to carry out attacks within Lebanese territory; launchers that were used to carry out launches towards the Metula and Ma&#8217;ayan Baruch areas were targeted earlier today. An IDF force attacked the launcher from which launches were made towards the Metula area earlier today. In addition, fighter jets attacked a launcher belonging to the terrorist organization <a  href=\"/hezbollah\">Hezbollah</a> in the Houla area, which had launched rockets towards Ma&#8217;ayan Baruch earlier today. Furthermore, fighter jets attacked a military structure in which a member of the organization was operating in the Ayta ash-Shab area. Following the alerts activated at</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7883",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7883,
+        "he": 7884,
+        "ru": 7885
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7883",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7883"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7883/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7883"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7883"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7883"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

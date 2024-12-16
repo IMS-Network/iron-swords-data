@@ -1,0 +1,138 @@
+{
+    "id": 996,
+    "date": "2024-04-11T13:29:42",
+    "date_gmt": "2024-04-11T10:29:42",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=996"
+    },
+    "modified": "2024-04-11T13:37:13",
+    "modified_gmt": "2024-04-11T10:37:13",
+    "slug": "son-of-hamas-columbia-university",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/son-of-hamas-columbia-university/",
+    "title": {
+        "rendered": "Son of Hamas | Columbia University"
+    },
+    "content": {
+        "rendered": "\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<iframe loading=\"lazy\" title=\"Son of Hamas | Columbia University\" width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/rAmUh1PbI6I?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n</div></figure>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"/hamas\">Hamas</a> Committed Genocide </p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 997,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 53,
+        "footnotes": ""
+    },
+    "categories": [
+        53
+    ],
+    "tags": [
+        54
+    ],
+    "class_list": [
+        "post-996",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-facts",
+        "tag-education"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 996
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/996",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=996"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 2,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/996/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 999,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/996/revisions/999"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/997"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=996"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=996"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=996"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

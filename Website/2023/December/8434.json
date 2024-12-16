@@ -1,0 +1,122 @@
+{
+    "id": 4359,
+    "date": "2023-12-28T07:59:29",
+    "date_gmt": "2023-12-28T05:59:29",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8434/"
+    },
+    "modified": "2023-12-28T07:59:29",
+    "modified_gmt": "2023-12-28T05:59:29",
+    "slug": "8434",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8434/",
+    "title": {
+        "rendered": "&#8220;Inside IDF&#8217;s Frontline Operations: Unveiling Anti-Terror Tactics in Deir al-Balah &#8211; A Visual Tour&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>Battalion 162 is operating at the heart of Deir al-Balah; guided by Nahal Brigade soldiers, an Air Force fighter jet attacked a militant cell.</p>\n<p>The soldiers of the Paratroopers Brigade destroyed a terror infrastructure inside a building, from which RPGs were launched a short time before towards the soldiers&#8217; vehicles. In addition, Nahal Brigade soldiers guided an air force combat plane to attack a building where terrorists were intending to launch rockets.</p>\n<p>The fighters of the Armored Corps Battalion 401 are operating in the space of Deir al-Balah, and they have eliminated terrorists by land and air in the last two days. In addition, the 460 Armored Corps Battalion fighters have killed terrorists from the air and with tank fire in the Deir al-Balah area in the past day.</p>\n<p>During raids by the Combat Team Battalion 14 soldiers, terrorists fired at our forces. After searches in the house from which the shooting was carried out, the soldiers found multiple weapons.</p>\n<p>Also, throughout the past day, the naval forces continued to provide fire support from the sea to the forces operating in the Strip area.</p>\n<p>Included is footage of the building being attacked by a fighter jet: https://bit.ly/3NIWrx3</p>\n<p>Attached is an image of the weapons found by the Combat Team Battalion 14 soldiers: https://IDFANC.activetrail.biz/ANC2812202325478</p>\n<p>Included is footage of the weapons found by the Combat Team Battalion 14 soldiers: https://bit.ly/3NK3s0i</p>\n<p>Included is footage of the troops&#8217; activities in the Gaza Strip: https://bit.ly/3vn2alv</p>\n<p>Attached are images from the troops&#8217; activities in the Gaza Strip: https://IDFANC.activetrail.biz/ANC28122023.021456</p>\n<p>Attached is footage of the IDF attacks in the Gaza Strip: https://bit.ly/488jrxs</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: Battalion 162 is operating at the heart of Deir al-Balah; guided by <a  href=\"https://iron-swords.co.il/t/nahal-brigade/\">Nahal Brigade</a> soldiers, an Air Force fighter jet attacked a militant cell. The soldiers of the <a  href=\"https://iron-swords.co.il/t/paratroopers-brigade/\">Paratroopers Brigade</a> destroyed a terror infrastructure inside a building, from which RPGs were launched a short time before towards the soldiers&#8217; vehicles. In addition, Nahal Brigade soldiers guided an air force combat plane to attack a building where terrorists were intending to launch rockets. The fighters of the Armored Corps Battalion 401 are operating in the space of Deir al-Balah, and they have eliminated terrorists by land and air in</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4359",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4359
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4359",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4359"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4359/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4359"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4359"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4359"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

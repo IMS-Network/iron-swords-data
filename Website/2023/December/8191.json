@@ -1,0 +1,122 @@
+{
+    "id": 4602,
+    "date": "2023-12-09T20:02:07",
+    "date_gmt": "2023-12-09T18:02:07",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8191/"
+    },
+    "modified": "2023-12-09T20:02:07",
+    "modified_gmt": "2023-12-09T18:02:07",
+    "slug": "8191",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8191/",
+    "title": {
+        "rendered": "&#8220;Inside the Combat Zone: YAHALOM&#8217;s Clash with Terrorists in Jebaliya &#8211; A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Identify suspicious movements, open fire and eliminate the terrorists:<br />\nDocumentation of a clash between YAHALOM (a special combat engineering unit) in warfare in Jebaliya area.</p>\n<p>https://www.idf.il/160657</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Identify suspicious movements, open fire and eliminate the terrorists: Documentation of a clash between YAHALOM (a special combat engineering unit) in warfare in Jebaliya area. https://www.idf.il/160657</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4602",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4602
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4602",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4602"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4602/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4602"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4602"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4602"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

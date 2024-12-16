@@ -1,0 +1,134 @@
+{
+    "id": 2463,
+    "date": "2023-10-07T06:30:00",
+    "date_gmt": "2023-10-07T03:30:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=2463"
+    },
+    "modified": "2024-05-19T01:20:05",
+    "modified_gmt": "2024-05-18T22:20:05",
+    "slug": "noam-elyakim",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/victims/noam-elyakim/",
+    "title": {
+        "rendered": "Noam elyakim"
+    },
+    "content": {
+        "rendered": "\n<p>Noam Elyakim, 46, was murdered by Hamas terrorists at his home in Kibbutz Nahal Oz. His last moments were captured in a horrifying video streamed live by the terrorists who invaded his home on the morning of October 7th. He was seen sitting with his partner, Dikla, his two young daughters, Daphna and Ella, and Dikla&#8217;s son, Tomer, bleeding and being questioned by the terrorists about the whereabouts of the rest of his family. Dikla\u2019s son was taken at gunpoint to their neighbor\u2019s house to persuade the other family to come out of their shelter so the terrorists could murder them as well.</p>\n\n\n\n<p>Along with Noam, Tomer and Dikla were also murdered. Noam&#8217;s daughters were taken hostage by Hamas and were later released.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Noam Elyakim, 46, was murdered by <a  href=\"/hamas\">Hamas</a> terrorists at his home in <a  href=\"https://iron-swords.co.il/t/kibbutz-nahal-oz/\">Kibbutz Nahal Oz</a>. His last moments were captured in a horrifying video streamed live by the terrorists who invaded his home on the morning of October 7th. He was seen sitting with his partner, Dikla, his two young daughters, Daphna and Ella, and Dikla&#8217;s son, Tomer, bleeding and being questioned by the terrorists about the whereabouts of the rest of his family. Dikla\u2019s son was taken at gunpoint to their neighbor\u2019s house to persuade the other family to come out of their shelter so the terrorists could murder</p>\n",
+        "protected": false
+    },
+    "author": 16,
+    "featured_media": 2464,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-october-7th-victims",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 21,
+        "footnotes": ""
+    },
+    "categories": [
+        21
+    ],
+    "tags": [
+        140,
+        141
+    ],
+    "class_list": [
+        "post-2463",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-victims",
+        "tag-kibbutz-nahal-oz",
+        "tag-nir-oz"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2463
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2463",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/16"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2463"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2463/revisions"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/2464"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2463"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2463"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2463"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

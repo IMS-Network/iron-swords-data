@@ -1,0 +1,122 @@
+{
+    "id": 3342,
+    "date": "2024-04-16T17:40:58",
+    "date_gmt": "2024-04-16T14:40:58",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9474/"
+    },
+    "modified": "2024-04-16T17:40:58",
+    "modified_gmt": "2024-04-16T14:40:58",
+    "slug": "9474",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9474/",
+    "title": {
+        "rendered": "&#8220;IDF Neutralizes Hezbollah Coastal Sector Commander: Inside the Air Strike Operation Against Ismail Yusuf Baz&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF eliminated the commander of the coastal sector in the Hezbollah terrorist organization.</p>\n<p>Earlier today, the IDF attacked and eliminated using an aircraft from the Air Force in the territory of Ein Baal in Lebanon, the terrorist Ismail Yusuf Baz, the commander of the coastal sector in the terrorist organization.</p>\n<p>Ismail served as a senior and veteran official in Hezbollah&#8217;s military arm in several roles. His current rank is equivalent to a brigade commander.</p>\n<p>As part of his role, he engaged in promoting and planning the launch of rockets and anti-tank missiles towards Israel from the coastal area in Lebanon. In addition, during the war he organized and planned various terrorist attacks against Israel.</p>\n<p>Attached is documentation from the elimination: https://bit.ly/3w4a5VD</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF eliminated the commander of the coastal sector in the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization. Earlier today, the IDF attacked and eliminated using an aircraft from the Air Force in the territory of Ein Baal in Lebanon, the terrorist Ismail Yusuf Baz, the commander of the coastal sector in the terrorist organization. Ismail served as a senior and veteran official in <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a>&#8217;s military arm in several roles. His current rank is equivalent to a brigade commander. As part of his role, he engaged in promoting and planning the launch of rockets and anti-tank missiles towards <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> from the coastal</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3342",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3342
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3342",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3342"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3342/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3342"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3342"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3342"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

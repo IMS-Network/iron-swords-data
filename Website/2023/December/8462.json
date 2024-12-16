@@ -1,0 +1,122 @@
+{
+    "id": 4332,
+    "date": "2023-12-30T19:02:36",
+    "date_gmt": "2023-12-30T17:02:36",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8462/"
+    },
+    "modified": "2023-12-30T19:02:36",
+    "modified_gmt": "2023-12-30T17:02:36",
+    "slug": "8462",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8462/",
+    "title": {
+        "rendered": "&#8220;IDF Targets Hezbollah&#8217;s Terror Infrastructure in Strategic Kfar Kila Attacks: An Inside Look&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>In a series of broad attacks in the area of Kfar Kila; IDF attacked the terrorist infrastructure of the Hezbollah terrorist organization.</p>\n<p>Earlier today, fighter jets from the Air Force attacked the terror infrastructure of the Hezbollah terrorist organization in the area of Kfar Kila in southern Lebanon, in an operation that included two waves of targeted attacks on a series of targets during the morning and afternoon hours.</p>\n<p>Kfar Kila serves as a stronghold of the Hezbollah terrorist organization, as the organization uses infrastructure in the area for terrorist purposes, exploiting the civilian population and using them as a human shield for its operations. Since the start of the war, the organization has conducted numerous launches from the village area towards the territory of the State of Israel.</p>\n<p>Accompanied documentation of the attacks: https://bit.ly/3NMIeiB</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: In a series of broad attacks in the area of Kfar Kila; IDF attacked the terrorist infrastructure of the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization. Earlier today, fighter jets from the Air Force attacked the terror infrastructure of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization in the area of Kfar Kila in southern Lebanon, in an operation that included two waves of targeted attacks on a series of targets during the morning and afternoon hours. Kfar Kila serves as a stronghold of the Hezbollah terrorist organization, as the organization uses infrastructure in the area for terrorist purposes, exploiting the civilian population and using them</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4332",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4332
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4332",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4332"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4332/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4332"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4332"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4332"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

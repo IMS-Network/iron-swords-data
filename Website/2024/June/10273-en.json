@@ -1,0 +1,124 @@
+{
+    "id": 8435,
+    "date": "2024-06-27T22:58:32",
+    "date_gmt": "2024-06-27T19:58:32",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10273-en/"
+    },
+    "modified": "2024-06-27T22:58:32",
+    "modified_gmt": "2024-06-27T19:58:32",
+    "slug": "10273-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10273-en/",
+    "title": {
+        "rendered": "&#8220;IDF Updates: Key Insights on Wing Order 188 and Leadership Speeches&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Attached is a statement from the IDF Spokesperson regarding Wing Order 188: https://idfanc.activetrail.biz/ANC220200</p>\n<p>Attached is a video on the topic: https://bit.ly/3LntqFD</p>\n<p>Attached is a video from the speech of the Chief of Staff, Lieutenant General Herzi Halevi: https://bit.ly/3XIqbjg</p>\n<p>Attached is a video from the speech of the Commander of the Air Force, General Tomer Bar: https://bit.ly/45QcctS</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Attached is a statement from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a> regarding Wing Order 188: https://idfanc.activetrail.biz/ANC220200 Attached is a video on the topic: https://bit.ly/3LntqFD Attached is a video from the speech of the Chief of Staff, Lieutenant General Herzi Halevi: https://bit.ly/3XIqbjg Attached is a video from the speech of the Commander of the Air Force, General Tomer Bar: https://bit.ly/45QcctS</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8435",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8435,
+        "he": 8436,
+        "ru": 8437
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8435",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8435"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8435/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8435"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8435"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8435"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

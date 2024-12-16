@@ -1,0 +1,122 @@
+{
+    "id": 3884,
+    "date": "2024-02-20T08:30:04",
+    "date_gmt": "2024-02-20T06:30:04",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8919/"
+    },
+    "modified": "2024-02-20T08:30:04",
+    "modified_gmt": "2024-02-20T06:30:04",
+    "slug": "8919",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8919/",
+    "title": {
+        "rendered": "&#8220;IDF Forces Intensify Operations: A Comprehensive Report on Recent Combat in the Gaza Strip&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces continue to battle in the north, center, and south of the Strip, eliminating terrorist cells attempting to harm our forces.</p>\n<p>The combat team of the 7th Brigade continues its intense fighting in western Khan Yunis, killing dozens of terrorists in the last day. The brigade&#8217;s attack cell directed aircraft with which some of the terrorists were eliminated in swift closures of circuits, other terrorists were killed by tank fire and sniper fire.</p>\n<p>Combatants of the combat team of the Givati brigade in Khan Yunis identified several terrorists armed with RPG-type missiles and Kalashnikov-style weapons and eliminated them at close range.</p>\n<p>The Air Force, under the direction of the 98th Division&#8217;s fire control center, attacked a Hamas arms warehouse in the urban area of Khan Yunis, secondary explosions were detected in the compound indicating the presence of multiple arms at the site.</p>\n<p>In the center of the Strip, the Nahal Brigade&#8217;s combat team continues to operate and has killed several terrorists over the last day. During the fighting, the brigade&#8217;s fire control center identified a terrorist in the area, directed sniper fire at him, and he was killed within minutes.</p>\n<p>Attached is documentation of the attacks in the Gaza Strip in the last day: https://bit.ly/3wqbeXx </p>\n<p>Attached are pictures of the forces&#8217; activity in the Gaza Strip: https://IDFANC.activetrail.biz/ANC20022024943644</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces continue to battle in the north, center, and south of the Strip, eliminating terrorist cells attempting to harm our forces. The combat team of the 7th Brigade continues its intense fighting in western Khan Yunis, killing dozens of terrorists in the last day. The brigade&#8217;s attack cell directed aircraft with which some of the terrorists were eliminated in swift closures of circuits, other terrorists were killed by tank fire and sniper fire. Combatants of the combat team of the <a  href=\"https://iron-swords.co.il/t/givati-brigade/\">Givati brigade</a> in Khan Yunis identified several terrorists armed with RPG-type missiles and Kalashnikov-style weapons and eliminated</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3884",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3884
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3884",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3884"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3884/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3884"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3884"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3884"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

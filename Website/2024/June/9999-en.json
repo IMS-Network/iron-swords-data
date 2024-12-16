@@ -1,0 +1,124 @@
+{
+    "id": 9254,
+    "date": "2024-06-04T22:52:36",
+    "date_gmt": "2024-06-04T19:52:36",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/9999-en/"
+    },
+    "modified": "2024-06-04T22:52:36",
+    "modified_gmt": "2024-06-04T19:52:36",
+    "slug": "9999-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9999-en/",
+    "title": {
+        "rendered": "&#8220;IDF Clarifies Hostage Rescue Claims: Chief of Staff&#8217;s Decisions Explained&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>In response to reports that the Chief of Staff prevented a mission to rescue hostages at Shifa Hospital at the beginning of the war, these are false and baseless claims.</p>\n<p>This was a operational idea that did not have the operational or intelligence feasibility to be carried out, as there was no information regarding the presence of hostages at the hospital. Had such information existed, the plan would have progressed towards implementation. The operation, as presented, would have led to the killing of hostages and jeopardized the safety of our forces.</p>\n<p>The Chief of Staff instructed the forces to continue holding on to the plan for a maritime assault on Shifa Hospital in the event that intelligence could allow for the execution of the plan, which did not happen.</p>\n<p>The claims that the Chief of Staff concealed a mission to rescue hostages from the political echelon are false and devoid of any basis.</p>\n<p>On every occasion during the war when there was intelligence allowing for operational planning for hostage rescue, the matter was presented in detail over hundreds of hours to the Chief of Staff, and when it was ready for execution, it was approved and presented to the political echelon.</p>\n<p>The Chief of Staff approved hostage rescue operations while taking responsible risks, and when the operational conditions allowed for it.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: In response to reports that the Chief of Staff prevented a mission to rescue <a  href=\"https://iron-swords.co.il/t/hostages/\">hostages</a> at Shifa Hospital at the beginning of the war, these are false and baseless claims. This was a operational idea that did not have the operational or intelligence feasibility to be carried out, as there was no information regarding the presence of hostages at the hospital. Had such information existed, the plan would have progressed towards implementation. The operation, as presented, would have led to the killing of hostages and jeopardized the safety of our forces. The Chief of Staff instructed the forces</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9254",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9254,
+        "he": 9255,
+        "ru": 9256
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9254",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9254"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9254/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9254"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9254"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9254"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

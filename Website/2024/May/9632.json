@@ -1,0 +1,122 @@
+{
+    "id": 3189,
+    "date": "2024-05-06T08:30:36",
+    "date_gmt": "2024-05-06T05:30:36",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9632/"
+    },
+    "modified": "2024-05-06T08:30:36",
+    "modified_gmt": "2024-05-06T05:30:36",
+    "slug": "9632",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9632/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Military Compound in Lebanon: A Comprehensive Report on Recent Attacks&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF forces attacked a Hezbollah military compound in the depth of Lebanon.</p>\n<p>During the night, fighter jets from the Air Force attacked a military compound of the terror organization Hezbollah in the Esferi area deep in Lebanon.</p>\n<p>In addition, last night (Tuesday), military buildings of the Hezbollah terror organization were attacked in the Ramia, &#8216;Ayta ash-Sha&#8217;b, and Marwahin areas, along with the terror infrastructure of the organization in the Jebel Butm region in Southern Lebanon.</p>\n<p>The IDF fired artillery to remove a threat in the Shebaa area in Southern Lebanon.</p>\n<p>Last night, two launches were detected from Syrian territory towards the Ramot Naftali area, which fell in open fields. There are no casualties. IDF forces attacked the sources of the fire using tank fire.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF forces attacked a <a  href=\"/hezbollah\">Hezbollah</a> military compound in the depth of Lebanon. During the night, fighter jets from the Air Force attacked a military compound of the <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in the Esferi area deep in Lebanon. In addition, last night (Tuesday), military buildings of the Hezbollah terror organization were attacked in the Ramia, &#8216;Ayta ash-Sha&#8217;b, and Marwahin areas, along with the terror infrastructure of the organization in the Jebel Butm region in Southern Lebanon. The IDF fired artillery to remove a threat in the Shebaa area in Southern Lebanon. Last night, two launches were detected from</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3189",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3189
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3189",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3189"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3189/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3189"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3189"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3189"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

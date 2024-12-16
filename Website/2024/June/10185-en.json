@@ -1,0 +1,124 @@
+{
+    "id": 8696,
+    "date": "2024-06-20T10:14:00",
+    "date_gmt": "2024-06-20T07:14:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10185-en/"
+    },
+    "modified": "2024-06-20T10:14:00",
+    "modified_gmt": "2024-06-20T07:14:00",
+    "slug": "10185-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10185-en/",
+    "title": {
+        "rendered": "&#8220;Unveiling the Secrets: 9 Iconic Songs and Their Surprising Stories&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Who is the mysterious Dina Barzili? What serenade was written about a mythological chef? And which band went through a parachuting course for a song?<br />\nDiscover the surprising stories behind 9 songs that you surely know.<br />\nhttps://www.idf.il/210051</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Who is the mysterious Dina Barzili? What serenade was written about a mythological chef? And which band went through a parachuting course for a song? Discover the surprising stories behind 9 songs that you surely know. https://www.idf.il/210051</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8696",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8696,
+        "he": 8697,
+        "ru": 8698
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8696",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8696"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8696/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8696"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8696"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8696"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

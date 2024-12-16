@@ -1,0 +1,122 @@
+{
+    "id": 2962,
+    "date": "2024-05-25T12:35:29",
+    "date_gmt": "2024-05-25T09:35:29",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9863/"
+    },
+    "modified": "2024-05-25T12:35:29",
+    "modified_gmt": "2024-05-25T09:35:29",
+    "slug": "9863",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9863/",
+    "title": {
+        "rendered": "&#8220;IDF Forces Intensify Operations in Gaza: Uncovering Terrorist Infrastructures and Eliminating Threats&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces continue to fight in the North, Central, and South of the Gaza Strip; soldiers are spreading out over terrorist targets and are fighting throughout the Strip.</p>\n<p>The forces of Brigade 98 continue to operate in the Jebalia area in the North of the Gaza Strip. In the last day, the forces destroyed terrorist infrastructures, rocket launching sites alongside military buildings, and found numerous weapons.</p>\n<p>In addition, the forces eliminated dozens of terrorists in face-to-face fights and by directing air force aircraft attacks, some of whom were marked for targeting the soldiers on the ground.</p>\n<p>In a closure of forces, an air force aircraft eliminated a Hamas sniper unit that aimed at the IDF soldiers several days earlier. Our forces were not injured in this encounter.</p>\n<p>The combat team of the 679 Brigade under Brigade 99 eliminated a number of terrorists in the central strip in encounters and tank fire.</p>\n<p>During the operation of Brigade 162 in the Rafah area, the soldiers eliminated a terrorist unit that opened fire towards the force in a face-to-face battle. The soldiers searched for weapons and infrastructures of the Hamas terrorist organization in the area. As part of the searches, they located and destroyed tunnels and terrorist infrastructures alongside numerous weapons in the area, including combat equipment, weapons and booby-trapped charges.</p>\n<p>Enclosed is a document of IDF forces operation in Jebalia area: https://bit.ly/4bDvkxm</p>\n<p>Attached are pictures of IDF forces operation in Jebalia area: https://idfanc.activetrail.biz/ANC2505202474594</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces continue to fight in the North, Central, and South of the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip; soldiers are spreading out over terrorist targets and are fighting throughout the Strip. The forces of Brigade 98 continue to operate in the Jebalia area in the North of the Gaza Strip. In the last day, the forces destroyed terrorist infrastructures, rocket launching sites alongside military buildings, and found numerous weapons. In addition, the forces eliminated dozens of terrorists in face-to-face fights and by directing air force aircraft attacks, some of whom were marked for targeting the soldiers on the ground. In a</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2962",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2962
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2962",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2962"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2962/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2962"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2962"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2962"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

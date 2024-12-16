@@ -1,0 +1,122 @@
+{
+    "id": 4056,
+    "date": "2024-01-30T20:00:45",
+    "date_gmt": "2024-01-30T18:00:45",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8745/"
+    },
+    "modified": "2024-01-30T20:00:45",
+    "modified_gmt": "2024-01-30T18:00:45",
+    "slug": "8745",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8745/",
+    "title": {
+        "rendered": "&#8220;IDF Chief&#8217;s Stern Warning: No Safe Haven for Terror in Gaza, Judea, Samaria, and Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>The IDF Chief of Staff to the reserve soldiers in the Gaza Division:<br />\n&#8220;There will be no refuge for terror in Gaza, in Judea and Samaria, in Lebanon, not above the ground and not in the depths of the tunnels.&#8221;</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>The IDF Chief of Staff to the reserve soldiers in the <a  href=\"https://iron-swords.co.il/t/gaza-division/\">Gaza Division</a>: &#8220;There will be no refuge for terror in <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>, in Judea and Samaria, in Lebanon, not above the ground and not in the depths of the tunnels.&#8221;</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4056",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4056
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4056",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4056"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4056/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4056"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4056"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4056"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

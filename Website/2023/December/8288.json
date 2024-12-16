@@ -1,0 +1,122 @@
+{
+    "id": 4505,
+    "date": "2023-12-16T19:50:02",
+    "date_gmt": "2023-12-16T17:50:02",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8288/"
+    },
+    "modified": "2023-12-16T19:50:02",
+    "modified_gmt": "2023-12-16T17:50:02",
+    "slug": "8288",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8288/",
+    "title": {
+        "rendered": "&#8220;Inside Report: Completed Activities at Kamel Adwan Hospital &#8211; The Former Hamas Compound in Jebalia&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Served as a compound for Hamas in Jebalia:<br />\nActivity at &#8216;Kamel Adwan&#8217; Hospital premises was completed.<br />\nhttps://www.idf.il/162871</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Served as a compound for <a  href=\"/hamas\">Hamas</a> in Jebalia: Activity at &#8216;Kamel Adwan&#8217; Hospital premises was completed. https://www.idf.il/162871</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4505",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4505
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4505",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4505"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4505/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4505"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4505"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4505"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

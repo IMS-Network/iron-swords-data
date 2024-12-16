@@ -1,0 +1,122 @@
+{
+    "id": 3669,
+    "date": "2024-03-16T09:01:16",
+    "date_gmt": "2024-03-16T07:01:16",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9139/"
+    },
+    "modified": "2024-03-16T09:01:16",
+    "modified_gmt": "2024-03-16T07:01:16",
+    "slug": "9139",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9139/",
+    "title": {
+        "rendered": "&#8220;IDF Forces Strike Decisively: A Chronicle of Successful Operations Against Terror Cells in Gaza Strip&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Forces of the 162nd Division are in combat in the center of the Gaza Strip; a combat team from the 7th Brigade directed a fighter jet that destroyed a weapon storage.</p>\n<p>In a joint operation of the Air Force together with the 7th Brigade combat team, a fighter jet attacked and destroyed a Hamas warfare facility in Khan Yunis.</p>\n<p>Also in Khan Yunis, soldiers from the &#8220;Givati&#8221; Brigade combat team identified two terrorists entering and leaving a terror infrastructure. An aircraft attacked and killed both in a precise strike.</p>\n<p>The 215th &#8220;Fire&#8221; Brigade eliminated about 15 terrorists in the last day. In the Notsirat area, intelligence information was received about several terrorists fortified inside a Hamas terror infrastructure. The brigade directed an aircraft that killed the terrorists. Also, the brigade directed a jet that attacked a Hamas operative along with the commander of a &#8220;slipping&#8221; cell within the organization.</p>\n<p>The combat team of the &#8220;Nahal&#8221; Brigade continues to operate in the center of Gaza and has eliminated about ten terrorists during the last day. As part of the operation, ground forces identified and destroyed three terrorist cells.</p>\n<p>Attached is documentation of IDF attacks in the Gaza Strip: https://bit.ly/3Pt0mib</p>\n<p>Attached are photos from the forces&#8217; operation in the Strip: https://IDFANC.activetrail.biz/ANC15032024.15618156</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Forces of the 162nd Division are in combat in the center of the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip; a combat team from the 7th Brigade directed a fighter jet that destroyed a weapon storage. In a joint operation of the Air Force together with the 7th Brigade combat team, a fighter jet attacked and destroyed a <a  href=\"/hamas\">Hamas</a> warfare facility in Khan Yunis. Also in Khan Yunis, soldiers from the &#8220;Givati&#8221; Brigade combat team identified two terrorists entering and leaving a terror infrastructure. An aircraft attacked and killed both in a precise strike. The 215th &#8220;Fire&#8221; Brigade eliminated about 15 terrorists in</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3669",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3669
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3669",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3669"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3669/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3669"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3669"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3669"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

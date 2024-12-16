@@ -1,0 +1,124 @@
+{
+    "id": 8180,
+    "date": "2024-07-05T19:18:23",
+    "date_gmt": "2024-07-05T16:18:23",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10359-en/"
+    },
+    "modified": "2024-07-05T19:18:23",
+    "modified_gmt": "2024-07-05T16:18:23",
+    "slug": "10359-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10359-en/",
+    "title": {
+        "rendered": "&#8220;IDF Chief of Staff Visits Nahariya: Commitment to Community and Resilience Amidst Conflict&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The Chief of Staff, Lieutenant General Herzi Halevi, visited the city of Nahariya today (Friday) accompanied by the Mayor, Mr. Ronen Marley. During the visit, they discussed the cooperation between the IDF and the local authorities in the north. The Chief of Staff emphasized the IDF&#8217;s commitment to returning the residents of the north to their homes safely. </p>\n<p>The Chief of Staff strengthened the residents of Nahariya and acknowledged the resilience they are demonstrating during the war. </p>\n<p>During the tour of the city, they met with IDF soldiers operating in the area.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The Chief of Staff, Lieutenant General Herzi Halevi, visited the city of Nahariya today (Friday) accompanied by the Mayor, Mr. Ronen Marley. During the visit, they discussed the cooperation between the IDF and the local authorities in the north. The Chief of Staff emphasized the IDF&#8217;s commitment to returning the residents of the north to their homes safely. The Chief of Staff strengthened the residents of Nahariya and acknowledged the resilience they are demonstrating during the war. During the tour of the city, they met with IDF soldiers operating in the area.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8180",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8180,
+        "he": 8181,
+        "ru": 8182
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8180",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8180"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8180/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8180"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8180"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8180"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 3560,
+    "date": "2024-03-26T11:54:02",
+    "date_gmt": "2024-03-26T09:54:02",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9252/"
+    },
+    "modified": "2024-03-26T11:54:02",
+    "modified_gmt": "2024-03-26T09:54:02",
+    "slug": "9252",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9252/",
+    "title": {
+        "rendered": "&#8220;IDF Responds to Missile Fire from Lebanon: Assessing Damage and Ensuring Safety in Meron and Avivim Areas&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>A short while ago, firings from Lebanese territory were detected towards the airspace of the air control unit in the Meron area, there are no casualties and no damage to the unit&#8217;s equipment.</p>\n<p>In addition, a short while ago three firings from Lebanese territory were detected towards the Avivim area, there are no casualties. Following the firings, a fire broke out in the settlement area and caused damage. Firefighting forces are operating on site.</p>\n<p>IDF forces attacked the sources of fire in Lebanese territory.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: A short while ago, firings from Lebanese territory were detected towards the airspace of the air control unit in the Meron area, there are no casualties and no damage to the unit&#8217;s equipment. In addition, a short while ago three firings from Lebanese territory were detected towards the Avivim area, there are no casualties. Following the firings, a fire broke out in the settlement area and caused damage. Firefighting forces are operating on site. IDF forces attacked the sources of fire in Lebanese territory.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3560",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3560
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3560",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3560"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3560/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3560"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3560"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3560"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

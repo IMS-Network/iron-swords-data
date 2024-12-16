@@ -1,0 +1,122 @@
+{
+    "id": 3932,
+    "date": "2024-02-14T16:39:37",
+    "date_gmt": "2024-02-14T14:39:37",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8871/"
+    },
+    "modified": "2024-02-14T16:39:37",
+    "modified_gmt": "2024-02-14T14:39:37",
+    "slug": "8871",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8871/",
+    "title": {
+        "rendered": "&#8220;IDF Launches Comprehensive Strikes on Hezbollah Targets Across Lebanon: A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>The IDF has completed a wave of wide-scale attacks in Lebanese territory, including targets associated with the Radwan force; military buildings, combat weapon systems and terror infrastructures were targeted in several areas across Lebanon.</p>\n<p>A short while ago, combat aircraft attacked a series of targets belonging to the Hezbollah terrorist organization in the areas of Jebel Al Birag&#8217;, Huneh, Dunin, Adshit and Al-Tsuana.</p>\n<p>Among the targets attacked were military buildings, combat weapon systems, and terror infrastructures used by members of the organization. Some targets are associated with the Radwan force.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: The IDF has completed a wave of wide-scale attacks in Lebanese territory, including targets associated with the Radwan force; military buildings, combat weapon systems and terror infrastructures were targeted in several areas across Lebanon. A short while ago, combat aircraft attacked a series of targets belonging to the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization in the areas of Jebel Al Birag&#8217;, Huneh, Dunin, Adshit and Al-Tsuana. Among the targets attacked were military buildings, combat weapon systems, and terror infrastructures used by members of the organization. Some targets are associated with the Radwan force.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3932",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3932
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3932",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3932"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3932/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3932"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3932"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3932"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

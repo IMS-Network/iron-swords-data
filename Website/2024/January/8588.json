@@ -1,0 +1,122 @@
+{
+    "id": 4209,
+    "date": "2024-01-13T12:00:09",
+    "date_gmt": "2024-01-13T10:00:09",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8588/"
+    },
+    "modified": "2024-01-13T12:00:09",
+    "modified_gmt": "2024-01-13T10:00:09",
+    "slug": "8588",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8588/",
+    "title": {
+        "rendered": "&#8220;Inside Brigade 99&#8217;s Battle: Eliminating Terrorists and Raiding Hamas Headquarters&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Elimination of terrorists, destruction of a terror command, and raid on Hamas&#8217;s headquarters:<br />\nThis is what the fighting of Brigade 99 looks like in the central camps.<br />\nhttps://www.idf.il/172187</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Elimination of terrorists, destruction of a terror command, and raid on <a  href=\"/hamas\">Hamas</a>&#8217;s headquarters: This is what the fighting of Brigade 99 looks like in the central camps. https://www.idf.il/172187</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4209",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4209
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4209",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4209"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4209/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4209"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4209"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4209"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

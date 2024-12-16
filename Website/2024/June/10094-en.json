@@ -1,0 +1,124 @@
+{
+    "id": 8969,
+    "date": "2024-06-12T12:16:43",
+    "date_gmt": "2024-06-12T09:16:43",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10094-en/"
+    },
+    "modified": "2024-06-12T12:16:43",
+    "modified_gmt": "2024-06-12T09:16:43",
+    "slug": "10094-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10094-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Infrastructure: Response to Rocket Attacks on Northern Israel&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked Hezbollah terror infrastructure in southern Lebanon; an additional launcher was targeted from which rockets were fired earlier today towards northern Israel.</p>\n<p>Fighter jets recently struck four terror infrastructures of the Hezbollah terror organization in the Yaatar area of southern Lebanon, from which rockets were launched earlier today towards northern Israel.</p>\n<p>Simultaneously, fighter jets attacked an additional launcher in the Khinna area of southern Lebanon, from which rockets were fired towards northern Israel earlier today.</p>\n<p>In response to alerts activated in the Zar&#8217;it area, approximately ten rockets were identified crossing from Lebanese territory. Some were intercepted, and there are no casualties. IDF forces targeted the sources of fire with artillery.</p>\n<p>Following alerts activated in northern Israel a short while ago regarding the incursion of hostile aircraft, details are still being investigated.</p>\n<p>In connection with the launches that occurred earlier today towards northern Israel, firefighting forces are currently working to extinguish the fires that broke out as a result of the launches. There are no casualties in any of the events.</p>\n<p>Attached is footage from IDF strikes in southern Lebanon: https://bit.ly/4cjB1R0</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked <a  href=\"/hezbollah\">Hezbollah</a> terror infrastructure in southern Lebanon; an additional launcher was targeted from which rockets were fired earlier today towards northern <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>. Fighter jets recently struck four terror infrastructures of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> in the Yaatar area of southern Lebanon, from which rockets were launched earlier today towards northern Israel. Simultaneously, fighter jets attacked an additional launcher in the Khinna area of southern Lebanon, from which rockets were fired towards northern Israel earlier today. In response to alerts activated in the Zar&#8217;it area, approximately ten rockets were identified crossing from Lebanese territory. Some were intercepted,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8969",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8969,
+        "he": 8970,
+        "ru": 8971
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8969",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8969"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8969/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8969"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8969"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8969"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

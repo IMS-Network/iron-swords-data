@@ -1,0 +1,122 @@
+{
+    "id": 3817,
+    "date": "2024-02-28T00:15:44",
+    "date_gmt": "2024-02-27T22:15:44",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8986/"
+    },
+    "modified": "2024-02-28T00:15:44",
+    "modified_gmt": "2024-02-27T22:15:44",
+    "slug": "8986",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8986/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Military Bases in South Lebanon: An Inside Look at the Operation&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked military buildings and terror infrastructures of the terror organization Hezbollah in several areas in South Lebanon, a terrorist cell was attacked in the region of Aiyeita a-Shaab</p>\n<p>Fighter jets attacked a short while ago military buildings and terror infrastructures of the terror organization Hezbollah in the areas of Al-Taybeh, Beit Lif, Zadikin, and Khirbat Selm.</p>\n<p>Earlier, fighter jets attacked a military infrastructure and an aircraft attacked a terrorist cell that was identified in the area of Aiyeita a-Shaab. During the day, several other terror infrastructures in the area were attacked.</p>\n<p>Attached is footage from the attacks: https://bit.ly/48rXHvS</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked military buildings and terror infrastructures of the <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> <a  href=\"/hezbollah\">Hezbollah</a> in several areas in South Lebanon, a terrorist cell was attacked in the region of Aiyeita a-Shaab Fighter jets attacked a short while ago military buildings and terror infrastructures of the terror organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in the areas of Al-Taybeh, Beit Lif, Zadikin, and Khirbat Selm. Earlier, fighter jets attacked a military infrastructure and an aircraft attacked a terrorist cell that was identified in the area of Aiyeita a-Shaab. During the day, several other terror infrastructures in the area were attacked. Attached is footage from the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3817",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3817
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3817",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3817"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3817/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3817"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3817"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3817"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

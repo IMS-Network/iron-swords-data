@@ -1,0 +1,122 @@
+{
+    "id": 4306,
+    "date": "2024-01-02T11:04:39",
+    "date_gmt": "2024-01-02T09:04:39",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8488/"
+    },
+    "modified": "2024-01-02T11:04:39",
+    "modified_gmt": "2024-01-02T09:04:39",
+    "slug": "8488",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8488/",
+    "title": {
+        "rendered": "&#8220;460th Battalion&#8217;s Heroic Takeover: Eliminating Terror Infrastructure in Gaza City&#8221;"
+    },
+    "content": {
+        "rendered": "<p>&#8220;Acted with determination, professionalism and composure, with sacrifice and courage: The fighters of the 460th Battalion took control of a terror infrastructure in the home of the city commander of Gaza and eliminated dozens of terrorists.<br />\nhttps://www.idf.il/168731&#8221;</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>&#8220;Acted with determination, professionalism and composure, with sacrifice and courage: The fighters of the 460th Battalion took control of a terror infrastructure in the home of the city commander of <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> and eliminated dozens of terrorists. https://www.idf.il/168731&#8221;</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4306",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4306
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4306",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4306"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4306/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4306"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4306"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4306"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

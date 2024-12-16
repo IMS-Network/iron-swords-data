@@ -1,0 +1,124 @@
+{
+    "id": 7626,
+    "date": "2024-07-20T16:00:09",
+    "date_gmt": "2024-07-20T13:00:09",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10552-en/"
+    },
+    "modified": "2024-07-20T16:00:09",
+    "modified_gmt": "2024-07-20T13:00:09",
+    "slug": "10552-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10552-en/",
+    "title": {
+        "rendered": "&#8220;Brigade 99 Targets Hamas Stronghold at UNRWA Headquarters in Gaza City&#8221;"
+    },
+    "content": {
+        "rendered": "<p>In the heart of Gaza City:<br />\nBrigade 99 raided a Hamas strengthening complex located at the UNRWA headquarters.<br />\nhttps://www.idf.il/217625</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>In the heart of <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> City: Brigade 99 raided a <a  href=\"/hamas\">Hamas</a> strengthening complex located at the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/unrwa/\">UNRWA</a> headquarters. https://www.idf.il/217625</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7626",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7626,
+        "he": 7627,
+        "ru": 7628
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7626",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7626"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7626/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7626"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7626"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7626"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 3606,
+    "date": "2024-03-21T13:00:07",
+    "date_gmt": "2024-03-21T11:00:07",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9203/"
+    },
+    "modified": "2024-03-21T13:00:07",
+    "modified_gmt": "2024-03-21T11:00:07",
+    "slug": "9203",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9203/",
+    "title": {
+        "rendered": "&#8220;Commando &#8216;Nut Soldiers&#8217; Deploy Drone to Uncover Armed Terrorist: A Deep Dive into Hamad&#8217;s Terror Infrastructure Raid&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Commando &#8220;Nut Soldiers&#8221; launch a drone and identify an armed terrorist in a room:<br />\nDocumentation from the Commando&#8217;s raid on dozens of terror infrastructures in &#8216;Hamad&#8217;</p>\n<p>https://www.idf.il/187327</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Commando &#8220;Nut Soldiers&#8221; launch a drone and identify an armed terrorist in a room: Documentation from the Commando&#8217;s raid on dozens of terror infrastructures in &#8216;Hamad&#8217; https://www.idf.il/187327</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3606",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3606
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3606",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3606"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3606/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3606"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3606"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3606"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

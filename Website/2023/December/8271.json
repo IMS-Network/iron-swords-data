@@ -1,0 +1,122 @@
+{
+    "id": 4522,
+    "date": "2023-12-15T12:46:46",
+    "date_gmt": "2023-12-15T10:46:46",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8271/"
+    },
+    "modified": "2023-12-15T12:46:46",
+    "modified_gmt": "2023-12-15T10:46:46",
+    "slug": "8271",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8271/",
+    "title": {
+        "rendered": "&#8220;Israeli Air Force Targets Hezbollah in Lebanon: Detailed Account of Today&#8217;s Anti-Terror Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>An aircraft destroyed a terror target of the terror organization Hezbollah; IDF forces attacked armed individuals operating near the Yaroun area this morning</p>\n<p>An Israeli Air Force aircraft attacked and destroyed a terror target of the terrorist organization Hezbollah in Lebanon. Additionally, shortly ago, an Israeli Air Force aircraft attacked a terrorist operating in Lebanon, near the Zar&#8217;it area.</p>\n<p>Also, this morning IDF forces attacked two armed terrorists operating in Lebanon, near the Yaroun area.</p>\n<p>Attached is documentation of the attacks: https://bit.ly/41qaWLI</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: An aircraft destroyed a terror target of the <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> <a  href=\"/hezbollah\">Hezbollah</a>; IDF forces attacked armed individuals operating near the Yaroun area this morning An Israeli Air Force aircraft attacked and destroyed a terror target of the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in Lebanon. Additionally, shortly ago, an Israeli Air Force aircraft attacked a terrorist operating in Lebanon, near the Zar&#8217;it area. Also, this morning IDF forces attacked two armed terrorists operating in Lebanon, near the Yaroun area. Attached is documentation of the attacks: https://bit.ly/41qaWLI</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4522",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4522
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4522",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4522"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4522/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4522"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4522"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4522"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

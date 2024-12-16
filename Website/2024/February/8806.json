@@ -1,0 +1,122 @@
+{
+    "id": 3997,
+    "date": "2024-02-06T18:03:04",
+    "date_gmt": "2024-02-06T16:03:04",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8806/"
+    },
+    "modified": "2024-02-06T18:03:04",
+    "modified_gmt": "2024-02-06T16:03:04",
+    "slug": "8806",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8806/",
+    "title": {
+        "rendered": "&#8220;New IDF Policy: Major Changes to Defense Guidelines in Green Zones &#8211; What You Need to Know&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Changes in the Home Front Command&#8217;s defense policy nationwide</p>\n<p>Following a situation assessment, it was decided that from today (Tuesday) at 18:00 there will be a change in the defense policy in areas defined by the green policy, except for the cities of Ashkelon and Netivot.</p>\n<p>As part of the change, gatherings of up to 30,000 people will be allowed in all green zones, except in the cities of Ashkelon and Netivot where the limit remains at 15,000 people.</p>\n<p>Attached is the Home Front Command&#8217;s defense policy: https://IDFANC.activetrail.biz/ANC060220246565987</p>\n<p>Continue to follow the instructions published by the Home Front Command on official media. The full instructions are updated on the national emergency portal and in the Home Front Command&#8217;s information leaflet.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Changes in the Home Front Command&#8217;s defense policy nationwide Following a situation assessment, it was decided that from today (Tuesday) at 18:00 there will be a change in the defense policy in areas defined by the green policy, except for the cities of <a  href=\"https://iron-swords.co.il/t/ashkelon/\">Ashkelon</a> and Netivot. As part of the change, gatherings of up to 30,000 people will be allowed in all green zones, except in the cities of Ashkelon and Netivot where the limit remains at 15,000 people. Attached is the Home Front Command&#8217;s defense policy: https://IDFANC.activetrail.biz/ANC060220246565987 Continue to follow the instructions published by the Home Front</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3997",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3997
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3997",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3997"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3997/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3997"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3997"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3997"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

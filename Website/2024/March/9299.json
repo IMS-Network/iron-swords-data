@@ -1,0 +1,122 @@
+{
+    "id": 3513,
+    "date": "2024-03-31T15:06:31",
+    "date_gmt": "2024-03-31T12:06:31",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9299/"
+    },
+    "modified": "2024-03-31T15:06:31",
+    "modified_gmt": "2024-03-31T12:06:31",
+    "slug": "9299",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9299/",
+    "title": {
+        "rendered": "&#8220;IDF and Shin Bet Target PIJ Stronghold Within Al-Aqsa Hospital Compound: A Strategic Strike Balancing Precision and Humanitarian Concerns&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF and the Shin Bet attacked a functional stronghold of the terror organization PIJ, located within the compound of the Al-Aqsa Hospital.</p>\n<p>An aircraft of the Air Force attacked a short while ago a functional stronghold of the terror organization PIJ, which operated within the compound of the Al-Aqsa hospital in the area of \u200b\u200bDir al-Balah. In the stronghold were terrorists from the terror organization.</p>\n<p>After a protracted battle procedure, the functional stronghold and the terrorists within it were attacked, with precision to minimize harm to those uninvolved in the hospital premises. </p>\n<p>The Al-Aqsa Hospital was not damaged by the attack, and its ongoing operation was not affected.</p>\n<p>The presence of the stronghold and the terrorists who operated in it within the hospital&#8217;s yard is further proof of the systematic use by terrorist organizations in Gaza of humanitarian and medical infrastructures as a cover for terrorist activities.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF and the Shin Bet attacked a functional stronghold of the <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> PIJ, located within the compound of the Al-Aqsa Hospital. An aircraft of the Air Force attacked a short while ago a functional stronghold of the terror organization PIJ, which operated within the compound of the Al-Aqsa hospital in the area of \u200b\u200bDir al-Balah. In the stronghold were terrorists from the terror organization. After a protracted battle procedure, the functional stronghold and the terrorists within it were attacked, with precision to minimize harm to those uninvolved in the hospital premises. The Al-Aqsa Hospital was not</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3513",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3513
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3513",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3513"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3513/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3513"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3513"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3513"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

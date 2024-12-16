@@ -1,0 +1,134 @@
+{
+    "id": 4873,
+    "date": "2023-10-07T06:30:00",
+    "date_gmt": "2023-10-07T03:30:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=4873"
+    },
+    "modified": "2024-06-02T22:25:18",
+    "modified_gmt": "2024-06-02T19:25:18",
+    "slug": "matan-kido-elmalem",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/victims/matan-kido-elmalem/",
+    "title": {
+        "rendered": "matan kido elmalem"
+    },
+    "content": {
+        "rendered": "\n<p>Matan Elmalem, 42, known as DJ Kido, was one of the most prominent figures in Israel\u2019s trance music scene. On October 7, he was planning to play music at the Nova party in Re&#8217;im when he was murdered by Hamas terrorists.</p>\n\n\n\n<p>Music was an inseparable part of his life, and he dedicated himself to promoting trance music and improving its image worldwide. He performed at festivals in Europe, South America, and other places around the world. As a generous person who loved helping others, he worked to promote and mentor newcomers to the music scene.</p>\n\n\n\n<p>The night before the Hamas attack, Matan was playing music for the festival goers, and he was supposed to go back on stage on the morning of October 7. Half an hour before his set, the terrorists began their attack. Before he was murdered, he saved the lives of two party-goers by helping them hide and directing them toward the exit road so they could escape.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Matan Elmalem, 42, known as DJ Kido, was one of the most prominent figures in <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>\u2019s trance music scene. On October 7, he was planning to play music at the Nova party in Re&#8217;im when he was murdered by <a  href=\"/hamas\">Hamas</a> terrorists. Music was an inseparable part of his life, and he dedicated himself to promoting trance music and improving its image worldwide. He performed at festivals in Europe, South America, and other places around the world. As a generous person who loved helping others, he worked to promote and mentor newcomers to the music scene. The night before the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a></p>\n",
+        "protected": false
+    },
+    "author": 16,
+    "featured_media": 4874,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-october-7th-victims",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 21,
+        "footnotes": ""
+    },
+    "categories": [
+        21
+    ],
+    "tags": [
+        60,
+        117
+    ],
+    "class_list": [
+        "post-4873",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-victims",
+        "tag-dimona",
+        "tag-reim"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4873
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4873",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/16"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4873"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4873/revisions"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/4874"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4873"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4873"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4873"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

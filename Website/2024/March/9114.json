@@ -1,0 +1,122 @@
+{
+    "id": 3694,
+    "date": "2024-03-12T19:17:26",
+    "date_gmt": "2024-03-12T17:17:26",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9114/"
+    },
+    "modified": "2024-03-12T19:17:26",
+    "modified_gmt": "2024-03-12T17:17:26",
+    "slug": "9114",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9114/",
+    "title": {
+        "rendered": "&#8220;Breaking News: IDF Launches Strikes on Hezbollah Targets in Lebanon &#8211; A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Documentation of the Air Force attack deep in Lebanon earlier today; fighter jets attacked Hezbollah targets in southern Lebanon a short while ago.</p>\n<p>Fighter jets recently attacked the terror infrastructure of the terrorist organization Hezbollah near Al-Adaysseh and a military building of the organization in the area of Ayta ash Shab.</p>\n<p>In the past few hours, a number of launches have been identified from Lebanese territory towards Zirit, Shetula, and Rosh Hanikra.<br />\nIDF forces responded with artillery fire at the sources of the shooting and attacked additional areas in Lebanon to remove the threat.</p>\n<p>Enclosed is a documentation of the Air Force&#8217;s attack in the Be&#8217;albek area deep in Lebanon earlier today: https://bit.ly/3uYfn4N</p>\n<p>Attached is documentation from the attacks in southern Lebanon: https://bit.ly/3TfUmKN</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Documentation of the Air Force attack deep in Lebanon earlier today; fighter jets attacked <a  href=\"/hezbollah\">Hezbollah</a> targets in southern Lebanon a short while ago. Fighter jets recently attacked the terror infrastructure of the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> near Al-Adaysseh and a military building of the organization in the area of Ayta ash Shab. In the past few hours, a number of launches have been identified from Lebanese territory towards Zirit, Shetula, and Rosh Hanikra. IDF forces responded with artillery fire at the sources of the shooting and attacked additional areas in Lebanon to remove the threat. Enclosed is a documentation</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3694",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3694
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3694",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3694"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3694/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3694"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3694"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3694"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

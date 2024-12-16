@@ -1,0 +1,122 @@
+{
+    "id": 3633,
+    "date": "2024-03-19T12:56:33",
+    "date_gmt": "2024-03-19T10:56:33",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9175/"
+    },
+    "modified": "2024-03-19T12:56:33",
+    "modified_gmt": "2024-03-19T10:56:33",
+    "slug": "9175",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9175/",
+    "title": {
+        "rendered": "&#8220;IDF and Shin Bet Forces: Ongoing Anti-Terror Operations in Gaza Strip and Shifa Hospital &#8211; A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Israel Defense Forces (IDF) Spokesperson:</p>\n<p>IDF soldiers continue to operate in the Gaza Strip; IDF and Shin Bet forces continued to operate in the Shifa Hospital throughout the night, so far dozens of terrorists have been eliminated in the hospital.</p>\n<p>Operations of IDF and Shin Bet forces, including Unit 13 and the combat team of Brigade 401 led by Division 162, continue in the area of Shifa Hospital.</p>\n<p>The fighters are eliminating terrorists in face-to-face combat and finding weapons while preventing harm to citizens, patients, medical teams, and medical equipment.</p>\n<p>So far during the operation in the hospital, the fighters have eliminated over 50 terrorists and detained around 180 suspects in the area.</p>\n<p>In the center of the Strip, the combat team of the Paratrooper brigade continues to operate during the last few days, the fighters have eliminated several terrorists in the area. During one of the activities, the fighters identified a terrorist shooting at them and within several minutes they circled him together with the tank force of the battalion and eliminated him.</p>\n<p>In the Al-Qarara area in Khan Yunis, the combat team of Brigade 7, along with the Air Force, have eliminated terrorists and destroyed terror infrastructure in the area. Among the destroyed infrastructure was a military base from which a mortar was fired at our forces two days ago without injuries.</p>\n<p>Attached is a documentation of the IDF attacks in the Strip: https://bit.ly/3vgBgfD </p>\n<p>Attached are photos of the forces&#8217; activity in Shifa Hospital: https://IDFANC.activetrail.biz/ANC19032024.15156189</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> Defense Forces (IDF) Spokesperson: IDF soldiers continue to operate in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip; IDF and Shin Bet forces continued to operate in the Shifa Hospital throughout the night, so far dozens of terrorists have been eliminated in the hospital. Operations of IDF and Shin Bet forces, including Unit 13 and the combat team of Brigade 401 led by Division 162, continue in the area of Shifa Hospital. The fighters are eliminating terrorists in face-to-face combat and finding weapons while preventing harm to citizens, patients, medical teams, and medical equipment. So far during the operation in the hospital, the fighters</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3633",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3633
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3633",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3633"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3633/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3633"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3633"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3633"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

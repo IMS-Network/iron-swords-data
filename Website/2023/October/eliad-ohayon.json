@@ -1,0 +1,138 @@
+{
+    "id": 1339,
+    "date": "2023-10-07T06:30:00",
+    "date_gmt": "2023-10-07T03:30:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=1339"
+    },
+    "modified": "2024-04-18T15:28:13",
+    "modified_gmt": "2024-04-18T12:28:13",
+    "slug": "eliad-ohayon",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/victims/eliad-ohayon/",
+    "title": {
+        "rendered": "ELIAD OHAYON"
+    },
+    "content": {
+        "rendered": "\n<p>Eliad Ohayon, a 23-year-old resident of Ofakim, along with his father Moshe, tragically lost their lives in the Black Sabbath massacre on October 7 while bravely aiding others amidst the chaos of a terrorist attack. The Ohayon family, known for their selfless devotion to charitable causes, had opened their home to children with cancer and disabilities for years during the Shabbat of Simchat Torah. When the attack began, Moshe and Eliad acted swiftly to ensure the safety of their neighbors, breaking open a nearby shelter to provide refuge. Despite the danger, Moshe, armed only with his personal firearm, confronted the terrorists to protect his community. Tragically, both Moshe and Eliad were fatally wounded while attempting to fend off the attackers. Eliad&#8217;s last act was to try to aid his father amidst the gunfire. Their courageous actions serve as a testament to their unwavering commitment to helping others, even at the cost of their own lives.</p>\n\n\n\n<p></p>\n\n\n\n<p></p>\n\n\n\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\">\n<p></p>\n<cite>This summary is based on the article found at <a href=\"https://news.walla.co.il/item/3620819\">Walla News</a>.</cite></blockquote>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Eliad Ohayon, a 23-year-old resident of <a  href=\"https://iron-swords.co.il/t/ofakim/\">Ofakim</a>, along with his father Moshe, tragically lost their lives in the Black Sabbath massacre on October 7 while bravely aiding others amidst the chaos of a terrorist attack. The Ohayon family, known for their selfless devotion to charitable causes, had opened their home to children with cancer and disabilities for years during the Shabbat of Simchat Torah. When the attack began, Moshe and Eliad acted swiftly to ensure the safety of their neighbors, breaking open a nearby shelter to provide refuge. Despite the danger, Moshe, armed only with his personal firearm, confronted the</p>\n",
+        "protected": false
+    },
+    "author": 6,
+    "featured_media": 1340,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-october-7th-victims",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 21,
+        "footnotes": ""
+    },
+    "categories": [
+        21
+    ],
+    "tags": [
+        88
+    ],
+    "class_list": [
+        "post-1339",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-victims",
+        "tag-ofakim"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 1339
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1339",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/6"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=1339"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 5,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1339/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 1349,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1339/revisions/1349"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/1340"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=1339"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=1339"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=1339"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

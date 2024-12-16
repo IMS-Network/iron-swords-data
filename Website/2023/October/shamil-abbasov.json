@@ -1,0 +1,140 @@
+{
+    "id": 518,
+    "date": "2023-10-07T06:30:59",
+    "date_gmt": "2023-10-07T03:30:59",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=518"
+    },
+    "modified": "2024-04-12T15:24:15",
+    "modified_gmt": "2024-04-12T12:24:15",
+    "slug": "shamil-abbasov",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/victims/shamil-abbasov/",
+    "title": {
+        "rendered": "Shamil Abbasov"
+    },
+    "content": {
+        "rendered": "\n<p>Shamil Abbasov, a 33-year-old resident of Be&#8217;er Sheva, was murdered during a terrorist attack in Kibbutz Ra&#8217;im by <a href=\"https://iron-swords.co.il/hamas/\" data-type=\"page\" data-id=\"86\">Hamas terrorists</a><br>Shamil was an avid gamer who frequently participated in competitive eFootball matches. <br>During the October 7th massacre, he bravely saved two young girls who were passengers in his taxi as they came under fire from <a href=\"https://iron-swords.co.il/hamas/\" data-type=\"page\" data-id=\"86\">Hamas terrorists</a>.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Shamil Abbasov, a 33-year-old resident of <a  href=\"https://iron-swords.co.il/t/beer-sheva/\">Be&#8217;er Sheva</a>, was murdered during a terrorist attack in Kibbutz Ra&#8217;im by <a  href=\"/hamas\">Hamas</a> terrorists</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 521,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-october-7th-victims",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 21,
+        "footnotes": ""
+    },
+    "categories": [
+        21
+    ],
+    "tags": [
+        35,
+        34
+    ],
+    "class_list": [
+        "post-518",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-victims",
+        "tag-beer-sheva",
+        "tag-nova"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 518
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/518",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=518"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/518/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 1052,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/518/revisions/1052"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/521"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=518"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=518"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=518"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

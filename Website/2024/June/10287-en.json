@@ -1,0 +1,124 @@
+{
+    "id": 8396,
+    "date": "2024-06-29T15:06:10",
+    "date_gmt": "2024-06-29T12:06:10",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10287-en/"
+    },
+    "modified": "2024-06-29T15:06:10",
+    "modified_gmt": "2024-06-29T12:06:10",
+    "slug": "10287-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10287-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah: Air Force Targets Militants in Houla After Cross-Border Attack&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Documentation: Hezbollah operatives were identified entering a military structure of the organization in the Houla area and were attacked from the air.</p>\n<p>A unit from Unit 869 identified operatives entering a military structure of the terrorist organization Hezbollah in the Houla region in southern Lebanon a short while ago. In a rapid response, Israeli Air Force fighter jets attacked the building where the operatives were located, alongside another military structure of the organization.</p>\n<p>Additionally, an Israeli Air Force aircraft attacked a Hezbollah operative in the Houla region.</p>\n<p>Earlier today, two anti-tank launches were detected crossing from Lebanon and landing in the Misgav Am area, causing no injuries. IDF forces retaliated with artillery at the sources of fire.</p>\n<p>Attached is documentation of the attacks: https://bit.ly/4cIsTcI</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Documentation: <a  href=\"/hezbollah\">Hezbollah</a> operatives were identified entering a military structure of the organization in the Houla area and were attacked from the air. A unit from Unit 869 identified operatives entering a military structure of the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in the Houla region in southern Lebanon a short while ago. In a rapid response, Israeli Air Force fighter jets attacked the building where the operatives were located, alongside another military structure of the organization. Additionally, an Israeli Air Force aircraft attacked a Hezbollah operative in the Houla region. Earlier today, two anti-tank launches were detected crossing from Lebanon and</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8396",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8396,
+        "he": 8397,
+        "ru": 8398
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8396",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8396"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8396/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8396"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8396"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8396"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

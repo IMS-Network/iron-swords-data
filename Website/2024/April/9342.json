@@ -1,0 +1,122 @@
+{
+    "id": 3471,
+    "date": "2024-04-05T11:40:00",
+    "date_gmt": "2024-04-05T08:40:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9342/"
+    },
+    "modified": "2024-04-05T11:40:00",
+    "modified_gmt": "2024-04-05T08:40:00",
+    "slug": "9342",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9342/",
+    "title": {
+        "rendered": "&#8220;IDF Dismantles Terrorists&#8217; Operations: Overnight Raids, Arrests, and House Demolitions Detailed&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF forces demolished overnight the house of the terrorist who carried out the stabbing attack in Gan Yavne; Yamam, Egoz and IDF soldiers eliminated a terrorist who threw explosives at the fighters in Tul Karm in Menashe.</p>\n<p>IDF soldiers demolished overnight in the city of Dura in the Judea Brigade the house of the terrorist who carried out the stabbing attack in Gan Yavne this week (Monday), in which Lidor Levy was murdered and two other Israeli citizens were injured.<br />\nIn addition, IDF soldiers, Shin Bet and Border Police operated overnight to arrest 13 wanted men across the Judea and Samaria Brigade. </p>\n<p>In an operation in the Pahama area of the Menashe Brigade, several terrorists shot at fighters from the Haruv unit operating in the area, the forces responded with fire, hits were identified. During the operation, the fighters interrogated many suspects. </p>\n<p>In Tul Karm in Menashe, a terrorist threw explosives at a force of undercover Border Police officers from Egoz, who responded with gunfire and eliminated the terrorist. Also, the fighters arrested three more wanted men suspected of terrorist activity.</p>\n<p>In the city of Yatta in the Judea Brigade, the forces arrested five wanted men and found warfare means. In Nablus, in the village of Maalik and in the Beitot villages, four more wanted men were arrested.</p>\n<p>The arrested wanted men and the confiscated warfare means were handed over for further treatment by security forces, there were no casualties to our forces.</p>\n<p>So far, since the beginning of the war, about 3,700 wanted men have been arrested across the Judea and Samaria Brigade and in the Jordan Valley and Valley Brigades, about 1,600 of them are affiliated with the Hamas terror group.</p>\n<p>Attached are photos from the demolition of the house of the terrorist who executed the attack in Gan Yavne: https://IDFANC.activetrail.biz/ANC05042024.15615156</p>\n<p>Attached is documentation from the demolition of the terrorist&#8217;s house: https://bit.ly/4aJsUfs</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF forces demolished overnight the house of the terrorist who carried out the stabbing attack in Gan Yavne; Yamam, Egoz and IDF soldiers eliminated a terrorist who threw explosives at the fighters in Tul Karm in Menashe. IDF soldiers demolished overnight in the city of Dura in the Judea Brigade the house of the terrorist who carried out the stabbing attack in Gan Yavne this week (Monday), in which Lidor Levy was murdered and two other Israeli citizens were injured. In addition, IDF soldiers, Shin Bet and Border Police operated overnight to arrest 13 wanted men across</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3471",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3471
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3471",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3471"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3471/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3471"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3471"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3471"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

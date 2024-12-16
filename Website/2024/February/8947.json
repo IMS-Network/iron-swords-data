@@ -1,0 +1,122 @@
+{
+    "id": 3856,
+    "date": "2024-02-23T10:40:31",
+    "date_gmt": "2024-02-23T08:40:31",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8947/"
+    },
+    "modified": "2024-02-23T10:40:31",
+    "modified_gmt": "2024-02-23T08:40:31",
+    "slug": "8947",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8947/",
+    "title": {
+        "rendered": "&#8220;IDF, Shin Bet and Border Police Successfully Arrest Nine Wanted Suspects in Judea and Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF, Shin Bet and Border Police forces arrested nine wanted suspects throughout Judea and Samaria last night. The forces operated again in the Zaatara village, from which the terrorists who attacked yesterday in Maale Adumim came.</p>\n<p>IDF, Shin Bet and Border Police forces operated last night to arrest nine wanted suspects throughout Judea and Samaria. In the Zaatara village in the Etzion Brigade&#8217;s sector, the forces operated again in the area from which the terrorists who carried out the attack yesterday in Maale Adumim came from, and arrested two wanted suspects.</p>\n<p>In Tul Karm city in the Menashe Brigade&#8217;s sector, two wanted suspects were arrested, and in the Dheisheh camp in the Etzion sector, the forces arrested three more wanted suspects.</p>\n<p>The arrested suspects were transferred for further security forces&#8217; handling, no injuries to our forces were reported.</p>\n<p>To this day, since the beginning of the conflict, about 3,200 wanted suspects have been arrested throughout the Judea and Samaria Division and the Jordan Valley and Valleys Brigade. Over 1,350 of them are affiliated with the terrorist organization Hamas.</p>\n<p>Attached is the documentation of the forces&#8217; activities in the Judea and Samaria Division last night:<br />\nhttps://bit.ly/3T9kIPJ</p>\n<p>Attached are photos from the activities of the forces in the Judea and Samaria Division last night: https://IDFANC.activetrail.biz/ANC230220242378637</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF, Shin Bet and Border Police forces arrested nine wanted suspects throughout Judea and Samaria last night. The forces operated again in the Zaatara village, from which the terrorists who attacked yesterday in Maale Adumim came. IDF, Shin Bet and Border Police forces operated last night to arrest nine wanted suspects throughout Judea and Samaria. In the Zaatara village in the Etzion Brigade&#8217;s sector, the forces operated again in the area from which the terrorists who carried out the attack yesterday in Maale Adumim came from, and arrested two wanted suspects. In Tul Karm city in the Menashe</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3856",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3856
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3856",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3856"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3856/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3856"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3856"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3856"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

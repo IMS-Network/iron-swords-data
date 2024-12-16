@@ -1,0 +1,124 @@
+{
+    "id": 8771,
+    "date": "2024-06-18T12:40:18",
+    "date_gmt": "2024-06-18T09:40:18",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10160-en/"
+    },
+    "modified": "2024-06-18T12:40:18",
+    "modified_gmt": "2024-06-18T09:40:18",
+    "slug": "10160-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10160-en/",
+    "title": {
+        "rendered": "&#8220;IDF Denies Claims of Chief of Staff Supporting Hamas Rule: A Call for Clarity&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The publication by Yaakov Bardugo claiming that the Chief of Staff supports the continuation of Hamas rule in Gaza is a serious lie and completely unfounded. The Chief of Staff has expressed countless times on this issue, including publicly, that the continuation of Hamas control in Gaza must not be allowed. Additionally, it is the political level that determines the policy towards the United States and the Gaza Strip, and the IDF implements the directives on this matter. Other claims, as raised by the journalist in recent days, are a complete falsehood and an attempt to harm the IDF and the Chief of Staff who leads it, guiding the IDF in the fight against Hamas with great determination and significant results.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The publication by Yaakov Bardugo claiming that the Chief of Staff supports the continuation of <a  href=\"/hamas\">Hamas</a> rule in <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> is a serious lie and completely unfounded. The Chief of Staff has expressed countless times on this issue, including publicly, that the continuation of <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> control in Gaza must not be allowed. Additionally, it is the political level that determines the policy towards the United States and the Gaza Strip, and the IDF implements the directives on this matter. Other claims, as raised by the journalist in recent days, are a complete falsehood and an attempt to harm the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8771",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8771,
+        "he": 8772,
+        "ru": 8773
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8771",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8771"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8771/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8771"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8771"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8771"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

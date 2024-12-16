@@ -1,0 +1,122 @@
+{
+    "id": 3822,
+    "date": "2024-02-27T12:59:42",
+    "date_gmt": "2024-02-27T10:59:42",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8981/"
+    },
+    "modified": "2024-02-27T12:59:42",
+    "modified_gmt": "2024-02-27T10:59:42",
+    "slug": "8981",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8981/",
+    "title": {
+        "rendered": "&#8220;Operation Counter Terrorism: Decisive IDF Action Targets Senior PFLP Member and Arrests Numerous Wanted Individuals Across Judea and Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>In a targeted operation to counter terrorism in the Valley and Plains Brigade, a senior PFLP (Popular Front for the Liberation of Palestine) was killed in Tubas alongside additional armed terrorists. IDF soldiers, Shin Bet and Border Police arrested 14 wanted individuals across Judea and Samaria.</p>\n<p>In a targeted operation to counter terrorism, planned by the Shin Bet intelligence in the Tubas and Far&#8217;ah areas of the Valley and Plains Brigade, forces from the Duvdevan unit killed Ahmed Dragma, a high-ranking member of the Palestinian Islamic Jihad terror organization in Tubas.</p>\n<p>In the past, Dragma carried out shooting and bombing attacks against IDF forces. In addition to Dragma, the forces killed two more armed terrorists and found assault rifles.</p>\n<p>In addition, during the operation a soldier was lightly injured. The soldier has been taken to the hospital for medical treatment, his family has been notified.</p>\n<p>In the city of Nablus, in the Samaria Brigade, forces arrested three wanted individuals and found and confiscated a Carlo-type rifle and homemade explosives.</p>\n<p>In the city of Hebron, in the Judea Brigade, the forces arrested five wanted individuals. In Yatta village, in the brigade\u2019s jurisdiction, soldiers arrested an additional wanted person and found incitement materials and military equipment.<br />\nThe arrested persons and confiscated weapons have been transferred for further handling by security forces.</p>\n<p>So far, since the beginning of the war, about 3,250 wanted individuals have been arrested across the Judea, Samaria and Valley and Plains Brigade divisions. Over 1,350 of them are associated with the Hamas terror organization. </p>\n<p>Attached is footage from IDF forces&#8217; activity last night: https://bit.ly/49z4NA3</p>\n<p>Attached are photos from IDF forces&#8217; activity: https://IDFANC.activetrail.biz/ANC270220248249889892</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: In a targeted operation to counter terrorism in the Valley and Plains Brigade, a senior PFLP (Popular Front for the Liberation of Palestine) was killed in Tubas alongside additional armed terrorists. IDF soldiers, Shin Bet and Border Police arrested 14 wanted individuals across Judea and Samaria. In a targeted operation to counter terrorism, planned by the Shin Bet intelligence in the Tubas and Far&#8217;ah areas of the Valley and Plains Brigade, forces from the <a  href=\"https://iron-swords.co.il/t/duvdevan-unit/\">Duvdevan unit</a> killed Ahmed Dragma, a high-ranking member of the Palestinian Islamic Jihad <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> in Tubas. In the past, Dragma carried out shooting</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3822",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3822
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3822",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3822"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3822/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3822"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3822"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3822"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

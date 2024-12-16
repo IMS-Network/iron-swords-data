@@ -1,0 +1,122 @@
+{
+    "id": 3358,
+    "date": "2024-04-15T18:44:26",
+    "date_gmt": "2024-04-15T15:44:26",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9458/"
+    },
+    "modified": "2024-04-15T18:44:26",
+    "modified_gmt": "2024-04-15T15:44:26",
+    "slug": "9458",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9458/",
+    "title": {
+        "rendered": "&#8220;IDF&#8217;s Major Military Exercise in Galilee: Anticipate High Traffic and Enhanced Security &#8211; Key Details for 2024 Annual Training Program&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Tomorrow (Tuesday), from morning hours until noon, a military exercise will take place in the areas of the central and upper Galilee. </p>\n<p>During the exercise, intense movement of aircraft, vehicles, and numerous security forces in the area will be felt.</p>\n<p>The exercise was preplanned as part of the IDF&#8217;s annual training program for 2024, and as part of the IDF&#8217;s readiness for various threats in all sectors.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Tomorrow (Tuesday), from morning hours until noon, a military exercise will take place in the areas of the central and upper Galilee. During the exercise, intense movement of aircraft, vehicles, and numerous security forces in the area will be felt. The exercise was preplanned as part of the IDF&#8217;s annual training program for 2024, and as part of the IDF&#8217;s readiness for various threats in all sectors.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3358",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3358
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3358",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3358"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3358/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3358"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3358"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3358"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

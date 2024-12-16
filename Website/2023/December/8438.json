@@ -1,0 +1,122 @@
+{
+    "id": 4356,
+    "date": "2023-12-28T15:00:04",
+    "date_gmt": "2023-12-28T13:00:04",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8438/"
+    },
+    "modified": "2023-12-28T15:00:04",
+    "modified_gmt": "2023-12-28T13:00:04",
+    "slug": "8438",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8438/",
+    "title": {
+        "rendered": "&#8220;Uncovering Hezbollah&#8217;s Hidden Power: Inside the 55 Artillery Combat Reserves&#8217; Tunnel Discovery in a Khan Yunis Mosque&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Locating a tunnel in a mosque and the destruction of Hezbollah&#8217;s power:<br />\nA glimpse into the 55 reserves artillery combat in Khan Yunis.</p>\n<p>https://www.idf.il/167359</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Locating a tunnel in a mosque and the destruction of <a  href=\"/hezbollah\">Hezbollah</a>&#8217;s power: A glimpse into the 55 reserves artillery combat in Khan Yunis. https://www.idf.il/167359</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4356",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4356
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4356",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4356"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4356/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4356"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4356"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4356"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

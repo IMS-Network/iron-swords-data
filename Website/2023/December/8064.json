@@ -1,0 +1,122 @@
+{
+    "id": 4725,
+    "date": "2023-12-01T18:08:15",
+    "date_gmt": "2023-12-01T16:08:15",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8064/"
+    },
+    "modified": "2023-12-01T18:08:15",
+    "modified_gmt": "2023-12-01T16:08:15",
+    "slug": "8064",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8064/",
+    "title": {
+        "rendered": "&#8220;IDF and Shin Bet Discover Abducted Ophir Zarfati&#8217;s Body in Gaza: An Unwavering National Mission Continues&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint statement from the IDF Spokesperson and the Shin Bet:</p>\n<p>The body of the abducted Ophir Zarfati, may his memory be a blessing, was found in recent days by a joint force of the IDF and Shin Bet in the Gaza Strip and was brought to Israel.</p>\n<p>Following an identification process conducted by medical authorities and military rabbinate, together with the Institute of Forensic Medicine and the Israel Police, representatives of the IDF and police informed the family of Ophir Zarfati, whose memory is a blessing, on Wednesday, 29.11.23, who was abducted on Saturday, 07.10.23 from the party area in Re&#8217;im, about his death. We share in the family&#8217;s grief.</p>\n<p>The national mission in front of us is to locate and bring back the abducted individuals. The IDF and Shin Bet operate in close cooperation and full coordination with the relevant national and security organs and we will not relent until this mission is completed.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint statement from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a> and the Shin Bet: The body of the abducted Ophir Zarfati, may his memory be a blessing, was found in recent days by a joint force of the IDF and Shin Bet in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip and was brought to <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>. Following an identification process conducted by medical authorities and military rabbinate, together with the Institute of Forensic Medicine and the Israel Police, representatives of the IDF and police informed the family of Ophir Zarfati, whose memory is a blessing, on Wednesday, 29.11.23, who was abducted on Saturday, 07.10.23 from the party area in</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4725",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4725
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4725",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4725"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4725/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4725"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4725"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4725"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

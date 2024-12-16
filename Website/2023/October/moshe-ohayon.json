@@ -1,0 +1,138 @@
+{
+    "id": 1346,
+    "date": "2023-10-07T06:30:00",
+    "date_gmt": "2023-10-07T03:30:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=1346"
+    },
+    "modified": "2024-04-18T15:28:24",
+    "modified_gmt": "2024-04-18T12:28:24",
+    "slug": "moshe-ohayon",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/victims/moshe-ohayon/",
+    "title": {
+        "rendered": "MOSHE OHAYON"
+    },
+    "content": {
+        "rendered": "\n<p>Moshe Ohion, a devoted father and pillar of strength in Ofakim, displayed extraordinary heroism on the 7th of October when he and his son Eliad valiantly intervened to protect their fellow citizens from a terrorist onslaught. Despite the initial safety of a shelter, Moshe&#8217;s unwavering concern for his neighbors drove him to action, leading him to break open nearby shelters to provide refuge for those in need. With courage in his heart and his personal firearm in hand, Moshe confronted the terrorists head-on, risking his life to defend his community. In a daring act of bravery, he thwarted the assailants&#8217; attempts, eliminating one and engaging in a fierce firefight with others. Tragically, Moshe and Eliad ultimately succumbed to the terrorists&#8217; relentless assault, but their selfless sacrifice will forever be remembered as a testament to their unwavering dedication to the safety and well-being of others.</p>\n\n\n\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\">\n<p></p>\n<cite>This summary is based on the article found at <a href=\"https://news.walla.co.il/item/3620819\">Walla News</a>.</cite></blockquote>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Moshe Ohion, a devoted father and pillar of strength in <a  href=\"https://iron-swords.co.il/t/ofakim/\">Ofakim</a>, displayed extraordinary heroism on the 7th of October when he and his son Eliad valiantly intervened to protect their fellow citizens from a terrorist onslaught. Despite the initial safety of a shelter, Moshe&#8217;s unwavering concern for his neighbors drove him to action, leading him to break open nearby shelters to provide refuge for those in need. With courage in his heart and his personal firearm in hand, Moshe confronted the terrorists head-on, risking his life to defend his community. In a daring act of bravery, he thwarted the assailants&#8217;</p>\n",
+        "protected": false
+    },
+    "author": 6,
+    "featured_media": 1347,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-october-7th-victims",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 21,
+        "footnotes": ""
+    },
+    "categories": [
+        21
+    ],
+    "tags": [
+        88
+    ],
+    "class_list": [
+        "post-1346",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-victims",
+        "tag-ofakim"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 1346
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1346",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/6"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=1346"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1346/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 1348,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1346/revisions/1348"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/1347"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=1346"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=1346"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=1346"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

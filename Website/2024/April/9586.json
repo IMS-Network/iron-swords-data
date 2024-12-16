@@ -1,0 +1,122 @@
+{
+    "id": 3235,
+    "date": "2024-04-29T16:40:58",
+    "date_gmt": "2024-04-29T13:40:58",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9586/"
+    },
+    "modified": "2024-04-29T16:40:58",
+    "modified_gmt": "2024-04-29T13:40:58",
+    "slug": "9586",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9586/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Terror Targets in Southern Lebanon: A Detailed Analysis of the Attack&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Launch sites, terror infrastructures, and military structures; the IDF attacked Hezbollah terror targets in southern Lebanon</p>\n<p>Earlier today, fighter jets attacked terror targets of the terrorist organization Hezbollah in the Ras al-Puchra and al-Hayam areas in southern Lebanon. The targets that were attacked included launch sites, terror infrastructures, and a military structure that served the terrorist organization in the area.</p>\n<p>In addition, the IDF attacked with artillery fire to remove threats in the area of \u200b\u200bAita al-Shaeb in southern Lebanon.</p>\n<p>Attached is documentation of the attacks: https://bit.ly/4dl9S1o</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Launch sites, terror infrastructures, and military structures; the IDF attacked <a  href=\"/hezbollah\">Hezbollah</a> terror targets in southern Lebanon Earlier today, fighter jets attacked terror targets of the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in the Ras al-Puchra and al-Hayam areas in southern Lebanon. The targets that were attacked included launch sites, terror infrastructures, and a military structure that served the terrorist organization in the area. In addition, the IDF attacked with artillery fire to remove threats in the area of \u200b\u200bAita al-Shaeb in southern Lebanon. Attached is documentation of the attacks: https://bit.ly/4dl9S1o</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3235",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3235
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3235",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3235"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3235/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3235"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3235"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3235"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

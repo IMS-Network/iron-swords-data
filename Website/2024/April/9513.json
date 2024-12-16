@@ -1,0 +1,122 @@
+{
+    "id": 3307,
+    "date": "2024-04-20T22:32:14",
+    "date_gmt": "2024-04-20T19:32:14",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9513/"
+    },
+    "modified": "2024-04-20T22:32:14",
+    "modified_gmt": "2024-04-20T19:32:14",
+    "slug": "9513",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9513/",
+    "title": {
+        "rendered": "&#8220;Restricted Visitor Access to IDF Training Territories During Passover: Essential Guidelines and Contacts&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Due to the operational situation, and in accordance with the situation assessment, this year visitors will be allowed limited access to some of the training territories (firing zones) in the southern part of the country during the Passover holiday. Most of the firing zones will be closed to visitors.<br />\nIn some of the firing zones, visitors&#8217; access will be allowed only by prior coordination, the permitted and prohibited zones for entry are marked on the attached map.</p>\n<p>The firing zones in the northern part of the country will remain closed to visitors, and it is forbidden to approach them.</p>\n<p>In addition, we would like to remind you that as part of the situation assessment, it has been decided that the IDF will not open route 10 to visitors during this period.</p>\n<p>The IDF urgently asks the public not to enter the prohibited areas, and to allow the security forces to continue and perform their duties.<br />\nAny access to a military zone requires prior coordination and approval. Access to a military zone without prior coordination and approval jeopardizes the safety of the visitors.</p>\n<p>Phone numbers for coordination and inquiry for tours: </p>\n<p>In the south of the country:<br />\n08-9902926/8<br />\n0529010563 (SMS only)</p>\n<p>In the north of the country:<br />\n073-3483007</p>\n<p>Attached is a map describing the areas where it is and isn&#8217;t possible to tour during the holiday in the south of the country:<br />\nhttps://IDFANC.activetrail.biz/ANC200420247498321897</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Due to the operational situation, and in accordance with the situation assessment, this year visitors will be allowed limited access to some of the training territories (firing zones) in the southern part of the country during the Passover holiday. Most of the firing zones will be closed to visitors. In some of the firing zones, visitors&#8217; access will be allowed only by prior coordination, the permitted and prohibited zones for entry are marked on the attached map. The firing zones in the northern part of the country will remain closed to visitors, and it is forbidden to approach</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3307",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3307
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3307",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3307"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3307/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3307"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3307"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3307"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

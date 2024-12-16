@@ -1,0 +1,142 @@
+{
+    "id": 15576,
+    "date": "2024-07-16T15:00:00",
+    "date_gmt": "2024-07-16T12:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=15576"
+    },
+    "modified": "2024-11-05T09:16:25",
+    "modified_gmt": "2024-11-05T07:16:25",
+    "slug": "iaf-targets-terrorists-operating-in-unrwa-school-in-nuseirat",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/know-your-enemies/unrwa/iaf-targets-terrorists-operating-in-unrwa-school-in-nuseirat/",
+    "title": {
+        "rendered": "IAF Targets Terrorists Operating in UNRWA School in Nuseirat"
+    },
+    "content": {
+        "rendered": "\n<p>Leveraging precise IDF and ISA intelligence, the IAF successfully targeted terrorists operating within an UNRWA school in Nuseirat. These terrorists had been orchestrating multiple attacks against IDF forces in Gaza. Prior to the strike, extensive measures were implemented to minimize civilian harm, including aerial surveillance, precision munitions, and comprehensive intelligence gathering. The Hamas terrorist organization continues to violate international law by using civilian structures and populations as human shields for its attacks against Israel. Additionally, the IAF targeted and eliminated a company commander in Islamic Jihad&#8217;s Naval Unit in western Khan Yunis.<br></p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Leveraging precise IDF and ISA intelligence, the IAF successfully targeted terrorists operating within an <a  href=\"https://iron-swords.co.il/c/know-your-enemies/unrwa/\">UNRWA</a> school in Nuseirat. These terrorists had been orchestrating multiple attacks against IDF forces in <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>. Prior to the strike, extensive measures were implemented to minimize civilian harm, including aerial surveillance, precision munitions, and comprehensive intelligence gathering. The <a  href=\"/hamas\">Hamas</a> terrorist organization continues to violate international law by using civilian structures and populations as human shields for its attacks against <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>. Additionally, the IAF targeted and eliminated a company commander in Islamic Jihad&#8217;s Naval Unit in western Khan Yunis.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 15568,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-unrwa",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1342,
+        "footnotes": ""
+    },
+    "categories": [
+        1342
+    ],
+    "tags": [
+        1663,
+        33,
+        1340
+    ],
+    "class_list": [
+        "post-15576",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-unrwa",
+        "tag-philippe-lazzarini",
+        "tag-terror-organization",
+        "tag-the-un"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 15576
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15576",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=15576"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15576/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 15577,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15576/revisions/15577"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/15568"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=15576"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=15576"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=15576"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

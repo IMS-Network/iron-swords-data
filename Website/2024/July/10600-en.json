@@ -1,0 +1,124 @@
+{
+    "id": 7478,
+    "date": "2024-07-23T16:34:23",
+    "date_gmt": "2024-07-23T13:34:23",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10600-en/"
+    },
+    "modified": "2024-07-23T16:34:23",
+    "modified_gmt": "2024-07-23T13:34:23",
+    "slug": "10600-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10600-en/",
+    "title": {
+        "rendered": "&#8220;IDF Responds to State Comptroller&#8217;s Report: Enhancements in Judea and Samaria Security Measures&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Response from the IDF Spokesperson to the State Comptroller&#8217;s report regarding the protection of transportation routes in the Judea and Samaria area:</p>\n<p>The IDF places importance on criticism and studies its findings. The report&#8217;s findings relate to data prior to the war, up to September 2023, and do not reflect the current situation on the ground. The deployment of forces and checkpoints in the Judea and Samaria area is determined according to the assessment of the situation and has been presented to the political level.</p>\n<p>In parallel to the numerous actions taken to strengthen defensive efforts on the routes, there is a significant offensive effort by the Central Command, which includes thousands of offensive operations in which terrorist cells have been arrested and eliminated within the villages and cities before they could carry out attacks. Since the beginning of the war, hundreds of terrorists have been eliminated, over 4,200 wanted persons have been arrested, and 57 airstrikes have been carried out by various aircraft in Judea and Samaria.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Response from the IDF Spokesperson to the State Comptroller&#8217;s report regarding the protection of transportation routes in the Judea and Samaria area: The IDF places importance on criticism and studies its findings. The report&#8217;s findings relate to data prior to the war, up to September 2023, and do not reflect the current situation on the ground. The deployment of forces and checkpoints in the Judea and Samaria area is determined according to the assessment of the situation and has been presented to the political level. In parallel to the numerous actions taken to strengthen defensive efforts on the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7478",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7478,
+        "he": 7479,
+        "ru": 7480
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7478",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7478"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7478/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7478"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7478"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7478"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

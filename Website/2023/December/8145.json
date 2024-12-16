@@ -1,0 +1,122 @@
+{
+    "id": 4647,
+    "date": "2023-12-07T08:03:05",
+    "date_gmt": "2023-12-07T06:03:05",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8145/"
+    },
+    "modified": "2023-12-07T08:03:05",
+    "modified_gmt": "2023-12-07T06:03:05",
+    "slug": "8145",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8145/",
+    "title": {
+        "rendered": "&#8220;IDF&#8217;s Unrelenting Battle Against Hamas: Detailed Report from Khan Yunis and Jabalia Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF continues to fight against the terror organization Hamas across the Strip; forces from Brigade 98 continue to fight in Khan Yunis</p>\n<p>As part of Brigade 98&#8217;s activity in Khan Yunis, terrorists were killed and dozens of terror targets were attacked by the Air Force. A force of Duvdevan from the Battalion&#8217;s combat team encountered a squad of terrorists that emerged from a tunnel shaft, killed two terrorists in the encounter and destroyed the shaft. </p>\n<p>The combat team of Brigade 460 fought in the area of the Jabalia camp, the fighters raided the &#8220;Besan&#8221; position, a military post of the Hamas terror organization&#8217;s central Jabalia regiment. In the raid, several terrorists were killed. In addition, the forces located a network of underground tunnels leading out of the post, a training compound, and a weapons storage in the post area.</p>\n<p>The Navy forces, in support of the ground forces, attacked terror infrastructures and military compounds of the terror organization with precise engagement and shell fire.</p>\n<p>Attached is footage from IDF attacks in the Strip: https://bit.ly/47HxLwE</p>\n<p>Attached are pictures of weapons found in the Strip: https://IDFANC.activetrail.biz/ANC06122023.781231561</p>\n<p>Attached is documentation from the forces&#8217; activity in the Strip:  https://bit.ly/3uTwQus </p>\n<p>Attached are pictures from the forces&#8217; activity: https://IDFANC.activetrail.biz/ANC07122023.2032</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF continues to fight against the <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> <a  href=\"/hamas\">Hamas</a> across the Strip; forces from Brigade 98 continue to fight in Khan Yunis As part of Brigade 98&#8217;s activity in Khan Yunis, terrorists were killed and dozens of terror targets were attacked by the Air Force. A force of Duvdevan from the Battalion&#8217;s combat team encountered a squad of terrorists that emerged from a tunnel shaft, killed two terrorists in the encounter and destroyed the shaft. The combat team of Brigade 460 fought in the area of the Jabalia camp, the fighters raided the &#8220;Besan&#8221; position, a military</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4647",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4647
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4647",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4647"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4647/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4647"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4647"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4647"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

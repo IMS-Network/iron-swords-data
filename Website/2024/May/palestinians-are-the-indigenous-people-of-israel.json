@@ -1,0 +1,138 @@
+{
+    "id": 1000,
+    "date": "2024-05-27T21:32:35",
+    "date_gmt": "2024-05-27T18:32:35",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=1000"
+    },
+    "modified": "2024-05-27T21:32:42",
+    "modified_gmt": "2024-05-27T18:32:42",
+    "slug": "palestinians-are-the-indigenous-people-of-israel",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/palestinians-are-the-indigenous-people-of-israel/",
+    "title": {
+        "rendered": "\u201cPalestinians\u201d are the indigenous people of Israel"
+    },
+    "content": {
+        "rendered": "\n<p>That assertion is incorrect. </p>\n\n\n\n<p>Historical records show that Israel was established as a Jewish kingdom as early as the 11th century BCE, approximately 1,700 years before the advent of Islam and the subsequent migration of Arab peoples from the Arabian Peninsula. </p>\n\n\n\n<p>In contrast, the name &#8220;Palestine&#8221; was coined by the Romans in 70 AD as a deliberate strategy to diminish the Jewish connection to the land following their suppression of the Jewish revolt. They renamed it from Judea to Palestina, a name inspired by the Philistines, ancient adversaries of the Israelites, in an attempt to minimize Jewish identification with the land.</p>\n\n\n\n<p> This term &#8220;Palestine&#8221; was later adopted by the British during their mandate period. The modern Palestinian identity has indeed adopted this name, which originated from these imperial powers. In contrast, the modern state of Israel, established in 1948, signifies a reclamation of the ancient, indigenous name for the Jewish homeland, reconnecting the Jewish people with their historical roots.</p>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<iframe loading=\"lazy\" title=\"StandWithUs+: Indigenous - The Story of the Jewish people in Israel\" width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/VSBavvVi038?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n</div></figure>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>That assertion is incorrect here&#8217;s why </p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 2654,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 53,
+        "footnotes": ""
+    },
+    "categories": [
+        53
+    ],
+    "tags": [
+        54
+    ],
+    "class_list": [
+        "post-1000",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-facts",
+        "tag-education"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 1000
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1000",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=1000"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 3,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1000/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 2655,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1000/revisions/2655"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/2654"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=1000"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=1000"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=1000"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

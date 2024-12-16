@@ -1,0 +1,124 @@
+{
+    "id": 7767,
+    "date": "2024-07-16T17:18:02",
+    "date_gmt": "2024-07-16T14:18:02",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10500-en/"
+    },
+    "modified": "2024-07-16T17:18:02",
+    "modified_gmt": "2024-07-16T14:18:02",
+    "slug": "10500-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10500-en/",
+    "title": {
+        "rendered": "&#8220;IDF to Initiate Haredi Draft Summons: Key Steps for Enhanced Military Integration&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF will begin issuing initial summons for the first draft for those designated for security service from the Haredi sector on Sunday.</p>\n<p>On Sunday, July 21, 2024, the 15th of Tammuz 5784, the process of issuing summons for the first draft and for screening and evaluation processes ahead of the upcoming annual recruitment, which begins in July, will commence.</p>\n<p>The summons will be issued as part of the IDF&#8217;s program to promote the integration of service members from the Haredi sector into its ranks. The IDF operates to recruit from all parts of society, in light of the conscription obligation in the State of Israel, as it is a people&#8217;s army, and in view of the increased operational needs at this time, given the security challenges.</p>\n<p>The IDF will continue to operate in accordance with decisions made by the political leadership and in compliance with the law.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF will begin issuing initial summons for the first draft for those designated for security service from the Haredi sector on Sunday. On Sunday, July 21, 2024, the 15th of Tammuz 5784, the process of issuing summons for the first draft and for screening and evaluation processes ahead of the upcoming annual recruitment, which begins in July, will commence. The summons will be issued as part of the IDF&#8217;s program to promote the integration of service members from the Haredi sector into its ranks. The IDF operates to recruit from all parts of society, in light of</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7767",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7767,
+        "he": 7768,
+        "ru": 7769
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7767",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7767"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7767/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7767"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7767"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7767"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 4449,
+    "date": "2023-12-20T17:16:57",
+    "date_gmt": "2023-12-20T15:16:57",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8344/"
+    },
+    "modified": "2023-12-20T17:16:57",
+    "modified_gmt": "2023-12-20T15:16:57",
+    "slug": "8344",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8344/",
+    "title": {
+        "rendered": "&#8220;Brigadier General Yaki Dolf: The New Commander of Judea and Samaria Division &#8211; Transition Ceremony Highlights&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>Brigadier General Yaki Dolf stepped into his role as the commander of the Judea and Samaria Division.</p>\n<p>Brigadier General Yaki Dolf assumed his role today as the commander of the Judea and Samaria Division, replacing Brigadier General Avi Blot, who served in this capacity for over two years and is expected to take on the role as commander of the Command and Staff College.<br />\nThe defense transition ceremony was held today (Wednesday), at the base of the Judea and Samaria Division in Beit El, under the leadership of the Central Command Chief, Major General Yehuda Fox and other commanders.</p>\n<p>Attached are pictures on the topic: https://IDFANC.activetrail.biz/ANC2378748</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: Brigadier General Yaki Dolf stepped into his role as the commander of the <a  href=\"https://iron-swords.co.il/t/judea-and-samaria-division/\">Judea and Samaria Division</a>. Brigadier General Yaki Dolf assumed his role today as the commander of the Judea and Samaria Division, replacing Brigadier General Avi Blot, who served in this capacity for over two years and is expected to take on the role as commander of the Command and Staff College. The defense transition ceremony was held today (Wednesday), at the base of the Judea and Samaria Division in Beit El, under the leadership of the Central Command Chief, Major General Yehuda Fox and other</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4449",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4449
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4449",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4449"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4449/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4449"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4449"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4449"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

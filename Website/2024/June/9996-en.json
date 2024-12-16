@@ -1,0 +1,124 @@
+{
+    "id": 9263,
+    "date": "2024-06-04T17:31:12",
+    "date_gmt": "2024-06-04T14:31:12",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/9996-en/"
+    },
+    "modified": "2024-06-04T17:31:12",
+    "modified_gmt": "2024-06-04T14:31:12",
+    "slug": "9996-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9996-en/",
+    "title": {
+        "rendered": "&#8220;IDF Operations: 24 Terrorists Arrested, Explosives Seized in Judea and Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Attack on a terrorist who threw explosives, arrest of many wanted individuals, and confiscation of Hamas incitement materials; IDF, Shin Bet, and Border Police captured 24 wanted persons overnight across Judea and Samaria.</p>\n<p>The forces operated overnight to arrest 24 wanted individuals throughout Judea and Samaria. In an operation in Beit Deko in Benjamin, three wanted individuals were arrested and many suspects were interrogated. In Silwad, Mzirat al-Sharqiya, and Bir Zeit in the brigade&#8217;s sector, the forces arrested six additional wanted individuals.</p>\n<p>In Qalqilya in Ephraim, the forces arrested six wanted individuals and located and destroyed a bag containing explosives, in addition to a gas balloon bomb that was identified and destroyed. During the operation, a terrorist threw explosives at the soldiers, who returned fire, resulting in a confirmed hit.</p>\n<p>In Husan in Etzion, two Popular Terrorism activists were arrested, and in Burqa and a nearby stop in Samaria, the forces arrested three wanted individuals and confiscated incitement materials from the terrorist organization Hamas.</p>\n<p>In Dora and the village of Rameh in Judea, three wanted individuals were arrested. In Bidya in Ephraim, the forces arrested another wanted individual.</p>\n<p>The arrested wanted persons and the confiscated weapons were transferred for further processing by security forces; there were no casualties among our forces.</p>\n<p>Since the beginning of the war, approximately 4,150 wanted individuals have been arrested across the Judea and Samaria Division and the Jordan Valley Brigade, about 1,750 of whom are affiliated with the terrorist organization Hamas.</p>\n<p>Attached are photos from the forces&#8217; operations: https://IDFANC.activetrail.biz/ANC0406202473264523</p>\n<p>Documentation on the subject is attached: https://bit.ly/45dyHIW</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Attack on a terrorist who threw explosives, arrest of many wanted individuals, and confiscation of <a  href=\"/hamas\">Hamas</a> incitement materials; IDF, Shin Bet, and Border Police captured 24 wanted persons overnight across Judea and Samaria. The forces operated overnight to arrest 24 wanted individuals throughout Judea and Samaria. In an operation in Beit Deko in Benjamin, three wanted individuals were arrested and many suspects were interrogated. In Silwad, Mzirat al-Sharqiya, and Bir Zeit in the brigade&#8217;s sector, the forces arrested six additional wanted individuals. In Qalqilya in Ephraim, the forces arrested six wanted individuals and located and destroyed a bag</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9263",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9263,
+        "he": 9264,
+        "ru": 9265
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9263",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9263"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9263/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9263"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9263"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9263"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

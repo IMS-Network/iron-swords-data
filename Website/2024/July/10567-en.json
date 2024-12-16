@@ -1,0 +1,124 @@
+{
+    "id": 7578,
+    "date": "2024-07-21T07:31:31",
+    "date_gmt": "2024-07-21T04:31:31",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10567-en/"
+    },
+    "modified": "2024-07-21T07:31:31",
+    "modified_gmt": "2024-07-21T04:31:31",
+    "slug": "10567-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10567-en/",
+    "title": {
+        "rendered": "&#8220;Upper Galilee Civil Defense Siren Test Schedule &#8211; Important Alerts Today&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Civil defense siren tests will be conducted today in the areas of Abdon, Neve Ziv, Peki&#8217;in Hadasha, and Mitzpe Hila in the Upper Galilee.</p>\n<p>Civil defense siren tests will take place today (Sunday) at 10:05 in Abdon, at 12:05 in Neve Ziv, at 14:05 in Peki&#8217;in Hadasha, and at 16:05 in Mitzpe Hila.</p>\n<p>If a real alert is activated, a rising and falling alarm will sound again. Concurrently, an alert will also be disseminated through the Civil Defense app and supplementary alert means.</p>\n<p>Additional information can be found at the Civil Defense Center by calling 104, via WhatsApp messages to the phone number 052-9104104, on the national portal at: oref.org.il, and on social media.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Civil defense siren tests will be conducted today in the areas of Abdon, Neve Ziv, Peki&#8217;in Hadasha, and Mitzpe Hila in the Upper Galilee. Civil defense siren tests will take place today (Sunday) at 10:05 in Abdon, at 12:05 in Neve Ziv, at 14:05 in Peki&#8217;in Hadasha, and at 16:05 in Mitzpe Hila. If a real alert is activated, a rising and falling alarm will sound again. Concurrently, an alert will also be disseminated through the Civil Defense app and supplementary alert means. Additional information can be found at the Civil Defense Center by calling 104, via WhatsApp</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7578",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7578,
+        "he": 7579,
+        "ru": 7580
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7578",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7578"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7578/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7578"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7578"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7578"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

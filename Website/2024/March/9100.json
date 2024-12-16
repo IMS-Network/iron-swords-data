@@ -1,0 +1,122 @@
+{
+    "id": 3706,
+    "date": "2024-03-11T17:00:07",
+    "date_gmt": "2024-03-11T15:00:07",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9100/"
+    },
+    "modified": "2024-03-11T17:00:07",
+    "modified_gmt": "2024-03-11T15:00:07",
+    "slug": "9100",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9100/",
+    "title": {
+        "rendered": "&#8220;Matador&#8217;s Precision: A Glimpse into Egoz Warriors&#8217; Drone-Assisted Raids in the Hamad Neighborhood&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Identification via drone and precise elimination in &#8216;Matador&#8217;:<br />\nThis is how the raids of Egoz warriors in the &#8216;Hamad&#8217; neighborhood look like.<br />\nhttps://www.idf.il/185084</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Identification via drone and precise elimination in &#8216;Matador&#8217;: This is how the raids of Egoz warriors in the &#8216;Hamad&#8217; neighborhood look like. https://www.idf.il/185084</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3706",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3706
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3706",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3706"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3706/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3706"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3706"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3706"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

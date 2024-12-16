@@ -1,0 +1,122 @@
+{
+    "id": 4345,
+    "date": "2023-12-29T12:00:11",
+    "date_gmt": "2023-12-29T10:00:11",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8449/"
+    },
+    "modified": "2023-12-29T12:00:11",
+    "modified_gmt": "2023-12-29T10:00:11",
+    "slug": "8449",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8449/",
+    "title": {
+        "rendered": "&#8220;Operation &#8216;Oz and Nir&#8217;: Unprecedented Tze&#8217;aka 5 Forces Action in Terrorist-Origin Area, Khirbet Acheza&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Operation &#8216;Oz and Nir&#8217;:<br />\nFor the first time &#8211; Tze&#8217;aka 5 forces are operating in Khirbet Acheza, the area from which the terrorists came to Kibbutz Nir Oz.<br />\nhttps://www.idf.il/167639</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Operation &#8216;Oz and Nir&#8217;: For the first time &#8211; Tze&#8217;aka 5 forces are operating in Khirbet Acheza, the area from which the terrorists came to Kibbutz <a  href=\"https://iron-swords.co.il/t/nir-oz/\">Nir Oz</a>. https://www.idf.il/167639</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4345",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4345
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4345",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4345"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4345/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4345"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4345"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4345"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

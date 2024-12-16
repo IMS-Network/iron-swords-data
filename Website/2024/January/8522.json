@@ -1,0 +1,122 @@
+{
+    "id": 4275,
+    "date": "2024-01-05T15:32:49",
+    "date_gmt": "2024-01-05T13:32:49",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8522/"
+    },
+    "modified": "2024-01-05T15:32:49",
+    "modified_gmt": "2024-01-05T13:32:49",
+    "slug": "8522",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8522/",
+    "title": {
+        "rendered": "&#8220;Israeli Reservist Commanders: The Backbone of Israel &#8211; Insights from the IDF Southern Command Forum&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The commander of the Southern Command at a practical learning forum for reservist commanders: &#8220;You have proven in your actions that you are the backbone of society and the state in Israel.&#8221;</p>\n<p>A practical learning forum for commanders in the reserves in the Southern Command took place yesterday (Thursday), led by the commander of the Southern Command, General Yaron Finkelman, and with the participation of the deputy commander of the command, General Yossi Bachar, the commander of the Training and Exercises Command, General David Zini, and the commanders of the brigades and battalions who serve in the reserves.</p>\n<p>In the forum, the commanders of the brigades and battalions presented central lessons from the combat so far, insights on the subject of reserve service, and the operational plans for the continuation. The commanders actively discussed our forces&#8217; activities, operational insights, and the importance of preserving the readiness and resilience of the reservists over time.</p>\n<p>Attached is a documentation of the words of the commander of the Southern Command, General Yaron Finkelman at the practical learning forum: https://bit.ly/3vpBaSG</p>\n<p>An attached image on the subject: https://IDFANC.activetrail.biz/ANC92837476</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The commander of the Southern Command at a practical learning forum for reservist commanders: &#8220;You have proven in your actions that you are the backbone of society and the state in <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>.&#8221; A practical learning forum for commanders in the reserves in the Southern Command took place yesterday (Thursday), led by the commander of the Southern Command, General Yaron Finkelman, and with the participation of the deputy commander of the command, General Yossi Bachar, the commander of the Training and Exercises Command, General David Zini, and the commanders of the brigades and battalions who serve in the reserves.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4275",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4275
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4275",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4275"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4275/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4275"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4275"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4275"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

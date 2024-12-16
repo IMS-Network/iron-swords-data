@@ -1,0 +1,124 @@
+{
+    "id": 9326,
+    "date": "2024-06-03T09:36:10",
+    "date_gmt": "2024-06-03T06:36:10",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/9974-en/"
+    },
+    "modified": "2024-06-03T09:36:10",
+    "modified_gmt": "2024-06-03T06:36:10",
+    "slug": "9974-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9974-en/",
+    "title": {
+        "rendered": "&#8220;IDF Intensifies Operations in Gaza: Key Strikes Against Terror Infrastructure and Weaponry&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces continue fighting in the Gaza Strip; forces from the Maglan Unit located RPG missiles during a raid on a military structure in the Rafah area.</p>\n<p>Forces from Division 162 continue fighting in the Rafah area. In the last 24 hours, soldiers identified numerous terror infrastructure and weaponry during searches in the area. Forces from the Maglan Unit located RPG missiles during a raid on a military structure.</p>\n<p>Forces from Division 99 continue fighting in the central Gaza Strip. In the last 24 hours, combat teams from Brigade 679 identified several terrorists in a sniper position, and an aircraft attacked and eliminated the terrorists. Additionally, division forces, in cooperation with the Air Force, eliminated a Hamas terrorist operative identified in the area.</p>\n<p>Over the last 24 hours, Air Force fighter jets attacked more than 50 targets, including terror infrastructure, weapon storage facilities, military buildings, and more.</p>\n<p>Attached is footage of IDF operations in the Zeitoun neighborhood: https://bit.ly/4dZ7RZ3</p>\n<p>Attached is a photo of the weaponry identified by the Maglan Unit: https://IDFANC.activetrail.biz/ANC0306202428374621</p>\n<p>Attached are photos from IDF operations in the Gaza Strip: https://IDFANC.activetrail.biz/ANC030620246458689</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces continue fighting in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip; forces from the Maglan Unit located RPG missiles during a raid on a military structure in the Rafah area. Forces from Division 162 continue fighting in the Rafah area. In the last 24 hours, soldiers identified numerous terror infrastructure and weaponry during searches in the area. Forces from the Maglan Unit located RPG missiles during a raid on a military structure. Forces from Division 99 continue fighting in the central Gaza Strip. In the last 24 hours, combat teams from Brigade 679 identified several terrorists in a sniper position, and</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9326",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9326,
+        "he": 9327,
+        "ru": 9328
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9326",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9326"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9326/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9326"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9326"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9326"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

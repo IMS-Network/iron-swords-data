@@ -1,0 +1,122 @@
+{
+    "id": 4536,
+    "date": "2023-12-14T16:30:10",
+    "date_gmt": "2023-12-14T14:30:10",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8257/"
+    },
+    "modified": "2023-12-14T16:30:10",
+    "modified_gmt": "2023-12-14T14:30:10",
+    "slug": "8257",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8257/",
+    "title": {
+        "rendered": "&#8220;Thrilling Battlefield Insights: Nahal Recon Unit&#8217;s Combined Infantry, Armor &#038; Air Combat Footage in Jabaliya&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Combined combat of infantry, armor, and air:<br />\nDocumentation from the Go-Pro cameras of the Nahal reconnaissance unit in Jabaliya.<br />\nhttps://www.idf.il/162140</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Combined combat of infantry, armor, and air: Documentation from the Go-Pro cameras of the Nahal reconnaissance unit in Jabaliya. https://www.idf.il/162140</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4536",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4536
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4536",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4536"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4536/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4536"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4536"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4536"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

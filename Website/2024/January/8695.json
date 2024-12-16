@@ -1,0 +1,122 @@
+{
+    "id": 4104,
+    "date": "2024-01-24T14:02:26",
+    "date_gmt": "2024-01-24T12:02:26",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8695/"
+    },
+    "modified": "2024-01-24T14:02:26",
+    "modified_gmt": "2024-01-24T12:02:26",
+    "slug": "8695",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8695/",
+    "title": {
+        "rendered": "&#8220;Decisive Givati Brigade Raid Eliminates Dozens of Terrorists in Khan Yunis &#8211; IDF&#8217;s Cutting-Edge Counterterrorism Actions Continues&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Raid on central terror targets and elimination of dozens of terrorists:<br />\nThe Givati Brigade continues its brigade attack in the heart of Khan Yunis</p>\n<p>https://www.idf.il/175892</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Raid on central terror targets and elimination of dozens of terrorists: The <a  href=\"https://iron-swords.co.il/t/givati-brigade/\">Givati Brigade</a> continues its brigade attack in the heart of Khan Yunis https://www.idf.il/175892</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4104",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4104
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4104",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4104"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4104/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4104"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4104"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4104"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

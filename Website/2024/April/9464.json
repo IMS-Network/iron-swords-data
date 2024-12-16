@@ -1,0 +1,122 @@
+{
+    "id": 3352,
+    "date": "2024-04-15T23:20:40",
+    "date_gmt": "2024-04-15T20:20:40",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9464/"
+    },
+    "modified": "2024-04-15T23:20:40",
+    "modified_gmt": "2024-04-15T20:20:40",
+    "slug": "9464",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9464/",
+    "title": {
+        "rendered": "&#8220;Breaking News: Violent Confrontation in Jordan Valley &#8211; IDF Investigates Palestinian Attack on Jewish Shepherd&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Earlier today, we received a report of a suspected Palestinian who attacked a Jewish shepherd in the Gitit area of the Jordan Valley and Valleys Brigade.</p>\n<p>There was a violent confrontation between Palestinians and Israeli civilians in the area. IDF forces quickly rushed to the scene and acted to disperse the confrontation.</p>\n<p>During the event, two Palestinians were killed. Preliminary investigation indicates that it was not caused by IDF forces.</p>\n<p>The IDF and Israel Police are investigating the event.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Earlier today, we received a report of a suspected Palestinian who attacked a Jewish shepherd in the Gitit area of the Jordan Valley and Valleys Brigade. There was a violent confrontation between Palestinians and Israeli civilians in the area. IDF forces quickly rushed to the scene and acted to disperse the confrontation. During the event, two Palestinians were killed. Preliminary investigation indicates that it was not caused by IDF forces. The IDF and <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> Police are investigating the event.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3352",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3352
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3352",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3352"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3352/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3352"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3352"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3352"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": 8684,
+    "date": "2024-06-20T15:11:38",
+    "date_gmt": "2024-06-20T12:11:38",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10189-en/"
+    },
+    "modified": "2024-06-20T15:11:38",
+    "modified_gmt": "2024-06-20T12:11:38",
+    "slug": "10189-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10189-en/",
+    "title": {
+        "rendered": "&#8220;IDF Airstrike Eliminates Hezbollah Commander: Key Developments in Southern Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF eliminated the operations commander of the Joya sector in the Hezbollah terrorist organization.</p>\n<p>Today (Thursday), an IDF aircraft attacked and eliminated the terrorist Fatchal Ibrahim, who served as the operations commander in Hezbollah&#8217;s Joya sector, in the area of Deir Kifah in southern Lebanon.</p>\n<p>In his role, he was responsible for planning and executing terrorist plots targeting Israeli territory. At the same time, he was involved in commanding ground forces in the Joya area. In recent months, he promoted Hezbollah&#8217;s establishment in southern Lebanon while attempting to improve the organization&#8217;s ground combat capabilities.</p>\n<p>Simultaneously, IDF fighter jets attacked in the Rihaniyeh area a surface-to-air missile launcher from Hezbollah&#8217;s air defense system, which posed a threat to IDF aircraft operating in Lebanese airspace.</p>\n<p>The Air Force will continue to act to achieve the IDF&#8217;s missions in the airspace over Lebanon while expanding the freedom of operation in the airspace.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF eliminated the operations commander of the Joya sector in the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization. Today (Thursday), an IDF aircraft attacked and eliminated the terrorist Fatchal Ibrahim, who served as the operations commander in <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a>&#8217;s Joya sector, in the area of Deir Kifah in southern Lebanon. In his role, he was responsible for planning and executing terrorist plots targeting Israeli territory. At the same time, he was involved in commanding ground forces in the Joya area. In recent months, he promoted Hezbollah&#8217;s establishment in southern Lebanon while attempting to improve the organization&#8217;s ground combat capabilities. Simultaneously, IDF fighter</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8684",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8684,
+        "he": 8685,
+        "ru": 8686
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8684",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8684"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8684/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8684"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8684"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8684"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 4226,
+    "date": "2024-01-10T20:08:07",
+    "date_gmt": "2024-01-10T18:08:07",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8571/"
+    },
+    "modified": "2024-01-10T20:08:07",
+    "modified_gmt": "2024-01-10T18:08:07",
+    "slug": "8571",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8571/",
+    "title": {
+        "rendered": "&#8220;IDF Chief&#8217;s Assessment: Lessons from Gaza for Future Challenges in Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The Chief of Staff to the soldiers in the Gaza Strip: After we fought in Gaza &#8211; we will know how to do it in Lebanon if necessary.</p>\n<p>Referring to the explosion in Al-Bureij: A very complicated mission &#8211; we have to learn</p>\n<p>The Chief of Staff held an assessment today (Tuesday) at the center of the Gaza Strip with the South Command Commander, Gen. Yaron Finkelman, the Commander of the 36th Division, Brig. Gen. Dado Bar-Kalifa, and other commanders.</p>\n<p>Attached is video footage on the matter: https://bit.ly/41QZWHi</p>\n<p>Attached are pictures on the matter: https://idfanc.activetrail.biz/ANC100124111</p>\n<p>Attached are the full words of the Chief of Staff: &#8220;This fight is a fight in a very, very complicated space. It has underground, it has aboveground, it has an enemy that has prepared for a long time for defense in an organized manner, there is a population here, a lot of houses &#8211; a very, very complicated space for fighting. When we arrive to bomb such a system as you bombed in recent days here along the Tencher axis, it&#8217;s a very complicated mission, I must say &#8211; we are doing actions here that we never did before. When something bad happens, and a very bad thing happened to us here, we lost quite a few people and we had casualties. The only thing we commanders have left &#8211; learning, learning, learning. Long war, many arenas, we have many challenges, I see the capabilities here, I know very well that it can cope with any problem in Gaza, there is no square kilometer in Gaza that you can&#8217;t enter and dismantle it, there is no such thing, after what you did &#8211; there is no such thing. After what you did, there is no village in Lebanon, there is no Hezbollah in Lebanon that you can&#8217;t enter and dismantle. We&#8217;ll put you in the places needed, you will do there what&#8217;s required, long war and from the other side &#8211; we will come out with good results&#8221;.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The Chief of Staff to the soldiers in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip: After we fought in Gaza &#8211; we will know how to do it in Lebanon if necessary. Referring to the explosion in Al-Bureij: A very complicated mission &#8211; we have to learn The Chief of Staff held an assessment today (Tuesday) at the center of the Gaza Strip with the South Command Commander, Gen. Yaron Finkelman, the Commander of the 36th Division, Brig. Gen. Dado Bar-Kalifa, and other commanders. Attached is video footage on the matter: https://bit.ly/41QZWHi Attached are pictures on the matter: https://idfanc.activetrail.biz/ANC100124111 Attached are the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4226",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4226
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4226",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4226"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4226/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4226"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4226"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4226"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

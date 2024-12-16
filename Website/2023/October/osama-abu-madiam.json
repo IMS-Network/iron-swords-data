@@ -1,0 +1,138 @@
+{
+    "id": 1023,
+    "date": "2023-10-07T06:30:00",
+    "date_gmt": "2023-10-07T03:30:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=1023"
+    },
+    "modified": "2024-04-11T22:25:24",
+    "modified_gmt": "2024-04-11T19:25:24",
+    "slug": "osama-abu-madiam",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/victims/osama-abu-madiam/",
+    "title": {
+        "rendered": "Osama Abu Madiam"
+    },
+    "content": {
+        "rendered": "\n<p>He went to work in Moshav Mittehim in the south surrounding Gaza, and was slaughtered in a field near Mittehim by Hamas</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>slaughtered in a field near Mittehim by <a  href=\"/hamas\">Hamas</a></p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 1024,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-october-7th-victims",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 21,
+        "footnotes": ""
+    },
+    "categories": [
+        21
+    ],
+    "tags": [
+        62
+    ],
+    "class_list": [
+        "post-1023",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-victims",
+        "tag-rahat"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 1023
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1023",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=1023"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1023/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 1025,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1023/revisions/1025"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/1024"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=1023"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=1023"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=1023"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

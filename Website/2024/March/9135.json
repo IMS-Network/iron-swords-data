@@ -1,0 +1,122 @@
+{
+    "id": 3673,
+    "date": "2024-03-15T15:00:05",
+    "date_gmt": "2024-03-15T13:00:05",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9135/"
+    },
+    "modified": "2024-03-15T15:00:05",
+    "modified_gmt": "2024-03-15T13:00:05",
+    "slug": "9135",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9135/",
+    "title": {
+        "rendered": "&#8220;Israeli Police and Shin Bet: Halting Terror Attacks in Judea and Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Arrests, thwarting of terror attacks, and elimination of terrorists in Judea and Samaria:<br />\nThe Israeli Police and the Israeli Security Agency (Shin Bet) are operational to prevent terror attacks in Israel. </p>\n<p>https://www.idf.il/185904</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Arrests, thwarting of <a  href=\"https://iron-swords.co.il/c/terror-attacks/\">terror attacks</a>, and elimination of terrorists in Judea and Samaria: The Israeli Police and the Israeli Security Agency (Shin Bet) are operational to prevent terror attacks in <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>. https://www.idf.il/185904</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3673",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3673
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3673",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3673"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3673/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3673"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3673"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3673"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

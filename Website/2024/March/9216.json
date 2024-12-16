@@ -1,0 +1,122 @@
+{
+    "id": 3593,
+    "date": "2024-03-23T09:17:11",
+    "date_gmt": "2024-03-23T07:17:11",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9216/"
+    },
+    "modified": "2024-03-23T09:17:11",
+    "modified_gmt": "2024-03-23T07:17:11",
+    "slug": "9216",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9216/",
+    "title": {
+        "rendered": "&#8220;IDF and Shin Bet&#8217;s Targeted Combat in Gaza Strip: Eliminating Terrorists and Discovering Hidden Infrastructures&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF and Shin Bet continue their targeted fight at the Shifa&#8217;a hospital; dozens of terrorists were killed across the Strip in ground combat and air force strikes in the past day. </p>\n<p>IDF forces and Shin Bet continue to wage a targeted battle in the area around Shifa&#8217;a Hospital. The combat team of Brigade 401, the combat team of the Nahal Brigade, and the 13th Squadron forces, under the command of Brigade 162, are fighting in the area while avoiding harm to civilians, patients, medical teams, and medical equipment.</p>\n<p>So far, the fighters have killed about 170 terrorists in the hospital area, detained over 800 suspects, and discovered many weapons and terrorist infrastructure.</p>\n<p>Throughout the past day, air force fighter jets attacked approximately 35 terrorist targets throughout the Gaza Strip, including operational headquarters, military posts, infrastructure of terror organizations in the Gaza Strip, and targets aiding the rebels.</p>\n<p>The Nahal Brigade combat team is engaged in intense fighting in the center of the Strip, the forces killed about 15 terrorists in the area over the past day. In one of the attacks, the forces identified several terrorist cells entrenched in a building in their sector and hit them with sniper fire, precision missile fire, and an attack helicopter strike.</p>\n<p>In another attack, the forces identified two terrorists in their sector and, in combination with the brigade fire complex, eliminated them using a precision missile.</p>\n<p>The brigade combat team 7 continues to operate in the &#8216;Al Karaara&#8217; area of Khan Yunis. In the past day, the air force targeted two terrorists moving towards the brigade forces. In another attack, a military building of a Hamas operative was destroyed. </p>\n<p>Attached is a documentation of IDF attacks: https://bit.ly/3PydQcE</p>\n<p>Attached are photos from the operations of the forces in the Gaza Strip: https://IDFANC.activetrail.biz/ANC23032024846466458456</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF and Shin Bet continue their targeted fight at the Shifa&#8217;a hospital; dozens of terrorists were killed across the Strip in ground combat and air force strikes in the past day. IDF forces and Shin Bet continue to wage a targeted battle in the area around Shifa&#8217;a Hospital. The combat team of Brigade 401, the combat team of the <a  href=\"https://iron-swords.co.il/t/nahal-brigade/\">Nahal Brigade</a>, and the 13th Squadron forces, under the command of Brigade 162, are fighting in the area while avoiding harm to civilians, patients, medical teams, and medical equipment. So far, the fighters have killed about 170 terrorists</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3593",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3593
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3593",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3593"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3593/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3593"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3593"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3593"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 3214,
+    "date": "2024-05-02T08:11:46",
+    "date_gmt": "2024-05-02T05:11:46",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9607/"
+    },
+    "modified": "2024-05-02T08:11:46",
+    "modified_gmt": "2024-05-02T05:11:46",
+    "slug": "9607",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9607/",
+    "title": {
+        "rendered": "&#8220;Unveiling IDF&#8217;s Relentless Counter-Terrorism Operations in Central Gaza Strip: A Detailed Account&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Attacks on armed terrorists, terror infrastructures, and tunnels; units 2 and 679 continue to fight in central Gaza Strip.</p>\n<p>Yesterday (Wednesday), several launchings were identified towards our forces in the center of the Strip, no casualties were reported. The Air Force and Division 99, led by the Southern Command, attacked a tunnel and a rocket launch position from where the launchings were identified, using fighter jets and artillery fire.</p>\n<p>The combat team of Division 679 identified a terrorist cell near the forces in central Gaza Strip, the cell was eliminated using an aircraft of the Air Force and artillery fire.</p>\n<p>Forces of Division 99 identified with a drone a terrorist entering a military structure in central Gaza Strip, a fighter jet attacked the building and eliminated the terrorist.</p>\n<p>During the last day, fighter jets attacked many military infrastructures, including tunnels and military buildings as part of the aid to the combat forces. In addition, an aircraft of the Air Force attacked armed terrorists who posed a threat to our forces.</p>\n<p>Attached is documentation of IDF attacks in the Strip: https://bit.ly/3Wve602</p>\n<p>Attached are pictures of the forces&#8217; activity in the Strip: https://IDFANC.activetrail.biz/ANC02052024392842</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Attacks on armed terrorists, terror infrastructures, and tunnels; units 2 and 679 continue to fight in central <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. Yesterday (Wednesday), several launchings were identified towards our forces in the center of the Strip, no casualties were reported. The Air Force and Division 99, led by the Southern Command, attacked a tunnel and a rocket launch position from where the launchings were identified, using fighter jets and artillery fire. The combat team of Division 679 identified a terrorist cell near the forces in central Gaza Strip, the cell was eliminated using an aircraft of the Air Force and</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3214",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3214
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3214",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3214"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3214/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3214"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3214"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3214"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

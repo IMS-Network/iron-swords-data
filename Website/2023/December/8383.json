@@ -1,0 +1,122 @@
+{
+    "id": 4410,
+    "date": "2023-12-23T17:26:00",
+    "date_gmt": "2023-12-23T15:26:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8383/"
+    },
+    "modified": "2023-12-23T17:26:00",
+    "modified_gmt": "2023-12-23T15:26:00",
+    "slug": "8383",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8383/",
+    "title": {
+        "rendered": "&#8220;Decoding the IDF and Shin Bet&#8217;s Successful Operation: The Elimination of Hamas&#8217;s Key Weapon Supplier, Hassan Atrash&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint message to the IDF Spokesperson and Shin Bet Spokespersons:</p>\n<p>Following the elimination yesterday in Rafah, the IDF and Shin Bet eliminated Hassan Atrash by means of a fighter aircraft. He was responsible for the trade, manufacture and stocking of Hamas&#8217;s military wing&#8217;s warfare tools. In addition to his other activities, he took part in smuggling warfare tools from various countries to the Gaza Strip. Recently, he was also involved in smuggling warfare tools to Judea and Samaria.</p>\n<p>Attached is documentation on the subject: https://bit.ly/4aABNsw</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint message to the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a> and Shin Bet Spokespersons: Following the elimination yesterday in Rafah, the IDF and Shin Bet eliminated Hassan Atrash by means of a fighter aircraft. He was responsible for the trade, manufacture and stocking of <a  href=\"/hamas\">Hamas</a>&#8217;s military wing&#8217;s warfare tools. In addition to his other activities, he took part in smuggling warfare tools from various countries to the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. Recently, he was also involved in smuggling warfare tools to Judea and Samaria. Attached is documentation on the subject: https://bit.ly/4aABNsw</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4410",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4410
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4410",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4410"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4410/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4410"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4410"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4410"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

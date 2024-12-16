@@ -1,0 +1,124 @@
+{
+    "id": 8024,
+    "date": "2024-07-09T18:48:56",
+    "date_gmt": "2024-07-09T15:48:56",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10414-en/"
+    },
+    "modified": "2024-07-09T18:48:56",
+    "modified_gmt": "2024-07-09T15:48:56",
+    "slug": "10414-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10414-en/",
+    "title": {
+        "rendered": "&#8220;IDF Dismantles Terror Infrastructure in Nur al-Shams: 15-Hour Operation Highlights Successes&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Following 15 hours of operation, IDF and Border Police forces destroyed command posts and dozens of explosives that were planted under civilian infrastructure in Nur al-Shams, within the Menashe Brigade.</p>\n<p>In a large-scale engineering operation conducted in Nur al-Shams, IDF and Border Police forces, guided by intelligence from the Military Intelligence Directorate and the Shin Bet, destroyed dozens of explosives hidden along traffic routes, aimed at harming our forces while endangering the residents living in the area.</p>\n<p>Additionally, during the operation, the fighters destroyed two command posts that were used for local terrorist organization, arrested a wanted individual, and destroyed a vehicle that contained several explosive devices.</p>\n<p>Moreover, during the night, IDF, Shin Bet, and Border Police forces carried out the arrest of 15 wanted individuals across Judea and Samaria and confiscated firearms.</p>\n<p>The arrested individuals and the confiscated weapons have been transferred for further handling by security forces; there were no casualties among our forces.</p>\n<p>So far, since the beginning of the war, approximately 4,150 wanted individuals have been arrested across the Judea and Samaria Division and the Jordan Valley Brigade. About 1,750 of them are linked to the terrorist organization Hamas.</p>\n<p>Attached is documentation of the forces&#8217; activities in Nur al-Shams: https://bit.ly/3xTC63d</p>\n<p>Attached are photos from the operation in Nur al-Shams: https://idfanc.activetrail.biz/ANC0907242424</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Following 15 hours of operation, IDF and Border Police forces destroyed command posts and dozens of explosives that were planted under civilian infrastructure in Nur al-Shams, within the Menashe Brigade. In a large-scale engineering operation conducted in Nur al-Shams, IDF and Border Police forces, guided by intelligence from the Military Intelligence Directorate and the Shin Bet, destroyed dozens of explosives hidden along traffic routes, aimed at harming our forces while endangering the residents living in the area. Additionally, during the operation, the fighters destroyed two command posts that were used for local terrorist organization, arrested a wanted individual,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8024",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8024,
+        "he": 8025,
+        "ru": 8026
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8024",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8024"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8024/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8024"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8024"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8024"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

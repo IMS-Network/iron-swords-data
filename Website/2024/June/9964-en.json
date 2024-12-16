@@ -1,0 +1,124 @@
+{
+    "id": 9356,
+    "date": "2024-06-02T14:34:26",
+    "date_gmt": "2024-06-02T11:34:26",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/9964-en/"
+    },
+    "modified": "2024-06-02T14:34:26",
+    "modified_gmt": "2024-06-02T11:34:26",
+    "slug": "9964-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9964-en/",
+    "title": {
+        "rendered": "&#8220;Unlocking the Mystery: Experience the World\u2019s Most Advanced Rescue Facility Escape Room&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Welcome to the most advanced rescue facility in the world:<br />\nTo succeed in this &#8220;escape room&#8221; &#8211; you must do everything except escape.</p>\n<p>For the full article:</p>\n<p>https://www.idf.il/205768</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Welcome to the most advanced rescue facility in the world: To succeed in this &#8220;escape room&#8221; &#8211; you must do everything except escape. For the full article: https://www.idf.il/205768</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9356",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9356,
+        "he": 9357,
+        "ru": 9358
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9356",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9356"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9356/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9356"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9356"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9356"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

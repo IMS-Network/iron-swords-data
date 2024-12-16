@@ -1,0 +1,124 @@
+{
+    "id": 8123,
+    "date": "2024-07-07T16:59:42",
+    "date_gmt": "2024-07-07T13:59:42",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10381-en/"
+    },
+    "modified": "2024-07-07T16:59:42",
+    "modified_gmt": "2024-07-07T13:59:42",
+    "slug": "10381-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10381-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hamas Arms Site Near Gaza School: A Tactical Response to Terrorism&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked terrorists and destroyed an arms production site that Hamas had established in the vicinity of a school in Gaza City.</p>\n<p>Air Force fighter jets, guided by intelligence from the IDF&#8217;s Military Intelligence Directorate, Shin Bet, and Southern Command, attacked a compound where terrorists were hiding, located within a school building in Gaza City.</p>\n<p>At the same time, an arms production infrastructure located near the school, which was being used by Hamas, was attacked and destroyed.</p>\n<p>The terrorist organization Hamas systematically violates international law, exploiting civilian structures and populations as human shields for terrorist activities against the State of Israel.</p>\n<p>Prior to the attack, numerous steps were taken to minimize the likelihood of harm to civilians; as part of these efforts, precise warnings and additional intelligence information were utilized.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked terrorists and destroyed an arms production site that <a  href=\"/hamas\">Hamas</a> had established in the vicinity of a school in <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> City. Air Force fighter jets, guided by intelligence from the IDF&#8217;s Military Intelligence Directorate, Shin Bet, and Southern Command, attacked a compound where terrorists were hiding, located within a school building in Gaza City. At the same time, an arms production infrastructure located near the school, which was being used by <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a>, was attacked and destroyed. The terrorist organization Hamas systematically violates international law, exploiting civilian structures and populations as human shields for terrorist activities against</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8123",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8123,
+        "he": 8124,
+        "ru": 8125
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8123",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8123"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8123/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8123"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8123"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8123"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": 9173,
+    "date": "2024-06-07T13:00:09",
+    "date_gmt": "2024-06-07T10:00:09",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10026-en/"
+    },
+    "modified": "2024-06-07T13:00:09",
+    "modified_gmt": "2024-06-07T10:00:09",
+    "slug": "10026-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10026-en/",
+    "title": {
+        "rendered": "&#8220;IDF Nahal Brigade Footage: Uncovering Weapons and Combatting Terrorism in Rafah&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Finding a weapon in a baby crib, eliminating terrorists, and destroying terrorist infrastructures:<br />\nFootage from the body cameras of IDF Nahal Brigade fighters in Rafah.<br />\nhttps://www.idf.il/207343</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Finding a weapon in a baby crib, eliminating terrorists, and destroying terrorist infrastructures: Footage from the body cameras of IDF <a  href=\"https://iron-swords.co.il/t/nahal-brigade/\">Nahal Brigade</a> fighters in Rafah. https://www.idf.il/207343</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9173",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9173,
+        "he": 9174,
+        "ru": 9175
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9173",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9173"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9173/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9173"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9173"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9173"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

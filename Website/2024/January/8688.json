@@ -1,0 +1,122 @@
+{
+    "id": 4111,
+    "date": "2024-01-23T17:02:34",
+    "date_gmt": "2024-01-23T15:02:34",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8688/"
+    },
+    "modified": "2024-01-23T17:02:34",
+    "modified_gmt": "2024-01-23T15:02:34",
+    "slug": "8688",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8688/",
+    "title": {
+        "rendered": "&#8220;IDF Reservists Neutralize Armed Terrorist Near Einabta Village: A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF reservists eliminated a terrorist who fired at them near the village of Einabta in Manasseh.</p>\n<p>A short while ago, reserve soldiers from the 9306 battalion, who were active in defending crossroads near the village Einabta in the Manesseh Brigade, identified a terrorist who was driving towards them and opened fire at them.</p>\n<p>The soldiers engaged and eliminated the terrorist. </p>\n<p>The weapons and fighting equipment in the terrorist&#8217;s possession were confiscated, there are no casualties to our forces.</p>\n<p>An image of the confiscated fighting equipment is attached: https://IDFANC.activetrail.biz/ANC23012024179713935</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF reservists eliminated a terrorist who fired at them near the village of Einabta in Manasseh. A short while ago, reserve soldiers from the 9306 battalion, who were active in defending crossroads near the village Einabta in the Manesseh Brigade, identified a terrorist who was driving towards them and opened fire at them. The soldiers engaged and eliminated the terrorist. The weapons and fighting equipment in the terrorist&#8217;s possession were confiscated, there are no casualties to our forces. An image of the confiscated fighting equipment is attached: https://IDFANC.activetrail.biz/ANC23012024179713935</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4111",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4111
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4111",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4111"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4111/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4111"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4111"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4111"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

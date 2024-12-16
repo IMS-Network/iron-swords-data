@@ -1,0 +1,122 @@
+{
+    "id": 3556,
+    "date": "2024-03-26T19:16:21",
+    "date_gmt": "2024-03-26T17:16:21",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9256/"
+    },
+    "modified": "2024-03-26T19:16:21",
+    "modified_gmt": "2024-03-26T17:16:21",
+    "slug": "9256",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9256/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hizballah Air Force Compounds and Weapon Storehouses in Southern Lebanon: A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>For the second time in the last few hours: Our fighter planes have attacked deep in Lebanon, another military compound used by the air force unit of the Hizballah terrorist organization. The organization&#8217;s weapon storehouse was attacked in the Hanin area in Southern Lebanon.</p>\n<p>A short while ago, our fighter planes attacked once again in the depths of Lebanon, in the Tal Voradin area, a compound used by the air force unit, and a landing strip and several military buildings associated with the Hizballah terrorist organization were attacked.</p>\n<p>In the past few hours, our fighter planes have attacked a weapon storehouse in the Hanin area in Southern Lebanon and a terror infrastructure of the Hizballah terrorist organization in the Beit Yahoun area.</p>\n<p>Earlier today, about 50 firings were identified crossing from Lebanese territory towards the Galil and Golan Heights. Our air defense fighters intercepted several firings, the rest of the firings fell in open areas.</p>\n<p>Attached is documentation of IDF attacks in Southern Lebanon throughout the day: https://bit.ly/3IVh1qW.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: For the second time in the last few hours: Our fighter planes have attacked deep in Lebanon, another military compound used by the air force unit of the Hizballah terrorist organization. The organization&#8217;s weapon storehouse was attacked in the Hanin area in Southern Lebanon. A short while ago, our fighter planes attacked once again in the depths of Lebanon, in the Tal Voradin area, a compound used by the air force unit, and a landing strip and several military buildings associated with the Hizballah terrorist organization were attacked. In the past few hours, our fighter planes have attacked</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3556",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3556
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3556",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3556"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3556/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3556"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3556"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3556"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

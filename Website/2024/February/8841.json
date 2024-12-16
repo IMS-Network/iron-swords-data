@@ -1,0 +1,122 @@
+{
+    "id": 3962,
+    "date": "2024-02-11T09:41:10",
+    "date_gmt": "2024-02-11T07:41:10",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8841/"
+    },
+    "modified": "2024-02-11T09:41:10",
+    "modified_gmt": "2024-02-11T07:41:10",
+    "slug": "8841",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8841/",
+    "title": {
+        "rendered": "&#8220;IDF and ISA Launch Successful Counter-Terrorism Operation: 8 Arrested, Bomb-Making Workshop Uncovered in Beit Ummar&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>After 12 hours, an IDF and ISA operation was completed last night in Beit Ummar in the Gush Etzion area. Eight wanted individuals were arrested and a bomb-making workshop was discovered; security forces arrested six wanted individuals across Judea and Samaria last night.</p>\n<p>After more than 12 hours, IDF reservists from the 910 Brigade, under ISA direction, completed last night a counter-terrorism operation in the village of Beit Ummar in the Gush Etzion area.</p>\n<p>As part of the operation, the reservists searched buildings and interrogated dozens of suspects. The forces arrested eight wanted individuals and located a workshop for the manufacture of explosive devices. The soldiers seized dozens of illegal vehicles along with military equipment, incitement materials, Molotov cocktails ready for use, and other combat means.</p>\n<p>Last night, IDF soldiers, ISA, and border police acted to arrest six wanted individuals across Judea and Samaria.</p>\n<p>In the city of Bethlehem in the Gush Etzion area, the soldiers arrested two wanted individuals and seized combat means.</p>\n<p>So far, since the beginning of the war, more than 3,060 wanted individuals have been arrested across the Judea and Samaria Division and the Valley and Plains Brigade; over 1,350 of them are affiliated with the Hamas terror organization.</p>\n<p>Attached is documentation of IDF forces&#8217; operations in Beit Ummar: https://bit.ly/3UzP6Uw</p>\n<p>Attached are photos of the forces&#8217; activities: https://IDFANC.activetrail.biz/ANC11022024.151516165</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: After 12 hours, an IDF and ISA operation was completed last night in Beit Ummar in the Gush Etzion area. Eight wanted individuals were arrested and a bomb-making workshop was discovered; security forces arrested six wanted individuals across Judea and Samaria last night. After more than 12 hours, IDF reservists from the 910 Brigade, under ISA direction, completed last night a counter-terrorism operation in the village of Beit Ummar in the Gush Etzion area. As part of the operation, the reservists searched buildings and interrogated dozens of suspects. The forces arrested eight wanted individuals and located a workshop</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3962",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3962
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3962",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3962"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3962/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3962"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3962"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3962"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

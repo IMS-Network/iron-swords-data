@@ -1,0 +1,122 @@
+{
+    "id": 3936,
+    "date": "2024-02-14T09:17:15",
+    "date_gmt": "2024-02-14T07:17:15",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8867/"
+    },
+    "modified": "2024-02-14T09:17:15",
+    "modified_gmt": "2024-02-14T07:17:15",
+    "slug": "8867",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8867/",
+    "title": {
+        "rendered": "&#8220;IDF Forces Neutralize Threats in Khan Yunis: A Comprehensive Report on Recent Anti-Terrorist Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson: </p>\n<p>The forces&#8217; activity in the strip continues: The fighters of the combat team of Brigade 646 identified a terrorist who fired an RPG at them in Khan Yunis and successfully eliminated him in a closed circle; additional terrorists were eliminated in the central strip.</p>\n<p>During the activity of the combat team of Brigade 646 in Khan Yunis, the forces identified a terrorist armed with an RPG inside a residential building, using it to fire at the force in the field. Another terrorist was identified in the building. In coordination with the Air Corps, a fighter jet attacked the building and eliminated the terrorists before they could harm the forces.</p>\n<p>In the west of Khan Yunis, the commando unit soldiers locate tunnel forks, eliminate terrorists and continue with raids on significant terror targets. The soldiers have located numerous weapons in the last day, including Kalashnikov rifles, shell casings, explosives, and additional military equipment.</p>\n<p>Furthermore, the fire control center of Division 98, together with the Air Corps, eliminated last night four terrorists who were identified preparing to ambush our forces in Khan Yunis.</p>\n<p>The forces of Brigade Nahal&#8217;s combat team operated during the last day in the center of the Gaza Strip, eliminating over ten terrorists.<br />\nIn one of the activities carried out by the fighters, the brigade&#8217;s fire complex identified two armed terrorists moving in the field, in response, an aircraft was aimed that attacked the terrorists and eliminated them. Following the elimination, secondary explosions were detected indicating the presence of combat means in the possession of the terrorists.</p>\n<p>Attached is footage of IDF attacks in the strip: https://bit.ly/3SYYvEb</p>\n<p>Attached are photos of IDF forces&#8217; activity in the strip: https://IDFANC.activetrail.biz/ANC1302202484980394</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The forces&#8217; activity in the strip continues: The fighters of the combat team of Brigade 646 identified a terrorist who fired an RPG at them in Khan Yunis and successfully eliminated him in a closed circle; additional terrorists were eliminated in the central strip. During the activity of the combat team of Brigade 646 in Khan Yunis, the forces identified a terrorist armed with an RPG inside a residential building, using it to fire at the force in the field. Another terrorist was identified in the building. In coordination with the Air Corps, a fighter jet attacked the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3936",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3936
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3936",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3936"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3936/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3936"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3936"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3936"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

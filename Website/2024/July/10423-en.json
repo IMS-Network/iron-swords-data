@@ -1,0 +1,124 @@
+{
+    "id": 7997,
+    "date": "2024-07-10T15:29:23",
+    "date_gmt": "2024-07-10T12:29:23",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10423-en/"
+    },
+    "modified": "2024-07-10T15:29:23",
+    "modified_gmt": "2024-07-10T12:29:23",
+    "slug": "10423-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10423-en/",
+    "title": {
+        "rendered": "&#8220;IDF Seizes 150+ Explosive Materials, Arrests Multiple Suspects in Central Command Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF, Border Police, Civil Administration, and Shin Bet seized over 150 sacks of materials for making explosives throughout Central Command.</p>\n<p>As part of the security forces&#8217; activities against bomb terrorism, IDF, Border Police, and the Civil Administration, under the direction of Shin Bet, seized this morning in five regional brigades in Central Command, over 150 sacks of materials for making explosives.</p>\n<p>The forces arrested six shop owners who sold the materials and transferred them for further investigation by the security forces.</p>\n<p>In addition, the forces arrested five suspects in Husan and Azariyeh in the Bethlehem area, and another suspect in Auriif in Samaria.</p>\n<p>The arrested suspects were transferred for further handling by the security forces, and there were no injuries to our forces. The security forces will continue to operate to thwart bomb terrorism and terrorism of any kind.</p>\n<p>So far, since the beginning of the war, about 4,150 suspects have been arrested across the Judea and Samaria Division and the Jordan Valley and Valleys Brigade. Approximately 1,750 of them are affiliated with the Hamas terrorist organization.</p>\n<p>Attached are photos from the forces&#8217; activities: https://IDFANC.activetrail.biz/ANC10072024254345</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF, Border Police, Civil Administration, and Shin Bet seized over 150 sacks of materials for making explosives throughout Central Command. As part of the security forces&#8217; activities against bomb terrorism, IDF, Border Police, and the Civil Administration, under the direction of Shin Bet, seized this morning in five regional brigades in Central Command, over 150 sacks of materials for making explosives. The forces arrested six shop owners who sold the materials and transferred them for further investigation by the security forces. In addition, the forces arrested five suspects in Husan and Azariyeh in the Bethlehem area, and another</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7997",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7997,
+        "he": 7998,
+        "ru": 7999
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7997",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7997"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7997/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7997"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7997"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7997"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

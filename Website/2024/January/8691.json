@@ -1,0 +1,122 @@
+{
+    "id": 4108,
+    "date": "2024-01-23T18:59:57",
+    "date_gmt": "2024-01-23T16:59:57",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8691/"
+    },
+    "modified": "2024-01-23T18:59:57",
+    "modified_gmt": "2024-01-23T16:59:57",
+    "slug": "8691",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8691/",
+    "title": {
+        "rendered": "&#8220;Decimating Hamas&#8217; Arsenal: IDF Unit 7 Obliterates Long Tunnel and Rocket Plant&#8221;"
+    },
+    "content": {
+        "rendered": "<p>A tunnel kilometer and a half long, and a rocket manufacturing plant: The IDF Unit 7 destroys Hamas&#8217; production capabilities.</p>\n<p>https://www.idf.il/175689</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>A tunnel kilometer and a half long, and a rocket manufacturing plant: The IDF Unit 7 destroys <a  href=\"/hamas\">Hamas</a>&#8217; production capabilities. https://www.idf.il/175689</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4108",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4108
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4108",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4108"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4108/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4108"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4108"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4108"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

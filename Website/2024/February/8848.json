@@ -1,0 +1,122 @@
+{
+    "id": 3955,
+    "date": "2024-02-12T04:31:19",
+    "date_gmt": "2024-02-12T02:31:19",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8848/"
+    },
+    "modified": "2024-02-12T04:31:19",
+    "modified_gmt": "2024-02-12T02:31:19",
+    "slug": "8848",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8848/",
+    "title": {
+        "rendered": "&#8220;IDF, Shin Bet, and Israeli Police Successfully Rescue Kidnapped Israelis in Joint Operation: A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint message to the IDF spokesperson, Shin Bet spokesperson, and the police spokesperson: </p>\n<p>It is permitted to disclose that in a joint operation of the IDF, Shin Bet and the Israeli police (SPU) in Rafah, two kidnapped Israelis, Fernando Simon Merman (60), and Louis Har (70) were rescued last night. The two were abducted by Hamas in the Gaza Strip from the Nir Yitzhak area on 7/10.</p>\n<p>The health of the rescued Israelis is good and they have been transferred for medical examinations at the Sheba Tel Hashomer Medical Center.</p>\n<p>Security forces will continue their efforts to recover all abducted individuals.</p>\n<p>Footage on this matter is attached: https://bit.ly/49snrcr</p>\n<p>Pictures on the subject are attached: https://IDFANC.activetrail.biz/ANC120220240237547.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint message to the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>, Shin Bet spokesperson, and the police spokesperson: It is permitted to disclose that in a joint operation of the IDF, Shin Bet and the Israeli police (SPU) in Rafah, two kidnapped Israelis, Fernando Simon Merman (60), and Louis Har (70) were rescued last night. The two were abducted by <a  href=\"/hamas\">Hamas</a> in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip from the <a  href=\"https://iron-swords.co.il/t/nir-yitzhak/\">Nir Yitzhak</a> area on 7/10. The health of the rescued Israelis is good and they have been transferred for medical examinations at the Sheba Tel Hashomer Medical Center. Security forces will continue their efforts to recover all abducted</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3955",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3955
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3955",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3955"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3955/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3955"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3955"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3955"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

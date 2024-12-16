@@ -1,0 +1,122 @@
+{
+    "id": 4057,
+    "date": "2024-01-30T19:14:26",
+    "date_gmt": "2024-01-30T17:14:26",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8743/"
+    },
+    "modified": "2024-01-30T19:14:26",
+    "modified_gmt": "2024-01-30T17:14:26",
+    "slug": "8743",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8743/",
+    "title": {
+        "rendered": "&#8220;February&#8217;s &#8216;Red South&#8217; Events in Western Negev: Changes and Security Measures Amid War Conditions&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Spokespersons of the IDF and the Israel Police:</p>\n<p>Starting from the 2nd of February and throughout the four weekends in February, &#8220;Red South&#8221; events will take place in the Western Negev.</p>\n<p>The activity was approved in accordance with the security situation assessment, alongside adjustments made due to the war. Among the adjustments is the deviation of the location of the events to the eastern part of the Western Negev region, a ban on travel on Route 4 from Yad Mordechai junction to the Erez crossing, as well as on Route 232 from Sha&#8217;ar HaNegev junction to Kerem Shalom during the weekends when the event takes place. The area will be reinforced by the forces of the IDF and the Israel Police.</p>\n<p>The western part of the envelope is still defined as a closed military area due to the war. There is a prohibition on crossing fences, traveling on unmarked dirt roads, and entering defined and controlled areas. Due to the fear of the presence of casualties or ammunition in the area, when encountering a suspicious object, do not touch it and report to the police emergency number 100. Follow the instructions of the security forces in the area.</p>\n<p>We emphasize that no movement will be permitted in the closed military area, except for the movement of residents living in this area, upon presentation of an identity card.</p>\n<p>Attached is a map of the roads closed to travel: https://IDFANC.activetrail.biz/ANC30012024.051615156</p>\n<p>For more information about the &#8220;Red South&#8221; activity, and blossom locations in the area: https://www.habsor.co.il/</p>\n<p>For complete defense instructions: https://www.oref.org.il/12487-15896-he/Pakar.aspx</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Spokespersons of the IDF and the <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> Police: Starting from the 2nd of February and throughout the four weekends in February, &#8220;Red South&#8221; events will take place in the Western Negev. The activity was approved in accordance with the security situation assessment, alongside adjustments made due to the war. Among the adjustments is the deviation of the location of the events to the eastern part of the Western Negev region, a ban on travel on Route 4 from Yad Mordechai junction to the Erez crossing, as well as on Route 232 from Sha&#8217;ar HaNegev junction to Kerem Shalom during the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4057",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4057
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4057",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4057"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4057/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4057"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4057"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4057"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

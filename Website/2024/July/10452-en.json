@@ -1,0 +1,124 @@
+{
+    "id": 7910,
+    "date": "2024-07-12T18:47:01",
+    "date_gmt": "2024-07-12T15:47:01",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10452-en/"
+    },
+    "modified": "2024-07-12T18:47:01",
+    "modified_gmt": "2024-07-12T15:47:01",
+    "slug": "10452-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10452-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Targets in Southern Lebanon: Key Military Actions Explained&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked terror infrastructure, a military structure, and an observation post in southern Lebanon, concurrently with an attack by a terrorist from the Hezbollah organization from the area from which rockets were fired toward the Golan in the past week.</p>\n<p>Fighter jets earlier today struck terror infrastructure, an observation post, and a military structure belonging to the Hezbollah terrorist organization in the areas of Ramiah, Al-Jibeen, Tir Harfa, and the village of Kila in southern Lebanon.</p>\n<p>Additionally, forces from Brigade 210 identified earlier today a terrorist from the Hezbollah organization operating in the Ras Al-Fakhor area, from which rockets were launched toward the Golan during the past week. Immediately afterward, an aircraft struck the terrorist.</p>\n<p>During the day, several launches were detected crossing from Lebanon into the areas of Mount Dov, Metula, and Margaliot. Some of the launches fell in open areas. There are no casualties.</p>\n<p>Attached is documentation from the attacks: https://bit.ly/4cXg4LN</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked terror infrastructure, a military structure, and an observation post in southern Lebanon, concurrently with an attack by a terrorist from the <a  href=\"/hezbollah\">Hezbollah</a> organization from the area from which rockets were fired toward the Golan in the past week. Fighter jets earlier today struck terror infrastructure, an observation post, and a military structure belonging to the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization in the areas of Ramiah, Al-Jibeen, Tir Harfa, and the village of Kila in southern Lebanon. Additionally, forces from Brigade 210 identified earlier today a terrorist from the Hezbollah organization operating in the Ras Al-Fakhor area, from</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7910",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7910,
+        "he": 7911,
+        "ru": 7912
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7910",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7910"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7910/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7910"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7910"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7910"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": 9023,
+    "date": "2024-06-10T20:56:30",
+    "date_gmt": "2024-06-10T17:56:30",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10076-en/"
+    },
+    "modified": "2024-06-10T20:56:30",
+    "modified_gmt": "2024-06-10T17:56:30",
+    "slug": "10076-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10076-en/",
+    "title": {
+        "rendered": "&#8220;IDF Intercepts Aerial Threats: No Casualties in Recent Defense Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Air defense fighters successfully intercepted a suspicious aerial target over the sea near the shores of Nahariya. No alerts were activated regarding the incursion of hostile aircraft according to policy; the alerts that were activated during the event stemmed from concerns about falling interception debris.</p>\n<p>In the last hour, an anti-tank missile was launched towards the area of Sha&#8217;tul, hitting a structure in the vicinity. As a result of the impact, a fire broke out, which was extinguished shortly thereafter.</p>\n<p>Additionally, following the alert activated at 19:43 regarding the incursion of hostile aircraft in the Golan Heights area, air defense fighters successfully intercepted a suspicious aerial target that crossed from Lebanon. Alerts for rocket and missile fire were activated due to concerns about falling interception debris.</p>\n<p>In all these events, there are no casualties.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Air defense fighters successfully intercepted a suspicious aerial target over the sea near the shores of Nahariya. No alerts were activated regarding the incursion of hostile aircraft according to policy; the alerts that were activated during the event stemmed from concerns about falling interception debris. In the last hour, an anti-tank missile was launched towards the area of Sha&#8217;tul, hitting a structure in the vicinity. As a result of the impact, a fire broke out, which was extinguished shortly thereafter. Additionally, following the alert activated at 19:43 regarding the incursion of hostile aircraft in the Golan Heights area,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9023",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9023,
+        "he": 9024,
+        "ru": 9025
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9023",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9023"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9023/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9023"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9023"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9023"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

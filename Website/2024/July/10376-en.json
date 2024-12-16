@@ -1,0 +1,124 @@
+{
+    "id": 8138,
+    "date": "2024-07-07T09:58:44",
+    "date_gmt": "2024-07-07T06:58:44",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10376-en/"
+    },
+    "modified": "2024-07-07T09:58:44",
+    "modified_gmt": "2024-07-07T06:58:44",
+    "slug": "10376-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10376-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hamas Stronghold in Khan Younis: Key Military Operations Unveiled&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesman:</p>\n<p>The municipal building of Khan Younis in the Gaza Strip, which was used by Hamas for military activities, was attacked; the terrorists who carried out the launches yesterday at Nahal Oz were eliminated.</p>\n<p>During the night, the IDF attacked, with the assistance of Air Force aircraft and intelligence guidance from the Shin Bet and Southern Command, the municipal building of Khan Younis in the Gaza Strip, which served Hamas for military activity. Among other things, the building contains an operational tunnel connected to an underground route and also serves as a gathering place for the organization&#8217;s militants.</p>\n<p>Prior to the attack, several measures were taken to minimize the risk of civilian casualties. As part of these efforts, an evacuation of the population was carried out beforehand.</p>\n<p>Hamas operates within the humanitarian space and regularly violates international law, systematically exploiting civilian structures and the civilian population as human shields for terrorist actions against the State of Israel. The IDF will continue to act decisively to target the enemy accurately.</p>\n<p>Last night (Saturday), one launch was detected that crossed from the Shuja&#8217;iyya area in the northern Gaza Strip and fell in an open area in Nahal Oz, with no casualties. Shortly after, the fire center of Division 98 directed an airstrike to eliminate the terrorist who carried out the launch and destroyed the building from which the launch was made.</p>\n<p>Forces from Division 98 eliminated several terrorists in the last 24 hours and destroyed terrorist infrastructure in the Shuja&#8217;iyya area. During the last 24 hours, many weapons were uncovered, including explosives, Kalashnikovs, machine guns, and rifles. In one operation, the combat team from the Paratroopers Brigade destroyed a mortar launcher, and additionally, the forces located an RPG weapon, a grenade, fuses, and an improvised explosive device.</p>\n<p>Fighters from Division 162 continue to fight in the Rafah area in the southern Gaza Strip; during the last 24 hours, the forces eliminated over 30 terrorists in close-quarters battles and airstrikes. Additionally, fighter jets destroyed a rocket launcher ready for launch in the Rafah area.</p>\n<p>Attached are images from the forces&#8217; activities: https://idfanc.activetrail.biz/ANC0707202482746</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>IDF Spokesman: The municipal building of Khan Younis in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip, which was used by <a  href=\"/hamas\">Hamas</a> for military activities, was attacked; the terrorists who carried out the launches yesterday at Nahal Oz were eliminated. During the night, the IDF attacked, with the assistance of Air Force aircraft and intelligence guidance from the Shin Bet and Southern Command, the municipal building of Khan Younis in the Gaza Strip, which served <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> for military activity. Among other things, the building contains an operational tunnel connected to an underground route and also serves as a gathering place for the organization&#8217;s militants. Prior</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8138",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8138,
+        "he": 8139,
+        "ru": 8140
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8138",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8138"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8138/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8138"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8138"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8138"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

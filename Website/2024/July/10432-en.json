@@ -1,0 +1,124 @@
+{
+    "id": 7967,
+    "date": "2024-07-11T08:55:44",
+    "date_gmt": "2024-07-11T05:55:44",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10432-en/"
+    },
+    "modified": "2024-07-11T08:55:44",
+    "modified_gmt": "2024-07-11T05:55:44",
+    "slug": "10432-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10432-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hamas: Key Terror Leaders Eliminated &#038; Weapons Cache Discovered in Gaza&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF and Shin Bet forces eliminated a terrorist in the internal security apparatus of the Hamas terrorist organization. The combat troops located explosive drones alongside mortar shells and RPG launchers at the UNRWA headquarters in the central Gaza Strip.</p>\n<p>This week, IDF and Shin Bet forces attacked using aerial vehicles in the central Gaza Strip and eliminated the terrorist Hassan Abu Kweik, head of the security operations department in the central refugee camp district, within the internal security apparatus of the Hamas terrorist organization. Hassan was a military operative and active in the movement&#8217;s emergency committee, leading many terrorist operations against the State of Israel. In addition, the terrorist Nasir Mahana, a team leader in the military intelligence of the Hamas terrorist organization, was also eliminated.</p>\n<p>The combat team of the Commando Brigade continues to operate at the UNRWA headquarters in the central Gaza Strip. In the last 24 hours, the fighters located numerous weapons in the area around the headquarters. Among the weapons found were explosive drones, explosives, grenades, sniper rifles, mortar shells, rockets, RPG launchers, and more. At the same time, the forces directed Air Force aircraft that attacked the combat area, from where terrorists had opened fire on the forces during the fighting.</p>\n<p>Forces from Division 162 continue to operate in the Rafah area, and in the last 24 hours, the fighters, in collaboration with the Air Force, eliminated dozens of terrorists. Combat fighters from the Nahal Brigade destroyed several booby-trapped infrastructures and underground shafts located in the area. During raids on terrorist infrastructures in the Tal Sultan area, the combat fighters of Brigade 401 located underground shafts, RPG launchers, and additional weaponry.</p>\n<p>Attached is documentation of the forces&#8217; activity in the Gaza Strip: https://bit.ly/45Y4C0g</p>\n<p>Attached are images from the forces&#8217; activity in the Gaza Strip: https://IDFANC.activetrail.biz/ANC110720242849842</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF and Shin Bet forces eliminated a terrorist in the internal security apparatus of the <a  href=\"/hamas\">Hamas</a> terrorist organization. The combat troops located explosive drones alongside mortar shells and RPG launchers at the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/unrwa/\">UNRWA</a> headquarters in the central <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. This week, IDF and Shin Bet forces attacked using aerial vehicles in the central Gaza Strip and eliminated the terrorist Hassan Abu Kweik, head of the security operations department in the central refugee camp district, within the internal security apparatus of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> terrorist organization. Hassan was a military operative and active in the movement&#8217;s emergency committee, leading many</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7967",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7967,
+        "he": 7968,
+        "ru": 7969
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7967",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7967"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7967/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7967"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7967"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7967"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

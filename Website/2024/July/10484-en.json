@@ -1,0 +1,124 @@
+{
+    "id": 7815,
+    "date": "2024-07-15T19:18:45",
+    "date_gmt": "2024-07-15T16:18:45",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10484-en/"
+    },
+    "modified": "2024-07-15T19:18:45",
+    "modified_gmt": "2024-07-15T16:18:45",
+    "slug": "10484-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10484-en/",
+    "title": {
+        "rendered": "&#8220;Mastering the Art of Soldier Competitions: Focus on Tactical Excellence&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Ready, set, shoot:<br />\nThere is no soldier who hasn&#8217;t encountered them, but in this competition &#8211; the focus is on them.<br />\nhttps://www.idf.il/216677</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Ready, set, shoot: There is no soldier who hasn&#8217;t encountered them, but in this competition &#8211; the focus is on them. https://www.idf.il/216677</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7815",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7815,
+        "he": 7816,
+        "ru": 7817
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7815",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7815"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7815/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7815"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7815"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7815"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

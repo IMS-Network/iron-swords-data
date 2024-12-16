@@ -1,0 +1,124 @@
+{
+    "id": 7324,
+    "date": "2024-07-27T08:04:54",
+    "date_gmt": "2024-07-27T05:04:54",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10649-en/"
+    },
+    "modified": "2024-07-27T08:04:54",
+    "modified_gmt": "2024-07-27T05:04:54",
+    "slug": "10649-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10649-en/",
+    "title": {
+        "rendered": "&#8220;IDF Issues Urgent Evacuation Alert for Khan Yunis Residents Amid Rising Terror Threats&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Due to numerous terrorist actions and fire from the southern neighborhoods of Khan Yunis towards the State of Israel, staying in this area has become dangerous. Therefore, at this time, an adjustment of the area will take place. The adjustment is based on precise intelligence indicating that the terrorist organization Hamas has placed infrastructure for terrorism in an area designated as a humanitarian space.</p>\n<p>The early warning is being carried out in order to minimize harm to the civilian population and to distance them from the combat area.</p>\n<p>The IDF is set to act decisively against the terrorist organizations, and therefore calls on the population that remains in the southern neighborhoods of Khan Yunis to temporarily evacuate to the designated humanitarian area in Mawasi.</p>\n<p>Evacuation actions are being conducted through SMS notifications, recorded voice messages, phone calls, media broadcasts in Arabic, and flyers.</p>\n<p>The IDF will continue to act against the terrorist organization Hamas, which uses the residents of Gaza as human shields for its activities and terrorist infrastructure.</p>\n<p>Attached is an animated graphic of the designated humanitarian area in Mawasi and the evacuation space: https://bit.ly/4focSuD</p>\n<p>Attached is a graphic of the adjusted area: https://IDFANC.activetrail.biz/ANC26072024928984435</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Due to numerous terrorist actions and fire from the southern neighborhoods of Khan Yunis towards the State of <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>, staying in this area has become dangerous. Therefore, at this time, an adjustment of the area will take place. The adjustment is based on precise intelligence indicating that the terrorist organization <a  href=\"/hamas\">Hamas</a> has placed infrastructure for terrorism in an area designated as a humanitarian space. The early warning is being carried out in order to minimize harm to the civilian population and to distance them from the combat area. The IDF is set to act decisively against the terrorist</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7324",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7324,
+        "he": 7325,
+        "ru": 7326
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7324",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7324"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7324/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7324"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7324"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7324"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

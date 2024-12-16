@@ -1,0 +1,122 @@
+{
+    "id": 4271,
+    "date": "2024-01-06T10:05:16",
+    "date_gmt": "2024-01-06T08:05:16",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8526/"
+    },
+    "modified": "2024-01-06T10:05:16",
+    "modified_gmt": "2024-01-06T08:05:16",
+    "slug": "8526",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8526/",
+    "title": {
+        "rendered": "&#8220;Exposing Hidden Threats: IDF Uncovers Terrorist Weapons and Tactics in Gaza&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Within a clinic: military vests of terror group Nachba activists were hidden inside UNRWA bags; IDF eliminated in recent days terrorists who were operating drones and found dozens of weapons and explosives.</p>\n<p>Fighters from the 179th Batallion Combat Team systematically stormed an area in Gaza City, where gunfire was directed at our forces in recent days. The fighters found inside the clinic bags of UNRWA wherein the terrorist organization Hamas had hidden military vests of Nachba activists. In an adjacent building, they found RPG missiles, Kalashnikov type weapons, and ammunition.</p>\n<p>In Khan Yunis, IDF fighters eliminated numerous terrorists from the air and the ground and destroyed several tunnel entrances. Fighters from the Paratrooper brigade&#8217;s Combat Team located a weapons store, which contained dozens of Kalashnikov type guns, over a hundred magazines, remotely operated explosives, and several RPG missiles. Forces from Yahalom unit together with fighters from the Paratrooper reconnaissance unit destroyed the storage.</p>\n<p>In Beit Lahia and Al-Fukhari, the fire complexes of the Gaza Regiment, Nachal Brigade, and the 215th Fire Brigade, identified several terrorists operating drones in order to harm our forces. Manned aerial vehicles eliminated the terrorists who posed a danger to the ground fighters.</p>\n<p>Attached are photos of the military vests that the terrorist organization Hamas hid inside UNRWA bags: https://IDFANC.activetrail.biz/ANC06012024FERONGBUIBV</p>\n<p>Attached are photos of the weapons found in Khan Yunis: https://IDFANC.activetrail.biz/ANC06012024YJUFYUTF</p>\n<p>Attached are photos of the forces&#8217; activity: https://IDFANC.activetrail.biz/ANC06012024EIRBVFDIYUSIBYUV</p>\n<p>Enclosed is footage of the attack on a terrorist identified operating a drone with the aim of harming our forces: https://bit.ly/3tLsNjR</p>\n<p>Enclosed is footage of IDF attacks in recent days: https://bit.ly/47uREWS</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Within a clinic: military vests of terror group Nachba activists were hidden inside <a  href=\"https://iron-swords.co.il/c/know-your-enemies/unrwa/\">UNRWA</a> bags; IDF eliminated in recent days terrorists who were operating drones and found dozens of weapons and explosives. Fighters from the 179th Batallion Combat Team systematically stormed an area in <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> City, where gunfire was directed at our forces in recent days. The fighters found inside the clinic bags of UNRWA wherein the terrorist organization <a  href=\"/hamas\">Hamas</a> had hidden military vests of Nachba activists. In an adjacent building, they found RPG missiles, Kalashnikov type weapons, and ammunition. In Khan Yunis, IDF fighters eliminated numerous terrorists</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4271",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4271
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4271",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4271"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4271/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4271"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4271"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4271"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

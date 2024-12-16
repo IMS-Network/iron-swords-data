@@ -1,0 +1,122 @@
+{
+    "id": 2937,
+    "date": "2024-05-27T09:49:48",
+    "date_gmt": "2024-05-27T06:49:48",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9888/"
+    },
+    "modified": "2024-05-27T09:49:48",
+    "modified_gmt": "2024-05-27T06:49:48",
+    "slug": "9888",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9888/",
+    "title": {
+        "rendered": "&#8220;Perspectives from the Battlefield: Insights from Tanker Engineer Lohar Mohandess&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Things that are seen from here, aren&#8217;t seen from there:<br />\nThanks to them, Lohar Mohandess &#8211; a tanker and engineer, there is more &#8216;back&#8217; on the battlefield<br />\nhttps://www.idf.il/203833</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Things that are seen from here, aren&#8217;t seen from there: Thanks to them, Lohar Mohandess &#8211; a tanker and engineer, there is more &#8216;back&#8217; on the battlefield https://www.idf.il/203833</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2937",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2937
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2937",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2937"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2937/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2937"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2937"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2937"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

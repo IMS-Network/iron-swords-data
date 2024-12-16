@@ -1,0 +1,122 @@
+{
+    "id": 3130,
+    "date": "2024-05-10T23:09:16",
+    "date_gmt": "2024-05-10T20:09:16",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9693/"
+    },
+    "modified": "2024-05-10T23:09:16",
+    "modified_gmt": "2024-05-10T20:09:16",
+    "slug": "9693",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9693/",
+    "title": {
+        "rendered": "&#8220;IDF Neutralizes Rocket Launch Sites in Rafah: A Significant Blow to Be&#8217;er Sheva Attacks&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>The IDF destroyed the rocket launch sites in Rafah from which Be&#8217;er Sheva was fired at.</p>\n<p>Combat soldiers from the 401 Brigade closed a circle and destroyed two rocket launch sites in Rafah using an aircraft, from which earlier this evening, a targeted shooting was conducted towards the city of Be&#8217;er Sheva. Following the destruction of the sites, secondary explosions were identified, indicating the presence of more weapons at the sites.</p>\n<p>Documentation from the attack is attached: https://bit.ly/4aaeDYI</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: The IDF destroyed the rocket launch sites in Rafah from which Be&#8217;er Sheva was fired at. Combat soldiers from the 401 Brigade closed a circle and destroyed two rocket launch sites in Rafah using an aircraft, from which earlier this evening, a targeted shooting was conducted towards the city of Be&#8217;er Sheva. Following the destruction of the sites, secondary explosions were identified, indicating the presence of more weapons at the sites. Documentation from the attack is attached: https://bit.ly/4aaeDYI</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3130",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3130
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3130",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3130"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3130/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3130"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3130"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3130"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

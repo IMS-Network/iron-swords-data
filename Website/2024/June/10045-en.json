@@ -1,0 +1,124 @@
+{
+    "id": 9116,
+    "date": "2024-06-08T17:48:15",
+    "date_gmt": "2024-06-08T14:48:15",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10045-en/"
+    },
+    "modified": "2024-06-08T17:48:15",
+    "modified_gmt": "2024-06-08T14:48:15",
+    "slug": "10045-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10045-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah: Swift Targeting and Documentation of Military Actions in Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>In closing the loop: Identification of a terrorist and strike within minutes; Documentation of IDF strikes in Lebanon</p>\n<p>The artillery division of Division 91 identified a member of the Hezbollah terrorist organization in the Itarun area in southern Lebanon. Shortly thereafter, an Air Force aircraft targeted the individual.</p>\n<p>A short while ago, fighter jets attacked a terrorist guidance infrastructure of the organization in the Al-Khiam area.</p>\n<p>Forces carried out tank fire towards a military structure of the Hezbollah terrorist organization in the Kfar Kila area, which was identified as a terrorist infrastructure of the organization.</p>\n<p>Throughout the day, IDF forces attacked with artillery and mortars in the areas of Shuba, Kfar Kila, Hula, and Kfar Hamam.</p>\n<p>Attached is documentation of the strikes: https://bit.ly/4bLHdBc</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: In closing the loop: Identification of a terrorist and strike within minutes; Documentation of IDF strikes in Lebanon The artillery division of Division 91 identified a member of the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization in the Itarun area in southern Lebanon. Shortly thereafter, an Air Force aircraft targeted the individual. A short while ago, fighter jets attacked a terrorist guidance infrastructure of the organization in the Al-Khiam area. Forces carried out tank fire towards a military structure of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization in the Kfar Kila area, which was identified as a terrorist infrastructure of the organization. Throughout the day,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9116",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9116,
+        "he": 9117,
+        "ru": 9118
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9116",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9116"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9116/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9116"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9116"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9116"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "id": 3026,
+    "date": "2024-05-20T08:54:38",
+    "date_gmt": "2024-05-20T05:54:38",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9799/"
+    },
+    "modified": "2024-09-04T21:49:19",
+    "modified_gmt": "2024-09-04T18:49:19",
+    "slug": "9799",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9799/",
+    "title": {
+        "rendered": "&#8220;IDF and Shin Bet Take Down High-Ranking Hamas Terrorists: Inside the Joint Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint message to IDF spokesperson and Shin Bet spokespersons:</p>\n<p>IDF and Shin Bet eliminate military operatives of the Hamas terrorist organization, who also functioned as senior officials in the Hamas police force.</p>\n<p>In a joint operation by the IDF and Shin Bet, yesterday (Sunday) &#8220;Abu Hamed&#8221;, a terrorist named Zahar Holi, was attacked and eliminated by an aircraft of the Air Force. In addition to his role in the military wing, he served as a senior official in the <a href=\"https://iron-swords.co.il/hamas/\"  data-wpil-monitor-id=\"22\">Hamas</a> police in the Central Camp. In his activity, Zahar maintained connections with other terrorists from the organization and promoted terrorist plots against the Israeli home front.</p>\n<p>In another joint operation that was completed on Saturday, terrorist Rami Halil Faki was eliminated from the air. In addition to his role in the military wing, he served as a central terrorist in the Hamas police in the Nuseirat area. As part of his duties, he commanded a force of armed terrorists who led terrorist plots against our forces. His deputy and four other Hamas terrorists were also eliminated along with him.</p>\n<p>Attached is footage of the elimination of terrorist Zahar Holi: https://bit.ly/3QRBzoW</p>\n<p>Attached is footage from the elimination of a squad of Hamas terrorists, including Rami Halil Faki: https://bit.ly/3V8usK7</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint message to <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a> and Shin Bet spokespersons: IDF and Shin Bet eliminate military operatives of the <a  href=\"/hamas\">Hamas</a> terrorist organization, who also functioned as senior officials in the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> police force. In a joint operation by the IDF and Shin Bet, yesterday (Sunday) &#8220;Abu Hamed&#8221;, a terrorist named Zahar Holi, was attacked and eliminated by an aircraft of the Air Force. In addition to his role in the military wing, he served as a senior official in the Hamas police in the Central Camp. In his activity, Zahar maintained connections with other terrorists from the organization and promoted terrorist</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3026",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3026
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3026",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3026"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3026/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 17444,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3026/revisions/17444"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3026"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3026"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3026"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

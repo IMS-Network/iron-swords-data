@@ -1,0 +1,122 @@
+{
+    "id": 3721,
+    "date": "2024-03-10T11:22:16",
+    "date_gmt": "2024-03-10T09:22:16",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9085/"
+    },
+    "modified": "2024-03-10T11:22:16",
+    "modified_gmt": "2024-03-10T09:22:16",
+    "slug": "9085",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9085/",
+    "title": {
+        "rendered": "&#8220;IDF and Security Forces Thwart Terrorism: Arrests and Operations Following Recent Explosive Attack in Judea and Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF soldiers, Shin Bet, and Border Police operated in the area where a terrorist had set off an explosive device the day before yesterday (Wednesday); three suspects were arrested in Judea and Samaria.</p>\n<p>The soldiers operated in the villages of Silat al-Dhahr and Funduqumia in the Samaria Brigade area, where a terrorist had set off an explosive device the day before yesterday (Wednesday), injuring seven IDF soldiers, some moderately and some lightly.</p>\n<p>IDF soldiers, Shin Bet, and Border Police operated last night in Al-Bireh and Birzeit in the Binyamin Brigade Zone, arresting three suspects.</p>\n<p>The suspects who were arrested have been transferred for further investigation by the security forces, no injuries were reported among our forces.</p>\n<p>So far since the beginning of the war, about 3,500 suspects have been arrested throughout the Judea and Samaria Division and the Rift Valley and Valleys Brigade, over 1,500 of them are affiliated with the Hamas terrorist organization.</p>\n<p>Attached are pictures from the force&#8217;s activity: https://IDFANC.activetrail.biz/ANC10032024684514568</p>\n<p>Also attached is footage from the forces&#8217; operation: https://bit.ly/3ItvLgq</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF soldiers, Shin Bet, and Border Police operated in the area where a terrorist had set off an explosive device the day before yesterday (Wednesday); three suspects were arrested in Judea and Samaria. The soldiers operated in the villages of Silat al-Dhahr and Funduqumia in the Samaria Brigade area, where a terrorist had set off an explosive device the day before yesterday (Wednesday), injuring seven IDF soldiers, some moderately and some lightly. IDF soldiers, Shin Bet, and Border Police operated last night in Al-Bireh and Birzeit in the Binyamin Brigade Zone, arresting three suspects. The suspects who were</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3721",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3721
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3721",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3721"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3721/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3721"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3721"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3721"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

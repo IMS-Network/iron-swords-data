@@ -1,0 +1,122 @@
+{
+    "id": 4069,
+    "date": "2024-01-29T15:42:32",
+    "date_gmt": "2024-01-29T13:42:32",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8731/"
+    },
+    "modified": "2024-01-29T15:42:32",
+    "modified_gmt": "2024-01-29T13:42:32",
+    "slug": "8731",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8731/",
+    "title": {
+        "rendered": "&#8220;IDF Maintains Gaza Border Engagement Rules: A Look at Security Measures and Counter-Terrorism Efforts&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>In response to allegations regarding the rules of engagement on the Gaza border, the IDF clarifies that there has been no change in the rules of engagement. IDF forces act according to guidelines that prevent anyone from reaching the border fence.<br />\nThe rules of engagement and our policy of force enable our forces to accomplish their mission while preventing incidents of our forces firing upon our forces, or harm to Israeli civilians, including abductions that might occur in the area.</p>\n<p>IDF forces are deployed along the length of the border, and also fight deep inside the strip. In the past month, dozens of terrorists in the border region have been killed.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: In response to allegations regarding the rules of engagement on the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> border, the IDF clarifies that there has been no change in the rules of engagement. IDF forces act according to guidelines that prevent anyone from reaching the border fence. The rules of engagement and our policy of force enable our forces to accomplish their mission while preventing incidents of our forces firing upon our forces, or harm to Israeli civilians, including abductions that might occur in the area. IDF forces are deployed along the length of the border, and also fight deep inside the strip. In</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4069",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4069
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4069",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4069"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4069/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4069"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4069"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4069"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

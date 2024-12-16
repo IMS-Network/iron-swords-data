@@ -1,0 +1,122 @@
+{
+    "id": 3659,
+    "date": "2024-03-17T08:12:06",
+    "date_gmt": "2024-03-17T06:12:06",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9149/"
+    },
+    "modified": "2024-03-17T08:12:06",
+    "modified_gmt": "2024-03-17T06:12:06",
+    "slug": "9149",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9149/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Targets in Lebanon: A Night of Retaliatory Attacks Detailed&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Military building and observation post; The IDF attacked targets of the terrorist organization Hezbollah in Lebanese territory.</p>\n<p>Combat aircraft attacked during the night a military building that served the terrorist organization Hezbollah in the Al-Khiam area in response to the launchings towards Ajar last night.<br />\nIn addition, combat aircraft attacked last night (Saturday) an observation post of the terrorist organization Hezbollah in the Kfar Kila area.</p>\n<p>Last night (Saturday) the IDF attacked with artillery fire to remove a threat in the Mist area.</p>\n<p>Several launches from Lebanese territory towards the Ajar and Mount Dov areas were identified last night (Saturday) and throughout the night. The IDF attacked the sources of fire and no casualties were reported.</p>\n<p>Attached is documentation of the attack: https://bit.ly/3VizSUf</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Military building and observation post; The IDF attacked targets of the terrorist organization <a  href=\"/hezbollah\">Hezbollah</a> in Lebanese territory. Combat aircraft attacked during the night a military building that served the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in the Al-Khiam area in response to the launchings towards Ajar last night. In addition, combat aircraft attacked last night (Saturday) an observation post of the terrorist organization Hezbollah in the Kfar Kila area. Last night (Saturday) the IDF attacked with artillery fire to remove a threat in the Mist area. Several launches from Lebanese territory towards the Ajar and Mount Dov areas were identified last</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3659",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3659
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3659",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3659"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3659/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3659"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3659"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3659"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

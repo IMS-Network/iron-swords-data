@@ -1,0 +1,124 @@
+{
+    "id": 7581,
+    "date": "2024-07-21T06:45:39",
+    "date_gmt": "2024-07-21T03:45:39",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10566-en/"
+    },
+    "modified": "2024-07-21T06:45:39",
+    "modified_gmt": "2024-07-21T03:45:39",
+    "slug": "10566-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10566-en/",
+    "title": {
+        "rendered": "&#8220;IDF Intercepts Ground-to-Ground Missile from Yemen: Arrow 3 Success&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF intercepted a ground-to-ground missile that was making its way towards Israeli territory from Yemen.</p>\n<p>Shortly ago, air defense fighters successfully intercepted a ground-to-ground missile using the &#8220;Arrow 3&#8221; system that was heading towards Israeli territory from Yemen.</p>\n<p>The launch did not cross into Israeli territory, and alerts for rocket and missile fire were activated due to concerns about falling interception debris.<br />\nThe incident has concluded.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF intercepted a ground-to-ground missile that was making its way towards Israeli territory from Yemen. Shortly ago, air defense fighters successfully intercepted a ground-to-ground missile using the &#8220;Arrow 3&#8221; system that was heading towards Israeli territory from Yemen. The launch did not cross into Israeli territory, and alerts for rocket and missile fire were activated due to concerns about falling interception debris. The incident has concluded.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7581",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7581,
+        "he": 7582,
+        "ru": 7583
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7581",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7581"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7581/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7581"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7581"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7581"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

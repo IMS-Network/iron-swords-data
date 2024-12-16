@@ -1,0 +1,135 @@
+{
+    "id": 15661,
+    "date": "2024-08-27T16:49:01",
+    "date_gmt": "2024-08-27T13:49:01",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=15661"
+    },
+    "modified": "2024-08-27T16:49:06",
+    "modified_gmt": "2024-08-27T13:49:06",
+    "slug": "qaid-farhan-alkadi-hostage-rescued",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/qaid-farhan-alkadi-hostage-rescued/",
+    "title": {
+        "rendered": "Qaid Farhan Alkadi &#8211; Hostage Rescued"
+    },
+    "content": {
+        "rendered": "\n<p>In a remarkable rescue operation, Israeli forces today successfully retrieved Qaid Farhan Alkadi, a 52-year-old resident of Rahat, who was abducted by Hamas terrorists on October 7th. Alkadi was found in a tunnel deep in the Rafah area and was rescued without resistance, safely returning to Israeli hands.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>The Rescue Operation</strong></h2>\n\n\n\n<p>Alkadi, who was kidnapped while working at a packing house in Kibbutz Magen, was discovered in a 27-meter-deep tunnel by a joint team of elite IDF units, including Shayetet 13, Brigade 401, Yahalom, and Shin Bet operatives. The rescue mission, under the command of Division 162, was executed with precision, ensuring Alkadi&#8217;s safe extraction. Following the rescue, he was airlifted by a military helicopter to a hospital for medical evaluations. His condition is stable, and he is now under medical care.</p>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>A Community\u2019s Relief</strong></h3>\n\n\n\n<p>Alkadi\u2019s abduction was part of a series of kidnappings carried out by Palestinian Hamas during the October 7th massacre , which has left the Bedouin community in Israel deeply shaken. His safe return provides a moment of relief, though the community continues to hope for the release of other captives, including two members of the Al-Zayadna family, who remain in Hamas captivity.</p>\n\n\n\n<p>The IDF and ISA have confirmed that their efforts to secure the release of all hostages will continue with unwavering determination.</p>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>Ongoing Efforts</strong></h3>\n\n\n\n<p>The Israeli security forces remain committed to bringing every hostage home, utilizing all available resources and strategies to ensure their safe return. The successful rescue of Qaid Farhan Alkadi stands as a testament to the relentless efforts of these forces and their dedication to the well-being of all Israelis.</p>\n\n\n\n<p>As Alkadi begins his recovery, the focus remains on securing the freedom of the remaining captives, with the nation standing united in support of their return.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p> Qaid Farhan Alkadi is home</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 15662,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 53,
+        "footnotes": ""
+    },
+    "categories": [
+        53
+    ],
+    "tags": [],
+    "class_list": [
+        "post-15661",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-facts"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 15661
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15661",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=15661"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15661/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 15663,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15661/revisions/15663"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/15662"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=15661"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=15661"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=15661"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

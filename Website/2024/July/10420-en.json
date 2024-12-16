@@ -1,0 +1,124 @@
+{
+    "id": 8006,
+    "date": "2024-07-10T09:17:14",
+    "date_gmt": "2024-07-10T06:17:14",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10420-en/"
+    },
+    "modified": "2024-07-10T09:17:14",
+    "modified_gmt": "2024-07-10T06:17:14",
+    "slug": "10420-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10420-en/",
+    "title": {
+        "rendered": "&#8220;IDF Operations Update: Division 99 Engages in Gaza City Combat, Multiple Terrorists Eliminated&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Troops from Division 99 continue combat operations in the Gaza City area; Division 98 forces eliminated dozens of terrorists in Shuja&#8217;iyya.</p>\n<p>Division 99 continues fighting in the Gaza City area. Commando and multi-dimensional unit fighters joined operations last night at the UNRWA headquarters in the area, which is used by Hamas and the Islamic Jihad terrorists to carry out terror attacks against our forces in the center of the Gaza Strip.</p>\n<p>After an organized crossing was opened for civilians to exit the area, the fighters raided the building, eliminated terrorists in close-range combat, arrested additional terrorists, and discovered numerous weapons.</p>\n<p>In the past day, forces from Division 98 have eliminated dozens of terrorists in the Shuja&#8217;iyya area and destroyed tunnels.</p>\n<p>Commando paratroopers identified ten terrorists observing the forces from a building in the area, and in a combined assault from the ground and air, the building where the terrorists operated was attacked.</p>\n<p>In Rafah, combat teams from Division 162 have eliminated several terrorists in the past day, located weapons, and destroyed underground infrastructures in the area.</p>\n<p>In several strikes led by Division 143 and fighters from Unit 414, Air Force aircraft attacked and eliminated several terrorists in the Hamas terror organization in the center of the Gaza Strip, including terrorists involved in tunnel activities within the organization and anti-tank fire towards our forces.</p>\n<p>Attached is documentation from IDF strikes in the Gaza Strip: https://bit.ly/4eSEKa1</p>\n<p>Attached is documentation from Division 98&#8217;s activities in Shuja&#8217;iyya: https://bit.ly/4eZw5mu</p>\n<p>Attached are pictures from the forces&#8217; activities in the Gaza Strip: https://IDFANC.activetrail.biz/ANC100720247460746</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Troops from Division 99 continue combat operations in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> City area; Division 98 forces eliminated dozens of terrorists in Shuja&#8217;iyya. Division 99 continues fighting in the Gaza City area. Commando and multi-dimensional unit fighters joined operations last night at the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/unrwa/\">UNRWA</a> headquarters in the area, which is used by <a  href=\"/hamas\">Hamas</a> and the Islamic Jihad terrorists to carry out <a  href=\"https://iron-swords.co.il/c/terror-attacks/\">terror attacks</a> against our forces in the center of the Gaza Strip. After an organized crossing was opened for civilians to exit the area, the fighters raided the building, eliminated terrorists in close-range combat, arrested additional terrorists, and discovered</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8006",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8006,
+        "he": 8007,
+        "ru": 8008
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8006",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8006"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8006/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8006"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8006"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8006"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

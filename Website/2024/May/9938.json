@@ -1,0 +1,122 @@
+{
+    "id": 2886,
+    "date": "2024-05-30T20:00:02",
+    "date_gmt": "2024-05-30T17:00:02",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9938/"
+    },
+    "modified": "2024-05-30T20:00:02",
+    "modified_gmt": "2024-05-30T17:00:02",
+    "slug": "9938",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9938/",
+    "title": {
+        "rendered": "&#8220;Engineering Triumph: How 7 Kidnap Victims were Rescued from a Destroyed Subterranean Tunnel&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Using engineering tools, mine explosions and other means: the subterranean tunnel from which 7 kidnapped victims were extracted was destroyed.</p>\n<p>All the details:</p>\n<p>https://www.idf.il/205256</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Using engineering tools, mine explosions and other means: the subterranean tunnel from which 7 kidnapped victims were extracted was destroyed. All the details: https://www.idf.il/205256</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2886",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2886
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2886",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2886"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2886/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2886"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2886"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2886"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

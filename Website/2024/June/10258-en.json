@@ -1,0 +1,124 @@
+{
+    "id": 8480,
+    "date": "2024-06-26T16:18:43",
+    "date_gmt": "2024-06-26T13:18:43",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10258-en/"
+    },
+    "modified": "2024-06-26T16:18:43",
+    "modified_gmt": "2024-06-26T13:18:43",
+    "slug": "10258-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10258-en/",
+    "title": {
+        "rendered": "&#8220;Brigadier General Y. Takes Command: A New Era for IDF Intelligence Corps&#8217; Special Operations Division&#8221;"
+    },
+    "content": {
+        "rendered": "<p>&#8220;We will be required to excel in our tasks, and from my acquaintance with the people in this unit &#8211; I have no doubt we will succeed&#8221;:<br />\nBrigadier General Y. has assumed his role as the commander of the Special Operations Division in the IDF Intelligence Corps.</p>\n<p>For all the details:</p>\n<p>https://www.idf.il/211467</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>&#8220;We will be required to excel in our tasks, and from my acquaintance with the people in this unit &#8211; I have no doubt we will succeed&#8221;: Brigadier General Y. has assumed his role as the commander of the Special Operations Division in the IDF Intelligence Corps. For all the details: https://www.idf.il/211467</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8480",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8480,
+        "he": 8481,
+        "ru": 8482
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8480",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8480"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8480/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8480"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8480"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8480"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

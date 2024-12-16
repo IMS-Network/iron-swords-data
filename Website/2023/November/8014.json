@@ -1,0 +1,122 @@
+{
+    "id": 4775,
+    "date": "2023-11-28T11:44:52",
+    "date_gmt": "2023-11-28T09:44:52",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8014/"
+    },
+    "modified": "2023-11-28T11:44:52",
+    "modified_gmt": "2023-11-28T09:44:52",
+    "slug": "8014",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8014/",
+    "title": {
+        "rendered": "&#8220;IDF Chief of Staff: Meeting with Northern Authorities and Plans for Post-War Recovery&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson: </p>\n<p>The Chief of Staff met today (Tuesday) for a discussion with the heads of the authorities in the North.</p>\n<p>The Chief of Staff told the heads of the authorities that this is a significant meeting, and that he sees great importance in the connection between the IDF and local leadership.</p>\n<p>&#8220;We have taken a difficult decision to evacuate the residents in the North, and I am full of appreciation for the way in which you are demonstrating resilience and patience, and allowing us to fight. </p>\n<p>We are planning together with the heads of the authorities the return of the residents and its timing, in dialogue and with the understanding, that we cannot return to the reality that was here before the war. </p>\n<p>For eight weeks, IDF soldiers and their commanders are fighting determinedly and defending the home. We will continue to fight and are prepared for developments in other areas, even in the North&#8221;. </p>\n<p>The Chief of Staff thanked the forum for the important and instructive meeting, and insisted that the conversation will continue to take place regularly all the time.</p>\n<p>Attached are pictures on the subject: https://IDFANC.activetrail.biz/ANC2811230985</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The Chief of Staff met today (Tuesday) for a discussion with the heads of the authorities in the North. The Chief of Staff told the heads of the authorities that this is a significant meeting, and that he sees great importance in the connection between the IDF and local leadership. &#8220;We have taken a difficult decision to evacuate the residents in the North, and I am full of appreciation for the way in which you are demonstrating resilience and patience, and allowing us to fight. We are planning together with the heads of the authorities the return of</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4775",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4775
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4775",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4775"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4775/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4775"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4775"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4775"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

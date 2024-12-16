@@ -1,0 +1,122 @@
+{
+    "id": 4304,
+    "date": "2024-01-02T14:02:32",
+    "date_gmt": "2024-01-02T12:02:32",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8490/"
+    },
+    "modified": "2024-01-02T14:02:32",
+    "modified_gmt": "2024-01-02T12:02:32",
+    "slug": "8490",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8490/",
+    "title": {
+        "rendered": "&#8220;Coordinated Combat: Inside Look at IDF&#8217;s Joint Operation in Modi&#8217;in Fortress &#8211; Tunnel Detection and Terrorist Elimination&#8221;"
+    },
+    "content": {
+        "rendered": "<p>When the Intelligence Collection Combat Collection Unit 401, the Armored Corps, and the Combat Engineering Corps work together &#8211; this is what it looks like:<br />\nTaking control over the Modi&#8217;in Fortress, exposing the bunker, locating tunnels, and eliminating terrorists.<br />\nhttps://www.idf.il/168736</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>When the Intelligence Collection Combat Collection Unit 401, the Armored Corps, and the Combat Engineering Corps work together &#8211; this is what it looks like: Taking control over the Modi&#8217;in Fortress, exposing the bunker, locating tunnels, and eliminating terrorists. https://www.idf.il/168736</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4304",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4304
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4304",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4304"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4304/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4304"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4304"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4304"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

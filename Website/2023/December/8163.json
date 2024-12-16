@@ -1,0 +1,122 @@
+{
+    "id": 4629,
+    "date": "2023-12-07T23:41:36",
+    "date_gmt": "2023-12-07T21:41:36",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8163/"
+    },
+    "modified": "2023-12-07T23:41:36",
+    "modified_gmt": "2023-12-07T21:41:36",
+    "slug": "8163",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8163/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Terror Sites in Lebanon: An Inside Look at the Operation&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>Military sites in which Hezbollah terrorists were operating and terror infrastructures were attacked; the IDF completed an attack in Lebanon.</p>\n<p>Fighter jets and combat helicopters attacked a series of Hezbollah&#8217;s terror targets in Lebanon.</p>\n<p>Among the targets attacked, a launching pad from which rocket launches were performed to our territory, military sites in which the organization&#8217;s terrorists operated, and an observation post.</p>\n<p>Earlier today, two IDF soldiers were lightly injured from the impact of an &#8220;NT&#8221; missile near Shatula area. The soldiers were taken for medical treatment, and their families have been informed.</p>\n<p>Attached is footage from the attacks: https://bit.ly/3TcWDIg</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: Military sites in which <a  href=\"/hezbollah\">Hezbollah</a> terrorists were operating and terror infrastructures were attacked; the IDF completed an attack in Lebanon. Fighter jets and combat helicopters attacked a series of <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a>&#8217;s terror targets in Lebanon. Among the targets attacked, a launching pad from which rocket launches were performed to our territory, military sites in which the organization&#8217;s terrorists operated, and an observation post. Earlier today, two IDF soldiers were lightly injured from the impact of an &#8220;NT&#8221; missile near Shatula area. The soldiers were taken for medical treatment, and their families have been informed. Attached is footage from the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4629",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4629
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4629",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4629"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4629/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4629"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4629"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4629"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

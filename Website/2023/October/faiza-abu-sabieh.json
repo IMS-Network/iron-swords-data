@@ -1,0 +1,138 @@
+{
+    "id": 1032,
+    "date": "2023-10-07T06:30:00",
+    "date_gmt": "2023-10-07T03:30:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=1032"
+    },
+    "modified": "2024-04-11T22:24:03",
+    "modified_gmt": "2024-04-11T19:24:03",
+    "slug": "faiza-abu-sabieh",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/victims/faiza-abu-sabieh/",
+    "title": {
+        "rendered": "Faiza Abu Sabieh"
+    },
+    "content": {
+        "rendered": "\n<p>57 years old, Faizah was the cherished matriarch of a large and loving family, a devoted mother of ten, and a doting grandmother to over fifty grandchildren.<br>She Was killed by rocket launched from Gaza by Hamas on October 7th </p>\n\n\n\n<p>Faizah&#8217;s heart and home were the centerpiece of our family. Her living room was more than just a physical space; it was where bonds were strengthened, and traditions were passed down. Every Saturday, she hosted breakfast gatherings, providing not just nourishment, but also blessings and prayers, enveloping all who visited in warmth and love.</p>\n\n\n\n<p>Her daughter Adel fondly recalls these mornings: &#8220;Many of us had just arrived when suddenly a huge boom echoed through the home\u2014a direct hit from a rocket,&#8221; describing the tragic morning that took Faizah&#8217;s life. She noted the absence of any warning sirens and the lack of bomb shelters or reinforced rooms that might have offered protection.</p>\n\n\n\n<p>Faizah was not just the familial anchor; she was a fountain of wisdom and kindness, whose influence extended beyond the confines of her immediate family. Her ability to nurture and care for others was evident in every aspect of her life, particularly in how she supported her grandchildren, instilling in them values of love and respect.</p>\n\n\n\n<p>We mourn the loss of Faizah Abu Sabeeh, a woman whose life was a testament to the power of maternal love and leadership.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>She Was killed by rocket launched from <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> by <a  href=\"/hamas\">Hamas</a> on October 7th </p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 1033,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-october-7th-victims",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 21,
+        "footnotes": ""
+    },
+    "categories": [
+        21
+    ],
+    "tags": [
+        64
+    ],
+    "class_list": [
+        "post-1032",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-victims",
+        "tag-kukhleh"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 1032
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1032",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=1032"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 2,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1032/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 1035,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1032/revisions/1035"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/1033"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=1032"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=1032"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=1032"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

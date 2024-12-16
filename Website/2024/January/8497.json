@@ -1,0 +1,122 @@
+{
+    "id": 4297,
+    "date": "2024-01-03T10:57:20",
+    "date_gmt": "2024-01-03T08:57:20",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8497/"
+    },
+    "modified": "2024-01-03T10:57:20",
+    "modified_gmt": "2024-01-03T08:57:20",
+    "slug": "8497",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8497/",
+    "title": {
+        "rendered": "&#8220;Massive IDF Operation Thwarts Terrorism: 18 Arrests and Confiscations Across Judea, Samaria, Jordan Valley&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>*IDF soldiers, Shin Bet and Border Police have launched a widespread operation to thwart terrorism in the refugee camp Nur al-Shams under the command of the Menashe Brigade; the forces arrested 18 suspects across Judea and Samaria and the Jordan Valley and Valleys Brigade*</p>\n<p>In a wide divisional operation to thwart terror in the refugee camp Nur al-Shams in Menashe, dozens of suspects were detained for investigation, six wanted individuals were arrested so far, and military equipment was confiscated. During the operation, an IDF aircraft attacked terrorists who had thrown explosives at the troops and threatened them, hits were identified. The operation continues at this hour.</p>\n<p>In a divisional operation in the city of Qalqilya within the Ephraim Brigade, the forces arrested four suspects and confiscated war materials.</p>\n<p>The arrested suspects and confiscated war materials were transferred for further treatment by the security forces. Our forces were not injured.</p>\n<p>*Since the beginning of the war, over 2,570 suspects have been arrested across the Judea, Samaria, Jordan Valley and Valleys Regiment, about 1,300 of them are affiliated with the Hamas terrorist organization.*</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: *IDF soldiers, Shin Bet and Border Police have launched a widespread operation to thwart terrorism in the refugee camp Nur al-Shams under the command of the Menashe Brigade; the forces arrested 18 suspects across Judea and Samaria and the Jordan Valley and Valleys Brigade* In a wide divisional operation to thwart terror in the refugee camp Nur al-Shams in Menashe, dozens of suspects were detained for investigation, six wanted individuals were arrested so far, and military equipment was confiscated. During the operation, an IDF aircraft attacked terrorists who had thrown explosives at the troops and threatened them, hits</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4297",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4297
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4297",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4297"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4297/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4297"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4297"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4297"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "id": 15729,
+    "date": "2024-08-14T00:00:00",
+    "date_gmt": "2024-08-13T21:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/14-08-2024/"
+    },
+    "modified": "2024-08-27T20:49:27",
+    "modified_gmt": "2024-08-27T17:49:27",
+    "slug": "14-08-2024",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/aid/14-08-2024/",
+    "title": {
+        "rendered": "Israel Aid and Humanitarian Efforts in Gaza: August 14, 2024"
+    },
+    "content": {
+        "rendered": "<h2>Aid Trucks Entry</h2>\n<p>Yesterday, 169 trucks carrying humanitarian goods were transferred to Gaza via the Kerem Shalom (129 trucks) and Erez (40 trucks) crossings.</p>\n<h2>Awaiting Aid Collection</h2>\n<p>Over 600 trucks are waiting for collection on the Gazan side of Kerem Shalom (August 13).</p>\n<h2>Fuel Deliveries</h2>\n<p>5 tankers of fuel and 6 tankers of cooking gas designated for the operation of vital humanitarian infrastructure entered Gaza yesterday.</p>\n<h2>Route 96 Coordination</h2>\n<p>20 trucks were coordinated via Route 96, including two trucks containing medical equipment.</p>\n<h2>Aid to Northern Gaza</h2>\n<p>40 aid trucks were coordinated to northern Gaza yesterday.</p>\n<h2>Jordanian Route Entry</h2>\n<p>40 aid trucks entered Gaza via the Jordanian Route yesterday.</p>\n<h2>Bakeries Operational</h2>\n<p>13 bakeries are operational (7 in northern Gaza and 6 in central Gaza), producing close to 3 million pita loaves a day.</p>\n<h2>Hamas Hampering Efforts</h2>\n<p>Hamas continues to hamper humanitarian efforts at the expense of Gazan civilians, including by abusing humanitarian routes and aid designated for the civilian population. Just yesterday, (Tuesday), Hamas terrorists opened fire toward the humanitarian route in the area of Rafah, as well as launching rockets from the Humanitarian Route in Khan Yunis toward central Israel. Hamas continues to deliberately embed its military assets used to carry out attacks against Israel next to humanitarian infrastructure and the civilian population inside Gaza.</p>\n<h2>Local Tactical Pause</h2>\n<p>Today, (August 14) between 10:00 and 14:00, the IDF will pause operations in the Ghaban neighborhood in Beit Lahya to enable the movement of humanitarian aid.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>169 aid trucks entered <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>; <a  href=\"/hamas\">Hamas</a> hampers humanitarian efforts.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 15696,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        1338
+    ],
+    "tags": [
+        1352
+    ],
+    "class_list": [
+        "post-15729",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-aid",
+        "tag-daily-humanitarian-aid-update"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 15729,
+        "he": 15730,
+        "ru": 15731
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15729",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=15729"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15729/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 15732,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15729/revisions/15732"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/15696"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=15729"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=15729"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=15729"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

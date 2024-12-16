@@ -1,0 +1,122 @@
+{
+    "id": 4494,
+    "date": "2023-12-17T20:06:30",
+    "date_gmt": "2023-12-17T18:06:30",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8299/"
+    },
+    "modified": "2023-12-17T20:06:30",
+    "modified_gmt": "2023-12-17T18:06:30",
+    "slug": "8299",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8299/",
+    "title": {
+        "rendered": "&#8220;Tragic Mistake Uncovered: IDF Accidentally Shoots Israeli Captives, Reveals New Findings from Ongoing Investigation&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>In continuation of the tragic event in which three Israeli captives were accidentally shot by IDF forces, sweeps were carried out in the building adjacent to the event&#8217;s site, where signs were found written with pleas for help, apparently using leftovers of food. Based on the on-site investigation, it seems that the three captives were in the building where the signs were found, at least part of the time.<br />\nThe investigation of the event continues.<br />\nThe IDF has updated the families on the additional findings that have been found so far, and will continue to do so.</p>\n<p>Attached are photos of the findings: https://IDFANC.activetrail.biz/ANC17122023.69385217</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: In continuation of the tragic event in which three Israeli captives were accidentally shot by IDF forces, sweeps were carried out in the building adjacent to the event&#8217;s site, where signs were found written with pleas for help, apparently using leftovers of food. Based on the on-site investigation, it seems that the three captives were in the building where the signs were found, at least part of the time. The investigation of the event continues. The IDF has updated the families on the additional findings that have been found so far, and will continue to do so. Attached</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4494",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4494
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4494",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4494"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4494/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4494"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4494"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4494"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

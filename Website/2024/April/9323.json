@@ -1,0 +1,122 @@
+{
+    "id": 3490,
+    "date": "2024-04-03T01:37:09",
+    "date_gmt": "2024-04-02T22:37:09",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9323/"
+    },
+    "modified": "2024-04-03T01:37:09",
+    "modified_gmt": "2024-04-02T22:37:09",
+    "slug": "9323",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9323/",
+    "title": {
+        "rendered": "&#8220;IDF Chief Apologizes for Accidental Gaza Strike on WCK Workers: Full Investigation Promised&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF Chief of Staff on the incident of harm to WCK workers in the Gaza Strip: &#8220;The severe incident is a result of mistaken identification under complicated conditions &#8211; at night during a war. This should not have happened; we will complete the investigation in the coming days, learn from the conclusions and implement them immediately.&#8221;</p>\n<p>The link to the speech of the IDF Chief of Staff, Lieutenant General Herzi Halevi, to the foreign press on the subject is attached: https://bit.ly/43QvCO7</p>\n<p>Attached translation:<br />\nLast night seven workers of the World Central Kitchen (WCK) were killed.<br />\nWCK is an organization whose members operate worldwide, including in Israel, to perform good deeds in complex places. The IDF works closely with the World Central Kitchen organization and greatly appreciates their important work.</p>\n<p>We have completed a preliminary investigation into the matter.<br />\nI want to clearly state &#8211; there was no targeted attack against aid workers of the WCK organization.<br />\nThe severe incident is a result of a misidentification in complex conditions &#8211; at night during a war. This should not have happened.</p>\n<p>The initial findings were presented to me just now here at the Southern Command.<br />\nI visited the new humanitarian command post we set up here today to improve the way we coordinate aid distribution in Gaza.<br />\nWe will continue to act to protect international organizations distributing humanitarian aid.</p>\n<p>This attack is a serious mistake.<br />\nIsrael is at war with Hamas, not with the residents of Gaza.<br />\nWe are sorry for the unintentional harm to WCK workers. We commiserate deeply with their families, and the entire World Central Kitchen organization.</p>\n<p>The investigating mechanism of the IDF will thoroughly investigate the event. We will complete the investigation in the coming days, learn from the conclusions, and implement them immediately.<br />\nWe will share, with full transparency, the findings of the investigation with the World Central Kitchen and additional international bodies.<br />\nWe see great importance in the continuation of humanitarian aid and will continue to help in this vital effort.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF Chief of Staff on the incident of harm to WCK workers in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip: &#8220;The severe incident is a result of mistaken identification under complicated conditions &#8211; at night during a war. This should not have happened; we will complete the investigation in the coming days, learn from the conclusions and implement them immediately.&#8221; The link to the speech of the IDF Chief of Staff, Lieutenant General Herzi Halevi, to the foreign press on the subject is attached: https://bit.ly/43QvCO7 Attached translation: Last night seven workers of the World Central Kitchen (WCK) were killed. WCK is</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3490",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3490
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3490",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3490"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3490/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3490"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3490"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3490"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

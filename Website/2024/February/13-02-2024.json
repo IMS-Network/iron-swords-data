@@ -1,0 +1,140 @@
+{
+    "id": 16245,
+    "date": "2024-02-13T00:00:00",
+    "date_gmt": "2024-02-12T22:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/13-02-2024/"
+    },
+    "modified": "2024-08-27T23:10:32",
+    "modified_gmt": "2024-08-27T20:10:32",
+    "slug": "13-02-2024",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/aid/13-02-2024/",
+    "title": {
+        "rendered": "Israel Aid and Humanitarian Efforts in Gaza: Feb. 13, 2024"
+    },
+    "content": {
+        "rendered": "<h2>Humanitarian Aid Delivery to Gaza Strip</h2>\n<p>Trucks carrying humanitarian aid were inspected and transferred to the Gaza Strip yesterday (Feb. 12). A total of 23 trucks were inspected at Nitzana and transferred via the Rafah Crossing, while 160 trucks were inspected and transferred via Kerem Shalom. Among these, 83 trucks were designated to carry food supplies.</p>\n<h2>Cooking Gas and Medical Aid</h2>\n<p>On the same day (Feb. 12), 4 tankers of cooking gas designated for the operation of essential infrastructure in Gaza also entered the region. Additionally, the IDF recently facilitated the delivery of over 20 oxygen tanks along with other medical equipment to Al Amal Hospital in Khan Yunis. This operation was coordinated by COGAT officers, the hospital, and international aid organizations.</p>\n<p>Due to the hospital&#8217;s use by terrorists as an operational hideout, the intricate coordination involved collaboration with an international aid organization and local officials.</p>\n<h2>Water Supply Project</h2>\n<p>The second waterline from the Egyptian side of Rafah to the Gazan side has been successfully connected. This project, undertaken by the United Arab Emirates, is expected to supply water to residents in the southern part of Gaza.</p>\n<h2>Bakeries Providing Daily Bread</h2>\n<p>Currently, 15 bakeries are operational in Gaza, providing over 2 million breads, rolls, and pita breads each day for the local population. Over the past two weeks, the number of operational bakeries increased from 10 to 12 and now to 15, following COGAT&#8217;s facilitation efforts. The coordination for the repair of vital infrastructure in the area was successfully completed as well.</p>\n<h2>Foreign Nationals Exiting Gaza</h2>\n<p>On Feb. 12, a total of 70 foreign nationals were coordinated for exit from the Gaza Strip, with an additional 47 individuals scheduled for exit today. Furthermore, today (Feb. 13), between 10:00 and 14:00, the IDF will pause operations in the Yafa and AlBaruch neighborhoods, located in the town of Dier Al-Balah in central Gaza Strip, to enable the movement of humanitarian aid.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Humanitarian aid trucks entered <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>; infrastructure repair ongoing.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 15696,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        1338
+    ],
+    "tags": [
+        1352
+    ],
+    "class_list": [
+        "post-16245",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-aid",
+        "tag-daily-humanitarian-aid-update"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 16245,
+        "he": 16246,
+        "ru": 16247
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16245",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=16245"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16245/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 16248,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16245/revisions/16248"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/15696"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=16245"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=16245"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=16245"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "id": 2225,
+    "date": "2023-10-07T06:30:00",
+    "date_gmt": "2023-10-07T03:30:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=2225"
+    },
+    "modified": "2024-05-12T22:59:15",
+    "modified_gmt": "2024-05-12T19:59:15",
+    "slug": "osama-abu-essa",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/victims/osama-abu-essa/",
+    "title": {
+        "rendered": "Osama Abu Essa"
+    },
+    "content": {
+        "rendered": "\n<p>Osama Abu Essa, a 36-year-old from Tel Sheva, was tragically murdered in the vicinity of Kibbutz Re&#8217;im on October 7, 2023, during a violent attack by Hamas. He was a father of two and worked as a security guard in the Re&#8217;im area. On that fateful day, while trying to assist people during the chaos, Osama became a target of the terrorists.</p>\n\n\n\n<p>The brutal assault on Osama was captured on a car camera, which painfully recorded his last moments before he was killed. The footage showed him being stripped of his watch, phone, and cash, beaten, and finally shot to death. The attackers did not relent even after he declared his Muslim faith, highlighting the senseless brutality of the attack.</p>\n\n\n\n<p>Deeply shaken by the horrific footage of the abuse and murder of their loved one, Osama\u2019s family has offered a reward of one million dollars for information leading to the identification and capture of the six terrorists involved. They suspect that the perpetrators may be associated with the Islamic Jihad, some of whom are Persian speakers with family connections in Israel and Jordan.</p>\n\n\n\n<p>Osama&#8217;s family has expressed a determined and harrowing intent to seek revenge, declaring their willingness to pursue the terrorists and their families wherever they may be, even if it takes decades. This vow underlines their profound grief and the extent of the impact Osama&#8217;s death has had on them, driven by a desire for justice in the face of such a cruel and unwarranted act of violence.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Osama Abu Essa, a 36-year-old from Tel Sheva, was tragically murdered in the vicinity of Kibbutz Re&#8217;im on October 7, 2023, during a violent attack by <a  href=\"/hamas\">Hamas</a>. He was a father of two and worked as a security guard in the Re&#8217;im area. On that fateful day, while trying to assist people during the chaos, Osama became a target of the terrorists. The brutal assault on Osama was captured on a car camera, which painfully recorded his last moments before he was killed. The footage showed him being stripped of his watch, phone, and cash, beaten, and finally shot to</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 2226,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-october-7th-victims",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 21,
+        "footnotes": ""
+    },
+    "categories": [
+        21
+    ],
+    "tags": [
+        117
+    ],
+    "class_list": [
+        "post-2225",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-victims",
+        "tag-reim"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2225
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2225",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2225"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2225/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 2227,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2225/revisions/2227"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/2226"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2225"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2225"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2225"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

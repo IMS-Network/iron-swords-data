@@ -1,0 +1,122 @@
+{
+    "id": 3264,
+    "date": "2024-04-25T06:47:25",
+    "date_gmt": "2024-04-25T03:47:25",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9557/"
+    },
+    "modified": "2024-04-25T06:47:25",
+    "modified_gmt": "2024-04-25T03:47:25",
+    "slug": "9557",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9557/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes: Targeting Hezbollah&#8217;s Terror Infrastructure and Military Posts in Southern Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Combat aircraft attacked terror infrastructure, a lookout post, and a military building of the Hezbollah terrorist organization in southern Lebanon.</p>\n<p>Air force combat aircraft attacked last night the terror infrastructure of the Hezbollah terrorist organization in the Meron ar-Ras area, and a lookout post of the organization in the Markaba area in southern Lebanon.</p>\n<p>Earlier yesterday, a military building of the organization in the Alma ash-Shaab area was attacked.</p>\n<p>In addition, yesterday (Wednesday), IDF forces carried out artillery fire to remove threats in several areas in southern Lebanon.</p>\n<p>Attached is documentation of IDF attacks in southern Lebanon: https://bit.ly/44hCWCQ</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Combat aircraft attacked terror infrastructure, a lookout post, and a military building of the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization in southern Lebanon. Air force combat aircraft attacked last night the terror infrastructure of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization in the Meron ar-Ras area, and a lookout post of the organization in the Markaba area in southern Lebanon. Earlier yesterday, a military building of the organization in the Alma ash-Shaab area was attacked. In addition, yesterday (Wednesday), IDF forces carried out artillery fire to remove threats in several areas in southern Lebanon. Attached is documentation of IDF attacks in southern Lebanon: https://bit.ly/44hCWCQ</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3264",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3264
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3264",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3264"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3264/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3264"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3264"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3264"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

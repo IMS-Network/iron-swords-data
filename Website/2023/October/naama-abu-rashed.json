@@ -1,0 +1,135 @@
+{
+    "id": 2388,
+    "date": "2023-10-07T06:30:14",
+    "date_gmt": "2023-10-07T03:30:14",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=2388"
+    },
+    "modified": "2024-05-13T20:52:12",
+    "modified_gmt": "2024-05-13T17:52:12",
+    "slug": "naama-abu-rashed",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/victims/naama-abu-rashed/",
+    "title": {
+        "rendered": "Naama Abu Rashed"
+    },
+    "content": {
+        "rendered": "\n<p>Hamas terrorists shot on her mother on October 7, and she was born in an emergency operation and died 14 hours later</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"/hamas\">Hamas</a> terrorists shot on her mother on October 7, and she was born in an emergency operation and died 14 hours later</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 1013,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-october-7th-victims",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 21,
+        "footnotes": ""
+    },
+    "categories": [
+        21
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2388",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-victims"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2388
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2388",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2388"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 2,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2388/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 2390,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2388/revisions/2390"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/1013"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2388"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2388"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2388"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

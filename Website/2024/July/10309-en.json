@@ -1,0 +1,124 @@
+{
+    "id": 8330,
+    "date": "2024-07-01T14:12:18",
+    "date_gmt": "2024-07-01T11:12:18",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10309-en/"
+    },
+    "modified": "2024-07-01T14:12:18",
+    "modified_gmt": "2024-07-01T11:12:18",
+    "slug": "10309-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10309-en/",
+    "title": {
+        "rendered": "&#8220;IDF and Police Collaborate to Thwart Major Firearms Smuggling in Jordan Valley&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint statement from the IDF Spokesperson and the Police Spokesperson:</p>\n<p>The smuggling of over 75 firearms and dozens of weapon parts was thwarted in the area of the Jordan Valley Brigade.</p>\n<p>Night observers from Unit 636 identified three suspects who crossed the fence in the area of the Jordan Valley Brigade. After searches in the area, fighters from the Mitalan unit of the Border Police in Judea and Samaria and IDF forces from Battalion 47 located three bags containing over 75 handguns and dozens of weapon parts.<br />\nSecurity forces continue extensive searches for the suspects. The weapons have been transferred for further investigation to the Judea and Samaria Police District&#8217;s Crime Fighting Unit.</p>\n<p>Attached is a photo of the discovered weapons: https://IDFANC.activetrail.biz/ANC01072024234554</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint statement from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a> and the Police Spokesperson: The smuggling of over 75 firearms and dozens of weapon parts was thwarted in the area of the Jordan Valley Brigade. Night observers from Unit 636 identified three suspects who crossed the fence in the area of the Jordan Valley Brigade. After searches in the area, fighters from the Mitalan unit of the Border Police in Judea and Samaria and IDF forces from Battalion 47 located three bags containing over 75 handguns and dozens of weapon parts. Security forces continue extensive searches for the suspects. The weapons have been transferred</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8330",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8330,
+        "he": 8331,
+        "ru": 8332
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8330",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8330"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8330/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8330"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8330"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8330"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

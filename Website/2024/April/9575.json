@@ -1,0 +1,122 @@
+{
+    "id": 3246,
+    "date": "2024-04-27T11:01:45",
+    "date_gmt": "2024-04-27T08:01:45",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9575/"
+    },
+    "modified": "2024-04-27T11:01:45",
+    "modified_gmt": "2024-04-27T08:01:45",
+    "slug": "9575",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9575/",
+    "title": {
+        "rendered": "&#8220;IDF Striking Hezbollah Targets: An Inside Look at Anti-Terror Operations in Southern Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Documentation: An IDF force identified a terrorist from the Hezbollah terror organization entering a military building; fighter jets attacked the building where two terrorists were located; the IDF struck Hezbollah targets in southern Lebanon</p>\n<p>Yesterday (Friday), an IDF force from Unit 869 identified a terrorist from the Hezbollah terror organization entering the organization&#8217;s military building in the village of Kela. Air Force fighter jets attacked the building into which the terrorist had entered, in which another terrorist from the organization was also located.</p>\n<p>In the Rihan area in southern Lebanon, Air Force fighter jets attacked a military building of the Hezbollah terror organization last night.</p>\n<p>During the night, fighter jets attacked the organization&#8217;s military building in the village of Shuba and an operational infrastructure in the Shebaa area in southern Lebanon.</p>\n<p>Also, IDF forces carried out artillery fire to remove a threat in the Alma a-Shaab area.</p>\n<p>Attached is the documentation of identifying the terrorist and attacking the military building in which he stayed: https://bit.ly/4bgf18L</p>\n<p>Attached is the documentation of the IDF attacks in southern Lebanon: https://bit.ly/3Qno1Bf</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Documentation: An IDF force identified a terrorist from the <a  href=\"/hezbollah\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> entering a military building; fighter jets attacked the building where two terrorists were located; the IDF struck <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> targets in southern Lebanon Yesterday (Friday), an IDF force from Unit 869 identified a terrorist from the Hezbollah terror organization entering the organization&#8217;s military building in the village of Kela. Air Force fighter jets attacked the building into which the terrorist had entered, in which another terrorist from the organization was also located. In the Rihan area in southern Lebanon, Air Force fighter jets attacked a military building</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3246",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3246
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3246",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3246"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3246/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3246"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3246"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3246"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

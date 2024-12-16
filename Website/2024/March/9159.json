@@ -1,0 +1,122 @@
+{
+    "id": 3649,
+    "date": "2024-03-18T04:50:22",
+    "date_gmt": "2024-03-18T02:50:22",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9159/"
+    },
+    "modified": "2024-03-18T04:50:22",
+    "modified_gmt": "2024-03-18T02:50:22",
+    "slug": "9159",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9159/",
+    "title": {
+        "rendered": "&#8220;Counterterrorism Operations at Shifa Hospital: Inside the IDF and Shin Bet&#8217;s Fight Against Terrorism&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint message to IDF spokesperson and Shin Bet spokespersons:</p>\n<p>The IDF and Shin Bet are working to thwart terrorist activity at Shifa Hospital.</p>\n<p>The IDF and the Shin Bet are currently working intensively to thwart terrorism and arrest terrorists in the space of Shifa Hospital, following intelligence information indicating the presence of terrorists in the hospital and the use of hospital infrastructure to carry out terrorist operations.</p>\n<p>As part of the activity, during the operation, fire was opened by terrorists from within the hospital compound towards our forces, who returned fire and hit the terrorists. Our forces continue to operate in the hospital area.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint message to <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a> and Shin Bet spokespersons: The IDF and Shin Bet are working to thwart terrorist activity at Shifa Hospital. The IDF and the Shin Bet are currently working intensively to thwart terrorism and arrest terrorists in the space of Shifa Hospital, following intelligence information indicating the presence of terrorists in the hospital and the use of hospital infrastructure to carry out terrorist operations. As part of the activity, during the operation, fire was opened by terrorists from within the hospital compound towards our forces, who returned fire and hit the terrorists. Our forces continue to operate</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3649",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3649
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3649",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3649"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3649/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3649"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3649"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3649"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

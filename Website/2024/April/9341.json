@@ -1,0 +1,122 @@
+{
+    "id": 3472,
+    "date": "2024-04-05T09:04:28",
+    "date_gmt": "2024-04-05T06:04:28",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9341/"
+    },
+    "modified": "2024-04-05T09:04:28",
+    "modified_gmt": "2024-04-05T06:04:28",
+    "slug": "9341",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9341/",
+    "title": {
+        "rendered": "&#8220;IDF&#8217;s Intense Operations in Khan Yunis: Over 30 Targets Attacked in the Gaza Strip, Hamas Infrastructure Crumbled&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>In Khan Yunis, soldiers of the 7th Brigade combat team destroyed a booby-trapped building with tank fire; targets from which rockets were fired towards Israel were attacked by the 215th Fire Brigade&#8217;s artillery and by fighter jets.</p>\n<p>The forces of the 98th Division continue to operate in Khan Yunis to cleanse the area of Hamas. Fighters from the 7th Brigade&#8217;s combat team destroyed a booby-trapped building with tank fire, found military equipment and weapons, and destroyed an underground terrorist infrastructure, while simultaneously being attacked by air forces. As part of this, a fighter jet attacked and eliminated two terrorists within a military building.</p>\n<p>Several terrorists were killed by tank fire and an airstrike as part of the operations of the Commando Brigade&#8217;s combat team. The Brigade fighters found war materials in the area.</p>\n<p>The combat team of Givati Brigade continues to fight in the &#8216;El Amal&#8217; area in Khan Yunis. During a raid on suspicious buildings, they found hidden grenades and explosives.</p>\n<p>Following last night&#8217;s (Thursday) rocket launches from the Gaza Strip towards Ashkelon, Kfar Aza and Sderot, the 215th Fire Brigade attacked the launch sites in the north of the Strip using artillery fire. Fighter jets of the Air Force, under the direction of the Southern Command&#8217;s Fire Center, attacked several targets in the launch areas, including launch pads, gathering points, and the mouth of a tunnel.</p>\n<p>As part of the Air Force&#8217;s attacks in support of the Division&#8217;s forces, fighter jets attacked several booby-trapped buildings in the area of the forces.<br />\nOver the last day, Air Force jets have attacked more than 30 targets across the Gaza Strip. Among the targets attacked were military buildings, tunnel entrances, government buildings, weapons warehouses, and additional military infrastructure.</p>\n<p>Attached are pictures from the activity of the forces in the Strip: https://IDFANC.activetrail.biz/ANC05042024.2156518918</p>\n<p>Included is documentation of the IDF&#8217;s attacks in the Strip: https://bit.ly/4b0bBar</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: In Khan Yunis, soldiers of the 7th Brigade combat team destroyed a booby-trapped building with tank fire; targets from which rockets were fired towards <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> were attacked by the 215th Fire Brigade&#8217;s artillery and by fighter jets. The forces of the 98th Division continue to operate in Khan Yunis to cleanse the area of <a  href=\"/hamas\">Hamas</a>. Fighters from the 7th Brigade&#8217;s combat team destroyed a booby-trapped building with tank fire, found military equipment and weapons, and destroyed an underground terrorist infrastructure, while simultaneously being attacked by air forces. As part of this, a fighter jet attacked and eliminated two</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3472",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3472
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3472",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3472"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3472/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3472"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3472"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3472"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

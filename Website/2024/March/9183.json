@@ -1,0 +1,122 @@
+{
+    "id": 3625,
+    "date": "2024-03-19T18:39:03",
+    "date_gmt": "2024-03-19T16:39:03",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9183/"
+    },
+    "modified": "2024-03-19T18:39:03",
+    "modified_gmt": "2024-03-19T16:39:03",
+    "slug": "9183",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9183/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Terror Infrastructure in Southern Lebanon: A Detailed Report on Recent Attack and Defense Actions&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Terror infrastructure and military buildings in five regions; the IDF attacked in southern Lebanon.</p>\n<p>A short time ago, IDF fighter jets attacked Hezbollah terrorist organization&#8217;s military buildings in the regions of Ayta ash-Sha&#8217;b, Mis al-Jabal, and Adaisseh. Additional terrorist infrastructure of the organization was attacked in the Al-Naqoura region and in the village of Kila.</p>\n<p>During the day, several launches from Lebanese territory to Israeli territory were identified in various regions. The IDF attacked the sources of the fire with artillery. In addition, a suspected air target crossed from Lebanese territory to Israeli territory in the Soshon region and was successfully intercepted by the air defense fighters.</p>\n<p>As a result of the launches to Menara region, two IDF soldiers were lightly and moderately injured and were evacuated for receiving medical treatment in a hospital, their families have been updated.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Terror infrastructure and military buildings in five regions; the IDF attacked in southern Lebanon. A short time ago, IDF fighter jets attacked <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization&#8217;s military buildings in the regions of Ayta ash-Sha&#8217;b, Mis al-Jabal, and Adaisseh. Additional terrorist infrastructure of the organization was attacked in the Al-Naqoura region and in the village of Kila. During the day, several launches from Lebanese territory to Israeli territory were identified in various regions. The IDF attacked the sources of the fire with artillery. In addition, a suspected air target crossed from Lebanese territory to Israeli territory in the Soshon region</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3625",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3625
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3625",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3625"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3625/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3625"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3625"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3625"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

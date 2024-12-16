@@ -1,0 +1,122 @@
+{
+    "id": 3826,
+    "date": "2024-02-26T18:22:54",
+    "date_gmt": "2024-02-26T16:22:54",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8977/"
+    },
+    "modified": "2024-02-26T18:22:54",
+    "modified_gmt": "2024-02-26T16:22:54",
+    "slug": "8977",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8977/",
+    "title": {
+        "rendered": "&#8220;IDF Neutralizes Hezbollah&#8217;s Hajjir Sector Leader: Inside the Take Down of Hassan Hussein Salami&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF eliminated the person responsible for the Hajjir sector in the terrorist organization Hezbollah</p>\n<p>An IDF aircraft eliminated in southern Lebanon the person responsible for the Hajjir sector, the terrorist Hassan Hussein Salami.</p>\n<p>Salami belonged to the Nizar unit in the terrorist organization Hezbollah and commanded a number of terrorist attacks carried out against IDF forces and against civilian and military targets in the northern part of the country.</p>\n<p>Recently, he took part in coordinating terrorist attacks, including rocket launches towards Kiryat Shmona and Brigade 769 headquarters.</p>\n<p>Attached is the documentation on the subject: https://bit.ly/430uk2M</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF eliminated the person responsible for the Hajjir sector in the terrorist organization <a  href=\"/hezbollah\">Hezbollah</a> An IDF aircraft eliminated in southern Lebanon the person responsible for the Hajjir sector, the terrorist Hassan Hussein Salami. Salami belonged to the Nizar unit in the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> and commanded a number of terrorist attacks carried out against IDF forces and against civilian and military targets in the northern part of the country. Recently, he took part in coordinating terrorist attacks, including rocket launches towards Kiryat Shmona and Brigade 769 headquarters. Attached is the documentation on the subject: https://bit.ly/430uk2M</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3826",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3826
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3826",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3826"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3826/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3826"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3826"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3826"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

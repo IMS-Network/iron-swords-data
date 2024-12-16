@@ -1,0 +1,122 @@
+{
+    "id": 4515,
+    "date": "2023-12-15T20:18:09",
+    "date_gmt": "2023-12-15T18:18:09",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8278/"
+    },
+    "modified": "2023-12-15T20:18:09",
+    "modified_gmt": "2023-12-15T18:18:09",
+    "slug": "8278",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8278/",
+    "title": {
+        "rendered": "&#8220;Misidentification Tragedy: IDF Mistakenly Kills Three Israeli Abductees in Shuja&#8217;iyya Combat&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>During the fighting in Shuja&#8217;iyya, an IDF force mistakenly identified three Israeli abductees as a threat. As a result, the force fired towards them and they were killed.</p>\n<p>During a sweep and examination of the event area, suspicion arose about the identity of the killed individuals. The bodies were taken for examination in Israeli territory, and it was later clarified that they were three Israeli abductees. </p>\n<p>Their bodies were examined at the &#8220;Tzvi Center&#8221; in Camp Shura, where the abductees were identified:<br />\nYotam Chaim, RIP, who was abducted from Kfar Aza by the Hamas terrorist organization on October 7.<br />\nSamar Talalka, RIP, who was abducted from Nir Am by the Hamas terrorist organization on October 7.<br />\nThe family of the third abductee has been notified, at their request his name is not being disclosed at this time.<br />\nThe notifications were delivered to their families by representatives of the IDF and the Israel Police. </p>\n<p>The IDF began to investigate this event immediately. This is a combat area that had many complications in recent days. Immediate lessons from the event are now being passed on to all the fighting forces in the field.</p>\n<p>The IDF expresses deep sorrow over the event and participates in the families&#8217; suffering. The IDF will continue to exert all efforts to return the abductees and hostages home.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: During the fighting in Shuja&#8217;iyya, an IDF force mistakenly identified three Israeli abductees as a threat. As a result, the force fired towards them and they were killed. During a sweep and examination of the event area, suspicion arose about the identity of the killed individuals. The bodies were taken for examination in Israeli territory, and it was later clarified that they were three Israeli abductees. Their bodies were examined at the &#8220;Tzvi Center&#8221; in Camp Shura, where the abductees were identified: Yotam Chaim, RIP, who was abducted from <a  href=\"https://iron-swords.co.il/t/kfar-aza/\">Kfar Aza</a> by the <a  href=\"/hamas\">Hamas</a> terrorist organization on October</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4515",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4515
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4515",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4515"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4515/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4515"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4515"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4515"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

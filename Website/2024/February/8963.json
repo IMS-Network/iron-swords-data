@@ -1,0 +1,122 @@
+{
+    "id": 3840,
+    "date": "2024-02-25T12:51:55",
+    "date_gmt": "2024-02-25T10:51:55",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8963/"
+    },
+    "modified": "2024-02-25T12:51:55",
+    "modified_gmt": "2024-02-25T10:51:55",
+    "slug": "8963",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8963/",
+    "title": {
+        "rendered": "&#8220;IDF, ISA, &#038; Border Police Arrest 12 Suspects in Judea and Samaria: A Step Towards Thwarting Terrorism in the Etzion Brigade&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF, ISA and Border Police fighters arrested 12 wanted individuals throughout Judea and Samaria last night; in recent days, an engineering operation was completed to thwart and prevent terror in the Etzion Brigade.</p>\n<p>IDF, ISA and Border Police operated last night to arrest 12 wanted individuals throughout Judea and Samaria.</p>\n<p>In Al-Arroub in the Etzion Brigade, three wanted individuals were arrested by the forces.</p>\n<p>In the city of Shechem in the Samaria Brigade, another wanted individual was arrested.</p>\n<p>The arrested individuals were transferred for further treatment by security forces, no injuries to our forces.</p>\n<p>In recent days, a joint engineering operation was completed in the Etzion Brigade of the IDF and Border Police forces under the intelligence direction of the ISA. Engineering works were carried out to improve the security fence infrastructure in the Abu Dis village area of the Etzion Brigade, in order to allow more efficient operations of the forces in thwarting terror and preventing terrorism in the area.</p>\n<p>So far, since the beginning of the war, over 3,200 wanted individuals have been arrested throughout the Judea and Samaria division and the Jordan Valley Brigade, over 1,350 of them are affiliated with the Hamas terrorist organization.</p>\n<p>Documentation of the engineering activity in the fence area is attached: https://bit.ly/4bPeEmQ</p>\n<p>Photos on the subject are attached: https://IDFANC.activetrail.biz/ANC25022024.12156159189</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF, ISA and Border Police fighters arrested 12 wanted individuals throughout Judea and Samaria last night; in recent days, an engineering operation was completed to thwart and prevent terror in the Etzion Brigade. IDF, ISA and Border Police operated last night to arrest 12 wanted individuals throughout Judea and Samaria. In Al-Arroub in the Etzion Brigade, three wanted individuals were arrested by the forces. In the city of Shechem in the Samaria Brigade, another wanted individual was arrested. The arrested individuals were transferred for further treatment by security forces, no injuries to our forces. In recent days, a</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3840",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3840
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3840",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3840"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3840/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3840"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3840"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3840"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

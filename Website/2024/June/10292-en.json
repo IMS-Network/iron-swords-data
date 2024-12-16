@@ -1,0 +1,124 @@
+{
+    "id": 8381,
+    "date": "2024-06-30T10:06:16",
+    "date_gmt": "2024-06-30T07:06:16",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10292-en/"
+    },
+    "modified": "2024-06-30T10:06:16",
+    "modified_gmt": "2024-06-30T07:06:16",
+    "slug": "10292-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10292-en/",
+    "title": {
+        "rendered": "&#8220;IDF Operations Update: Targeting Terror in Gaza&#8217;s Shuja&#8217;iyya and Rafah Regions&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces continue operations in the Shuja&#8217;iyya area alongside fighting in the Rafah region and in the center of the Gaza Strip; a mortar launch position located inside a shaft in Rafah was destroyed.</p>\n<p>In the Shuja&#8217;iyya area, the forces of Division 98 attacked dozens of terror infrastructures using Air Force aircraft. In the last 24 hours, the division&#8217;s fighters located weapons, raided booby-trapped combat sites, and eliminated several militants.</p>\n<p>Forces from Division 162 continue operations in the Rafah area. Over the past 24 hours, they have eliminated several militants in various encounters and destroyed shafts in the area.</p>\n<p>Division 99 forces continue fighting in the center of the Gaza Strip, conducting raids and destroying terror infrastructures in the area.</p>\n<p>The IDF attacked and destroyed a mortar launch position located inside a shaft in Rafah yesterday (Sunday).</p>\n<p>Attached is documentation from the IDF attacks in the Gaza Strip: https://bit.ly/3W6b5Sr</p>\n<p>Attached are images from the activities of IDF forces in the Gaza Strip: https://IDFANC.activetrail.biz/ANC30062024238552</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces continue operations in the Shuja&#8217;iyya area alongside fighting in the Rafah region and in the center of the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip; a mortar launch position located inside a shaft in Rafah was destroyed. In the Shuja&#8217;iyya area, the forces of Division 98 attacked dozens of terror infrastructures using Air Force aircraft. In the last 24 hours, the division&#8217;s fighters located weapons, raided booby-trapped combat sites, and eliminated several militants. Forces from Division 162 continue operations in the Rafah area. Over the past 24 hours, they have eliminated several militants in various encounters and destroyed shafts in the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8381",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8381,
+        "he": 8382,
+        "ru": 8383
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8381",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8381"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8381/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8381"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8381"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8381"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

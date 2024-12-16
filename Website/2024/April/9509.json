@@ -1,0 +1,122 @@
+{
+    "id": 3311,
+    "date": "2024-04-20T14:27:30",
+    "date_gmt": "2024-04-20T11:27:30",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9509/"
+    },
+    "modified": "2024-04-20T14:27:30",
+    "modified_gmt": "2024-04-20T11:27:30",
+    "slug": "9509",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9509/",
+    "title": {
+        "rendered": "&#8220;Inside IDF&#8217;s Major Anti-Terror Operation in Nor A-Shams: Seizures, Arrests, and Injuries Explained&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>IDF soldiers, SHABAK and MAGAV have been working for over 40 hours in an operation to thwart terror in the Nor A-Shams area in Menashe; security forces have eliminated ten terrorists, arrested eight wanted individuals, exposed explosives, and have located and seized numerous weapons.</p>\n<p>Many forces of the IDF and MAGAV, directed by AMAN and SHABAK, continue a wide operation to thwart terrorism in the Nor A-Shams area in the Menashe Division. So far, the forces have eliminated ten terrorists in encounters, arrested eight wanted individuals, exposed explosives and axes, and have searched buildings.</p>\n<p>In addition, the forces located and destroyed a factory for manufacturing explosives for use in terrorist activities, located and seized numerous weapons including handguns, &#8216;M16&#8217; type firearms, and other military equipment.</p>\n<p>Since the beginning of the activity, eight IDF soldiers and one MAGAV soldier have been lightly and moderately injured, all the soldiers were evacuated to receive medical treatment in a Hospital, their families were updated.</p>\n<p>The wanted individuals who were arrested and the seized weapons were passed on for further processing by security forces.</p>\n<p>Documentation of Haruv patrol activity in Nor A-Shams is attached: https://bit.ly/4d35eop</p>\n<p>Pictures of Haruv patrol activity in Nor A-Shams are attached: https://idfanc.activetrail.biz/ANC2004202487324</p>\n<p>Photos of situation assessment inside Nor A-Shams camp by the Central Command Commander, the Judea and Samaria Division Commander, and the Menashe Brigade Commander are attached: https://idfanc.activetrail.biz/ANC200420249875</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: IDF soldiers, SHABAK and MAGAV have been working for over 40 hours in an operation to thwart terror in the Nor A-Shams area in Menashe; security forces have eliminated ten terrorists, arrested eight wanted individuals, exposed explosives, and have located and seized numerous weapons. Many forces of the IDF and MAGAV, directed by AMAN and SHABAK, continue a wide operation to thwart terrorism in the Nor A-Shams area in the Menashe Division. So far, the forces have eliminated ten terrorists in encounters, arrested eight wanted individuals, exposed explosives and axes, and have searched buildings. In addition, the forces</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3311",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3311
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3311",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3311"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3311/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3311"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3311"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3311"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

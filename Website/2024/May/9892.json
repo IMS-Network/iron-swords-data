@@ -1,0 +1,122 @@
+{
+    "id": 2933,
+    "date": "2024-05-27T12:47:21",
+    "date_gmt": "2024-05-27T09:47:21",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9892/"
+    },
+    "modified": "2024-05-27T12:47:21",
+    "modified_gmt": "2024-05-27T09:47:21",
+    "slug": "9892",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9892/",
+    "title": {
+        "rendered": "&#8220;IDF Arrests Six Wanted Individuals, Seizes Explosives in Judea, Samaria, and Jordan Valley Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF, Shin Bet and Border Police forces arrested six wanted individuals across Judea and Samaria and in the Jordan Valley and Valleys Brigade, two of them are affiliated with the Hamas terrorist organization; a vehicle containing explosives was located and destroyed in an operation near Jenin.</p>\n<p>The soldiers arrested six wanted individuals across Judea and Samaria last night. In Hebron of Judea, the forces arrested three wanted individuals, two of them are affiliated with the Hamas terrorist organization, another wanted individual was arrested in Beit Ummar in Etzion.</p>\n<p>In the village of Dan in the Menashe Brigade, the forces found and seized a &#8220;Carlo&#8221; type rifle, and a vehicle in which explosives were found was destroyed. Following in Aqab in the Jordan Valley and Valleys Brigade, the forces arrested two wanted individuals who were involved in the production and throwing of explosives.</p>\n<p>The arrested wanted individuals and the seized combat means were transferred for further processing by the security forces, no injuries to our forces.</p>\n<p>So far, since the beginning of the war, about 4,000 wanted individuals have been arrested across Judea and Samaria division and in the Jordan Valley and Valleys Brigade, about 1,700 of them are affiliated with the Hamas terrorist organization.</p>\n<p>Documentation of the forces&#8217; operation is attached: https://bit.ly/3wSX9Ta</p>\n<p>Photos of the forces&#8217; operation are attached: https://IDFANC.activetrail.biz/ANC27052024237865423</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF, Shin Bet and Border Police forces arrested six wanted individuals across Judea and Samaria and in the Jordan Valley and Valleys Brigade, two of them are affiliated with the <a  href=\"/hamas\">Hamas</a> terrorist organization; a vehicle containing explosives was located and destroyed in an operation near Jenin. The soldiers arrested six wanted individuals across Judea and Samaria last night. In Hebron of Judea, the forces arrested three wanted individuals, two of them are affiliated with the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> terrorist organization, another wanted individual was arrested in Beit Ummar in Etzion. In the village of Dan in the Menashe Brigade, the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2933",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2933
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2933",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2933"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2933/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2933"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2933"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2933"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

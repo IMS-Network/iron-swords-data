@@ -1,0 +1,124 @@
+{
+    "id": 7219,
+    "date": "2024-07-30T17:00:05",
+    "date_gmt": "2024-07-30T14:00:05",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10684-en/"
+    },
+    "modified": "2024-07-30T17:00:05",
+    "modified_gmt": "2024-07-30T14:00:05",
+    "slug": "10684-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10684-en/",
+    "title": {
+        "rendered": "&#8220;Uncovering the Underground: 100 km of Tunnels Destroyed and Command Centers Exposed&#8221;"
+    },
+    "content": {
+        "rendered": "<p>100 kilometers of underground tunnels have been destroyed, and dozens of senior command centers where captives were hidden have been located:<br />\nDocumentation of the fighting in the underground tunnels.<br />\nhttps://www.idf.il/219817</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>100 kilometers of underground tunnels have been destroyed, and dozens of senior command centers where captives were hidden have been located: Documentation of the fighting in the underground tunnels. https://www.idf.il/219817</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7219",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7219,
+        "he": 7220,
+        "ru": 7221
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7219",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7219"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7219/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7219"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7219"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7219"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

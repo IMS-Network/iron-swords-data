@@ -1,0 +1,140 @@
+{
+    "id": 16121,
+    "date": "2024-04-03T00:00:00",
+    "date_gmt": "2024-04-02T21:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/03-04-2024/"
+    },
+    "modified": "2024-08-27T22:46:35",
+    "modified_gmt": "2024-08-27T19:46:35",
+    "slug": "03-04-2024",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/aid/03-04-2024/",
+    "title": {
+        "rendered": "Israel Aid and Humanitarian Efforts in Gaza: Apr. 3, 2024"
+    },
+    "content": {
+        "rendered": "<h1>Humanitarian Aid Updates for Gaza</h1>\n<h2>Overview of Aid Operations on April 2</h2>\n<p>On April 2, a total of <strong>266 humanitarian aid trucks</strong> were inspected and transferred to the Gaza Strip. Out of these, <strong>120 trucks</strong> were distributed within the Gaza Strip by UN aid agencies.</p>\n<h2>Airdrop and Food Aid Coordination</h2>\n<p>Additionally, <strong>246 packages</strong> containing hundreds and thousands of meals were airdropped over northern Gaza yesterday. Furthermore, <strong>30 trucks carrying food aid</strong> were coordinated to deliver assistance in northern Gaza.</p>\n<h2>Fuel and Gas Supply</h2>\n<p>Yesterday, <strong>4 tankers</strong> of cooking gas, designated for the operation of essential infrastructure in Gaza, successfully entered the Gaza Strip.</p>\n<h2>Foreign Nationals Exiting Gaza</h2>\n<p>In terms of foreign nationals, <strong>42 individuals</strong> exited the Gaza Strip yesterday, with an additional <strong>30 expected to exit today</strong>.</p>\n<h2>Medical Supplies and Food Delivery</h2>\n<p>Through the Jordanian delivery channel, <strong>7 trucks</strong> carrying medical equipment were transferred to Gaza yesterday. Moreover, <strong>24 WFP food trucks</strong> are anticipated to be transferred today.</p>\n<h2>Bakeries and Daily Bread Production</h2>\n<p>Currently, <strong>21 bakeries</strong> are operational in Gaza, collectively providing over <strong>2 million</strong> breads, rolls, and pita breads daily for the local population.</p>\n<h2>Ceasefire for Humanitarian Aid Movement</h2>\n<p>Looking ahead to today, April 3, the IDF will pause operations in the western neighborhood of Rafah, southern Gaza Strip, between <strong>10:00 and 14:00</strong> to facilitate the movement of humanitarian aid.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Humanitarian aid efforts intensify: food, gas, and medical supplies delivered.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 15696,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        1338
+    ],
+    "tags": [
+        1352
+    ],
+    "class_list": [
+        "post-16121",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-aid",
+        "tag-daily-humanitarian-aid-update"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 16121,
+        "he": 16122,
+        "ru": 16123
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16121",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=16121"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16121/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 16124,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16121/revisions/16124"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/15696"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=16121"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=16121"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=16121"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

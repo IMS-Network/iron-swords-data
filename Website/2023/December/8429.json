@@ -1,0 +1,122 @@
+{
+    "id": 4364,
+    "date": "2023-12-27T17:01:21",
+    "date_gmt": "2023-12-27T15:01:21",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8429/"
+    },
+    "modified": "2023-12-27T17:01:21",
+    "modified_gmt": "2023-12-27T15:01:21",
+    "slug": "8429",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8429/",
+    "title": {
+        "rendered": "&#8220;Intense Combat in Deir al-Balah Orchards: IDF Uncovers Terror Tunnels and Neutralizes Threats &#8211; Exclusive Body Cam Footage Review&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Malfunctions, gunfire, and RPGs &#8211; battles with terrorists in orchards in Deir al-Balah: documentation from the body camera of the combat team of Brigade 460</p>\n<p>Infantry and armored forces from the combat team of Battalion 50, operating under the combat team of Brigade 460, swept through an orchard area where they located five attack tunnels and many rocket launch pits. During the operation in the orchard, the fighters encountered several terrorists who fired RPGs and light weapons at them, the forces eliminated the terrorists with accurate gunfire.</p>\n<p>During the attack, armored forces identified two crawling terrorists with weapons moving towards the forces and eliminated them with tank shell fire. Additionally, during the clash, an anti-tank missile was fired at the force, which did not hit the tank, the armored fighters identified the source of the fire and eliminated the terrorist who tried to attack the force.</p>\n<p>Attached is documentation from the clash of the combat team from Brigade 460: https://bit.ly/3GVLNz0</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Malfunctions, gunfire, and RPGs &#8211; battles with terrorists in orchards in Deir al-Balah: documentation from the body camera of the combat team of Brigade 460 Infantry and armored forces from the combat team of Battalion 50, operating under the combat team of Brigade 460, swept through an orchard area where they located five attack tunnels and many rocket launch pits. During the operation in the orchard, the fighters encountered several terrorists who fired RPGs and light weapons at them, the forces eliminated the terrorists with accurate gunfire. During the attack, armored forces identified two crawling terrorists with weapons</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4364",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4364
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4364",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4364"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4364/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4364"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4364"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4364"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

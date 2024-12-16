@@ -1,0 +1,122 @@
+{
+    "id": 4206,
+    "date": "2024-01-13T18:02:29",
+    "date_gmt": "2024-01-13T16:02:29",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8591/"
+    },
+    "modified": "2024-01-13T18:02:29",
+    "modified_gmt": "2024-01-13T16:02:29",
+    "slug": "8591",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8591/",
+    "title": {
+        "rendered": "&#8220;Updates on IDF Casualties and Wounded Soldiers: Insights from the Frontline in Gaza Strip&#8221;"
+    },
+    "content": {
+        "rendered": "<p>The attached link contains a message from an IDF spokesperson concerning the name of an IDF casualty, which has been conveyed to his family:<br />\nhttps://IDFANC.activetrail.biz/ANC130120241898493420</p>\n<p>Attached is a link to the IDF website, where the details and photographs of the fallen soldiers are published and updated:<br />\nhttps://www.idf.il/59780</p>\n<p>Also, a reservist officer from Battalion 7155, the &#8220;Spearhead&#8221; Brigade (55), was severely wounded yesterday (Friday) in combat in the south of the Gaza Strip.</p>\n<p>In addition, a reserve soldier from the &#8220;Foxes of the Heights&#8221; Brigade (646) and an officer from the Engineering Battalion 605, &#8220;Barak&#8221; Brigade (188), were severely injured the day before yesterday (Thursday) in various battles in the central Gaza Strip.</p>\n<p>The wounded soldiers were taken for medical treatment in the hospital, their families were updated.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>The attached link contains a message from an <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a> concerning the name of an IDF casualty, which has been conveyed to his family: https://IDFANC.activetrail.biz/ANC130120241898493420 Attached is a link to the IDF website, where the details and photographs of the fallen soldiers are published and updated: https://www.idf.il/59780 Also, a reservist officer from Battalion 7155, the &#8220;Spearhead&#8221; Brigade (55), was severely wounded yesterday (Friday) in combat in the south of the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. In addition, a reserve soldier from the &#8220;Foxes of the Heights&#8221; Brigade (646) and an officer from the Engineering Battalion 605, &#8220;Barak&#8221; Brigade (188), were severely injured the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4206",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4206
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4206",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4206"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4206/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4206"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4206"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4206"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

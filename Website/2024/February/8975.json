@@ -1,0 +1,122 @@
+{
+    "id": 3828,
+    "date": "2024-02-26T13:21:46",
+    "date_gmt": "2024-02-26T11:21:46",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8975/"
+    },
+    "modified": "2024-02-26T13:21:46",
+    "modified_gmt": "2024-02-26T11:21:46",
+    "slug": "8975",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8975/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Air Defense Complexes in Beqaa: A Response to Recent Missile Attacks&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked Hezbollah&#8217;s air defense complexes in Beqaa.</p>\n<p>A short while ago, IDF fighter jets attacked complexes in Beqaa that were serving Hezbollah&#8217;s air defense system. </p>\n<p>This was in response to the launch of ground-to-air missiles at a remotely piloted aircraft of the &#8216;Zik&#8217; type, which fell earlier today (Tuesday).</p>\n<p>The IDF will continue to defend the State of Israel and operate in Lebanese skies against the Hezbollah terrorist organization.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked <a  href=\"/hezbollah\">Hezbollah</a>&#8217;s air defense complexes in Beqaa. A short while ago, IDF fighter jets attacked complexes in Beqaa that were serving <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a>&#8217;s air defense system. This was in response to the launch of ground-to-air missiles at a remotely piloted aircraft of the &#8216;Zik&#8217; type, which fell earlier today (Tuesday). The IDF will continue to defend the State of <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> and operate in Lebanese skies against the Hezbollah terrorist organization.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3828",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3828
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3828",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3828"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3828/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3828"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3828"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3828"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

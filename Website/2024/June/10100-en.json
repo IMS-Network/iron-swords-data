@@ -1,0 +1,124 @@
+{
+    "id": 8951,
+    "date": "2024-06-12T20:52:44",
+    "date_gmt": "2024-06-12T17:52:44",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10100-en/"
+    },
+    "modified": "2024-06-12T20:52:44",
+    "modified_gmt": "2024-06-12T17:52:44",
+    "slug": "10100-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10100-en/",
+    "title": {
+        "rendered": "&#8220;Eliran Mizrahi Honored as Fallen IDF Soldier: Military Burial Announced&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Following consultations held between the Minister of Defense and the Chief of Staff, and after an evaluation conducted by the Head of Personnel Branch, IDF representatives informed the family of Eliran, may his memory be blessed, today (Wednesday), June 12, 2024, the 6th of Sivan 5784, that he will be recognized as a fallen IDF soldier and will be granted military burial.</p>\n<p>An investigation revealed that the meeting of Eliran, may his memory be blessed, the company commander, and another soldier, which took place on the day of his death, was a preparatory meeting for an operational deployment they were supposed to undertake in the coming days and not a social meeting as described in the initial inquiry conducted on the day of the incident.</p>\n<p>It was also found that this meeting was part of his military duty and required an active reserve day.</p>\n<p>The IDF shares in the sorrow of the Mizrahi family and will continue to support them.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Following consultations held between the Minister of Defense and the Chief of Staff, and after an evaluation conducted by the Head of Personnel Branch, IDF representatives informed the family of Eliran, may his memory be blessed, today (Wednesday), June 12, 2024, the 6th of Sivan 5784, that he will be recognized as a fallen IDF soldier and will be granted military burial. An investigation revealed that the meeting of Eliran, may his memory be blessed, the company commander, and another soldier, which took place on the day of his death, was a preparatory meeting for an operational deployment</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8951",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8951,
+        "he": 8952,
+        "ru": 8953
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8951",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8951"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8951/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8951"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8951"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8951"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

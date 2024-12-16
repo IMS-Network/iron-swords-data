@@ -1,0 +1,122 @@
+{
+    "id": 3247,
+    "date": "2024-04-27T09:02:20",
+    "date_gmt": "2024-04-27T06:02:20",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9574/"
+    },
+    "modified": "2024-04-27T09:02:20",
+    "modified_gmt": "2024-04-27T06:02:20",
+    "slug": "9574",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9574/",
+    "title": {
+        "rendered": "&#8220;Decisive IDF Actions Thwart Terrorist Attacks in Gaza: A Detailed Recap of the Recent Military Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Terrorists who were preparing to carry out gunfire on our forces were destroyed from the air by combat aircraft; a launch site that had fired during the war towards Ashdod was attacked; IDF forces continue their activity in the Gaza Strip.</p>\n<p>Air force aircraft attacked yesterday (Friday) a launch site that had fired during the war towards the city of Ashdod.</p>\n<p>During the night, an airplane attacked a launch site in Khan Yunis, which had been firing at our forces during the war and was even prepared to make further launches towards IDF forces operating in the Strip.</p>\n<p>The combat team of the &#8216;Yiftach&#8217; (679) Brigade identified a squad of terrorists preparing to fire at our forces from a military structure in central Gaza. Combat aircraft of the Air Force attacked the structure where the squad operated, and killed the terrorists.</p>\n<p>In addition, an Air Force aircraft, in conjunction with fire brigade of Division 99, attacked a vehicle in which eight terrorists from Hamas were in in central Gaza Strip.</p>\n<p>Combat aircraft and Air Force aircraft attacked over the past day more than 25 terrorist organization targets in the Gaza Strip, including military buildings where armed terrorists operated, weapons warehouses, underground infrastructures, and additional terror infrastructures.</p>\n<p>Attached is documentation of IDF attacks in Gaza Strip: https://bit.ly/4aQfgYp</p>\n<p>Attached are photos of the forces in Gaza Strip: https://IDFANC.activetrail.biz/ANC270420245675454567554</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Terrorists who were preparing to carry out gunfire on our forces were destroyed from the air by combat aircraft; a launch site that had fired during the war towards <a  href=\"https://iron-swords.co.il/t/ashdod/\">Ashdod</a> was attacked; IDF forces continue their activity in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. Air force aircraft attacked yesterday (Friday) a launch site that had fired during the war towards the city of Ashdod. During the night, an airplane attacked a launch site in Khan Yunis, which had been firing at our forces during the war and was even prepared to make further launches towards IDF forces operating in the Strip.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3247",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3247
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3247",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3247"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3247/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3247"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3247"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3247"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

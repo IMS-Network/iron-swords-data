@@ -1,0 +1,124 @@
+{
+    "id": 8615,
+    "date": "2024-06-23T12:33:39",
+    "date_gmt": "2024-06-23T09:33:39",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10213-en/"
+    },
+    "modified": "2024-06-23T12:33:39",
+    "modified_gmt": "2024-06-23T09:33:39",
+    "slug": "10213-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10213-en/",
+    "title": {
+        "rendered": "&#8220;IDF Operations: 13 Arrests and Major Seizures in Judea and Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Seizure of materials for making explosives and approximately 70,000 NIS in terrorist funds in the Qalqilya area; IDF, Shin Bet, and Border Police operated tonight to arrest 13 wanted individuals throughout Judea and Samaria.</p>\n<p>During activities in Qalqilya, in the Ephraim Brigade, the fighters arrested one wanted individual and seized over 70,000 NIS in terrorist funds and materials for making explosives. In the Abus area within the brigade&#8217;s sector, the fighters arrested two additional wanted individuals.</p>\n<p>In the Sinjil area of the Benjamin Brigade, the forces arrested two wanted individuals and located six deer that were rescued to safety.</p>\n<p>In the Ras al-Ain area of the Samaria Brigade, the forces arrested one individual inciting for terrorism. In the areas of Beit Naim, Dahariya, and Dura of the Judea Brigade, three additional wanted individuals were arrested.</p>\n<p>In the Beit Omer and Sa&#8217;ir areas of the Etzion Brigade, the fighters arrested four wanted individuals.</p>\n<p>The arrested individuals and confiscated weapons have been transferred for further handling by security forces, and there are no casualties.</p>\n<p>To date, approximately 4,150 wanted individuals have been arrested since the beginning of the war in the Judea and Samaria Division and the Jordan Valley and Jezreel Brigade, with about 1,750 of them affiliated with the Hamas terrorist organization.</p>\n<p>Attached is documentation from IDF operations throughout Judea and Samaria: https://bit.ly/3RFVZBk</p>\n<p>Attached are photos from IDF operations throughout Judea and Samaria: https://idfanc.activetrail.biz/ANC230620244726</p>\n<p>Attached is a photo from the deer rescue: https://idfanc.activetrail.biz/ANC230620248745</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Seizure of materials for making explosives and approximately 70,000 NIS in terrorist funds in the Qalqilya area; IDF, Shin Bet, and Border Police operated tonight to arrest 13 wanted individuals throughout Judea and Samaria. During activities in Qalqilya, in the Ephraim Brigade, the fighters arrested one wanted individual and seized over 70,000 NIS in terrorist funds and materials for making explosives. In the Abus area within the brigade&#8217;s sector, the fighters arrested two additional wanted individuals. In the Sinjil area of the Benjamin Brigade, the forces arrested two wanted individuals and located six deer that were rescued to</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8615",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8615,
+        "he": 8616,
+        "ru": 8617
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8615",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8615"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8615/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8615"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8615"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8615"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

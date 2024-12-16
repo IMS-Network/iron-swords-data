@@ -1,0 +1,124 @@
+{
+    "id": 7541,
+    "date": "2024-07-22T08:51:11",
+    "date_gmt": "2024-07-22T05:51:11",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10579-en/"
+    },
+    "modified": "2024-07-22T08:51:11",
+    "modified_gmt": "2024-07-22T05:51:11",
+    "slug": "10579-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10579-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes: Major Offensive Against Hamas in Gaza \u2013 Dozens of Militants Eliminated&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesman:</p>\n<p>IDF forces eliminated dozens of militants and attacked dozens of terror targets in the Gaza Strip over the past 24 hours.</p>\n<p>Forces from Division 162 continue to engage in combat in the Rafah area. Combat teams from Brigade 401 eliminated dozens of militants in the Tel al-Sultan area during close-quarter battles and in cooperation with air force aircraft. Combat teams from Givati Brigade eliminated several militants, including an armed militant cell.</p>\n<p>Air force aircraft, directed by the Gaza Division, Military Intelligence, and the Shin Bet, targeted and eliminated the militant Muhammad Abu Sido from the terrorist organization Hamas. Muhammad, a senior operative in the organization, infiltrated into Israel on October 7 and participated in terrorist activities against our forces during the maneuver.</p>\n<p>Combat teams from Alexander Brigade (3) eliminated several militants in the central Gaza Strip.</p>\n<p>Fighter jets and other air force aircraft attacked about 35 terror targets throughout the region, including a launcher in the Khan Younis area aimed at Israel. Among the targets attacked were military buildings, militants, and additional terror infrastructures.</p>\n<p>Attached is documentation from IDF strikes in the Gaza Strip: https://bit.ly/4cPFUlo</p>\n<p>Attached are photos from the activities of IDF forces in the Gaza Strip: https://IDFANC.activetrail.biz/ANC220720247587</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>IDF Spokesman: IDF forces eliminated dozens of militants and attacked dozens of terror targets in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip over the past 24 hours. Forces from Division 162 continue to engage in combat in the Rafah area. Combat teams from Brigade 401 eliminated dozens of militants in the Tel al-Sultan area during close-quarter battles and in cooperation with air force aircraft. Combat teams from <a  href=\"https://iron-swords.co.il/t/givati-brigade/\">Givati Brigade</a> eliminated several militants, including an armed militant cell. Air force aircraft, directed by the <a  href=\"https://iron-swords.co.il/t/gaza-division/\">Gaza Division</a>, Military Intelligence, and the Shin Bet, targeted and eliminated the militant Muhammad Abu Sido from the terrorist organization <a  href=\"/hamas\">Hamas</a>.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7541",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7541,
+        "he": 7542,
+        "ru": 7543
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7541",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7541"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7541/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7541"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7541"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7541"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

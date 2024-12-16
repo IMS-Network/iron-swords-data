@@ -1,0 +1,138 @@
+{
+    "id": 17800,
+    "date": "2024-09-25T08:52:21",
+    "date_gmt": "2024-09-25T05:52:21",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=17800"
+    },
+    "modified": "2024-09-25T10:08:40",
+    "modified_gmt": "2024-09-25T07:08:40",
+    "slug": "unhcr-civilians-are-not-a-target-lebanon",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/fixed/unhcr-civilians-are-not-a-target-lebanon/",
+    "title": {
+        "rendered": "UNHCR: &#8220;Civilians are not a target&#8221; &#8211; Lebanon"
+    },
+    "content": {
+        "rendered": "\n<p>The recent statement by UNHCR, emphasizing that &#8220;civilians, aid workers, hospitals, and schools are not a target,&#8221; calls for an urgent end to hostilities in Lebanon. This plea, while noble in its sentiment, overlooks the prolonged suffering endured by Israeli civilians under Hezbollah\u2019s relentless attacks for the past 11 months. The UNHCR&#8217;s selective outcry appears only now, as Israel has initiated Operation Northern Arrows to defend its northern region and return evacuees to their homes\u2014homes they were forced to leave due to Hezbollah&#8217;s terror.</p>\n\n\n\n<p>For nearly a year, over 2 million Israeli civilians in the north have lived under the constant threat of Hezbollah\u2019s rockets and terror tactics, yet there was no similar campaign from UNHCR to address their plight. The IDF has repeatedly warned Hezbollah and the international community about the escalating violence and its potential consequences. Only when Israel took decisive action to push back against the terror encroaching upon its borders did the UNHCR choose to speak, conspicuously omitting the context of Israel\u2019s defensive operations.</p>\n\n\n\n<p>Furthermore, there has been a striking silence from UNHCR regarding the 100,000 Israelis evacuated because of the threat from Hezbollah. These are not just numbers; they are families, elderly citizens, and children who have been living in fear every day. The double standards in the international response are glaring, as global bodies rush to condemn Israel\u2019s protective measures while largely ignoring or downplaying the terror that prompted them.</p>\n\n\n\n<p>The statement from UNHCR, while calling for the protection of civilian infrastructure, fails to acknowledge that Hezbollah uses these very environments as shields for its military arsenal. Schools and hospitals become storage sites for arms, turning them into legitimate military targets under international law. Israel&#8217;s military operations, carried out with warnings and aimed at minimizing civilian casualties, starkly contrast with Hezbollah&#8217;s indiscriminate attacks.</p>\n\n\n\n<p>As long as international responses fail to hold aggressors like Hezbollah accountable, true peace and security will remain elusive, and statements like those from the UNHCR will only support Hezbollah</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>civilians, aid workers, hospitals, and schools are not a target</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 17749,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 343,
+        "footnotes": ""
+    },
+    "categories": [
+        343
+    ],
+    "tags": [
+        1586
+    ],
+    "class_list": [
+        "post-17800",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-fixed",
+        "tag-northern-arrows"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 17800
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/17800",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=17800"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 2,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/17800/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 17809,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/17800/revisions/17809"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/17749"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=17800"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=17800"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=17800"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

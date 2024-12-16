@@ -1,0 +1,138 @@
+{
+    "id": 17558,
+    "date": "2024-09-12T19:23:06",
+    "date_gmt": "2024-09-12T16:23:06",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=17558"
+    },
+    "modified": "2024-09-12T19:23:11",
+    "modified_gmt": "2024-09-12T16:23:11",
+    "slug": "may-2024",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/terror-attacks/may-2024/",
+    "title": {
+        "rendered": "Palestinian Terrorism |\u00a0May 2024"
+    },
+    "content": {
+        "rendered": "\n<p><strong>May 5</strong> \u2013 The mortar attack on Kerem Shalom: In a mortar attack launched by the Hamas terrorist organization from Rafah toward IDF positions near Kerem Shalom, four IDF soldiers were killed and 11 were injured.</p>\n\n\n\n<p><strong>May 26</strong> \u2013 A Palestinian terrorist attempted a stabbing attack on the road between Kiryat Arba and Gush Etzion, at the Beit Anun junction near Hebron. The terrorist was neutralized by forces at the scene. No injuries were reported.</p>\n\n\n\n<p><strong>May 29</strong> \u2013 A Palestinian terrorist from Nablus rammed his car into two soldiers at the Matvachim junction at the southeastern entrance of Nablus. Both soldiers were critically injured and later died. The terrorist fled to Nablus.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>In May, Palestinians carried out 531 terrorist attacks, including stone-throwing incidents, resulting in 3 deaths and 12 injuries.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 17542,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1570,
+        "footnotes": ""
+    },
+    "categories": [
+        1570
+    ],
+    "tags": [
+        1574
+    ],
+    "class_list": [
+        "post-17558",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-terror-attacks",
+        "tag-palestinian-terrorism"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 17558
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/17558",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=17558"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/17558/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 17559,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/17558/revisions/17559"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/17542"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=17558"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=17558"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=17558"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

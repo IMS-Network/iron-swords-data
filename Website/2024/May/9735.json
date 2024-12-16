@@ -1,0 +1,128 @@
+{
+    "id": 3089,
+    "date": "2024-05-14T17:32:29",
+    "date_gmt": "2024-05-14T14:32:29",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9735/"
+    },
+    "modified": "2024-05-14T17:32:29",
+    "modified_gmt": "2024-05-14T14:32:29",
+    "slug": "9735",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9735/",
+    "title": {
+        "rendered": "&#8220;Decisive IDF Strike: Over 10 Hamas Terrorists Eliminated in Precision Attack on Covert UNRWA School Base&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF and the Shin Bet attacked a targeted warfare room located in a UNRWA school in Nuseirat, which had long been used by commanders in Hamas&#8217;s military wing to plan and execute terrorist attacks; more than 10 Hamas terrorists were killed in the attack.</p>\n<p>Fighter aircraft from the Air Force attacked a precise intelligence base of Shin Bet and AMAN in collaboration with the Fire Brigade of Brigade 99, a central Hamas warfare room located in a UNRWA school in Nuseirat, where terrorists from the military wing of the terrorist organization Hamas were located.<br />\nThe attack was carefully planned and executed, using precise ammunition and making every effort to avoid civilian casualties.<br />\nThe attacked warfare room served as a central terror infrastructure, from which a number of terrorist attacks against IDF forces in the central strip were planned in recent weeks. The attacked Naqba&#8217;s (Hamas&#8217;s military wing) terrorists actively participated in the October 7 attack and are also responsible for ambushes and operations against our forces on the strip.<br />\nIn the attack, about 15 terrorists from the strip&#8217;s terrorist organizations were killed, more than 10 of whom were associated with the terrorist organization <a href=\"https://iron-swords.co.il/hamas/\"  data-wpil-monitor-id=\"25\">Hamas</a>.<br />\nThe terrorist organization Hamas systematically exploits international institutions and the civilian population as human shields for terrorist actions against the State of Israel.<br />\nAttached is infographic of the warfare room that served Hamas, located in a UNRWA school: https://bit.ly/3QKLQD9.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF and the Shin Bet attacked a targeted warfare room located in a <a  href=\"https://iron-swords.co.il/c/know-your-enemies/unrwa/\">UNRWA</a> school in Nuseirat, which had long been used by commanders in <a  href=\"/hamas\">Hamas</a>&#8217;s military wing to plan and execute terrorist attacks; more than 10 <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> terrorists were killed in the attack. Fighter aircraft from the Air Force attacked a precise intelligence base of Shin Bet and AMAN in collaboration with the Fire Brigade of Brigade 99, a central Hamas warfare room located in a UNRWA school in Nuseirat, where terrorists from the military wing of the terrorist organization Hamas were located. The attack was</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3089",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3089
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3089",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3089"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3089/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 17447,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3089/revisions/17447"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3089"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3089"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3089"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

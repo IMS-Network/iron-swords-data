@@ -1,0 +1,122 @@
+{
+    "id": 4679,
+    "date": "2023-12-05T02:12:46",
+    "date_gmt": "2023-12-05T00:12:46",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8112/"
+    },
+    "modified": "2023-12-05T02:12:46",
+    "modified_gmt": "2023-12-05T00:12:46",
+    "slug": "8112",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8112/",
+    "title": {
+        "rendered": "&#8220;Israeli Defense Forces Strike Hezbollah&#8217;s Rocket Launch Sites and Military Structures in Lebanon: Responding to Recent Attacks&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked rocket launching sites, a terror infrastructure, and a military structure of the terror organization Hezbollah in Lebanese territory. </p>\n<p>A short while ago, fighter jets of the Air Force attacked rocket launching sites, a terror infrastructure, and a military structure of the terror organization Hezbollah in Lebanese territory in response to the rocket fire towards the state of Israel yesterday (Monday). </p>\n<p>In addition, a launch was identified towards the Zre&#8217;it area, the IDF attacked the sources of the shooting in Lebanese territory. Moreover, the IDF attacked several areas in Lebanese territory with artillery fire to remove threats. </p>\n<p>Attached is documentation on the subject: https://bit.ly/4a8rnjy</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked rocket launching sites, a terror infrastructure, and a military structure of the <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> <a  href=\"/hezbollah\">Hezbollah</a> in Lebanese territory. A short while ago, fighter jets of the Air Force attacked rocket launching sites, a terror infrastructure, and a military structure of the terror organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in Lebanese territory in response to the rocket fire towards the state of <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> yesterday (Monday). In addition, a launch was identified towards the Zre&#8217;it area, the IDF attacked the sources of the shooting in Lebanese territory. Moreover, the IDF attacked several areas in Lebanese territory with artillery fire to remove</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4679",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4679
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4679",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4679"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4679/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4679"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4679"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4679"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

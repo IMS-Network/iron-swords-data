@@ -1,0 +1,122 @@
+{
+    "id": 4690,
+    "date": "2023-12-04T09:48:23",
+    "date_gmt": "2023-12-04T07:48:23",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8101/"
+    },
+    "modified": "2023-12-04T09:48:23",
+    "modified_gmt": "2023-12-04T07:48:23",
+    "slug": "8101",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8101/",
+    "title": {
+        "rendered": "&#8220;IDF Soldiers Injured in Overnight Mortar Attacks from Lebanon: An Inside Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>During the night, a number of mortar bomb launches from Lebanese territory were detected towards an IDF post in the Shtula area.</p>\n<p>As a result, three IDF soldiers were lightly injured and were evacuated for medical treatment, their families have been updated.</p>\n<p>In addition, a number of mortar launches were detected a short time ago from Lebanese territory towards an IDF post in the Yiftach area.</p>\n<p>IDF forces attacked the sources of the fire.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: During the night, a number of mortar bomb launches from Lebanese territory were detected towards an IDF post in the Shtula area. As a result, three IDF soldiers were lightly injured and were evacuated for medical treatment, their families have been updated. In addition, a number of mortar launches were detected a short time ago from Lebanese territory towards an IDF post in the Yiftach area. IDF forces attacked the sources of the fire.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4690",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4690
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4690",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4690"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4690/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4690"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4690"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4690"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

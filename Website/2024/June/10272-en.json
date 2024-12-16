@@ -1,0 +1,124 @@
+{
+    "id": 8438,
+    "date": "2024-06-27T21:32:13",
+    "date_gmt": "2024-06-27T18:32:13",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10272-en/"
+    },
+    "modified": "2024-06-27T21:32:13",
+    "modified_gmt": "2024-06-27T18:32:13",
+    "slug": "10272-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10272-en/",
+    "title": {
+        "rendered": "&#8220;IDF Training Exercises: Public Safety Guidelines and Warnings for Southern Israel&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>During the weekend, the IDF will conduct exercises in the training areas (firing ranges) in the southern part of the country. </p>\n<p>We emphasize that entry into the training areas is prohibited, poses a danger to life, and disrupts the operations of the forces. Additionally, there may be sounds of gunfire and explosions in the nearby communities.</p>\n<p>The IDF respectfully requests that the public refrain from entering the restricted areas and allow the security forces to continue carrying out their missions \u2013 this is a matter of life and death.</p>\n<p>We emphasize that if you encounter unexploded ordnance, the guideline is to stay away and report it to the Israeli Police. Unexploded ordnance poses a danger to life and may contain explosive materials. These guidelines save lives.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: During the weekend, the IDF will conduct exercises in the training areas (firing ranges) in the southern part of the country. We emphasize that entry into the training areas is prohibited, poses a danger to life, and disrupts the operations of the forces. Additionally, there may be sounds of gunfire and explosions in the nearby communities. The IDF respectfully requests that the public refrain from entering the restricted areas and allow the security forces to continue carrying out their missions \u2013 this is a matter of life and death. We emphasize that if you encounter unexploded ordnance, the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8438",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8438,
+        "he": 8439,
+        "ru": 8440
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8438",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8438"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8438/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8438"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8438"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8438"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

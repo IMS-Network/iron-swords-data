@@ -1,0 +1,122 @@
+{
+    "id": 4308,
+    "date": "2024-01-02T08:25:21",
+    "date_gmt": "2024-01-02T06:25:21",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8486/"
+    },
+    "modified": "2024-01-02T08:25:21",
+    "modified_gmt": "2024-01-02T06:25:21",
+    "slug": "8486",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8486/",
+    "title": {
+        "rendered": "&#8220;Unveiling IDF&#8217;s Successful Counter-Terror Operations: Elimination of Threats and Destruction of Explosives in Gaza Strip&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Cooperation between naval, air, and ground forces: Terrorists eliminated and explosives destroyed in the coastal strip area</p>\n<p>Over the last day, naval forces and the maneuvering brigades identified terrorists planting explosives on the shores and in the buildings adjacent to the shores in the Gaza Strip, aiming to harm our forces. The naval forces, in collaboration with the air force and the ground forces, eliminated several terrorists and destroyed explosives that posed a threat to the forces. </p>\n<p>In the south of Gaza City, combat forces of the &#8216;Ram&#8217; (179) Brigade identified three terrorists entering a building used for terrorist purposes. An air force fighter jet destroyed the building and eliminated the terrorists. Following the attack, secondary explosions were seen, indicating the presence of numerous weapons stored in the compound.</p>\n<p>In the Khan Yunis area, paratrooper brigade combat team attacked several terrorist infrastructures that threatened our forces. The forces deliberately raided operational apartments where weapons were stored and from which terrorist operations were directed, and identified numerous weapons. </p>\n<p>In the center of the Gaza Strip, during sweeps by the combat team of the 646 Brigade, a workshop used for producing weapons, launch pits, and long-range rocket launchers were discovered. The launchers were destroyed by engineering forces. </p>\n<p>In the Jabalia area, combat team of the 261 Brigade (BHD 1) eliminated dozens of terrorists, including those who tried to plant explosives, others who operated drones, and armed terrorists who were identified heading towards our forces.</p>\n<p>In the Al Bureij area, the combat team of the Givati Brigade located several rocket launchers that were hidden near a UNRWA school.</p>\n<p>The attached video documents IDF attacks: https://bit.ly/3TMMEcW </p>\n<p>The attached documentation from the destruction of explosives hidden near the coast by naval forces: https://bit.ly/3S0z0Sm </p>\n<p>Attached are photos from the forces&#8217; operations in the strip: https://IDFANC.activetrail.biz/ANC02012023265121 </p>\n<p>Attached are pictures of the launchers that were located: https://IDFANC.activetrail.biz/ANC02012023652178</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Cooperation between naval, air, and ground forces: Terrorists eliminated and explosives destroyed in the coastal strip area Over the last day, naval forces and the maneuvering brigades identified terrorists planting explosives on the shores and in the buildings adjacent to the shores in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip, aiming to harm our forces. The naval forces, in collaboration with the air force and the ground forces, eliminated several terrorists and destroyed explosives that posed a threat to the forces. In the south of Gaza City, combat forces of the &#8216;Ram&#8217; (179) Brigade identified three terrorists entering a building used for</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4308",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4308
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4308",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4308"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4308/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4308"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4308"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4308"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 3221,
+    "date": "2024-05-01T11:05:50",
+    "date_gmt": "2024-05-01T08:05:50",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9600/"
+    },
+    "modified": "2024-05-01T11:05:50",
+    "modified_gmt": "2024-05-01T08:05:50",
+    "slug": "9600",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9600/",
+    "title": {
+        "rendered": "&#8220;Inside IDF&#8217;s Intensive Operations: Destroying Terror Infrastructure in the Gaza Strip&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces attacked many targets in the Gaza Strip over the last day; the IDF&#8217;s 99th Brigade continues to operate in the center of the strip to destroy terror infrastructure. </p>\n<p>Air Force combat aircraft attacked and destroyed a number of terrorist targets belonging to Hamas and the PLO. Among the targets were weapon depots, military buildings, launch sites, and mortar positions from which fire was directed at our forces.<br />\nIn addition, combat aircraft, along with the 99th Brigade&#8217;s fire array, attacked several terrorists who were directing anti-tank missile fire at our forces in the Gaza Strip.</p>\n<p>The combat team of the 679th Brigade identified a group of terrorists moving towards the forces in the central Gaza Strip, a fast-paced circling aircraft attacked and eliminated the group.<br />\nA short time after the attack, the forces identified another group that had planted a bomb in the area, the group was attacked and eliminated by an aircraft along with the bomb.</p>\n<p>In further activity, the soldiers conducted sweeps in the area. In one of the buildings, the soldiers found stockpiles of weapons, documents, and military equipment. </p>\n<p>Attached is documentation of IDF attacks in the strip: https://bit.ly/3JEo4Vo</p>\n<p>Attached are pictures from the forces&#8217; activities in the Strip: https://idfanc.activetrail.biz/ANC0105202465458645</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces attacked many targets in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip over the last day; the IDF&#8217;s 99th Brigade continues to operate in the center of the strip to destroy terror infrastructure. Air Force combat aircraft attacked and destroyed a number of terrorist targets belonging to <a  href=\"/hamas\">Hamas</a> and the PLO. Among the targets were weapon depots, military buildings, launch sites, and mortar positions from which fire was directed at our forces. In addition, combat aircraft, along with the 99th Brigade&#8217;s fire array, attacked several terrorists who were directing anti-tank missile fire at our forces in the Gaza Strip. The combat</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3221",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3221
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3221",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3221"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3221/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3221"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3221"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3221"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

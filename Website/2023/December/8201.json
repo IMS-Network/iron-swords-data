@@ -1,0 +1,122 @@
+{
+    "id": 4592,
+    "date": "2023-12-10T17:00:09",
+    "date_gmt": "2023-12-10T15:00:09",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8201/"
+    },
+    "modified": "2023-12-10T17:00:09",
+    "modified_gmt": "2023-12-10T15:00:09",
+    "slug": "8201",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8201/",
+    "title": {
+        "rendered": "&#8220;Over 22,000 Hamas Targets Attacked: Inside the War Against Terrorism and Infrastructure Destruction&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Elimination of terrorists, destruction of Hamas&#8217; military wing and terror infrastructures in multi-armed cooperation: More than 22,000 Hamas targets in the Strip have been attacked since the beginning of the war.</p>\n<p>https://www.idf.il/160849</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Elimination of terrorists, destruction of <a  href=\"/hamas\">Hamas</a>&#8217; military wing and terror infrastructures in multi-armed cooperation: More than 22,000 <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> targets in the Strip have been attacked since the beginning of the war. https://www.idf.il/160849</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4592",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4592
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4592",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4592"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4592/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4592"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4592"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4592"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

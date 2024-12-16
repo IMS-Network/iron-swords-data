@@ -1,0 +1,124 @@
+{
+    "id": 8261,
+    "date": "2024-07-03T15:51:10",
+    "date_gmt": "2024-07-03T12:51:10",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10332-en/"
+    },
+    "modified": "2024-07-03T15:51:10",
+    "modified_gmt": "2024-07-03T12:51:10",
+    "slug": "10332-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10332-en/",
+    "title": {
+        "rendered": "&#8220;IDF Airstrike Neutralizes Terrorists in Nur al-Shams: Key Operation Details&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint statement from the IDF spokesperson and the Shin Bet spokesperson:</p>\n<p>Documentation: The IDF eliminated four terrorists from the terror infrastructure in Nur al-Shams during an aerial strike last night while they were attempting to plant explosives.</p>\n<p>During a joint offensive operation by the Menashe Brigade and the Shin Bet, several terrorists were identified in Nur al-Shams in Menashe last night as they were trying to plant explosives near the area where an explosion occurred the day before yesterday. Shortly thereafter, an aircraft eliminated four of the terrorists identified as part of the terror infrastructure in the Nur al-Shams camp: Muhammad Shahada, Muhammad Kna&#8217;ah, Yazid Shafiq, and Nemer Ibrahim.</p>\n<p>Attached is documentation from the strike: https://bit.ly/3RS0sRK</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint statement from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a> and the Shin Bet spokesperson: Documentation: The IDF eliminated four terrorists from the terror infrastructure in Nur al-Shams during an aerial strike last night while they were attempting to plant explosives. During a joint offensive operation by the Menashe Brigade and the Shin Bet, several terrorists were identified in Nur al-Shams in Menashe last night as they were trying to plant explosives near the area where an explosion occurred the day before yesterday. Shortly thereafter, an aircraft eliminated four of the terrorists identified as part of the terror infrastructure in the Nur al-Shams camp:</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8261",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8261,
+        "he": 8262,
+        "ru": 8263
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8261",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8261"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8261/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8261"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8261"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8261"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

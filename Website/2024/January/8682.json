@@ -1,0 +1,122 @@
+{
+    "id": 4117,
+    "date": "2024-01-23T10:44:03",
+    "date_gmt": "2024-01-23T08:44:03",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8682/"
+    },
+    "modified": "2024-01-23T10:44:03",
+    "modified_gmt": "2024-01-23T08:44:03",
+    "slug": "8682",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8682/",
+    "title": {
+        "rendered": "&#8220;IDF Brigade 98&#8217;s Strategic Encirclement and Decimation of Khan Yunis Terrorists: An Inside Look&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Forces from Brigade 98 completed encircling Khan Yunis tonight, eliminating dozens of terrorists in coordination with the Air Force over the past day.</p>\n<p>Brigade 98 has been carrying out a widescale attack on Khan Yunis in the past day. The combat teams of the Paratroopers Brigade, the Givati Brigade, and the 7th Brigade have completed surrounding Khan Yunis and fighters from the Commando Brigade have intensified the attack into the heart of the area, which serves as the center of the Khan Yunis Brigade in the Hamas terror organization.</p>\n<p>In the past day, the forces eliminated dozens of terrorists in direct combat, supported by airstrikes from the Air Force and completing fire circles under intelligence guidance.</p>\n<p>In various clashes, armed groups of terrorists were taken down with RPG missiles while tens of meters from the forces, terrorists who launched anti-tank missiles and terrorists who were eliminated while trapping corridors and buildings. In addition, rockets ready for launch, combat compounds, tunnels, and many other combat means were discovered in the forces&#8217; activities.</p>\n<p>Attached is footage from the IDF&#8217;s attacks in Khan Yunis: https://bit.ly/490AT79</p>\n<p>Attached are photos from the forces&#8217; activities in the Gaza Strip: https://IDFANC.activetrail.biz/ANC230120246854142651</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Forces from Brigade 98 completed encircling Khan Yunis tonight, eliminating dozens of terrorists in coordination with the Air Force over the past day. Brigade 98 has been carrying out a widescale attack on Khan Yunis in the past day. The combat teams of the <a  href=\"https://iron-swords.co.il/t/paratroopers-brigade/\">Paratroopers Brigade</a>, the <a  href=\"https://iron-swords.co.il/t/givati-brigade/\">Givati Brigade</a>, and the 7th Brigade have completed surrounding Khan Yunis and fighters from the Commando Brigade have intensified the attack into the heart of the area, which serves as the center of the Khan Yunis Brigade in the <a  href=\"/hamas\">Hamas</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a>. In the past day, the forces eliminated dozens of</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4117",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4117
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4117",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4117"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4117/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4117"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4117"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4117"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

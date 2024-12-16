@@ -1,0 +1,122 @@
+{
+    "id": 4012,
+    "date": "2024-02-04T19:00:02",
+    "date_gmt": "2024-02-04T17:00:02",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8791/"
+    },
+    "modified": "2024-02-04T19:00:02",
+    "modified_gmt": "2024-02-04T17:00:02",
+    "slug": "8791",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8791/",
+    "title": {
+        "rendered": "&#8220;Inside Look: Givati Brigade&#8217;s Strategic Raids on Mohammad Sinwar&#8217;s Command in the Strip&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Documentation of Givati Brigade&#8217;s operations in the Strip:<br />\nThe soldiers raided a central command where the office of Mohammad Sinwar was located.<br />\nhttps://www.idf.il/178232</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Documentation of <a  href=\"https://iron-swords.co.il/t/givati-brigade/\">Givati Brigade</a>&#8217;s operations in the Strip: The soldiers raided a central command where the office of Mohammad Sinwar was located. https://www.idf.il/178232</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4012",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4012
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4012",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4012"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4012/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4012"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4012"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4012"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 4597,
+    "date": "2023-12-10T12:56:52",
+    "date_gmt": "2023-12-10T10:56:52",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8196/"
+    },
+    "modified": "2023-12-10T12:56:52",
+    "modified_gmt": "2023-12-10T10:56:52",
+    "slug": "8196",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8196/",
+    "title": {
+        "rendered": "&#8220;Israeli Defense Forces Strike Hezbollah Targets in Lebanon: A Comprehensive Report on the Recent Attacks&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF has completed a large wave of attacks on Hezbollah terrorist organization targets in Lebanon territory; an attack on a terrorist cell that tried to launch AT missiles towards Israeli territory.</p>\n<p>A short while ago, Air Force fighter jets completed a large wave of attacks on targets of the Hezbollah terrorist organization in the territory of Lebanon. Among them, terrorist infrastructures, launchers, and military compounds of the organization. Additionally, IDF forces attacked a short time ago a terrorist cell that tried to launch AT missiles towards Israeli territory in the Zar&#8217;it area.</p>\n<p>Following the alarms that were activated in the Western Galilee area, hostile aircraft that crossed from Lebanon to Israeli territory were detected, and the Air Defense fighters intercepted two targets successfully. Two IDF soldiers were moderately injured, and several others were lightly injured from shrapnel and smoke inhalation. The injured soldiers were evacuated to receive medical treatment in a hospital and their families were updated.</p>\n<p>The IDF continues to attack targets of the Hezbollah terrorist organization in Lebanon territory at this time.</p>\n<p>Attached is documentation of the attack on the Hezbollah terrorist organization targets: https://bit.ly/3RBw8uQ</p>\n<p>Attached is documentation of the attack on the terrorist cell: https://bit.ly/41cEM6p</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF has completed a large wave of attacks on <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization targets in Lebanon territory; an attack on a terrorist cell that tried to launch AT missiles towards Israeli territory. A short while ago, Air Force fighter jets completed a large wave of attacks on targets of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization in the territory of Lebanon. Among them, terrorist infrastructures, launchers, and military compounds of the organization. Additionally, IDF forces attacked a short time ago a terrorist cell that tried to launch AT missiles towards Israeli territory in the Zar&#8217;it area. Following the alarms that were</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4597",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4597
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4597",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4597"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4597/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4597"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4597"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4597"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

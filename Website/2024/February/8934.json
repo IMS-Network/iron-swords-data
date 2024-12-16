@@ -1,0 +1,122 @@
+{
+    "id": 3869,
+    "date": "2024-02-21T17:00:12",
+    "date_gmt": "2024-02-21T15:00:12",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8934/"
+    },
+    "modified": "2024-02-21T17:00:12",
+    "modified_gmt": "2024-02-21T15:00:12",
+    "slug": "8934",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8934/",
+    "title": {
+        "rendered": "&#8220;Inside Look: Yahalom Unit&#8217;s Operation Against Hamas &#8211; Tunnel Demolition and Face-to-Face Combat in Gaza Strip&#8221;"
+    },
+    "content": {
+        "rendered": "<p>A tunnel used by senior Hamas officials was destroyed, terrorists were killed face to face: Documentation of the activity of the &#8220;Yahalom&#8221; unit soldiers in the Gaza Strip.<br />\nhttps://www.idf.il/181786</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>A tunnel used by senior <a  href=\"/hamas\">Hamas</a> officials was destroyed, terrorists were killed face to face: Documentation of the activity of the &#8220;Yahalom&#8221; unit soldiers in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. https://www.idf.il/181786</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3869",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3869
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3869",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3869"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3869/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3869"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3869"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3869"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

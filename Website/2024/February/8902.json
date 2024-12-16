@@ -1,0 +1,122 @@
+{
+    "id": 3901,
+    "date": "2024-02-18T08:49:03",
+    "date_gmt": "2024-02-18T06:49:03",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8902/"
+    },
+    "modified": "2024-02-18T08:49:03",
+    "modified_gmt": "2024-02-18T06:49:03",
+    "slug": "8902",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8902/",
+    "title": {
+        "rendered": "&#8220;Intense IDF Operations Neutralize Terrorists, Locate Weapons in Khan Yunis: A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces continue the intense fighting in the Khan Yunis area, in the center and north of the Strip; in the past day, dozens of terrorists were neutralized and many weapons were located. </p>\n<p>The 98th Brigade forces continue to operate in western Khan Yunis in the south of the Strip and yesterday expanded over terrorist infrastructures, neutralized terrorists, and located many weapons in the area. </p>\n<p>The 7th brigade combat team members located weapons and neutralized about 20 terrorists in the last day in the city of Khan Yunis using tank fire. In addition, they targeted an aircraft of the Air Force that attacked and neutralized terrorists in the area. The forces expanded over military buildings and found military equipment including explosives and a number of RPG rockets intended for use against our forces.</p>\n<p>The Commando Brigade soldiers continue to operate in the &#8216;Nazer&#8217; hospital and nearby areas and located weapons. Members of the Paratrooper Brigade combat team neutralized a number of terrorists, located funds and confiscated weapons in a military building of Hamas terrorist organization.</p>\n<p>The 98th brigade&#8217;s fire center, in collaboration with the Air Force, carried out a series of attacks in Khan Yunis that included neutralization of about 15 terrorists, including six terrorists who came out of a terrorist infrastructure and the destruction of a weapons depot.</p>\n<p>In the center of the strip, the Nahal Brigade&#8217;s combat team neutralized more than ten terrorists during the last day.<br />\nIn one of the activities, a group of terrorists loading weapons onto a cart heading towards the forces was identified by the brigade&#8217;s fire complex in collaboration with the Air Force, and an unmanned aerial vehicle was directed that attacked and neutralized several terrorists.</p>\n<p>Attached is footage of the IDF attacks in the Gaza Strip: https://bit.ly/3ONuVij</p>\n<p>Here are images from the forces&#8217; activity in the Gaza Strip: https://IDFANC.activetrail.biz/ANC1802202443765</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces continue the intense fighting in the Khan Yunis area, in the center and north of the Strip; in the past day, dozens of terrorists were neutralized and many weapons were located. The 98th Brigade forces continue to operate in western Khan Yunis in the south of the Strip and yesterday expanded over terrorist infrastructures, neutralized terrorists, and located many weapons in the area. The 7th brigade combat team members located weapons and neutralized about 20 terrorists in the last day in the city of Khan Yunis using tank fire. In addition, they targeted an aircraft of</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3901",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3901
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3901",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3901"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3901/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3901"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3901"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3901"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

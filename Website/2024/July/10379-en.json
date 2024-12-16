@@ -1,0 +1,124 @@
+{
+    "id": 8129,
+    "date": "2024-07-07T13:01:12",
+    "date_gmt": "2024-07-07T10:01:12",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10379-en/"
+    },
+    "modified": "2024-07-07T13:01:12",
+    "modified_gmt": "2024-07-07T10:01:12",
+    "slug": "10379-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10379-en/",
+    "title": {
+        "rendered": "&#8220;Diving into Discovery: Unraveling Wasp DNA on the Way to Deborah&#8221;"
+    },
+    "content": {
+        "rendered": "<p>On the way to &#8216;Deborah&#8217;, we stop at S.G:<br />\nWe were told that this week we would understand what the DNA of a wasp is &#8211; so we jumped into the water.<br />\nhttps://www.idf.il/214178</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>On the way to &#8216;Deborah&#8217;, we stop at S.G: We were told that this week we would understand what the DNA of a wasp is &#8211; so we jumped into the water. https://www.idf.il/214178</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8129",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8129,
+        "he": 8130,
+        "ru": 8131
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8129",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8129"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8129/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8129"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8129"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8129"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

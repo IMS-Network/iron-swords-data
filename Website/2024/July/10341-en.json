@@ -1,0 +1,124 @@
+{
+    "id": 8234,
+    "date": "2024-07-04T09:42:23",
+    "date_gmt": "2024-07-04T06:42:23",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10341-en/"
+    },
+    "modified": "2024-07-04T09:42:23",
+    "modified_gmt": "2024-07-04T06:42:23",
+    "slug": "10341-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10341-en/",
+    "title": {
+        "rendered": "&#8220;IDF&#8217;s Latest Operations: Decimating Terrorist Threats in Gaza&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Elimination of dozens of terrorists and destruction of terrorist infrastructure; the IDF continues fighting in Shejaiya, Rafah, and the central Gaza Strip.</p>\n<p>In Shejaiya, brigade combat teams commanded by Division 98 continue to engage in combat both above and below ground simultaneously.<br />\nIn the last 24 hours, the fighters eliminated dozens of terrorists in close encounters, tank fire, and airstrikes by the Air Force.<br />\nAdditionally, the forces destroyed several tunnel routes in the area.<br />\nCombat fighters from the Paratroopers Brigade eliminated seven terrorists in close-quarter battles, and fighters from Brigade 7 eliminated an armed terrorist cell in a short-range encounter.</p>\n<p>In Rafah, combat fighters from the Nahal Brigade under the command of Division 162 eliminated several armed terrorists posing a threat to our forces in the area using a drone.</p>\n<p>In the central Gaza Strip, forces from Division 99 eliminated several terrorists and destroyed terrorist infrastructure in airstrikes conducted by the Air Force over the last 24 hours.</p>\n<p>Throughout the last day, fighter jets and aircraft from the Air Force eliminated dozens of terrorists and destroyed more than 50 additional terrorist targets across the Gaza Strip.</p>\n<p>Attached are images from the forces&#8217; activities: https://IDFANC.activetrail.biz/anc040720246854314651234512</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Elimination of dozens of terrorists and destruction of terrorist infrastructure; the IDF continues fighting in Shejaiya, Rafah, and the central <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. In Shejaiya, brigade combat teams commanded by Division 98 continue to engage in combat both above and below ground simultaneously. In the last 24 hours, the fighters eliminated dozens of terrorists in close encounters, tank fire, and airstrikes by the Air Force. Additionally, the forces destroyed several tunnel routes in the area. Combat fighters from the <a  href=\"https://iron-swords.co.il/t/paratroopers-brigade/\">Paratroopers Brigade</a> eliminated seven terrorists in close-quarter battles, and fighters from Brigade 7 eliminated an armed terrorist cell in a</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8234",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8234,
+        "he": 8235,
+        "ru": 8236
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8234",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8234"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8234/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8234"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8234"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8234"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

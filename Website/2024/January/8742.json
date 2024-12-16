@@ -1,0 +1,122 @@
+{
+    "id": 4058,
+    "date": "2024-01-30T18:49:13",
+    "date_gmt": "2024-01-30T16:49:13",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8742/"
+    },
+    "modified": "2024-01-30T18:49:13",
+    "modified_gmt": "2024-01-30T16:49:13",
+    "slug": "8742",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8742/",
+    "title": {
+        "rendered": "&#8220;IDF Targets Hezbollah Command Centers: Inside the Recent Strikes in Al-Khiyam and Surrounding Areas&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked a Hezbollah terrorist organization operational command in the Al-Khiyam area.</p>\n<p>A short while ago, IDF fighter jets attacked an operational command and an observation post of the Hezbollah terrorist organization in the Al-Khiyam area. Furthermore, during the day, IDF fighter jets attacked an observation post and a military structure of the organization in the villages of Ayta ash-Sha&#8217;b and Ma&#8217;hibab.</p>\n<p>Earlier today (Tuesday) a missile launch was identified from Lebanese territory and it fell in an open area near the Arab Al-Aramshe, with no casualties.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked a <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization operational command in the Al-Khiyam area. A short while ago, IDF fighter jets attacked an operational command and an observation post of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization in the Al-Khiyam area. Furthermore, during the day, IDF fighter jets attacked an observation post and a military structure of the organization in the villages of Ayta ash-Sha&#8217;b and Ma&#8217;hibab. Earlier today (Tuesday) a missile launch was identified from Lebanese territory and it fell in an open area near the Arab Al-Aramshe, with no casualties.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4058",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4058
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4058",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4058"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4058/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4058"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4058"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4058"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

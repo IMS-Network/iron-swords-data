@@ -1,0 +1,122 @@
+{
+    "id": 4817,
+    "date": "2023-11-23T22:06:05",
+    "date_gmt": "2023-11-23T20:06:05",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/7970/"
+    },
+    "modified": "2023-11-23T22:06:05",
+    "modified_gmt": "2023-11-23T20:06:05",
+    "slug": "7970",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/7970/",
+    "title": {
+        "rendered": "&#8220;IDF and Shin Bet Neutralize Hamas Naval Commander: Inside the Successful Operation&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF and Shin Bet have eliminated the commander of the naval force in Khan Yunis of the Hamas terrorist organization.</p>\n<p>The IDF, directed by the Marine intelligence arm, Shin Bet, and assisted by fighter jets, eliminated Omar Abu Jalalah, the naval commander of Hamas in Khan Yunis, and another terrorist from the organization&#8217;s naval force. </p>\n<p>Omar Abu Jalalah was a senior figure in the naval force and was involved from the start of the war in launching several maritime attacks which were thwarted by our forces.</p>\n<p>Among other things, under the guidance of the naval intelligence dock, armories were identified and destroyed, combat tunnel sites near the coast, training positions, and observation posts of the Hamas terrorist organization.</p>\n<p>Attached is documentation of the elimination: https://bit.ly/3Gfi6J4</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF and Shin Bet have eliminated the commander of the naval force in Khan Yunis of the <a  href=\"/hamas\">Hamas</a> terrorist organization. The IDF, directed by the Marine intelligence arm, Shin Bet, and assisted by fighter jets, eliminated Omar Abu Jalalah, the naval commander of <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> in Khan Yunis, and another terrorist from the organization&#8217;s naval force. Omar Abu Jalalah was a senior figure in the naval force and was involved from the start of the war in launching several maritime attacks which were thwarted by our forces. Among other things, under the guidance of the naval intelligence dock,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4817",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4817
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4817",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4817"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4817/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4817"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4817"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4817"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

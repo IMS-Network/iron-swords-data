@@ -1,0 +1,122 @@
+{
+    "id": 2893,
+    "date": "2024-05-30T08:25:16",
+    "date_gmt": "2024-05-30T05:25:16",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9931/"
+    },
+    "modified": "2024-05-30T08:25:16",
+    "modified_gmt": "2024-05-30T05:25:16",
+    "slug": "9931",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9931/",
+    "title": {
+        "rendered": "&#8220;IDF Chief of Staff Investigates Recent Vehicle-Ramming Attack in Samaria: An On-Site Assessment&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The Chief of Staff conducted a preliminary investigation and situation assessment at the scene of the vehicle-ramming attack in Samaria.</p>\n<p>The Chief of Staff, Lieutenant General Hertzi HaLevi, arrived yesterday (Wednesday) at the scene of the vehicle-ramming attack near Nablus in the Samaria region, where Staff Sergeant Eliyah Hallel Z&#8221;L and Staff Sergeant Diego Shwisha Herssage Z&#8221;L, fighters in the Kfir Brigade, were killed. The Chief of Staff conducted a preliminary investigation and situation assessment at this location with the commander of the Judea and Samaria Division, Brigadier General Yaki Dolf, Commander of the Samaria Brigade, Colonel Shimon Siso, representatives of the Israel Security Agency and police, and other commanders.</p>\n<p>The commander of the Central Command, Major General Yehuda Fuchs, arrived this morning (Thursday) at the scene of the attack and conducted a situation assessment with commanders and soldiers operating in the area.</p>\n<p>Video on the topic attached: https://bit.ly/3wTTmVE</p>\n<p>Images on the topic attached: https://IDFANC.activetrail.biz/ANC896742</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The Chief of Staff conducted a preliminary investigation and situation assessment at the scene of the vehicle-ramming attack in Samaria. The Chief of Staff, Lieutenant General Hertzi HaLevi, arrived yesterday (Wednesday) at the scene of the vehicle-ramming attack near Nablus in the Samaria region, where Staff <a  href=\"https://iron-swords.co.il/t/sergeant/\">Sergeant</a> Eliyah Hallel Z&#8221;L and Staff Sergeant Diego Shwisha Herssage Z&#8221;L, fighters in the Kfir Brigade, were killed. The Chief of Staff conducted a preliminary investigation and situation assessment at this location with the commander of the <a  href=\"https://iron-swords.co.il/t/judea-and-samaria-division/\">Judea and Samaria Division</a>, Brigadier General Yaki Dolf, Commander of the Samaria Brigade, Colonel Shimon</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2893",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2893
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2893",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2893"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2893/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2893"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2893"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2893"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

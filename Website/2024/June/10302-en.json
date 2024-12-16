@@ -1,0 +1,124 @@
+{
+    "id": 8351,
+    "date": "2024-06-30T21:28:51",
+    "date_gmt": "2024-06-30T18:28:51",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10302-en/"
+    },
+    "modified": "2024-06-30T21:28:51",
+    "modified_gmt": "2024-06-30T18:28:51",
+    "slug": "10302-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10302-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah in Southern Lebanon: Key Targets Hit Amid Rising Tensions&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Fighter jets have attacked targets of the terrorist organization Hezbollah in southern Lebanon in recent hours. Among the targets that were hit is a Hezbollah observation post in the Merqab area and a launcher in the Aita al-Shaab area, from which a launch was carried out today towards northern Israel.</p>\n<p>In addition, IDF forces conducted artillery fire to eliminate threats in several areas of southern Lebanon.</p>\n<p>As a result of a drone explosion in the northern Golan Heights earlier today, an IDF soldier was seriously injured and 17 additional soldiers were lightly injured.</p>\n<p>The soldiers were evacuated to receive medical treatment at a hospital, and their families have been notified.</p>\n<p>Attached is documentation from the attacks: https://bit.ly/3RQJGST</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Fighter jets have attacked targets of the terrorist organization <a  href=\"/hezbollah\">Hezbollah</a> in southern Lebanon in recent hours. Among the targets that were hit is a <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> observation post in the Merqab area and a launcher in the Aita al-Shaab area, from which a launch was carried out today towards northern <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>. In addition, IDF forces conducted artillery fire to eliminate threats in several areas of southern Lebanon. As a result of a drone explosion in the northern Golan Heights earlier today, an IDF soldier was seriously injured and 17 additional soldiers were lightly injured. The soldiers were evacuated to</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8351",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8351,
+        "he": 8352,
+        "ru": 8353
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8351",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8351"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8351/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8351"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8351"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8351"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

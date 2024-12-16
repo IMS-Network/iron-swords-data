@@ -1,0 +1,122 @@
+{
+    "id": 4814,
+    "date": "2023-11-24T07:41:17",
+    "date_gmt": "2023-11-24T05:41:17",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/7973/"
+    },
+    "modified": "2023-11-24T07:41:17",
+    "modified_gmt": "2023-11-24T05:41:17",
+    "slug": "7973",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/7973/",
+    "title": {
+        "rendered": "&#8220;IDF Completes Operational Preparations, Destroys Terror Tunnels at Shifa\u2019a Hospital: An Inside Look&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF has completed its operational preparations on the ceasefire lines. This morning, IDF forces destroyed the terror tunnel discovered at Shifa\u2019a Hospital.</p>\n<p>IDF forces have completed their operational preparations on the ceasefire lines.</p>\n<p>In the last hour, IDF forces under the command of Brigade 36, with the participation of special forces from Yahalom unit, destroyed a network of underground tunnels and several tunnel entrances in the area of Shifa\u2019a Hospital.</p>\n<p>Over the past day, IDF forces on land, in the air, and at sea continued to destroy terror targets and operate in different areas to locate and scan suspicious buildings while engaging with terrorists. The forces destroyed additional tunnel networks identified in recent days.</p>\n<p>Attached is footage of IDF&#8217;s strikes in the Strip: https://bit.ly/3GfKiLC</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF has completed its operational preparations on the ceasefire lines. This morning, IDF forces destroyed the terror tunnel discovered at Shifa\u2019a Hospital. IDF forces have completed their operational preparations on the ceasefire lines. In the last hour, IDF forces under the command of Brigade 36, with the participation of special forces from Yahalom unit, destroyed a network of underground tunnels and several tunnel entrances in the area of Shifa\u2019a Hospital. Over the past day, IDF forces on land, in the air, and at sea continued to destroy terror targets and operate in different areas to locate and</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4814",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4814
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4814",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4814"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4814/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4814"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4814"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4814"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

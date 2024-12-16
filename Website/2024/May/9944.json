@@ -1,0 +1,122 @@
+{
+    "id": 2881,
+    "date": "2024-05-31T11:03:49",
+    "date_gmt": "2024-05-31T08:03:49",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9944/"
+    },
+    "modified": "2024-05-31T11:03:49",
+    "modified_gmt": "2024-05-31T08:03:49",
+    "slug": "9944",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9944/",
+    "title": {
+        "rendered": "&#8220;Victorious Mission: Rescue of Abducted Soldiers, Elimination of Terrorists, and Destruction of Qassam Rockets in East Jabalya&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Rescue of 7 abducted soldiers, hundreds of terrorists killed, and 10 kilometers of Qassam rockets destroyed:<br />\n98 completed their mission in East Jabalya &#8211; the documentation from the war<br />\nhttps://www.idf.il/205371</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Rescue of 7 abducted soldiers, hundreds of terrorists killed, and 10 kilometers of Qassam rockets destroyed: 98 completed their mission in East Jabalya &#8211; the documentation from the war https://www.idf.il/205371</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2881",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2881
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2881",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2881"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2881/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2881"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2881"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2881"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

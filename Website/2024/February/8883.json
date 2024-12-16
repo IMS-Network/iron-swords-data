@@ -1,0 +1,122 @@
+{
+    "id": 3920,
+    "date": "2024-02-15T18:02:07",
+    "date_gmt": "2024-02-15T16:02:07",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8883/"
+    },
+    "modified": "2024-02-15T18:02:07",
+    "modified_gmt": "2024-02-15T16:02:07",
+    "slug": "8883",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8883/",
+    "title": {
+        "rendered": "&#8220;Exclusive: IDF Reveals Conversation Urging Gaza Residents to Vacate &#8216;Nasser&#8217; Hospital &#8211; Full Audio Inside&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF Arabic speaker reveals: A conversation between the head of the Coordination and Liaison Administration to Gaza at COGAT and the director of &#8216;Nasser&#8217; hospital, in which he calls on the residents to vacate the site.</p>\n<p>Attached is the recording of the conversation between the Gaza CLA head and the director of &#8216;Nasser&#8217; hospital that took place on 02/13/2024: https://bit.ly/3OMR3JM</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF Arabic speaker reveals: A conversation between the head of the Coordination and Liaison Administration to <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> at COGAT and the director of &#8216;Nasser&#8217; hospital, in which he calls on the residents to vacate the site. Attached is the recording of the conversation between the Gaza CLA head and the director of &#8216;Nasser&#8217; hospital that took place on 02/13/2024: https://bit.ly/3OMR3JM</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3920",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3920
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3920",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3920"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3920/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3920"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3920"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3920"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

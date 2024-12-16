@@ -1,0 +1,122 @@
+{
+    "id": 3988,
+    "date": "2024-02-07T15:02:35",
+    "date_gmt": "2024-02-07T13:02:35",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8815/"
+    },
+    "modified": "2024-02-07T15:02:35",
+    "modified_gmt": "2024-02-07T13:02:35",
+    "slug": "8815",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8815/",
+    "title": {
+        "rendered": "&#8220;IDF Fighter Jets Launch Strategic Strike on Hezbollah Military Facilities: A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked a military facility of the Hezbollah terrorist organization in a wide area</p>\n<p>A short while ago, IDF fighter jets attacked a military building of the Hezbollah terrorist organization in a broad area.</p>\n<p>In addition, the organization&#8217;s military infrastructure in the village area of Bnei Hiaan was attacked overnight by fighter jets.</p>\n<p>Moreover, a launch from Lebanese territory towards the Mount Dov area was identified a short time ago, which fell in an open area, and another launch towards the Situla area.<br />\nThe IDF attacked the shooting sources with artillery.</p>\n<p>Attached is documentation of the attacks: https://bit.ly/4bx7FPt</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked a military facility of the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization in a wide area A short while ago, IDF fighter jets attacked a military building of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization in a broad area. In addition, the organization&#8217;s military infrastructure in the village area of Bnei Hiaan was attacked overnight by fighter jets. Moreover, a launch from Lebanese territory towards the Mount Dov area was identified a short time ago, which fell in an open area, and another launch towards the Situla area. The IDF attacked the shooting sources with artillery. Attached is documentation of the attacks:</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3988",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3988
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3988",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3988"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3988/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3988"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3988"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3988"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

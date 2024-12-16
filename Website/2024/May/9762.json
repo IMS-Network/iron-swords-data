@@ -1,0 +1,122 @@
+{
+    "id": 3063,
+    "date": "2024-05-16T19:20:57",
+    "date_gmt": "2024-05-16T16:20:57",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9762/"
+    },
+    "modified": "2024-05-16T19:20:57",
+    "modified_gmt": "2024-05-16T16:20:57",
+    "slug": "9762",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9762/",
+    "title": {
+        "rendered": "&#8220;Decoding the IDF&#8217;s Strategic Strikes: A Behind-the-Scenes Look at Israel&#8217;s Swift Action Against Hezbollah in Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Approximately 10 targets were attacked in succession: The IDF attacked widely Hezbollah&#8217;s terror targets in Lebanon, including buildings in which terrorists were staying.</p>\n<p>Earlier today, an aircraft of the Air Force attacked a terrorist cell in the Cana area of Lebanon, which was on their way to immediately carry out a terror attack against Israeli territory.</p>\n<p>Simultaneously, fighter jets from the Air Force extensively attacked and destroyed a series of Hezbollah terrorist organization&#8217;s targets in Lebanon throughout the day.</p>\n<p>Among the targets that were attacked, a military building and an observation post in the Ayta al-Shaab area, an observation post and terror infrastructure in the Mis al-Jabal area, a military building in the Kfar Kila area, and two military buildings in the Anqura and Hula areas, where terrorists were staying.</p>\n<p>Over the past few hours, IDF forces have attacked to remove the threat in several areas in Lebanon.</p>\n<p>Attached is documentation from the attacks: https://bit.ly/4dWpV67</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Approximately 10 targets were attacked in succession: The IDF attacked widely <a  href=\"/hezbollah\">Hezbollah</a>&#8217;s terror targets in Lebanon, including buildings in which terrorists were staying. Earlier today, an aircraft of the Air Force attacked a terrorist cell in the Cana area of Lebanon, which was on their way to immediately carry out a terror attack against Israeli territory. Simultaneously, fighter jets from the Air Force extensively attacked and destroyed a series of <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization&#8217;s targets in Lebanon throughout the day. Among the targets that were attacked, a military building and an observation post in the Ayta al-Shaab area, an</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3063",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3063
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3063",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3063"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3063/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3063"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3063"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3063"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 3727,
+    "date": "2024-03-09T10:21:22",
+    "date_gmt": "2024-03-09T08:21:22",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9079/"
+    },
+    "modified": "2024-03-09T10:21:22",
+    "modified_gmt": "2024-03-09T08:21:22",
+    "slug": "9079",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9079/",
+    "title": {
+        "rendered": "&#8220;Decisive IDF Actions: Elimination of Terrorists and Infrastructure in Hamad Neighborhood &#038; Central Strip &#8211; A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF soldiers are eliminating terrorists in the &#8216;Hamad&#8217; neighborhood and continuing with raids and targeted attacks in the north and center of the strip; During the night, a number of military posts were attacked in the center of the strip, from where rockets were launched at the city of Sderot. </p>\n<p>In the last day, the combat team soldiers of the 828 BSAL battalion, who are fighting in the Khan Yunis area, eliminated over 20 terrorists in face-to-face battles and airstrikes.</p>\n<p>During the offensive activities of the combat team soldiers of the Givati Brigade in the &#8216;Hamad&#8217; neighborhood, the forces raided a number of terror infrastructures in the area, arrested a number of terrorists from terrorist organizations in the strip, and found explosive devices next to other weapons in the area. In additional activities in the area, the brigade&#8217;s fire complex identified a roaming terror cell near the soldiers operating in the area, a plane attacked and eliminated the cell in response.</p>\n<p>As part of the activities of the combat team soldiers of the Nahal Brigade in the center of the strip in the last day, the forces eliminated about ten terrorists. In one of the activities, the brigade&#8217;s fire complex and soldiers identified terrorist cells operating in the area. In response, a plane attacked and eliminated the cell.</p>\n<p>During activities in the Beit Hanoun area in the north of the strip, soldiers of Unit 414 identified several terrorists operating near the troops in the area, a fighter plane attacked and eliminated the terrorists.</p>\n<p>Last night, following the identification by the Southern Command Fire Center, fighter planes attacked during the night and destroyed a number of military posts in the center of the strip, from which rockets were launched at the city of Sderot in the past.</p>\n<p>Attached is documentation of the IDF attacks on the strip: https://bit.ly/49LCpuB</p>\n<p>Attached are pictures from the IDF forces&#8217; activities on the strip: https://IDFANC.activetrail.biz/ANC0903202472489755.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF soldiers are eliminating terrorists in the &#8216;Hamad&#8217; neighborhood and continuing with raids and targeted attacks in the north and center of the strip; During the night, a number of military posts were attacked in the center of the strip, from where rockets were launched at the city of <a  href=\"https://iron-swords.co.il/t/sderot/\">Sderot</a>. In the last day, the combat team soldiers of the 828 BSAL battalion, who are fighting in the Khan Yunis area, eliminated over 20 terrorists in face-to-face battles and airstrikes. During the offensive activities of the combat team soldiers of the <a  href=\"https://iron-swords.co.il/t/givati-brigade/\">Givati Brigade</a> in the &#8216;Hamad&#8217; neighborhood, the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3727",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3727
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3727",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3727"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3727/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3727"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3727"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3727"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

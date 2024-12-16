@@ -1,0 +1,122 @@
+{
+    "id": 3968,
+    "date": "2024-02-10T17:39:49",
+    "date_gmt": "2024-02-10T15:39:49",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8835/"
+    },
+    "modified": "2024-02-10T17:39:49",
+    "modified_gmt": "2024-02-10T15:39:49",
+    "slug": "8835",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8835/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Terror Targets in Southern Lebanon: An Inside Look at the Military Offensive&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Military command and terror infrastructure; IDF attacked Hezbollah terror targets in southern Lebanon</p>\n<p>A short time ago, fighter jets attacked several terror targets of the terrorist organization Hezbollah, in Lebanese territory.</p>\n<p>Among the targets attacked, three military commands in the areas of Al-Nakoura and Ayta Al-Shaab, where organization&#8217;s terrorists operated, alongside two terror infrastructures in the Al-Khiam and Marwahin areas.<br />\nEarlier today, another terror infrastructure was attacked in the Al-Kafar Bistan area.</p>\n<p>During the day, three launchings that crossed from Lebanese territory to Shlomi area were identified and fell in open ground.<br />\nIDF forces attacked the shooting sources and other areas in south Lebanon with artillery.</p>\n<p>Attached is documentation from the attacks: https://bit.ly/3UEL0dR</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Military command and terror infrastructure; IDF attacked <a  href=\"/hezbollah\">Hezbollah</a> terror targets in southern Lebanon A short time ago, fighter jets attacked several terror targets of the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a>, in Lebanese territory. Among the targets attacked, three military commands in the areas of Al-Nakoura and Ayta Al-Shaab, where organization&#8217;s terrorists operated, alongside two terror infrastructures in the Al-Khiam and Marwahin areas. Earlier today, another terror infrastructure was attacked in the Al-Kafar Bistan area. During the day, three launchings that crossed from Lebanese territory to Shlomi area were identified and fell in open ground. IDF forces attacked the shooting sources</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3968",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3968
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3968",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3968"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3968/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3968"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3968"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3968"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": 8219,
+    "date": "2024-07-04T16:05:50",
+    "date_gmt": "2024-07-04T13:05:50",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10346-en/"
+    },
+    "modified": "2024-07-04T16:05:50",
+    "modified_gmt": "2024-07-04T13:05:50",
+    "slug": "10346-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10346-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hamas Command Centers in UNRWA Schools: A Tactical Response to Terrorism&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>*The IDF has attacked terrorists who were located in UNRWA schools, which served as command centers for Hamas operatives from which they directed terrorist actions against our forces.*</p>\n<p>An attack was carried out by an attack helicopter and fighter jets of the Air Force, under the guidance of the Southern Command, against terrorists located in UNRWA schools in the Gaza City area &#8211; the &#8220;Al-Kahra&#8221; school in Al-Furqan and the &#8220;Musa&#8221; school in Daraj Tufah.</p>\n<p>The schools were used as hiding places for terrorists and as active operational sites of the terrorist organization Hamas, from which Hamas operatives planned, directed, and executed numerous terror plots against our forces operating in the Gaza Strip.</p>\n<p>As part of the preparation for the attack, aerial reconnaissance, precise munitions, and the use of additional intelligence information were performed to minimize civilian casualties.</p>\n<p>The terrorist organization Hamas regularly violates international law by systematically exploiting civilian structures and the civilian population as human shields for terrorist actions against the state of Israel.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: *The IDF has attacked terrorists who were located in <a  href=\"https://iron-swords.co.il/c/know-your-enemies/unrwa/\">UNRWA</a> schools, which served as command centers for <a  href=\"/hamas\">Hamas</a> operatives from which they directed terrorist actions against our forces.* An attack was carried out by an attack helicopter and fighter jets of the Air Force, under the guidance of the Southern Command, against terrorists located in UNRWA schools in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> City area &#8211; the &#8220;Al-Kahra&#8221; school in Al-Furqan and the &#8220;Musa&#8221; school in Daraj Tufah. The schools were used as hiding places for terrorists and as active operational sites of the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a>, from which Hamas operatives</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8219",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8219,
+        "he": 8220,
+        "ru": 8221
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8219",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8219"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8219/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8219"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8219"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8219"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

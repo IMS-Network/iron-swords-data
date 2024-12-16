@@ -1,0 +1,122 @@
+{
+    "id": 3612,
+    "date": "2024-03-20T21:34:36",
+    "date_gmt": "2024-03-20T19:34:36",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9197/"
+    },
+    "modified": "2024-03-20T21:34:36",
+    "modified_gmt": "2024-03-20T19:34:36",
+    "slug": "9197",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9197/",
+    "title": {
+        "rendered": "&#8220;Unearthing Terror Financing and Delivering Aid: Inside IDF&#8217;s Ongoing Raid on Shifa Hospital&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Locating terror funds and delivering humanitarian aid; The IDF\u2019s raid on Shifa Hospital continues.</p>\n<p>The combat team of Brigade 401, together with Shayetet 13, soldiers from Duvdevan Unit, and Shin Bet forces under the command of Division 162, continue to raid Shifa Hospital. As part of the sweeps in the hospital, the forces located 11 million Shekels in dollars and Jordanian dinars allocated for terrorism.</p>\n<p>During the operation, about 3,700 Gazans passed through the checkpoint near the hospital and from there moved south; out of them, more than 300 were arrested. Among them are dozens of senior terrorists and key operatives.</p>\n<p>Yesterday, IDF forces and the Coordination and Liaison Administration for Gaza at COGAT coordinated and delivered a diesel truck and a humanitarian aid truck to the civilian population, including ~1800 liters of water and food weighing ~3.8 tons in total.</p>\n<p>Attached is documentation of the entry of humanitarian equipment into the hospital: https://bit.ly/3TpfaiX</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Locating terror funds and delivering humanitarian aid; The IDF\u2019s raid on Shifa Hospital continues. The combat team of Brigade 401, together with Shayetet 13, soldiers from <a  href=\"https://iron-swords.co.il/t/duvdevan-unit/\">Duvdevan Unit</a>, and Shin Bet forces under the command of Division 162, continue to raid Shifa Hospital. As part of the sweeps in the hospital, the forces located 11 million Shekels in dollars and Jordanian dinars allocated for terrorism. During the operation, about 3,700 Gazans passed through the checkpoint near the hospital and from there moved south; out of them, more than 300 were arrested. Among them are dozens of senior terrorists</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3612",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3612
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3612",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3612"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3612/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3612"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3612"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3612"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

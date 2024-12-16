@@ -1,0 +1,124 @@
+{
+    "id": 7982,
+    "date": "2024-07-10T21:11:50",
+    "date_gmt": "2024-07-10T18:11:50",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10427-en/"
+    },
+    "modified": "2024-07-10T21:11:50",
+    "modified_gmt": "2024-07-10T18:11:50",
+    "slug": "10427-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10427-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah: Targeting Terrorist Sites in Southern Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked a military site where terrorists were operating; simultaneously, additional military infrastructures of the terrorist organization Hezbollah were targeted.</p>\n<p>An IDF force from the combat team of Brigade 228 identified earlier today, using a drone, several terrorists from the terrorist organization Hezbollah who had entered a military site of the organization in the Tir Harfa area.<br />\nShortly after the identification, fighter jets attacked the site where the terrorists were spotted.<br />\nAt the same time, fighter jets targeted additional military infrastructures of the terrorist organization Hezbollah in the al-Taybeh area in southern Lebanon.</p>\n<p>Following an alert activated in the Shatula area, one launch was identified that crossed from Lebanon and fell in an open area.</p>\n<p>Attached is documentation from the attacks: https://bit.ly/4fbf1Kn</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked a military site where terrorists were operating; simultaneously, additional military infrastructures of the terrorist organization <a  href=\"/hezbollah\">Hezbollah</a> were targeted. An IDF force from the combat team of Brigade 228 identified earlier today, using a drone, several terrorists from the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> who had entered a military site of the organization in the Tir Harfa area. Shortly after the identification, fighter jets attacked the site where the terrorists were spotted. At the same time, fighter jets targeted additional military infrastructures of the terrorist organization Hezbollah in the al-Taybeh area in southern Lebanon. Following an alert activated</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7982",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7982,
+        "he": 7983,
+        "ru": 7984
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7982",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7982"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7982/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7982"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7982"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7982"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

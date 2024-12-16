@@ -1,0 +1,122 @@
+{
+    "id": 3204,
+    "date": "2024-05-04T18:58:18",
+    "date_gmt": "2024-05-04T15:58:18",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9617/"
+    },
+    "modified": "2024-05-04T18:58:18",
+    "modified_gmt": "2024-05-04T15:58:18",
+    "slug": "9617",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9617/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Against Hezbollah Targets in South Lebanon: Detailed Coverage of Today&#8217;s Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>Throughout the day, IDF forces attacked terror targets of the terrorist organization Hezbollah in South Lebanon.</p>\n<p>Earlier today, Air Force fighter jets attacked a military building of the terrorist organization Hezbollah in the Tir Harfa area.</p>\n<p>During the day, IDF forces carried out firing to remove threats using artillery in the areas of  A-Nkoura, Marwahin, Hanin, and Al-Matmura. In addition, a tank fired at a military building in the Kfar Kila area where terrorist activity was identified.</p>\n<p>Earlier today, a rocket launch was identified to the Shetula area, in addition to two rocket launches to the Hermon area. IDF forces attacked the source of the fire.</p>\n<p>Attached is documentation of the attack: https://bit.ly/4a03h9y</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: Throughout the day, IDF forces attacked terror targets of the terrorist organization <a  href=\"/hezbollah\">Hezbollah</a> in South Lebanon. Earlier today, Air Force fighter jets attacked a military building of the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in the Tir Harfa area. During the day, IDF forces carried out firing to remove threats using artillery in the areas of A-Nkoura, Marwahin, Hanin, and Al-Matmura. In addition, a tank fired at a military building in the Kfar Kila area where terrorist activity was identified. Earlier today, a rocket launch was identified to the Shetula area, in addition to two rocket launches to the Hermon area.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3204",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3204
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3204",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3204"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3204/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3204"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3204"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3204"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

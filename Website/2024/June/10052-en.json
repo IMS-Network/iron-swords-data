@@ -1,0 +1,124 @@
+{
+    "id": 9095,
+    "date": "2024-06-09T13:05:02",
+    "date_gmt": "2024-06-09T10:05:02",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10052-en/"
+    },
+    "modified": "2024-06-09T13:05:02",
+    "modified_gmt": "2024-06-09T10:05:02",
+    "slug": "10052-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10052-en/",
+    "title": {
+        "rendered": "&#8220;IDF Responds to Infiltration: UAVs and Rocket Fire from Lebanon Ignites Northern Golan Heights&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Following alerts regarding the infiltration of hostile aircraft in the northern region of the country at 12:15, two unmanned aerial vehicles were identified crossing from Lebanese territory and falling in the northern Golan Heights area. There are no casualties, and the incident is under investigation. As a result of the falls, fires broke out in the area, and firefighting teams are currently on site to extinguish the fire sources.</p>\n<p>In addition, following alerts regarding rocket and missile fire in the northern region of the country at 12:07, about ten launches were identified crossing from Lebanese territory and landing in open areas around Z&#8217;rah. As a result, fires developed in the area. There are no casualties. The IDF has attacked the sources of fire.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Following alerts regarding the infiltration of hostile aircraft in the northern region of the country at 12:15, two unmanned aerial vehicles were identified crossing from Lebanese territory and falling in the northern Golan Heights area. There are no casualties, and the incident is under investigation. As a result of the falls, fires broke out in the area, and firefighting teams are currently on site to extinguish the fire sources. In addition, following alerts regarding rocket and missile fire in the northern region of the country at 12:07, about ten launches were identified crossing from Lebanese territory and landing</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9095",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9095,
+        "he": 9096,
+        "ru": 9097
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9095",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9095"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9095/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9095"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9095"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9095"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

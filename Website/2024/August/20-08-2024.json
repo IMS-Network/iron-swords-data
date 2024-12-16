@@ -1,0 +1,140 @@
+{
+    "id": 15713,
+    "date": "2024-08-20T00:00:00",
+    "date_gmt": "2024-08-19T21:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/20-08-2024/"
+    },
+    "modified": "2024-08-27T20:46:35",
+    "modified_gmt": "2024-08-27T17:46:35",
+    "slug": "20-08-2024",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/aid/20-08-2024/",
+    "title": {
+        "rendered": "Israel Aid and Humanitarian Efforts in Gaza: August 20, 2024"
+    },
+    "content": {
+        "rendered": "<h2>Aid Trucks Entry</h2>\n<p>163 trucks carrying humanitarian goods were transferred to Gaza yesterday, 116 through the Kerem Shalom Crossing and 47 via the Erez Crossing.</p>\n<h2>Aid Collection</h2>\n<p>About 480 trucks worth are waiting for collection (August 19).</p>\n<h2>Fuel Supplies</h2>\n<p>6 gas tankers designated for the operation of essential infrastructure in Gaza entered Gaza yesterday (August 19).</p>\n<h2>Jordanian Route Coordination</h2>\n<p>16 WFP aid trucks were coordinated to Gaza via the Jordanian route yesterday.</p>\n<h2>Route 96 Coordination</h2>\n<p>18 aid trucks were coordinated via Route 96 (August 19).</p>\n<h2>Aid for Northern Gaza</h2>\n<p>47 aid trucks were coordinated to northern Gaza yesterday.</p>\n<h2>Bakeries Operation</h2>\n<p>13 bakeries are operational (7 in northern Gaza and 6 in central Gaza), producing close to 3 million pita loaves a day.</p>\n<h2>World Humanitarian Day</h2>\n<p>Yesterday was World Humanitarian Day. At COGAT, we lead Israel\u2019s humanitarian efforts towards the civilian population of Gaza. Efforts include humanitarian aid, medical response, essential infrastructure, assistance to the displaced population, and supporting the work of humanitarian missions. <a href=\"URL_TO_MORE_INFO\">Click here to see more about our efforts.</a></p>\n<h2>Local Tactical Pause</h2>\n<p>Today, (August 20) between 10:00 and 14:00, the IDF will pause operations in the Al Attah North West Neighborhood in Beit Lahya to enable the movement of humanitarian aid.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>163 aid trucks entered <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>; 480 more await collection.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 15696,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        1338
+    ],
+    "tags": [
+        1352
+    ],
+    "class_list": [
+        "post-15713",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-aid",
+        "tag-daily-humanitarian-aid-update"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 15713,
+        "he": 15714,
+        "ru": 15715
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15713",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=15713"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15713/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 15716,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15713/revisions/15716"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/15696"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=15713"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=15713"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=15713"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

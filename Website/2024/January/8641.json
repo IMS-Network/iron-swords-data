@@ -1,0 +1,122 @@
+{
+    "id": 4158,
+    "date": "2024-01-17T20:18:09",
+    "date_gmt": "2024-01-17T18:18:09",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8641/"
+    },
+    "modified": "2024-01-17T20:18:09",
+    "modified_gmt": "2024-01-17T18:18:09",
+    "slug": "8641",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8641/",
+    "title": {
+        "rendered": "&#8220;IDF Neutralizes Threats: Inside the Successful Counterattacks on Mortar Bomb Terrorists and Rocket Launch Sites in Gaza&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>After they tried to fire mortar bombs at our soldiers: The IDF attacked the terrorists and a rocket launch site that targeted Israel.</p>\n<p>An aircraft of the Air Force, in collaboration with the Gaza Division&#8217;s Fire Center, eliminated terrorists who tried to fire mortar bombs at our forces in Deir al-Balah. The terrorists were in an area from which rockets were fired during the past week.</p>\n<p>In Rafah, an Air Force combat aircraft attacked a launch site from which targeted shooting was identified towards the State of Israel today in the morning hours.</p>\n<p>Included is documentation of the attack on the terrorists: https://bit.ly/3vLM4SF</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: After they tried to fire mortar bombs at our soldiers: The IDF attacked the terrorists and a rocket launch site that targeted <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>. An aircraft of the Air Force, in collaboration with the <a  href=\"https://iron-swords.co.il/t/gaza-division/\">Gaza Division</a>&#8217;s Fire Center, eliminated terrorists who tried to fire mortar bombs at our forces in Deir al-Balah. The terrorists were in an area from which rockets were fired during the past week. In Rafah, an Air Force combat aircraft attacked a launch site from which targeted shooting was identified towards the State of Israel today in the morning hours. Included is documentation of the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4158",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4158
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4158",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4158"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4158/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4158"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4158"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4158"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": 7745,
+    "date": "2024-07-17T12:12:25",
+    "date_gmt": "2024-07-17T09:12:25",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10508-en/"
+    },
+    "modified": "2024-07-17T12:12:25",
+    "modified_gmt": "2024-07-17T09:12:25",
+    "slug": "10508-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10508-en/",
+    "title": {
+        "rendered": "&#8220;Strengthening Ties: CENTCOM Chief Visits Israel for Strategic Security Talks with IDF&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The commander of the Central Command of the United States Army (CENTCOM), General (****) Michael Kurilla, landed in Israel this week for a visit as the official guest of the IDF Chief of Staff, Lieutenant General Herzi Halevi.</p>\n<p>During the visit, the CENTCOM commander and the Chief of Staff held meetings and visited several units, where they met with additional senior commanders in the IDF. Additionally, they conducted a joint situational assessment in which they discussed strategic security issues, regional collaborations, and the expansion of operational tools, as part of the response to challenges in the Middle East and beyond.</p>\n<p>The IDF will continue to deepen its relationship with the United States Army out of a mutual commitment to maintaining regional security and shared interests of both armies.</p>\n<p>Attached is a picture on the subject: https://idfanc.activetrail.biz/ANC3785356</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The commander of the Central Command of the United States Army (CENTCOM), General (****) Michael Kurilla, landed in <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> this week for a visit as the official guest of the IDF Chief of Staff, Lieutenant General Herzi Halevi. During the visit, the CENTCOM commander and the Chief of Staff held meetings and visited several units, where they met with additional senior commanders in the IDF. Additionally, they conducted a joint situational assessment in which they discussed strategic security issues, regional collaborations, and the expansion of operational tools, as part of the response to challenges in the Middle East</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7745",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7745,
+        "he": 7746,
+        "ru": 7747
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7745",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7745"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7745/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7745"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7745"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7745"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

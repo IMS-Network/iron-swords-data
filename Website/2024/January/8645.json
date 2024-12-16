@@ -1,0 +1,122 @@
+{
+    "id": 4154,
+    "date": "2024-01-18T12:30:45",
+    "date_gmt": "2024-01-18T10:30:45",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8645/"
+    },
+    "modified": "2024-01-18T12:30:45",
+    "modified_gmt": "2024-01-18T10:30:45",
+    "slug": "8645",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8645/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Terror Infrastructures in Southern Lebanon: A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF struck terror infrastructures that served the Hezbollah terror organization in the Al-Adaisseh area in southern Lebanon.</p>\n<p>A short while ago, combat jets of the Air Force attacked terror infrastructures of the Hezbollah terror organization in the Al-Adaisseh area in southern Lebanon.</p>\n<p>In addition, the IDF struck earlier today in the areas of Kfar Kila and Marj &#8216;Ayoun in southern Lebanon.</p>\n<p>Also, earlier today two launches were identified from Lebanon towards the Arab al-Aramsha area that fell in open areas.</p>\n<p>Attached is footage from the strikes: https://bit.ly/3O8ISXX</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF struck terror infrastructures that served the <a  href=\"/hezbollah\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> in the Al-Adaisseh area in southern Lebanon. A short while ago, combat jets of the Air Force attacked terror infrastructures of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terror organization in the Al-Adaisseh area in southern Lebanon. In addition, the IDF struck earlier today in the areas of Kfar Kila and Marj &#8216;Ayoun in southern Lebanon. Also, earlier today two launches were identified from Lebanon towards the Arab al-Aramsha area that fell in open areas. Attached is footage from the strikes: https://bit.ly/3O8ISXX</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4154",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4154
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4154",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4154"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4154/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4154"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4154"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4154"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

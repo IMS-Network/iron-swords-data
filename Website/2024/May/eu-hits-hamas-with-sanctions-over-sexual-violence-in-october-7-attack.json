@@ -1,0 +1,138 @@
+{
+    "id": 1892,
+    "date": "2024-05-04T11:20:06",
+    "date_gmt": "2024-05-04T08:20:06",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=1892"
+    },
+    "modified": "2024-05-04T11:20:11",
+    "modified_gmt": "2024-05-04T08:20:11",
+    "slug": "eu-hits-hamas-with-sanctions-over-sexual-violence-in-october-7-attack",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/eu-hits-hamas-with-sanctions-over-sexual-violence-in-october-7-attack/",
+    "title": {
+        "rendered": "EU Hits Hamas With Sanctions Over Sexual Violence In October 7 Attack"
+    },
+    "content": {
+        "rendered": "\n<p>The European Union has imposed sanctions on the armed wings of Hamas, citing their involvement in &#8220;widespread sexual and gender-based violence&#8221; during the October 7 attacks against Israel. According to reports, Hamas terrorists committed these acts systematically, using sexual violence as a weapon of war. <br>Documented abuses include the rape and subsequent murder of female minors, mutilation of corpses, genital mutilation, and the targeted abduction of women and girls.</p>\n\n\n\n<p>Evidence supporting these claims includes substantial documentation from investigations by the UN, human rights groups, and the Israeli government. <br>Authorities have collected over 1,500 testimonies from survivors, first responders, and other witnesses detailing the atrocities.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Sources</strong></h2>\n\n\n\n<ol class=\"wp-block-list\">\n<li><a href=\"https://www.timesofisrael.com/eu-sanctions-armed-wings-of-hamas-islamic-jihad-for-sexual-violence-on-oct-7/\">Times of Israel: EU Sanctions Armed Wings of Hamas, Islamic Jihad for Sexual Violence on Oct 7</a></li>\n\n\n\n<li><a href=\"https://www.diakonia.se/ihl/news/2023-hostilities-in-gaza-and-israel-factual-account-of-events/\">Diakonia IHL: 2023 Hostilities in Gaza and Israel &#8211; Factual Account of Events</a></li>\n</ol>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>The European Union has imposed <a  href=\"https://iron-swords.co.il/t/sanctions/\">sanctions</a> on the armed wings of <a  href=\"/hamas\">Hamas</a>, citing their involvement in &#8220;widespread sexual and gender-based violence&#8221; during the October 7 attacks against <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 1896,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 53,
+        "footnotes": ""
+    },
+    "categories": [
+        53
+    ],
+    "tags": [
+        102
+    ],
+    "class_list": [
+        "post-1892",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-facts",
+        "tag-sanctions"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 1892
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1892",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=1892"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 2,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1892/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 1897,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1892/revisions/1897"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/1896"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=1892"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=1892"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=1892"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

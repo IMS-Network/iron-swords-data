@@ -1,0 +1,122 @@
+{
+    "id": 3568,
+    "date": "2024-03-25T16:00:12",
+    "date_gmt": "2024-03-25T14:00:12",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9244/"
+    },
+    "modified": "2024-03-25T16:00:12",
+    "modified_gmt": "2024-03-25T14:00:12",
+    "slug": "9244",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9244/",
+    "title": {
+        "rendered": "&#8220;Unforeseen Logistics and Supply Chain Accidents in MRI and Maternity Departments: A Review of Nachal Patrol&#8217;s Response at Shifa Hospital&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Logistics and Supply Accident in MRI and within the Maternity Department:<br />\nDocumentation of Nachal Patrol activity in focused combat in Shifa Hospital.<br />\nhttps://www.idf.il/187782</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Logistics and Supply Accident in MRI and within the Maternity Department: Documentation of Nachal Patrol activity in focused combat in Shifa Hospital. https://www.idf.il/187782</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3568",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3568
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3568",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3568"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3568/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3568"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3568"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3568"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

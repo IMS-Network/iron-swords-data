@@ -1,0 +1,122 @@
+{
+    "id": 3357,
+    "date": "2024-04-15T19:16:03",
+    "date_gmt": "2024-04-15T16:16:03",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9459/"
+    },
+    "modified": "2024-04-15T19:16:03",
+    "modified_gmt": "2024-04-15T16:16:03",
+    "slug": "9459",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9459/",
+    "title": {
+        "rendered": "&#8220;IDF Launches Precision Strikes Against Hezbollah Strongholds in Southern Lebanon: A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>The IDF attacked military buildings of the terrorist organization Hezbollah in Lebanese territory.</p>\n<p>Not long ago, fighter jets attacked military buildings of the terrorist organization Hezbollah in the areas of Marjaba and Majdel Zoun located in southern Lebanon.</p>\n<p>Earlier today, IDF forces conducted artillery fire to remove threats in the areas of Jabal Bellat and Al Hamrah.</p>\n<p>In continuation to the alerts activated in the Hanita area, about five launches were identified crossing the Lebanese territory falling in open areas. There were no casualties. IDF forces attacked the source of the fire.</p>\n<p>Attached is documentation of IDF attacks in southern Lebanon: https://bit.ly/4azU5ts</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>The IDF attacked military buildings of the terrorist organization <a  href=\"/hezbollah\">Hezbollah</a> in Lebanese territory. Not long ago, fighter jets attacked military buildings of the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in the areas of Marjaba and Majdel Zoun located in southern Lebanon. Earlier today, IDF forces conducted artillery fire to remove threats in the areas of Jabal Bellat and Al Hamrah. In continuation to the alerts activated in the Hanita area, about five launches were identified crossing the Lebanese territory falling in open areas. There were no casualties. IDF forces attacked the source of the fire. Attached is documentation of IDF attacks in southern</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3357",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3357
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3357",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3357"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3357/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3357"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3357"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3357"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

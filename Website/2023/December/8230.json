@@ -1,0 +1,122 @@
+{
+    "id": 4563,
+    "date": "2023-12-12T13:15:50",
+    "date_gmt": "2023-12-12T11:15:50",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8230/"
+    },
+    "modified": "2023-12-12T13:15:50",
+    "modified_gmt": "2023-12-12T11:15:50",
+    "slug": "8230",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8230/",
+    "title": {
+        "rendered": "&#8220;IDF Plans to Demolish Homes of Jerusalem Shooting Attack Perpetrators: A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF announced its intention to demolish the homes of terrorists who carried out the shooting attack in Jerusalem.</p>\n<p>Yesterday (Tuesday), a statement was issued on the IDF&#8217;s intent to seal off and demolish the residences where the terrorists Murad and Ibrahim Nomar, who carried out a shooting attack on November 30, 2023, at the entrance to Jerusalem, in which Israeli citizens were killed and others injured.</p>\n<p>Following the sealing of the terrorists&#8217; homes on December 1, 2023, the commander of the Home Front Command, Major General Raffi Miloh, signed orders extending the sealing and the temporary closure of the terrorists&#8217; homes, until the actual demolition of the homes.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF announced its intention to demolish the homes of terrorists who carried out the shooting attack in <a  href=\"https://iron-swords.co.il/t/jerusalem/\">Jerusalem</a>. Yesterday (Tuesday), a statement was issued on the IDF&#8217;s intent to seal off and demolish the residences where the terrorists Murad and Ibrahim Nomar, who carried out a shooting attack on November 30, 2023, at the entrance to Jerusalem, in which Israeli citizens were killed and others injured. Following the sealing of the terrorists&#8217; homes on December 1, 2023, the commander of the Home Front Command, Major General Raffi Miloh, signed orders extending the sealing and the temporary closure</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4563",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4563
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4563",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4563"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4563/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4563"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4563"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4563"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

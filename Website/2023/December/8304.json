@@ -1,0 +1,122 @@
+{
+    "id": 4489,
+    "date": "2023-12-18T11:41:01",
+    "date_gmt": "2023-12-18T09:41:01",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8304/"
+    },
+    "modified": "2023-12-18T11:41:01",
+    "modified_gmt": "2023-12-18T09:41:01",
+    "slug": "8304",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8304/",
+    "title": {
+        "rendered": "&#8220;IDF Launches Manhunt after Terrorist Attack: 10 Arrested, 50 Illegal Vehicles Confiscated in Overnight Ops&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces have launched a manhunt for terrorists who shot at an Israeli vehicle, injuring an Israeli civilian; IDF, Shin Bet, and Border Police forces have arrested ten wanted individuals overnight across Judea and Samaria and in the Jordan Valley and Emek region, and confiscated over 50 illegal vehicles.</p>\n<p>Terrorists recently shot at an Israeli vehicle driving near the village of Rua&#8217;abi in the Binyamin region. As a result of the shooting, an Israeli civilian was injured and was taken for medical treatment at a hospital. IDF forces have launched a manhunt for the terrorists and have set up roadblocks in the area.</p>\n<p>IDF reserve soldiers conducted an operation to confiscate illegal vehicles and impounded over 50 cars, of which over 40 were confiscated in the village of Beit Awwa in the Judea region. In the Al-Aida refugee camp in the Etzion region, an airsoft gun was found.</p>\n<p>In the village of Aqaba in the Menashe region, two wanted individuals were arrested. During the operation, terrorists threw explosives, hurled stones, and shot at the forces who responded with fire.<br />\nIn the city of Jericho in the Jordan Valley and Emek region, terrorists shot and threw Molotov cocktails at the force, who responded with fire. A terrorist who threw Molotov cocktails was injured by the gunfire.</p>\n<p>The forces arrested a wanted individual and confiscated a &#8216;Carlo&#8217; style submachine gun in the Fara&#8217;a refugee camp in the Jordan Valley and Emek region. During the operation, terrorists shot and threw explosives at the forces, who responded with fire. Casualties were identified.</p>\n<p>The arrested suspects were transferred for further investigation by security forces. No injuries were reported among our forces.</p>\n<p>So far, since the beginning of the war, about 2,400 wanted individuals have been arrested across the Judea and Samaria Division and the Jordan Valley and Emek region, of which about 1,200 are affiliated with the terrorist organization Hamas.</p>\n<p>Attached are photos of the confiscated weapons: https://IDFANC.activetrail.biz/ANC18122023.02587</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces have launched a manhunt for terrorists who shot at an Israeli vehicle, injuring an Israeli civilian; IDF, Shin Bet, and Border Police forces have arrested ten wanted individuals overnight across Judea and Samaria and in the Jordan Valley and Emek region, and confiscated over 50 illegal vehicles. Terrorists recently shot at an Israeli vehicle driving near the village of Rua&#8217;abi in the Binyamin region. As a result of the shooting, an Israeli civilian was injured and was taken for medical treatment at a hospital. IDF forces have launched a manhunt for the terrorists and have set</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4489",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4489
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4489",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4489"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4489/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4489"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4489"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4489"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

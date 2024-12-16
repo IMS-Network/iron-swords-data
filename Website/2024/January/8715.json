@@ -1,0 +1,122 @@
+{
+    "id": 4085,
+    "date": "2024-01-27T13:03:49",
+    "date_gmt": "2024-01-27T11:03:49",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8715/"
+    },
+    "modified": "2024-01-27T13:03:49",
+    "modified_gmt": "2024-01-27T11:03:49",
+    "slug": "8715",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8715/",
+    "title": {
+        "rendered": "&#8220;Decisive IDF Commando Brigade Operation: Over 100 Terrorists Neutralized in Khan Younis Raids&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Raid on a weapons depot in western Khan Younis: Commando Brigade fighters deepen the fighting</p>\n<p>The combat team fighters of the Commando Brigade raided terror targets in the west of Khan Younis. The fighters eliminated militant cells and terrorists, destroyed terror infrastructures and found numerous weapons. In the past week, the Commando Brigade fighters have killed more than 100 terrorists. </p>\n<p>Fighters from the Egoz unit raided a weapons depot in the area and found guns, magazines, RPG missiles, advanced photography equipment, and diving gear. Additionally, they raided the house of one of Yahya Sinwar&#8217;s associates and found weapons. </p>\n<p>Egoz unit fighters identified armed terrorists preparing for an attack and firing RPGs towards forces. Following the fighters&#8217; fire towards them, the terrorists escaped to a nearby building. The forces directed an aerial vehicle that attacked the building and killed the terrorists. In the attack, many secondary explosions were identified, indicating the presence of explosives in the building where the terrorists stayed.</p>\n<p>Attached is documentation of the Commando Brigade forces&#8217; activity in western Khan Younis: https://bit.ly/3HB2ujE</p>\n<p>Attached is documentation of the killing of terrorists by aircraft under the command of Commando fighters: https://bit.ly/3Sbg2Hz</p>\n<p>Attached are photos of weapons that were found in the area: https://IDFANC.activetrail.biz/ANC2701248787</p>\n<p>Attached are photos of the activity of the combat team fighters of the Commando Brigade: https://idfanc.activetrail.biz/ANC2701247867</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Raid on a weapons depot in western Khan Younis: Commando Brigade fighters deepen the fighting The combat team fighters of the Commando Brigade raided terror targets in the west of Khan Younis. The fighters eliminated militant cells and terrorists, destroyed terror infrastructures and found numerous weapons. In the past week, the Commando Brigade fighters have killed more than 100 terrorists. Fighters from the Egoz unit raided a weapons depot in the area and found guns, magazines, RPG missiles, advanced photography equipment, and diving gear. Additionally, they raided the house of one of Yahya Sinwar&#8217;s associates and found weapons.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4085",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4085
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4085",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4085"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4085/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4085"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4085"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4085"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 3151,
+    "date": "2024-05-08T20:13:41",
+    "date_gmt": "2024-05-08T17:13:41",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9672/"
+    },
+    "modified": "2024-05-08T20:13:41",
+    "modified_gmt": "2024-05-08T17:13:41",
+    "slug": "9672",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9672/",
+    "title": {
+        "rendered": "&#8220;IDF Continues Strikes on Hezbollah Targets in Southern Lebanon: Inside Today&#8217;s Military Actions&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>A military structure associated with the Radwan unit and military buildings housing terrorists; the IDF continues to attack targets of the terrorist organization Hezbollah in southern Lebanon.</p>\n<p>Earlier today, fighter jets attacked a military structure associated with the Radwan force in the Hezbollah terrorist organization in the Jebel Rizlan area. </p>\n<p>In addition, today, fighter planes attacked military buildings in which Hezbollah terrorists resided, and other military buildings of the organization in the regions of El-Khayam, El-Adeyse, Bleyda, Maroun al-Ras, and Ayta ash-Shaab.</p>\n<p>Attached is documentation of the attacks: https://bit.ly/4brBMGV</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: A military structure associated with the Radwan unit and military buildings housing terrorists; the IDF continues to attack targets of the terrorist organization <a  href=\"/hezbollah\">Hezbollah</a> in southern Lebanon. Earlier today, fighter jets attacked a military structure associated with the Radwan force in the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization in the Jebel Rizlan area. In addition, today, fighter planes attacked military buildings in which Hezbollah terrorists resided, and other military buildings of the organization in the regions of El-Khayam, El-Adeyse, Bleyda, Maroun al-Ras, and Ayta ash-Shaab. Attached is documentation of the attacks: https://bit.ly/4brBMGV</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3151",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3151
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3151",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3151"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3151/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3151"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3151"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3151"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

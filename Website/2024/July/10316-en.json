@@ -1,0 +1,124 @@
+{
+    "id": 8309,
+    "date": "2024-07-02T09:24:56",
+    "date_gmt": "2024-07-02T06:24:56",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10316-en/"
+    },
+    "modified": "2024-07-02T09:24:56",
+    "modified_gmt": "2024-07-02T06:24:56",
+    "slug": "10316-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10316-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hamas Targets in Khan Yunis: Air Force Targets Terror Infrastructure While Minimizing Civilian Harm&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF struck targets in the Khan Yunis area from which launches were carried out towards the perimeter last night.</p>\n<p>Air Force fighter jets, in cooperation with the Southern Command, attacked during the night targets in the area from which about 20 launches were made yesterday (Monday) towards the communities along the perimeter. Among the targets attacked were a weapons storage facility, operational apartments, and other terror infrastructures.</p>\n<p>Prior to the strikes, the IDF took precautions and allowed civilians to evacuate the area in order to minimize harm to non-combatants as much as possible.</p>\n<p>The terrorist organization Hamas systematically violates international law while cynically exploiting the civilian population as a shield for terrorist activities against the State of Israel.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF struck targets in the Khan Yunis area from which launches were carried out towards the perimeter last night. Air Force fighter jets, in cooperation with the Southern Command, attacked during the night targets in the area from which about 20 launches were made yesterday (Monday) towards the communities along the perimeter. Among the targets attacked were a weapons storage facility, operational apartments, and other terror infrastructures. Prior to the strikes, the IDF took precautions and allowed civilians to evacuate the area in order to minimize harm to non-combatants as much as possible. The terrorist organization <a  href=\"/hamas\">Hamas</a></p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8309",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8309,
+        "he": 8310,
+        "ru": 8311
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8309",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8309"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8309/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8309"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8309"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8309"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

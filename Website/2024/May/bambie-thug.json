@@ -1,0 +1,138 @@
+{
+    "id": 2228,
+    "date": "2024-05-11T23:00:00",
+    "date_gmt": "2024-05-11T20:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=2228"
+    },
+    "modified": "2024-05-12T23:11:54",
+    "modified_gmt": "2024-05-12T20:11:54",
+    "slug": "bambie-thug",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/hamas-supporters/bambie-thug/",
+    "title": {
+        "rendered": "Bambie Thug"
+    },
+    "content": {
+        "rendered": "\n<p>Bambie Thug, Ireland&#8217;s contestant at the 2024 Eurovision Song Contest, has been outspoken in their support the Hamas terror organization<br>Her statements express opposition to existence of the state of Israel, and a desire slaughter all Jews and Israelis around the world <br>From her own words: &#8220;the top six, minus one, are all freedom fighters.&#8221;<br>Freedom fighters = Hamas terrorists who infiltrated Israel on October 7, with the goal to slaughter as many Israelis as possible</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Bambie Thug, Ireland&#8217;s contestant at the 2024 Eurovision Song Contest, has been outspoken in their support the <a  href=\"/hamas\">Hamas</a> terror organizationHer statements express opposition to existence of the state of <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>, and a desire slaughter all Jews and Israelis around the world From her own words: &#8220;the top six, minus one, are all freedom fighters.&#8221;Freedom fighters = <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> terrorists who infiltrated Israel on October 7, with the goal to slaughter as many Israelis as possible</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 2230,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-hams-support",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 12,
+        "footnotes": ""
+    },
+    "categories": [
+        12
+    ],
+    "tags": [
+        97
+    ],
+    "class_list": [
+        "post-2228",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-hamas-supporters",
+        "tag-terrorists-in-the-wild"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2228
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2228",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2228"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 2,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2228/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 2231,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2228/revisions/2231"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/2230"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2228"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2228"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2228"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

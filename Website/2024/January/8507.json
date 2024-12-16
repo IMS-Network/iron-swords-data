@@ -1,0 +1,122 @@
+{
+    "id": 4288,
+    "date": "2024-01-04T12:42:44",
+    "date_gmt": "2024-01-04T10:42:44",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8507/"
+    },
+    "modified": "2024-01-04T12:42:44",
+    "modified_gmt": "2024-01-04T10:42:44",
+    "slug": "8507",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8507/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Terror Infrastructures and Missile Unit in Southern Lebanon: A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked terror infrastructures and a Hezbollah terrorist organization&#8217;s missile unit in Lebanese territory</p>\n<p>This morning, an Air Force combat aircraft attacked a Hezbollah terrorist organization&#8217;s observation post and terror infrastructure, in the Maroun al-Ras area of southern Lebanon. Shortly thereafter, an IDF unit attacked a missile unit that it had identified in the area.<br />\nOvernight, IDF forces fired missiles to eliminate a threat in the large area of Rabel al-Taltin on the Lebanese border. </p>\n<p>Also, this morning, several launches from Lebanese territory to Israeli territory were identified.</p>\n<p>Documentation of the attacks is attached: https://bit.ly/3vnKwhE</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked terror infrastructures and a <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization&#8217;s missile unit in Lebanese territory This morning, an Air Force combat aircraft attacked a <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization&#8217;s observation post and terror infrastructure, in the Maroun al-Ras area of southern Lebanon. Shortly thereafter, an IDF unit attacked a missile unit that it had identified in the area. Overnight, IDF forces fired missiles to eliminate a threat in the large area of Rabel al-Taltin on the Lebanese border. Also, this morning, several launches from Lebanese territory to Israeli territory were identified. Documentation of the attacks is attached: https://bit.ly/3vnKwhE</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4288",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4288
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4288",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4288"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4288/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4288"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4288"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4288"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

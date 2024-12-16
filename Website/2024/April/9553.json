@@ -1,0 +1,122 @@
+{
+    "id": 3268,
+    "date": "2024-04-24T12:27:24",
+    "date_gmt": "2024-04-24T09:27:24",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9553/"
+    },
+    "modified": "2024-04-24T12:27:24",
+    "modified_gmt": "2024-04-24T09:27:24",
+    "slug": "9553",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9553/",
+    "title": {
+        "rendered": "&#8220;Intercepting Threats: Arrow, Tamir &#038; Other IDF Tools Against Iran and Gaza Missiles&#8221;"
+    },
+    "content": {
+        "rendered": "<p>The &#8220;Arrow&#8221; intercepted threats from Iran and the missiles named after the Gaza envelope settlements:<br />\nThe Tamir was their baptism of fire &#8211; here are some of the war tools.</p>\n<p>https://www.idf.il/193082</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>The &#8220;Arrow&#8221; intercepted threats from <a  href=\"https://iron-swords.co.il/c/know-your-enemies/iran/\">Iran</a> and the missiles named after the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> envelope settlements: The Tamir was their baptism of fire &#8211; here are some of the war tools. https://www.idf.il/193082</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3268",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3268
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3268",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3268"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3268/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3268"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3268"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3268"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

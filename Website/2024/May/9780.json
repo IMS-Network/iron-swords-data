@@ -1,0 +1,122 @@
+{
+    "id": 3045,
+    "date": "2024-05-18T00:42:22",
+    "date_gmt": "2024-05-17T21:42:22",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9780/"
+    },
+    "modified": "2024-05-18T00:42:22",
+    "modified_gmt": "2024-05-17T21:42:22",
+    "slug": "9780",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9780/",
+    "title": {
+        "rendered": "&#8220;Decisive IDF and Shin Bet Strike Eliminates Key Terrorist Leader in Jenin: A Fight Against Future Attacks&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint statement from the IDF Spokesperson and the Shin Bet (ISA) Spokespersons:</p>\n<p>The IDF and the Shin Bet attacked an operational headquarters in which terrorists were located in Jenin; a leading fugitive responsible for a series of attacks, including the murder of Meir Tamari, was killed.</p>\n<p>An Aircraft and a helicopter of the Israeli Air Force, guided by intelligence from the Shin Bet, attacked a building that served as an operational headquarters of the terror infrastructure in Jenin. The building harbored several key terrorists, including those involved in carrying out shooting attacks in the Jenin area and those planning to implement additional attacks in the near future.</p>\n<p>During the attack, Islam Hamaise was killed, a central fugitive in the Jenin camp responsible for a series of attacks in the area, including a shooting attack carried out in Hermesh in May 2023 in which Meir Tamari was murdered, and another attack at the Ephs junction in June 2023 in which Israelis were injured.</p>\n<p>This is a dangerous terror infrastructure whose elimination was intended to remove an immediate threat reflected by the activists involved in promoting attacks in the Jenin area and within Israeli territories.</p>\n<p>The IDF and Shin Bet will continue to act to neutralize any terror threat towards Israeli citizens.</p>\n<p>Attached is footage from the attack: https://bit.ly/4bK58Rk</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint statement from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a> and the Shin Bet (ISA) Spokespersons: The IDF and the Shin Bet attacked an operational headquarters in which terrorists were located in Jenin; a leading fugitive responsible for a series of attacks, including the murder of Meir Tamari, was killed. An Aircraft and a helicopter of the Israeli Air Force, guided by intelligence from the Shin Bet, attacked a building that served as an operational headquarters of the terror infrastructure in Jenin. The building harbored several key terrorists, including those involved in carrying out shooting attacks in the Jenin area and those planning to</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3045",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3045
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3045",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3045"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3045/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3045"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3045"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3045"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

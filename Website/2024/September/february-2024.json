@@ -1,0 +1,138 @@
+{
+    "id": 17552,
+    "date": "2024-09-12T17:12:11",
+    "date_gmt": "2024-09-12T14:12:11",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=17552"
+    },
+    "modified": "2024-09-12T17:12:15",
+    "modified_gmt": "2024-09-12T14:12:15",
+    "slug": "february-2024",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/terror-attacks/february-2024/",
+    "title": {
+        "rendered": "Palestinian Terrorism |\u00a0February 2024"
+    },
+    "content": {
+        "rendered": "\n<p><strong>February 8</strong> \u2013 A shooting attack targeting soldiers at the &#8216;Mangalim Junction&#8217; south of Shavei Shomron. Aside from a hit to a soldier&#8217;s helmet, there were no injuries among the soldiers. The Palestinian terrorist was killed, and during the exchange of fire, two Palestinian bystanders were injured.</p>\n\n\n\n<p><strong>February 16</strong> \u2013 The Ram Junction shooting attack: A Palestinian terrorist from the Shuafat refugee camp arrived by car at the Ram Junction and opened fire at a bus stop where people were waiting. Two men were murdered, and four others were injured, two of them critically.</p>\n\n\n\n<p><strong>February 22</strong> \u2013 The Zayit Interchange shooting attack: Two Palestinian terrorists opened fire at cars at a checkpoint on Highway 1 near Maale Adumim. One person was murdered, and 11 others were injured, including two critically. Both Palestinian terrorists were killed.</p>\n\n\n\n<p><strong>February 29</strong> \u2013 The Ali gas station attack: Two Israelis were murdered in a shooting attack at a gas station at the entrance to Ali in Samaria.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>In February, Palestinians carried out 475 terrorist attacks, including stone-throwing incidents, resulting in 5 deaths and 24 injuries.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 17542,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1570,
+        "footnotes": ""
+    },
+    "categories": [
+        1570
+    ],
+    "tags": [
+        1574
+    ],
+    "class_list": [
+        "post-17552",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-terror-attacks",
+        "tag-palestinian-terrorism"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 17552
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/17552",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=17552"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/17552/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 17553,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/17552/revisions/17553"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/17542"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=17552"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=17552"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=17552"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 3905,
+    "date": "2024-02-17T13:21:46",
+    "date_gmt": "2024-02-17T11:21:46",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8898/"
+    },
+    "modified": "2024-02-17T13:21:46",
+    "modified_gmt": "2024-02-17T11:21:46",
+    "slug": "8898",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8898/",
+    "title": {
+        "rendered": "&#8220;Swift IDF Response: Gaza Strip Rocket Launcher Neutralized within 30 Minutes&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Within less than 30 minutes: The terrorist who launched a rocket towards the Ashkelon area this morning has been eliminated.</p>\n<p>This morning, an alarm was activated in the city of Ashkelon following a launch that was identified from the Gaza Strip area. Air Defense soldiers intercepted the launch successfully.</p>\n<p>Within less than 30 minutes, in a cooperation between the Nahal Brigade&#8217;s Fire Array and the 215th Fire Brigade of the 162nd Division, the terrorist who carried out the launch was identified in the Al-Furqan area in the northern strip.</p>\n<p>An aircraft of the Air Force attacked the terrorist and eliminated him.</p>\n<p>Attached is documentation on the subject: https://bit.ly/4bGuyjd</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Within less than 30 minutes: The terrorist who launched a rocket towards the <a  href=\"https://iron-swords.co.il/t/ashkelon/\">Ashkelon</a> area this morning has been eliminated. This morning, an alarm was activated in the city of Ashkelon following a launch that was identified from the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip area. Air Defense soldiers intercepted the launch successfully. Within less than 30 minutes, in a cooperation between the <a  href=\"https://iron-swords.co.il/t/nahal-brigade/\">Nahal Brigade</a>&#8217;s Fire Array and the 215th Fire Brigade of the 162nd Division, the terrorist who carried out the launch was identified in the Al-Furqan area in the northern strip. An aircraft of the Air Force attacked the terrorist</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3905",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3905
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3905",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3905"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3905/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3905"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3905"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3905"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

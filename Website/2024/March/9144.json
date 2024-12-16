@@ -1,0 +1,122 @@
+{
+    "id": 3664,
+    "date": "2024-03-16T17:53:39",
+    "date_gmt": "2024-03-16T15:53:39",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9144/"
+    },
+    "modified": "2024-03-16T17:53:39",
+    "modified_gmt": "2024-03-16T15:53:39",
+    "slug": "9144",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9144/",
+    "title": {
+        "rendered": "&#8220;Breaking: IDF Response to Hebron Shooting Attack &#8211; In-depth Analysis and Exclusive Photos&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>Following the shooting attack in Hebron and the elimination of the terrorist, IDF forces have arrived at the house of the terrorist in Hebron and are investigating suspects on the scene.</p>\n<p>Attached are photos from the situation assessment of the Central Command commander, the brigade commander of Judea and Samaria, and other commanders at the scene of the terrorist&#8217;s elimination: https://IDFANC.activetrail.biz/ANC16032024.156156198</p>\n<p>Attached is a documentation of IDF forces at the scene of the elimination: https://bit.ly/3VqWl1L</p>\n<p>Attached is a link to the briefing of the Battalion Intelligence Officer in the Judea Regional Brigade, Deputy Eilay: https://bit.ly/3Vi6PAb</p>\n<p>Attached is a link to the briefing of the Battalion Commander in Battalion 92, Colonel Israel: https://bit.ly/3IDwhZu</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: Following the shooting attack in Hebron and the elimination of the terrorist, IDF forces have arrived at the house of the terrorist in Hebron and are investigating suspects on the scene. Attached are photos from the situation assessment of the Central Command commander, the brigade commander of Judea and Samaria, and other commanders at the scene of the terrorist&#8217;s elimination: https://IDFANC.activetrail.biz/ANC16032024.156156198 Attached is a documentation of IDF forces at the scene of the elimination: https://bit.ly/3VqWl1L Attached is a link to the briefing of the Battalion Intelligence Officer in the Judea Regional Brigade, Deputy Eilay: https://bit.ly/3Vi6PAb Attached is a</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3664",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3664
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3664",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3664"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3664/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3664"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3664"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3664"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

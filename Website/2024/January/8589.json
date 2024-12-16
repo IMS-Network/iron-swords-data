@@ -1,0 +1,122 @@
+{
+    "id": 4208,
+    "date": "2024-01-13T14:36:02",
+    "date_gmt": "2024-01-13T12:36:02",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8589/"
+    },
+    "modified": "2024-01-13T14:36:02",
+    "modified_gmt": "2024-01-13T12:36:02",
+    "slug": "8589",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8589/",
+    "title": {
+        "rendered": "&#8220;Thwarting Terror: Inside the IDF&#8217;s Swift Response to Prevent a Major Attack at Adora Settlement&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The commander of the Central Command, Major General Yehuda Fox, and the commander of the Judea Brigade, Brigadier General Yishai Rosilio, conducted a situation assessment at the site of the neutralization of the terrorists who attempted an attack in the settlement of Adora.</p>\n<p>From the words of the commander of the Central Command: &#8220;We are in a challenging period, most of the time we manage to stop or harm the terrorists before they set out to carry out their attacks. In this case, a significant attack was prevented when three terrorists managed to reach and breach the settlement&#8217;s fence, but they encountered a strong and ready defense system, from the border guard who was injured and alerted the forces, to the reserve battalion that moved towards the contact and neutralized the terrorists. We will learn from this event in order to draw lessons and improve, while continuing to operate with expansive offensive effort.&#8221;</p>\n<p>Attached are pictures on the topic: https://IDFANC.activetrail.biz/ANC94337</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The commander of the Central Command, Major General Yehuda Fox, and the commander of the Judea Brigade, Brigadier General Yishai Rosilio, conducted a situation assessment at the site of the neutralization of the terrorists who attempted an attack in the settlement of Adora. From the words of the commander of the Central Command: &#8220;We are in a challenging period, most of the time we manage to stop or harm the terrorists before they set out to carry out their attacks. In this case, a significant attack was prevented when three terrorists managed to reach and breach the settlement&#8217;s</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4208",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4208
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4208",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4208"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4208/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4208"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4208"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4208"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

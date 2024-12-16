@@ -1,0 +1,122 @@
+{
+    "id": 4229,
+    "date": "2024-01-10T12:01:29",
+    "date_gmt": "2024-01-10T10:01:29",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8568/"
+    },
+    "modified": "2024-01-10T12:01:29",
+    "modified_gmt": "2024-01-10T10:01:29",
+    "slug": "8568",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8568/",
+    "title": {
+        "rendered": "&#8220;Uncovered: IDF&#8217;s 55th Paratroopers Brigade&#8217;s Gritty Battle in Khan Yunis&#8221;"
+    },
+    "content": {
+        "rendered": "<p>&#8220;A loaded weapon under a children&#8217;s bed and a tunnel next to a playground: This is what the fight of the IDF&#8217;s 55th Paratroopers Brigade in Khan Yunis looks like.&#8221;</p>\n<p>https://www.idf.il/171101</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>&#8220;A loaded weapon under a children&#8217;s bed and a tunnel next to a playground: This is what the fight of the IDF&#8217;s <a  href=\"https://iron-swords.co.il/t/55th-paratroopers-brigade/\">55th Paratroopers Brigade</a> in Khan Yunis looks like.&#8221; https://www.idf.il/171101</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4229",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4229
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4229",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4229"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4229/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4229"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4229"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4229"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

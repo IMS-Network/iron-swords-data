@@ -1,0 +1,124 @@
+{
+    "id": 7333,
+    "date": "2024-07-26T18:32:29",
+    "date_gmt": "2024-07-26T15:32:29",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10646-en/"
+    },
+    "modified": "2024-07-26T18:32:29",
+    "modified_gmt": "2024-07-26T15:32:29",
+    "slug": "10646-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10646-en/",
+    "title": {
+        "rendered": "&#8220;IDF Chief of Staff: &#8216;We Will Not Rest Until Hostages Are Returned and Hamas is Dismantled'&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The Chief of Staff in Khan Younis: We will not let up on Hamas until we return the hostages and dismantle the last battalion.</p>\n<p>The Chief of Staff, Lieutenant General Herzi Halevi, held an assessment meeting last night (Thursday) in Khan Younis, Gaza Strip, and met with the commanders who participated in the operation to rescue the kidnapped remains, alongside the Southern Command Commander, Major General Yaron Finkelman, the commander of Division 98, Brigadier General Dan Goldfus, and the brigade commanders.</p>\n<p>Attached is a video of the Chief of Staff&#8217;s remarks: https://bit.ly/4fh4BJ1</p>\n<p>Attached are photos on the subject: https://IDFANC.activetrail.biz/ANC26071000</p>\n<p>Here are the Chief of Staff&#8217;s full remarks: \u201cThirty hours to retrieve the remains from the belly of the earth, really from a hidden place, behind a tunnel, behind the fortifications, this is very, very complicated work, and you are doing it in a way that truly deserves great appreciation. We were near these bodies in the past but did not know how to reach out. Now we only knew how to reach out, and we reached out. We brought back five remains, which you may not have believed we\u2019d ever be able to do. We really want to bring back hostages alive, and that requires pressure, killing Hamas commanders, killing Hamas operatives. The agreement for the release of hostages is something we are pushing to achieve and to bring under good conditions, and this is a top priority. This is a defined war goal, and we don\u2019t need anyone to define it for us. This is a basic value issue. And we will not let up on Hamas until we return the hostages. And we will not let up on Hamas until we dismantle the last battalion, the last company, and we are working very hard. We are constantly thinking about how to push forward.\u201d</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The Chief of Staff in Khan Younis: We will not let up on <a  href=\"/hamas\">Hamas</a> until we return the <a  href=\"https://iron-swords.co.il/t/hostages/\">hostages</a> and dismantle the last battalion. The Chief of Staff, Lieutenant General Herzi Halevi, held an assessment meeting last night (Thursday) in Khan Younis, <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip, and met with the commanders who participated in the operation to rescue the kidnapped remains, alongside the Southern Command Commander, Major General Yaron Finkelman, the commander of Division 98, Brigadier General Dan Goldfus, and the brigade commanders. Attached is a video of the Chief of Staff&#8217;s remarks: https://bit.ly/4fh4BJ1 Attached are photos on the subject:</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7333",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7333,
+        "he": 7334,
+        "ru": 7335
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7333",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7333"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7333/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7333"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7333"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7333"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 4053,
+    "date": "2024-01-31T11:35:26",
+    "date_gmt": "2024-01-31T09:35:26",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8748/"
+    },
+    "modified": "2024-01-31T11:35:26",
+    "modified_gmt": "2024-01-31T09:35:26",
+    "slug": "8748",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8748/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Syrian Military Post in Daraa; Responds to Rocket Attacks from Lebanon: A Detailed Account&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>During the night: The IDF attacked a military infrastructure of the Syrian regime in the Daraa province in response to rocket fire towards the southern Golan Heights.</p>\n<p>Fighter jets attacked last night (Wednesday) a military infrastructure of the Syrian regime in the area of the city of Daraa in Southern Syria, in response to rocket fire on Tuesday towards the southern Golan Heights.</p>\n<p>In addition, this morning rockets were identified being launched from Lebanon territory, which fell in open areas near the Menara and Kfar Yuval. There were no casualties.</p>\n<p>Also, the IDF has recently carried out artillery fire towards several areas in southern Lebanon.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: During the night: The IDF attacked a military infrastructure of the Syrian regime in the Daraa province in response to rocket fire towards the southern Golan Heights. Fighter jets attacked last night (Wednesday) a military infrastructure of the Syrian regime in the area of the city of Daraa in Southern Syria, in response to rocket fire on Tuesday towards the southern Golan Heights. In addition, this morning rockets were identified being launched from Lebanon territory, which fell in open areas near the Menara and Kfar Yuval. There were no casualties. Also, the IDF has recently carried out artillery</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4053",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4053
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4053",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4053"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4053/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4053"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4053"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4053"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

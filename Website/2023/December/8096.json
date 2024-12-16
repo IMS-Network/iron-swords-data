@@ -1,0 +1,122 @@
+{
+    "id": 4695,
+    "date": "2023-12-03T19:56:12",
+    "date_gmt": "2023-12-03T17:56:12",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8096/"
+    },
+    "modified": "2023-12-03T19:56:12",
+    "modified_gmt": "2023-12-03T17:56:12",
+    "slug": "8096",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8096/",
+    "title": {
+        "rendered": "&#8220;Tragic Loss and Subsequent Investigation: IDF Soldier Killed in Jerusalem Terrorist Attack&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF expresses sorrow over the death of Yuval Doron Kastelman Z&#8221;L, who courageously, valiantly, strived for contact and eliminated terrorists in an attack in Jerusalem. </p>\n<p>A reserve soldier, who is suspected of firing the shot that resulted in the death of Yuval Z&#8221;L, was initially investigated on the day of the event. The soldier did not remain in the unit over the weekend, and today he arrived for an investigation under caution by the Military Police Investigation Department. </p>\n<p>Another regular service soldier who was involved in the event and fired a shot was injured during the event and was evacuated for medical treatment. The soldier is now also being investigated under caution. </p>\n<p>The soldiers&#8217; weapons were seized and are being checked.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF expresses sorrow over the death of Yuval Doron Kastelman Z&#8221;L, who courageously, valiantly, strived for contact and eliminated terrorists in an attack in <a  href=\"https://iron-swords.co.il/t/jerusalem/\">Jerusalem</a>. A reserve soldier, who is suspected of firing the shot that resulted in the death of Yuval Z&#8221;L, was initially investigated on the day of the event. The soldier did not remain in the unit over the weekend, and today he arrived for an investigation under caution by the Military Police Investigation Department. Another regular service soldier who was involved in the event and fired a shot was injured during the event</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4695",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4695
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4695",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4695"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4695/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4695"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4695"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4695"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

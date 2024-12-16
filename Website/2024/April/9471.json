@@ -1,0 +1,122 @@
+{
+    "id": 3345,
+    "date": "2024-04-16T13:53:12",
+    "date_gmt": "2024-04-16T10:53:12",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9471/"
+    },
+    "modified": "2024-04-16T13:53:12",
+    "modified_gmt": "2024-04-16T10:53:12",
+    "slug": "9471",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9471/",
+    "title": {
+        "rendered": "&#8220;IDF Chief Commends British Counterpart for Joint Efforts in Operation &#8216;Iron Dome&#8217;: An Insight into Global Military Cooperation&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF Chief of Staff spoke with the British Chief of Staff</p>\n<p>The IDF Chief of Staff, Lieutenant General Herzl Halevi, spoke yesterday (Tuesday) with the Chief of Staff of the British Army, Admiral (****) Tony Radakin. The IDF Chief thanked him for his part in the joint defensive effort to foil and intercept the Iranian attack on Israel during Operation &#8220;Iron Dome&#8221;. The Chief of Staff asked Admiral Radakin to convey his high regard to his personnel for their joint, highly qualitatively, action.</p>\n<p>Nowadays more than ever, the close relationship between the armed forces proved its contribution to regional stability and security in the Middle East.</p>\n<p>This conversation is part of a conversation that the Chief of Staff had the other day (Monday) with the commander of the US Central Command (CENTCOM), General (****) Michael Eric Kurilla, and other commanders.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF Chief of Staff spoke with the British Chief of Staff The IDF Chief of Staff, Lieutenant General Herzl Halevi, spoke yesterday (Tuesday) with the Chief of Staff of the British Army, Admiral (****) Tony Radakin. The IDF Chief thanked him for his part in the joint defensive effort to foil and intercept the Iranian attack on <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> during Operation &#8220;Iron Dome&#8221;. The Chief of Staff asked Admiral Radakin to convey his high regard to his personnel for their joint, highly qualitatively, action. Nowadays more than ever, the close relationship between the armed forces proved its contribution</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3345",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3345
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3345",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3345"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3345/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3345"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3345"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3345"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 4105,
+    "date": "2024-01-24T10:26:04",
+    "date_gmt": "2024-01-24T08:26:04",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8694/"
+    },
+    "modified": "2024-01-24T10:26:04",
+    "modified_gmt": "2024-01-24T08:26:04",
+    "slug": "8694",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8694/",
+    "title": {
+        "rendered": "&#8220;IDF and Border Police Demolish Hamas Terrorist Home: 2,700 Arrests Mark Progress in Judea-Samaria Conflict&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>IDF and Border Police forces demolished overnight the home of a Hamas terrorist in the village of Urif, who participated in the shooting attack at the Ali gas station.</p>\n<p>IDF reserve forces, in collaboration with Border Police and engineering units, demolished overnight in the village of Urif in the Samaria region the home of Basel Shahada, an activist in the Hamas terrorist organization, who participated in the attack on the Ali gas station on June 20, 2023, in which four Israelis were killed and others were injured. The homes of the other terrorists who took part in the attack have also been demolished in the past.</p>\n<p>IDF, Shin Bet, and Border Police forces arrested seven wanted individuals overnight and confiscated weapons throughout Judea and Samaria. The wanted individuals who were arrested have been transferred for further investigation by security forces.</p>\n<p>So far, since the beginning of the war, about 2,700 wanted individuals have been arrested throughout the Judea and Samaria Brigade and the Jordan Valley, and Emek Brigade, over 1,300 of whom are associated with the Hamas terrorist organization.</p>\n<p>Attached are pictures on the subject: https://IDFANC.activetrail.biz/ANC24012024.123498189</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: IDF and Border Police forces demolished overnight the home of a <a  href=\"/hamas\">Hamas</a> terrorist in the village of Urif, who participated in the shooting attack at the Ali gas station. IDF reserve forces, in collaboration with Border Police and engineering units, demolished overnight in the village of Urif in the Samaria region the home of Basel Shahada, an activist in the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> terrorist organization, who participated in the attack on the Ali gas station on June 20, 2023, in which four Israelis were killed and others were injured. The homes of the other terrorists who took part in the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4105",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4105
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4105",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4105"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4105/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4105"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4105"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4105"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

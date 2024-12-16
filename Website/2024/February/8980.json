@@ -1,0 +1,122 @@
+{
+    "id": 3823,
+    "date": "2024-02-27T11:46:06",
+    "date_gmt": "2024-02-27T09:46:06",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8980/"
+    },
+    "modified": "2024-02-27T11:46:06",
+    "modified_gmt": "2024-02-27T09:46:06",
+    "slug": "8980",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8980/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Back: Decimating Hezbollah&#8217;s Military Infrastructures in Response to Rocket Fire from Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Following the rocket fire towards the north of the country this morning; IDF destroyed a military site and military infrastructures of the Hezbollah terrorist organization in Lebanese territory.</p>\n<p>This morning, about 35 rockets were identified as having been fired from Lebanon towards the Mount Meron area in the north of the country. There were no casualties and no damage was caused to the air observation unit in the area. </p>\n<p>In response to these rocket fires, fighter aircraft attacked and destroyed a short while ago, a military site and several military infrastructures of the Hezbollah terrorist organization in the areas of Alhaniya, Jebchit, Basseriya, and Al-Mansouri. In addition, IDF forces attacked with artillery to neutralize threats in the Yaroun area.</p>\n<p>Attached is footage from the attack: https://bit.ly/3OWP99k</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Following the rocket fire towards the north of the country this morning; IDF destroyed a military site and military infrastructures of the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization in Lebanese territory. This morning, about 35 rockets were identified as having been fired from Lebanon towards the Mount Meron area in the north of the country. There were no casualties and no damage was caused to the air observation unit in the area. In response to these rocket fires, fighter aircraft attacked and destroyed a short while ago, a military site and several military infrastructures of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization in the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3823",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3823
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3823",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3823"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3823/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3823"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3823"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3823"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

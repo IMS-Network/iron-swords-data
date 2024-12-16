@@ -1,0 +1,122 @@
+{
+    "id": 3805,
+    "date": "2024-02-29T12:00:45",
+    "date_gmt": "2024-02-29T10:00:45",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8998/"
+    },
+    "modified": "2024-02-29T12:00:45",
+    "modified_gmt": "2024-02-29T10:00:45",
+    "slug": "8998",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8998/",
+    "title": {
+        "rendered": "&#8220;Inside Nahal&#8217;s Combat Collection Unit: A Raid on Hamas Weapon Warehouses in Zeitoun&#8221;"
+    },
+    "content": {
+        "rendered": "<p>A raid on a lathe and Hamas weapons warehouses:<br />\nThis is what Nahal&#8217;s Combat Collection Unit&#8217;s activity looks like in Zeitoun.<br />\nhttps://www.idf.il/183309</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>A raid on a lathe and <a  href=\"/hamas\">Hamas</a> weapons warehouses: This is what Nahal&#8217;s Combat Collection Unit&#8217;s activity looks like in Zeitoun. https://www.idf.il/183309</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3805",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3805
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3805",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3805"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3805/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3805"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3805"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3805"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

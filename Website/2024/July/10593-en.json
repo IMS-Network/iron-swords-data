@@ -1,0 +1,124 @@
+{
+    "id": 7499,
+    "date": "2024-07-23T07:42:09",
+    "date_gmt": "2024-07-23T04:42:09",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10593-en/"
+    },
+    "modified": "2024-07-23T07:42:09",
+    "modified_gmt": "2024-07-23T04:42:09",
+    "slug": "10593-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10593-en/",
+    "title": {
+        "rendered": "&#8220;Today\u2019s Home Front Command Sound Tests: Key Times and Alerts for Western Galilee Residents&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Sound tests of the Home Front Command will take place today in the areas of the communities of Moreshet, Kornit, Shkheniya, Manof, and at the regional center of Misgav in the Western Galilee.</p>\n<p>Sound tests of the Home Front Command will occur today (Tuesday) at 10:05 in the Moreshet area, at 11:05 in the Kornit area, at 12:05 in the Shkheniya area, at 13:05 in the Manof area, and at 14:05 in the Misgav regional center.</p>\n<p>If a real alert is activated, an additional rising and falling siren will be heard.<br />\nAt the same time, alerts will also be distributed via the Home Front Command app and through supplementary warning means.</p>\n<p>More information can be found at the Home Front Command call center at phone number 104, via WhatsApp messages to phone number 052-9104104, on the national portal at oref.org.il, and on social media.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Sound tests of the Home Front Command will take place today in the areas of the communities of <a  href=\"https://iron-swords.co.il/t/moreshet/\">Moreshet</a>, Kornit, Shkheniya, Manof, and at the regional center of Misgav in the Western Galilee. Sound tests of the Home Front Command will occur today (Tuesday) at 10:05 in the Moreshet area, at 11:05 in the Kornit area, at 12:05 in the Shkheniya area, at 13:05 in the Manof area, and at 14:05 in the Misgav regional center. If a real alert is activated, an additional rising and falling siren will be heard. At the same time, alerts will also</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7499",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7499,
+        "he": 7500,
+        "ru": 7501
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7499",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7499"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7499/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7499"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7499"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7499"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

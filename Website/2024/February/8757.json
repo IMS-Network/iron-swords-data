@@ -1,0 +1,122 @@
+{
+    "id": 4044,
+    "date": "2024-02-01T08:20:18",
+    "date_gmt": "2024-02-01T06:20:18",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8757/"
+    },
+    "modified": "2024-02-01T08:20:18",
+    "modified_gmt": "2024-02-01T06:20:18",
+    "slug": "8757",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8757/",
+    "title": {
+        "rendered": "&#8220;Inside the IDF&#8217;s Intense Battle in Gaza: Missiles, Terrorists, and Brave Brigades&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>As part of the fighting in the west of Khan Yunis, a long-range missile launcher was located and destroyed by a combat aircraft. Concurrently, warriors of Brigade 162 continue the battle in the center and north of the Gaza Strip</p>\n<p>Warriors of Brigade 162 continue to battle in the north and center of the Gaza Strip and are operating in the city center of Gaza. In the past day, the fighters have eliminated dozens of terrorists. In the center of the strip, the fighters of the Nahal Brigade&#8217;s battle team are operating. Upon identification of a terrorist cell in the field, the brigade&#8217;s fire complex directed an aircraft that attacked and eliminated several terrorists in the area.</p>\n<p>In the north of the strip, the warriors of the Brigade 401&#8217;s battle team continue to raid Hamas military buildings and eliminate terrorists.</p>\n<p>The warriors of Brigade 98 are continuing the intense battle in the west of Khan Yunis. The paratroopers&#8217; brigade battle team have eliminated terrorists in the city area during close range encounters in the past day. In addition, the brigade&#8217;s fire complex directed several aircraft that attacked and eliminated several terrorists in various areas.</p>\n<p>As part of the fighting in the west of Khan Yunis, Brigade 98&#8217;s fire center identified a long-range missile launcher. The force directed a combat aircraft that attacked and destroyed the launcher.</p>\n<p>The warriors of the Brigade 646&#8217;s battle team in Khan Yunis identified several terrorists in the field. In cooperation with the Air Force, the forces directed an aircraft that attacked and eliminated the terrorists.</p>\n<p>Documentation of the attack on the launcher in the west of Khan Yunis is attached: https://bit.ly/47YWWdz</p>\n<p>Documentation of the attacks in the Gaza Strip in the past day is attached: https://bit.ly/3vVH52a </p>\n<p>Attached are photos from the forces&#8217; operation in the strip: https://IDFANC.activetrail.biz/ANC01022024983426</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: As part of the fighting in the west of Khan Yunis, a long-range missile launcher was located and destroyed by a combat aircraft. Concurrently, warriors of Brigade 162 continue the battle in the center and north of the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip Warriors of Brigade 162 continue to battle in the north and center of the Gaza Strip and are operating in the city center of Gaza. In the past day, the fighters have eliminated dozens of terrorists. In the center of the strip, the fighters of the <a  href=\"https://iron-swords.co.il/t/nahal-brigade/\">Nahal Brigade</a>&#8217;s battle team are operating. Upon identification of a terrorist cell</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4044",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4044
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4044",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4044"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4044/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4044"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4044"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4044"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

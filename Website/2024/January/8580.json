@@ -1,0 +1,122 @@
+{
+    "id": 4217,
+    "date": "2024-01-12T08:40:02",
+    "date_gmt": "2024-01-12T06:40:02",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8580/"
+    },
+    "modified": "2024-01-12T08:40:02",
+    "modified_gmt": "2024-01-12T06:40:02",
+    "slug": "8580",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8580/",
+    "title": {
+        "rendered": "&#8220;IDF Eliminates Dozens of Terrorists in Gaza: A Comprehensive Report on Recent Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF has eliminated dozens of terrorists in Khan Yunis and Al Maghazi, among them commanders of Hamas&#8217;s naval forces; our drone in Al Bureij eliminated a terrorist who was shooting from a window towards our forces.</p>\n<p>In Al Maghazi, divisional combat teams operating under the command of Division 36, have eliminated about 20 terrorists over the last day and located numerous combat materials. Among the slain terrorists was a commander of the naval forces of Hamas, the terror organization.</p>\n<p>In Khan Yunis, our Air Force fighter jet targeted and struck a military building of Hamas, under the guidance of Division 98, killing seven terrorists. Among the dead was a commander of the naval forces who was involved in the deadly attack on the border communities on October 7.</p>\n<p>A commando brigade force identified three armed terrorists emerging from a Hamas activist&#8217;s house and approaching our forces. The combat team fired and hit the terrorists.</p>\n<p>Additionally, in the Khan Yunis area, IDF soldiers located several AK-47 assault rifles, RPG launchers, and destroyed a weapons cache.</p>\n<p>In the Al Bureij area, soldiers from the Collection Battalion 414 identified a terrorist who was shooting at our forces from a window in one of the buildings. The soldiers sent a drone towards the window from which the terrorist fired and eliminated him.</p>\n<p>Attached is footage from IDF strikes in the Gaza Strip: https://bit.ly/3TVQwIC</p>\n<p>Attached is documentation of IDF forces activity in the Strip: https://bit.ly/3TYkdZJ</p>\n<p>Attached are photos from the forces&#8217; activities: https://IDFANC.activetrail.biz/ANC120120245120</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF has eliminated dozens of terrorists in Khan Yunis and Al Maghazi, among them commanders of <a  href=\"/hamas\">Hamas</a>&#8217;s naval forces; our drone in Al Bureij eliminated a terrorist who was shooting from a window towards our forces. In Al Maghazi, divisional combat teams operating under the command of Division 36, have eliminated about 20 terrorists over the last day and located numerous combat materials. Among the slain terrorists was a commander of the naval forces of <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a>, the <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a>. In Khan Yunis, our Air Force fighter jet targeted and struck a military building of Hamas, under the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4217",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4217
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4217",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4217"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4217/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4217"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4217"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4217"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

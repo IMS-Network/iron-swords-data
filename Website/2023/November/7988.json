@@ -1,0 +1,122 @@
+{
+    "id": 4799,
+    "date": "2023-11-26T01:12:05",
+    "date_gmt": "2023-11-25T23:12:05",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/7988/"
+    },
+    "modified": "2023-11-26T01:12:05",
+    "modified_gmt": "2023-11-25T23:12:05",
+    "slug": "7988",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/7988/",
+    "title": {
+        "rendered": "&#8220;Kidnapped Hostages, Including 13 Israelis and 4 Thais, Return Home: A Journey from Liberation to Reunion&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The returnees are on their way to the hospitals where they will meet with their families</p>\n<p>At this hour, 17 kidnapped individuals who are returning to the country, including 13 Israeli citizens and four Thai citizens, are leaving the meeting point in Israeli territory. The returned hostages underwent initial medical evaluation, one civilian has already been evacuated about an hour ago to a hospital, and the others are now on their way to the hospitals where they will reunite with their family members. </p>\n<p>The IDF, security bodies, and the health system are prepared for the continued absorption of additional kidnapped women and men according to the agreed-upon outline, alongside the IDF&#8217;s readiness to continue operating in the Gaza Strip.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The returnees are on their way to the hospitals where they will meet with their families At this hour, 17 kidnapped individuals who are returning to the country, including 13 Israeli citizens and four Thai citizens, are leaving the meeting point in Israeli territory. The returned <a  href=\"https://iron-swords.co.il/t/hostages/\">hostages</a> underwent initial medical evaluation, one civilian has already been evacuated about an hour ago to a hospital, and the others are now on their way to the hospitals where they will reunite with their family members. The IDF, security bodies, and the health system are prepared for the continued absorption of</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4799",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4799
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4799",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4799"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4799/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4799"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4799"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4799"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

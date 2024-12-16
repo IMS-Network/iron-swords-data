@@ -1,0 +1,124 @@
+{
+    "id": 8285,
+    "date": "2024-07-02T17:10:52",
+    "date_gmt": "2024-07-02T14:10:52",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10324-en/"
+    },
+    "modified": "2024-07-02T17:10:52",
+    "modified_gmt": "2024-07-02T14:10:52",
+    "slug": "10324-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10324-en/",
+    "title": {
+        "rendered": "&#8220;IDF Operates in Jenin: Targeting Armed Terrorists After Shooting Attack&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces from the Samaria Brigade are conducting searches in the Jenin area following the shooting attack; hits were identified on several armed terrorists.</p>\n<p>Following the initial report of gunfire in Har Bracha, a shooting attack was carried out from deep inside Jenin towards Mitzpe Yosef, which is under the Samaria Brigade\u2019s jurisdiction. As a result of the gunfire, an Israeli civilian was injured, treated on-site, and evacuated for medical care. Numerous forces are currently searching for suspects.</p>\n<p>During the forces&#8217; search in the Jenin area, they fired at several armed terrorists during exchanges of gunfire, and hits were identified.</p>\n<p>Attached is documentation of the forces&#8217; activity in the Jenin area: https://bit.ly/4cOlc4Z</p>\n<p>Attached is a soundbite from the sniper team commander in the 90th Battalion, Lieutenant N&#8217;: https://bit.ly/3xODLXG</p>\n<p>Attached are images from the activity of the searching forces: https://IDFANC.activetrail.biz/ANC0207202423545</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces from the Samaria Brigade are conducting searches in the Jenin area following the shooting attack; hits were identified on several armed terrorists. Following the initial report of gunfire in Har Bracha, a shooting attack was carried out from deep inside Jenin towards Mitzpe Yosef, which is under the Samaria Brigade\u2019s jurisdiction. As a result of the gunfire, an Israeli civilian was injured, treated on-site, and evacuated for medical care. Numerous forces are currently searching for suspects. During the forces&#8217; search in the Jenin area, they fired at several armed terrorists during exchanges of gunfire, and hits</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8285",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8285,
+        "he": 8286,
+        "ru": 8287
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8285",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8285"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8285/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8285"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8285"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8285"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

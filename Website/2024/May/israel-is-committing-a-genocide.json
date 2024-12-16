@@ -1,0 +1,138 @@
+{
+    "id": 2579,
+    "date": "2024-05-23T23:34:11",
+    "date_gmt": "2024-05-23T20:34:11",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=2579"
+    },
+    "modified": "2024-05-23T23:34:39",
+    "modified_gmt": "2024-05-23T20:34:39",
+    "slug": "israel-is-committing-a-genocide",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/israel-is-committing-a-genocide/",
+    "title": {
+        "rendered": "Israel is committing a genocide"
+    },
+    "content": {
+        "rendered": "\n<p>The genocide claim is a baseless, cynical and malicious lie. Palestinian population increased by some 500% since the founding of Israel in 1948. <br>The contention that Israel is committing genocide is manufactured to vilify and delegitimize Israel by those who seek to see it destroyed.<br>The goal of the current Israeli operation is the destruction of the actually genocidal Hamas, not of Palestinians. If Israel had wanted to commit genocide, it wouldn\u2019t need to risk Israeli lives by sending in ground troops. <br>Palestinian casualties represent the ugly nature of warfare, specifically under Hamas\u2019 blatant disregard for any human life &#8211; not an intention to eliminate the Palestinians. Misusing the term \u2018genocide\u2019 for malicious political ends undermines the cause of human rights globally, and is particularly egregious when leveled at Israel since the term was originally coined as a result of the very real Nazi genocide of the Jews.</p>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<iframe loading=\"lazy\" title=\"&#039;The notion that Israel is committing mass genocide is absurd,&#039; N.Y. Rep. Torres\" width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/Ielj0y8uM6w?start=237&#038;feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n</div></figure>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>The genocide claim is a baseless, cynical and malicious lie. </p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 2581,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 53,
+        "footnotes": ""
+    },
+    "categories": [
+        53
+    ],
+    "tags": [
+        54
+    ],
+    "class_list": [
+        "post-2579",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-facts",
+        "tag-education"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2579
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2579",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2579"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 3,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2579/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 2583,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2579/revisions/2583"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/2581"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2579"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2579"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2579"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

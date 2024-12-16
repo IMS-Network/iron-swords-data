@@ -1,0 +1,122 @@
+{
+    "id": 4202,
+    "date": "2024-01-14T04:29:13",
+    "date_gmt": "2024-01-14T02:29:13",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8595/"
+    },
+    "modified": "2024-01-14T04:29:13",
+    "modified_gmt": "2024-01-14T02:29:13",
+    "slug": "8595",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8595/",
+    "title": {
+        "rendered": "&#8220;IDF Neutralizes Four Terrorists in Mount Dov: A Night of Intense Combat Detailed&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>An IDF force identified and eliminated four terrorists in the Mount Dov area.</p>\n<p>Earlier tonight, an IDF force conducting a patrol in the Mount Dov area encountered a group of terrorists who had crossed from Lebanese territory into Israeli territory. The force engaged the terrorists and during the exchange of fire, four terrorists were eliminated. During the battle, the IDF conducted artillery and mortar fire at the area.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: An IDF force identified and eliminated four terrorists in the Mount Dov area. Earlier tonight, an IDF force conducting a patrol in the Mount Dov area encountered a group of terrorists who had crossed from Lebanese territory into Israeli territory. The force engaged the terrorists and during the exchange of fire, four terrorists were eliminated. During the battle, the IDF conducted artillery and mortar fire at the area.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4202",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4202
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4202",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4202"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4202/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4202"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4202"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4202"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

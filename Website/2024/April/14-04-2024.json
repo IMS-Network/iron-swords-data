@@ -1,0 +1,140 @@
+{
+    "id": 16093,
+    "date": "2024-04-14T00:00:00",
+    "date_gmt": "2024-04-13T21:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/14-04-2024/"
+    },
+    "modified": "2024-08-27T22:41:18",
+    "modified_gmt": "2024-08-27T19:41:18",
+    "slug": "14-04-2024",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/aid/14-04-2024/",
+    "title": {
+        "rendered": "Israel Aid and Humanitarian Efforts in Gaza: Apr. 14, 2024"
+    },
+    "content": {
+        "rendered": "<h2>Closure of Crossings for Humanitarian Aid</h2>\n<p>In line with the agreement reached with the US, Egypt, and the UN, <strong>Kerem Shalom</strong> and <strong>Nitzana</strong> crossings will be closed on Saturdays. This is to facilitate the UN&#8217;s distribution of goods on the Gazan side of Kerem Shalom and the reception on the Egyptian side of Rafah.</p>\n<h2>Aid Distribution in Gaza</h2>\n<p>A total of <strong>236 aid trucks</strong> were distributed within Gaza, with <strong>189</strong> of these containing food. Additionally, <strong>104 aid packages</strong> containing hundreds of thousands of meals were airdropped over Gaza, in conjunction with Egypt and the UAE on <em>April 13</em>.</p>\n<h2>Evacuations and Fuel Supply</h2>\n<p>So far, <strong>3,204 injured and sick individuals</strong> along with <strong>725 escorts</strong> have been evacuated from the strip. On <em>April 13</em>, <strong>4 tankers of fuel</strong> and <strong>4 tankers of cooking gas</strong> designated for the operation of essential infrastructure in Gaza, entered the Gaza Strip.</p>\n<h2>Operations in Gaza</h2>\n<p>On <em>April 13</em>, <strong>2 foreign nationals</strong> were scheduled to exit the Gaza Strip. Currently, <strong>23 bakeries</strong> are operational in Gaza, including one in northern Gaza, providing over <strong>2 million breads</strong>, rolls, and pita breads a day for the local population.</p>\n<h2>Infrastructure Repairs</h2>\n<p>The repair of vital infrastructure is underway. Today, <em>April 14</em>, between <strong>10:00 and 14:00</strong>, the <strong>IDF</strong> will pause operations in the al-Amal neighborhood of Khan Younis to enable the movement of humanitarian aid.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Kerem Shalom and Nitzana crossings closed Saturdays for aid.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 15696,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        1338
+    ],
+    "tags": [
+        1352
+    ],
+    "class_list": [
+        "post-16093",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-aid",
+        "tag-daily-humanitarian-aid-update"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 16093,
+        "he": 16094,
+        "ru": 16095
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16093",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=16093"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16093/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 16096,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16093/revisions/16096"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/15696"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=16093"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=16093"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=16093"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

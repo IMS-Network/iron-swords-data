@@ -1,0 +1,122 @@
+{
+    "id": 3587,
+    "date": "2024-03-24T01:48:58",
+    "date_gmt": "2024-03-23T23:48:58",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9222/"
+    },
+    "modified": "2024-03-24T01:48:58",
+    "modified_gmt": "2024-03-23T23:48:58",
+    "slug": "9222",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9222/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah&#8217;s Weapon Workshop in Baalbek: Inside the Swift Response to Rocket Attacks on Israel&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked a workshop which was a site for Hezbollah&#8217;s weapons in Baalbek area. With swift action, the launchers from which rockets were fired into Israeli territory were targeted. </p>\n<p>Earlier tonight, fighter jets attacked a workshop in Baalbek where Hezbollah kept their weapons.</p>\n<p>In addition, about fifty launches were identified from Lebanon towards Israeli territory a short while ago. Several launches were intercepted, while the rest fell in open areas. In a swift response, aircraft attacked the launchers which were identified as the source of some of the launches towards Israel. </p>\n<p>The attached is footage from the attack in Baalbek: https://bit.ly/43yki95</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked a workshop which was a site for <a  href=\"/hezbollah\">Hezbollah</a>&#8217;s weapons in Baalbek area. With swift action, the launchers from which rockets were fired into Israeli territory were targeted. Earlier tonight, fighter jets attacked a workshop in Baalbek where <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> kept their weapons. In addition, about fifty launches were identified from Lebanon towards Israeli territory a short while ago. Several launches were intercepted, while the rest fell in open areas. In a swift response, aircraft attacked the launchers which were identified as the source of some of the launches towards <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>. The attached is footage from the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3587",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3587
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3587",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3587"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3587/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3587"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3587"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3587"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

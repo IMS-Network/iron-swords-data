@@ -1,0 +1,124 @@
+{
+    "id": 8573,
+    "date": "2024-06-24T11:41:55",
+    "date_gmt": "2024-06-24T08:41:55",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10227-en/"
+    },
+    "modified": "2024-06-24T11:41:55",
+    "modified_gmt": "2024-06-24T08:41:55",
+    "slug": "10227-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10227-en/",
+    "title": {
+        "rendered": "&#8220;IDF Operations: Key Arrests and Weapons Confiscated in Na&#8217;ama and Silwad&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces raided the village of Na&#8217;ama and Silwad last night in two brigade-level operations; the soldiers confiscated weapons, arrested wanted individuals, and interrogated numerous suspects.</p>\n<p>In the brigade operation in the village of Silwad in Binyamin, the soldiers arrested three wanted individuals, interrogated many suspects, and confiscated materials for manufacturing explosives.<br />\nIn the brigade operation in the village of Na&#8217;ama in Ephraim, the soldiers arrested five wanted individuals and interrogated numerous suspects.</p>\n<p>After an investigation was conducted, it was found that the explosion that occurred last night in the Tulkarm area of the Menashe Brigade was caused by the detonation of an explosive device from the Palestinian side of the security fence. The device was planted and detonated remotely by terrorists hundreds of meters from the wall, aimed at drawing forces to the explosion area; there were no casualties and no damage was reported.</p>\n<p>During the operation of the forces in Nablus in Samaria, the soldiers arrested a wanted individual. In Hebron, from the Judea Brigade, the soldiers arrested a wanted individual suspected of incitement to terrorism and confiscated weapons. In Hosan and Beit Fajjar within the Etzion Brigade, and in Ba&#8217;ala in Menashe, four additional wanted individuals were arrested.</p>\n<p>Since the beginning of the war, approximately 4,150 wanted individuals have been arrested throughout the Judea and Samaria Division and the Jordan Valley and the Valleys Brigade, about 1,750 of whom are affiliated with the terrorist organization Hamas.</p>\n<p>Attached is documentation from the forces&#8217; operation in the brigade operation in Silwad: https://bit.ly/4bfMC2q</p>\n<p>Attached are photos from the forces&#8217; operation in the brigade operation in Silwad: https://IDFANC.activetrail.biz/ANC2406202479469456</p>\n<p>Attached are photos of the firearms that were confiscated in the Binyamin area: https://IDFANC.activetrail.biz/ANC24062024649565386</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces raided the village of Na&#8217;ama and Silwad last night in two brigade-level operations; the soldiers confiscated weapons, arrested wanted individuals, and interrogated numerous suspects. In the brigade operation in the village of Silwad in Binyamin, the soldiers arrested three wanted individuals, interrogated many suspects, and confiscated materials for manufacturing explosives. In the brigade operation in the village of Na&#8217;ama in Ephraim, the soldiers arrested five wanted individuals and interrogated numerous suspects. After an investigation was conducted, it was found that the explosion that occurred last night in the Tulkarm area of the Menashe Brigade was caused</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8573",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8573,
+        "he": 8574,
+        "ru": 8575
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8573",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8573"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8573/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8573"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8573"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8573"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

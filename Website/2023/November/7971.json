@@ -1,0 +1,122 @@
+{
+    "id": 4816,
+    "date": "2023-11-23T23:05:12",
+    "date_gmt": "2023-11-23T21:05:12",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/7971/"
+    },
+    "modified": "2023-11-23T23:05:12",
+    "modified_gmt": "2023-11-23T21:05:12",
+    "slug": "7971",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/7971/",
+    "title": {
+        "rendered": "&#8220;IDF and Border Police Intercept Major Weapon Smuggling in Jordan Valley: A Detailed Operation Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces and fighters from the Mista&#8217;arvim Unit of the Judea and Samaria Border Police thwarted weapon smuggling in the Jordan Valley and the Valleys area.</p>\n<p>Earlier today, observers from Unit 636 spotted a suspect in the Jordan Valley and the Valleys area. Fighters from the Mista&#8217;arvim Unit of the Judea and Samaria Border Police, who were prepared in the area, caught the suspect who had 25 guns and magazines in his possession.</p>\n<p>The suspect and the weapons that were caught were transferred for further treatment to security forces.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces and fighters from the Mista&#8217;arvim Unit of the Judea and Samaria Border Police thwarted weapon smuggling in the Jordan Valley and the Valleys area. Earlier today, observers from Unit 636 spotted a suspect in the Jordan Valley and the Valleys area. Fighters from the Mista&#8217;arvim Unit of the Judea and Samaria Border Police, who were prepared in the area, caught the suspect who had 25 guns and magazines in his possession. The suspect and the weapons that were caught were transferred for further treatment to security forces.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4816",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4816
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4816",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4816"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4816/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4816"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4816"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4816"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

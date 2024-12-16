@@ -1,0 +1,122 @@
+{
+    "id": 3700,
+    "date": "2024-03-12T11:46:02",
+    "date_gmt": "2024-03-12T09:46:02",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9106/"
+    },
+    "modified": "2024-03-12T11:46:02",
+    "modified_gmt": "2024-03-12T09:46:02",
+    "slug": "9106",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9106/",
+    "title": {
+        "rendered": "&#8220;IDF and Security Forces Arrest Several Suspects, Seize Weapons in Major West Bank Raids&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF soldiers, Shin Bet, and Border Police operated in daylight in Jenin and arrested a wanted man who carried out shooting and explosive attacks; four weapons production workshops were confiscated in a raid in Urif in the Shomron (West Bank), and ten wanted individuals were arrested tonight throughout Judea and Shomron (West Bank).</p>\n<p>Overnight, the forces arrested ten wanted individuals in various locations in Judea and Shomron (West Bank).</p>\n<p>During the daytime operation in Jenin, in the Menashe Brigade, IDF soldiers, Shin Bet, and Border Police arrested three wanted individuals and discovered an M-16 type weapon. Among the wanted individuals arrested, the soldiers apprehended Mahdi Fayad, a Palestinian Liberation Organization activist from Jenin. Fayad was involved in terrorist activities and, through his activities, carried out shooting and explosive attacks against security forces.</p>\n<p>The soldiers operated in an operation that took place in Urif village in the Samaria Brigade and confiscated four weapons production workshops.</p>\n<p>The arrested wanted individuals and confiscated fighting means were handed over for further treatment by security forces, our forces were not injured.</p>\n<p>So far, from the beginning of the conflict, approximately 3,500 wanted individuals have been arrested throughout the Judea Brigade and Shomron, the Jordan Valley Brigade and the Valleys, over 1,500 of whom are affiliated with the Hamas terrorist organization.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF soldiers, Shin Bet, and Border Police operated in daylight in Jenin and arrested a wanted man who carried out shooting and explosive attacks; four weapons production workshops were confiscated in a raid in Urif in the Shomron (West Bank), and ten wanted individuals were arrested tonight throughout Judea and Shomron (West Bank). Overnight, the forces arrested ten wanted individuals in various locations in Judea and Shomron (West Bank). During the daytime operation in Jenin, in the Menashe Brigade, IDF soldiers, Shin Bet, and Border Police arrested three wanted individuals and discovered an M-16 type weapon. Among the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3700",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3700
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3700",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3700"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3700/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3700"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3700"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3700"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

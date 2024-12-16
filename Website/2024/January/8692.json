@@ -1,0 +1,122 @@
+{
+    "id": 4107,
+    "date": "2024-01-23T20:41:13",
+    "date_gmt": "2024-01-23T18:41:13",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8692/"
+    },
+    "modified": "2024-01-23T20:41:13",
+    "modified_gmt": "2024-01-23T18:41:13",
+    "slug": "8692",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8692/",
+    "title": {
+        "rendered": "&#8220;IDF Plans to Demolish House of Terrorist Behind Huwara Shooting Attack: An Inside Look&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF has announced its intention to demolish the house of the terrorist who was involved in the execution of the shooting attack in Huwara.</p>\n<p>This evening (Tuesday), a notice of intent to confiscate and demolish the house of the terrorist Abdallah Masad, in Kfar Dan in the Menashe brigade area, who was involved in executing the shooting attack that occurred on August 19, 2023, in Huwara, in which Shai Seilas Nigrakar and his son Aviad Nir were murdered. The attack was carried out on behalf of the Hamas terrorist organization.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF has announced its intention to demolish the house of the terrorist who was involved in the execution of the shooting attack in Huwara. This evening (Tuesday), a notice of intent to confiscate and demolish the house of the terrorist Abdallah Masad, in Kfar Dan in the Menashe brigade area, who was involved in executing the shooting attack that occurred on August 19, 2023, in Huwara, in which Shai Seilas Nigrakar and his son Aviad Nir were murdered. The attack was carried out on behalf of the <a  href=\"/hamas\">Hamas</a> terrorist organization.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4107",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4107
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4107",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4107"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4107/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4107"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4107"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4107"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

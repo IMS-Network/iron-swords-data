@@ -1,0 +1,122 @@
+{
+    "id": 3871,
+    "date": "2024-02-21T09:24:20",
+    "date_gmt": "2024-02-21T07:24:20",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8932/"
+    },
+    "modified": "2024-02-21T09:24:20",
+    "modified_gmt": "2024-02-21T07:24:20",
+    "slug": "8932",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8932/",
+    "title": {
+        "rendered": "&#8220;Overnight IDF Operation: 40 Arrests, Terror Suppression in Jenin, and Confiscation of Weapons &#038; Funds Across Judea, Samaria, Jordan Valley"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Overnight, the IDF, Israel Security Agency (Shin Bet), and Border Police forces arrested 40 wanted individuals throughout Judea and Samaria and in the Jordan Valley and Valleys brigade. In an operation to suppress terror in Jenin located in the Menashe brigade area, suspects were arrested and terrorists were eliminated. A video from an air attack on a group of armed terrorists is attached.</p>\n<p>The IDF, Shin Bet, and Border Police forces operated overnight to arrest 40 wanted individuals throughout Judea and Samaria and in the Jordan Valley.</p>\n<p>In an operation to suppress terror in Jenin as part of the Menashe brigade, troops from Duvdevan, Carob Reconnaissance Unit, and Border Police arrested 14 suspects directed by Shin Bet, neutralized three terrorists, and injured more. During the operation, the soldiers found weapons and exposed explosives that were hidden under tires to harm our forces.</p>\n<p>Moreover, during the operation, an IDF aircraft attacked terrorists who fired at the forces and hits were identified.</p>\n<p>In Kabbalan in Samaria, soldiers arrested three wanted individuals, in Al Fawar in the Jordan Valley another three wanted individuals were arrested. In Qibia in Ephraim, four wanted individuals were arrested and in Rantis, also in Ephraim, terror funds were confiscated.</p>\n<p>In Abu Dis in Gush Etzion, a wanted individual was arrested and weapons were confiscated. In Samua&#8217; in Judea, the soldiers confiscated over NIS 10,000 of terror funds. In Hebron in Judea, five wanted individuals who are activists in the Hamas students&#8217; cell were arrested. In Ein Mabua&#8217; in Binyamin, an individual affiliated with the Hamas student cell was arrested.</p>\n<p>So far since the start of the war, about 3,200 wanted individuals have been arrested throughout the Judea and Samaria region and the Jordan Valley brigade, over 1,350 of them are affiliated with the Hamas terror organization.</p>\n<p>Attached is a video from the attack on the terrorists&#8217; cell in Jenin: https://bit.ly/3T3lU7k</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Overnight, the IDF, <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> Security Agency (Shin Bet), and Border Police forces arrested 40 wanted individuals throughout Judea and Samaria and in the Jordan Valley and Valleys brigade. In an operation to suppress terror in Jenin located in the Menashe brigade area, suspects were arrested and terrorists were eliminated. A video from an air attack on a group of armed terrorists is attached. The IDF, Shin Bet, and Border Police forces operated overnight to arrest 40 wanted individuals throughout Judea and Samaria and in the Jordan Valley. In an operation to suppress terror in Jenin as part of</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3871",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3871
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3871",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3871"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3871/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3871"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3871"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3871"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

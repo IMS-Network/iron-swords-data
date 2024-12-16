@@ -1,0 +1,124 @@
+{
+    "id": 8081,
+    "date": "2024-07-08T08:55:20",
+    "date_gmt": "2024-07-08T05:55:20",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10395-en/"
+    },
+    "modified": "2024-07-08T08:55:20",
+    "modified_gmt": "2024-07-08T05:55:20",
+    "slug": "10395-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10395-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes: Over 30 Terrorists Eliminated in Rafah and Shuja&#8217;iyya Within 24 Hours&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces eliminated more than 30 terrorists in the Rafah area and dozens of terrorists in Shuja&#8217;iyya in the last 24 hours; prepared launch sites for attacking Israel were targeted.</p>\n<p>Combat teams of the 162nd Division and Air Force aircraft have eliminated over 30 terrorists posing a threat to our forces in the Rafah area, identified tunnel shafts, and confiscated weapons.</p>\n<p>Air Force aircraft, in coordination with Southern Command, attacked two prepared launch sites for targeting Israel in the Khan Younis area and the city of Gaza in the last 24 hours.</p>\n<p>In the Shuja&#8217;iyya area, combat teams of the 98th Division destroyed terror infrastructure and eliminated dozens of terrorists engaged in anti-tank and mortar fire against IDF forces from both the air and ground against the terror organization Hamas.</p>\n<p>Throughout the night, Air Force aircraft and fighter jets attacked numerous terror targets across the Gaza Strip, including infrastructure used by Hamas fighters for planning and executing terror operations against IDF forces currently operating in the Strip. In one of the attacks, an aircraft targeted a sniper from Hamas who participated in terrorist actions against our forces in the Gaza Strip.</p>\n<p>Attached is documentation from IDF attacks in the Gaza Strip: https://bit.ly/3RSVFPN</p>\n<p>Attached is documentation of the forces&#8217; activities in the Gaza Strip: https://bit.ly/4ePPKF7</p>\n<p>Attached are photos from the forces&#8217; activities in the Gaza Strip: https://IDFANC.activetrail.biz/ANC08072024645985463</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces eliminated more than 30 terrorists in the Rafah area and dozens of terrorists in Shuja&#8217;iyya in the last 24 hours; prepared launch sites for attacking <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> were targeted. Combat teams of the 162nd Division and Air Force aircraft have eliminated over 30 terrorists posing a threat to our forces in the Rafah area, identified tunnel shafts, and confiscated weapons. Air Force aircraft, in coordination with Southern Command, attacked two prepared launch sites for targeting Israel in the Khan Younis area and the city of <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> in the last 24 hours. In the Shuja&#8217;iyya area, combat teams</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8081",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8081,
+        "he": 8082,
+        "ru": 8083
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8081",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8081"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8081/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8081"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8081"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8081"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

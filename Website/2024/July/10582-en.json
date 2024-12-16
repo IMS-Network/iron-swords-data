@@ -1,0 +1,124 @@
+{
+    "id": 7532,
+    "date": "2024-07-22T12:45:58",
+    "date_gmt": "2024-07-22T09:45:58",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10582-en/"
+    },
+    "modified": "2024-07-22T12:45:58",
+    "modified_gmt": "2024-07-22T09:45:58",
+    "slug": "10582-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10582-en/",
+    "title": {
+        "rendered": "&#8220;IDF Neutralizes Terrorist at Nativ Ha&#8217;asarah Checkpoint: No Casualties Reported&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>A short while ago, a terrorist arrived at the Nativ Ha&#8217;asarah checkpoint, got out of his vehicle, and threatened the soldiers of the Nativ Ha&#8217;asarah response team who were operating in the area with a knife.</p>\n<p>The soldiers responded with gunfire and neutralized the terrorist. There were no casualties among our forces.<br />\nWe emphasize that the suspect is a foreign national who arrived from within Israeli territory and not from the Gaza Strip.</p>\n<p>Attached is a picture of the knife used by the terrorist:<br />\nhttps://IDFANC.activetrail.biz/ANC22072024927974</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: A short while ago, a terrorist arrived at the Nativ Ha&#8217;asarah checkpoint, got out of his vehicle, and threatened the soldiers of the Nativ Ha&#8217;asarah response team who were operating in the area with a knife. The soldiers responded with gunfire and neutralized the terrorist. There were no casualties among our forces. We emphasize that the suspect is a foreign national who arrived from within Israeli territory and not from the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. Attached is a picture of the knife used by the terrorist: https://IDFANC.activetrail.biz/ANC22072024927974</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7532",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7532,
+        "he": 7533,
+        "ru": 7534
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7532",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7532"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7532/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7532"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7532"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7532"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

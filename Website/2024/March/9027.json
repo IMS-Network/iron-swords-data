@@ -1,0 +1,122 @@
+{
+    "id": 3776,
+    "date": "2024-03-04T09:05:17",
+    "date_gmt": "2024-03-04T07:05:17",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9027/"
+    },
+    "modified": "2024-03-04T09:05:17",
+    "modified_gmt": "2024-03-04T07:05:17",
+    "slug": "9027",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9027/",
+    "title": {
+        "rendered": "&#8220;Preparing for Ramadan: IDF and Israeli Security Agencies Strengthen Coordination for Safety and Freedom of Movement&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF Chief of Staff, the Head of the Israel Security Agency, and the Chief of Police conducted a joint situation assessment yesterday (Sunday) in preparation for Ramadan in order to strengthen coordination between the bodies and operational readiness for all scenarios, alongside the desire to allow freedom of movement for Israeli Arabs and residents of the West Bank and Gaza Strip, subject to security and safety restrictions.</p>\n<p>Attached are photos on the subject: https://idfanc.activetrail.biz/ANC0403241234</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF Chief of Staff, the Head of the <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> Security Agency, and the Chief of Police conducted a joint situation assessment yesterday (Sunday) in preparation for Ramadan in order to strengthen coordination between the bodies and operational readiness for all scenarios, alongside the desire to allow freedom of movement for Israeli Arabs and residents of the West Bank and <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip, subject to security and safety restrictions. Attached are photos on the subject: https://idfanc.activetrail.biz/ANC0403241234</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3776",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3776
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3776",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3776"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3776/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3776"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3776"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3776"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

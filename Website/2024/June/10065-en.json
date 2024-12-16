@@ -1,0 +1,124 @@
+{
+    "id": 9056,
+    "date": "2024-06-10T09:16:28",
+    "date_gmt": "2024-06-10T06:16:28",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10065-en/"
+    },
+    "modified": "2024-06-10T09:16:28",
+    "modified_gmt": "2024-06-10T06:16:28",
+    "slug": "10065-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10065-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hamas: Key Operations in Gaza&#8217;s Rafah and Central Regions&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The Air Force, under the direction of Division 98, attacked Hamas militants, some of whom belong to the Nukhba forces. The soldiers of Division 162 continue focused operations based on intelligence information in the Rafah area.</p>\n<p>In the past few hours, the Air Force, guided by Division 98 forces, attacked Hamas militants in the central Gaza Strip, some of whom belong to the Nukhba forces. Concurrently, combat aircraft of the Air Force, under the direction of the Southern Command and Division 98, have attacked underground terrorist infrastructures in the Deir al-Balah area.</p>\n<p>Additionally, the combat team of Brigade 7 and the Yahalom unit raided military structures in the central Gaza Strip and destroyed shafts and underground infrastructures identified in the area.</p>\n<p>Division 162 continues focused operations based on intelligence information in the Rafah region, eliminating militants who pose a threat to the soldiers operating in the area. Meanwhile, female fighters from Unit 414, under the combat team of Brigade 401, identified two armed individuals moving toward an underground shaft near them. Shortly after the identification, an IDF aircraft attacked and eliminated the militants.</p>\n<p>Attached is documentation of IDF attacks in the Gaza Strip: https://bit.ly/3VApVl1</p>\n<p>Attached are pictures from IDF operations in the Gaza Strip: https://IDFANC.activetrail.biz/ANC1006202427972494</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The Air Force, under the direction of Division 98, attacked <a  href=\"/hamas\">Hamas</a> militants, some of whom belong to the Nukhba forces. The soldiers of Division 162 continue focused operations based on intelligence information in the Rafah area. In the past few hours, the Air Force, guided by Division 98 forces, attacked <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> militants in the central <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip, some of whom belong to the Nukhba forces. Concurrently, combat aircraft of the Air Force, under the direction of the Southern Command and Division 98, have attacked underground terrorist infrastructures in the Deir al-Balah area. Additionally, the combat team of Brigade</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9056",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9056,
+        "he": 9057,
+        "ru": 9058
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9056",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9056"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9056/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9056"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9056"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9056"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

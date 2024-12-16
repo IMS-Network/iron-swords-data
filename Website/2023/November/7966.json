@@ -1,0 +1,122 @@
+{
+    "id": 4821,
+    "date": "2023-11-23T16:00:11",
+    "date_gmt": "2023-11-23T14:00:11",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/7966/"
+    },
+    "modified": "2023-11-23T16:00:11",
+    "modified_gmt": "2023-11-23T14:00:11",
+    "slug": "7966",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/7966/",
+    "title": {
+        "rendered": "&#8220;Unveiling Hamas&#8217; Hidden Warfare: Underground Infrastructure and Weapon Caches Under Children&#8217;s Beds&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Underground infrastructure and weapons caches below children&#8217;s beds:<br />\nIn the battle at the edges of Jabalia, the 401 brigade exposed the true face of Hamas<br />\nhttps://www.idf.il/155538</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Underground infrastructure and weapons caches below children&#8217;s beds: In the battle at the edges of Jabalia, the 401 brigade exposed the true face of <a  href=\"/hamas\">Hamas</a> https://www.idf.il/155538</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4821",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4821
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4821",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4821"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4821/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4821"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4821"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4821"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

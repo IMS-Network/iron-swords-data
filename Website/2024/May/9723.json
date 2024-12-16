@@ -1,0 +1,122 @@
+{
+    "id": 3100,
+    "date": "2024-05-13T19:28:39",
+    "date_gmt": "2024-05-13T16:28:39",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9723/"
+    },
+    "modified": "2024-05-13T19:28:39",
+    "modified_gmt": "2024-05-13T16:28:39",
+    "slug": "9723",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9723/",
+    "title": {
+        "rendered": "&#8220;Israeli Fighter Jets Thwart Hezbollah Missile Launch in Southern Lebanon: An Inside Look&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Documentation: Fighter jets attacked ready-to-launch launchers of the terror organization Hezbollah in southern Lebanon.</p>\n<p>A short while ago, fighter jets attacked two launchers of the terrorist organization Hezbollah in the area of \u200b\u200bAyta al-Shaab in southern Lebanon. As a result of the attack, launches and secondary explosions were identified from the launcher, indicating the presence of missiles in the launcher ready for launch.</p>\n<p>Earlier today, a number of launches were identified crossing from Lebanon towards several areas in the north of the country, no casualties.</p>\n<p>Attached is documentation of the attack on the launchers: https://bit.ly/3JVP9Ul</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Documentation: Fighter jets attacked ready-to-launch launchers of the <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> <a  href=\"/hezbollah\">Hezbollah</a> in southern Lebanon. A short while ago, fighter jets attacked two launchers of the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in the area of \u200b\u200bAyta al-Shaab in southern Lebanon. As a result of the attack, launches and secondary explosions were identified from the launcher, indicating the presence of missiles in the launcher ready for launch. Earlier today, a number of launches were identified crossing from Lebanon towards several areas in the north of the country, no casualties. Attached is documentation of the attack on the launchers: https://bit.ly/3JVP9Ul</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3100",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3100
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3100",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3100"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3100/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3100"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3100"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3100"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

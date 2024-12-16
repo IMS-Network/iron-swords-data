@@ -1,0 +1,122 @@
+{
+    "id": 3621,
+    "date": "2024-03-20T09:44:09",
+    "date_gmt": "2024-03-20T07:44:09",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9188/"
+    },
+    "modified": "2024-03-20T09:44:09",
+    "modified_gmt": "2024-03-20T07:44:09",
+    "slug": "9188",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9188/",
+    "title": {
+        "rendered": "&#8220;IDF and Shin Bet Execute Strategic Operations: Over 90 Terrorists Eliminated in Shifa Hospital Area&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>IDF and Shin Bet forces engaged in targeted combat at the Shifa Hospital; many dozens of terrorists have been killed so far.</p>\n<p>IDF and Shin Bet forces are operating in the area of the Shifa Hospital. The 13th Flotilla forces and the combat team of the 401 Brigade, led by the 162nd Division, have eliminated terrorists and located weapons in the past 24 hours, while avoiding harm to civilians, patients, medical staff, and medical equipment in the hospital area.</p>\n<p>So far, the fighters have eliminated around 90 terrorists, and more than 300 suspects have been investigated in the compound by investigators of the 504 unit in the Intelligence Corps and Shin Bet coordinators. Over 160 suspects have been taken for further investigation in Israel.</p>\n<p>Yesterday (Tuesday) a launch from the north of the Gaza Strip towards Sderot was detected, which fell within the Strip&#8217;s territory. An Air Force aircraft responded by striking a Hamas launch site in the launch area.</p>\n<p>The Nahal Brigade&#8217;s combat team continues to operate in the center of the Strip. In one of the attacks, ground forces identified a terrorist in the area and eliminated him with sniper fire.</p>\n<p>In Jabalia, an Air Force aircraft attacked and eliminated six terrorists, under the direction of the 215th Fire Brigade.</p>\n<p>The 98th Division continues to fight in Khan Younis. Soldiers from the 7th Division&#8217;s combat team eliminated two terrorists and attacked military buildings in Al-Qarara in Khan Younis. An Air Force aircraft attacked a terrorist who was loading weapons.</p>\n<p>Attached is a documentation of the IDF attacks in the Gaza strip: https://bit.ly/49WXCC7</p>\n<p>Attached are photos from the activity of the forces in the Gaza strip: https://IDFANC.activetrail.biz/ANC20032024293764</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: IDF and Shin Bet forces engaged in targeted combat at the Shifa Hospital; many dozens of terrorists have been killed so far. IDF and Shin Bet forces are operating in the area of the Shifa Hospital. The 13th Flotilla forces and the combat team of the 401 Brigade, led by the 162nd Division, have eliminated terrorists and located weapons in the past 24 hours, while avoiding harm to civilians, patients, medical staff, and medical equipment in the hospital area. So far, the fighters have eliminated around 90 terrorists, and more than 300 suspects have been investigated in the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3621",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3621
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3621",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3621"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3621/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3621"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3621"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3621"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 4422,
+    "date": "2023-12-22T10:58:10",
+    "date_gmt": "2023-12-22T08:58:10",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8371/"
+    },
+    "modified": "2023-12-22T10:58:10",
+    "modified_gmt": "2023-12-22T08:58:10",
+    "slug": "8371",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8371/",
+    "title": {
+        "rendered": "&#8220;IDF Targets Hezbollah&#8217;s Terror Infrastructure: Inside the Recent Airstrikes on Lebanese Territory&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Military sites alongside Hezbollah&#8217;s terror infrastructure; fighter jets attacked in Lebanese territory.</p>\n<p>Fighter jets of the Air Force attacked a series of targets of the Hezbollah terror organization in Lebanese territory a short time ago. Among the targets attacked were military sites where the organization&#8217;s terrorists operated alongside terror infrastructure.</p>\n<p>Also, in the last few hours, a number of launches from Lebanese territory towards the north of the country have been identified. IDF forces attacked the shooting sources with artillery.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Military sites alongside <a  href=\"/hezbollah\">Hezbollah</a>&#8217;s terror infrastructure; fighter jets attacked in Lebanese territory. Fighter jets of the Air Force attacked a series of targets of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> in Lebanese territory a short time ago. Among the targets attacked were military sites where the organization&#8217;s terrorists operated alongside terror infrastructure. Also, in the last few hours, a number of launches from Lebanese territory towards the north of the country have been identified. IDF forces attacked the shooting sources with artillery.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4422",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4422
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4422",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4422"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4422/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4422"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4422"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4422"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

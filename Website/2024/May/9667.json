@@ -1,0 +1,122 @@
+{
+    "id": 3156,
+    "date": "2024-05-08T15:45:40",
+    "date_gmt": "2024-05-08T12:45:40",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9667/"
+    },
+    "modified": "2024-05-08T15:45:40",
+    "modified_gmt": "2024-05-08T12:45:40",
+    "slug": "9667",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9667/",
+    "title": {
+        "rendered": "&#8220;First Refreshment for HGM&#8217;R Fighters: 7 Months of Home Defense in Judea and Samaria Division&#8221;"
+    },
+    "content": {
+        "rendered": "<p>After 7 months of defending the home:<br />\nThe HGM&#8221;R fighters from the Judea and Samaria Division are going out for their first refreshment</p>\n<p>https://www.idf.il/196400</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>After 7 months of defending the home: The HGM&#8221;R fighters from the <a  href=\"https://iron-swords.co.il/t/judea-and-samaria-division/\">Judea and Samaria Division</a> are going out for their first refreshment https://www.idf.il/196400</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3156",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3156
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3156",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3156"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3156/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3156"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3156"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3156"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

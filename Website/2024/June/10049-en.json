@@ -1,0 +1,124 @@
+{
+    "id": 9104,
+    "date": "2024-06-09T10:04:12",
+    "date_gmt": "2024-06-09T07:04:12",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10049-en/"
+    },
+    "modified": "2024-06-09T10:04:12",
+    "modified_gmt": "2024-06-09T07:04:12",
+    "slug": "10049-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10049-en/",
+    "title": {
+        "rendered": "&#8220;IDF Launches Airstrikes on Hezbollah Targets in Southern Lebanon: Latest Developments&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked Hezbollah targets in southern Lebanon.</p>\n<p>Fighter jets attacked targets of the Hezbollah terrorist organization in southern Lebanon last night (Saturday). Among the targets attacked were a terrorist infrastructure in the Aitaroun area and a military structure in the Rba&#8217;i a-Talatin area.</p>\n<p>Additionally, fighter jets attacked this morning a launcher that was used by the Hezbollah terrorist organization in the village of Hula in southern Lebanon.</p>\n<p>Earlier today, several launches were identified crossing from Lebanese territory and landing in open areas in the Misgav region; there were no casualties.</p>\n<p>Attached is documentation from the attacks: https://bit.ly/3KAsEo7</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked <a  href=\"/hezbollah\">Hezbollah</a> targets in southern Lebanon. Fighter jets attacked targets of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization in southern Lebanon last night (Saturday). Among the targets attacked were a terrorist infrastructure in the Aitaroun area and a military structure in the Rba&#8217;i a-Talatin area. Additionally, fighter jets attacked this morning a launcher that was used by the Hezbollah terrorist organization in the village of Hula in southern Lebanon. Earlier today, several launches were identified crossing from Lebanese territory and landing in open areas in the Misgav region; there were no casualties. Attached is documentation from the attacks: https://bit.ly/3KAsEo7</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9104",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9104,
+        "he": 9105,
+        "ru": 9106
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9104",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9104"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9104/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9104"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9104"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9104"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

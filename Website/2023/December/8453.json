@@ -1,0 +1,122 @@
+{
+    "id": 4341,
+    "date": "2023-12-29T16:06:55",
+    "date_gmt": "2023-12-29T14:06:55",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8453/"
+    },
+    "modified": "2023-12-29T16:06:55",
+    "modified_gmt": "2023-12-29T14:06:55",
+    "slug": "8453",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8453/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Back: Large-Scale Attack on Hezbollah Terror Targets in Lebanon After ATGM Squad Fire&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>An attack targeted an ATGM squad who launched fire towards Israel; the IDF carried out a large-scale strike in Lebanon.</p>\n<p>Combat aircraft of the Air Force recently attacked terror targets of the Hezbollah terrorist organization, in the Wadi Hamoul region. Among the targets attacked were launch sites, a military complex, and additional terror infrastructures. </p>\n<p>In addition, IDF forces attacked an ATGM squad of the Hezbollah terrorist organization in the Aytharon region, who had earlier today launched fire in the Yaron region towards Baram region.</p>\n<p>Following alerts on the intrusion of an unmanned aircraft in the north of the country, the event has ended, with no security threat. Over the last hour, several launches from Lebanese territory towards Israel have been identified, three of which crossed into Israeli territory. The IDF attacked the sources of fire with artillery.</p>\n<p>An attached documentation of the attacks: https://bit.ly/48f2zVI</p>\n<p>An attached sync by Colonel &#8216;H&#8217;, head of a department in the Northern Command&#8217;s Fire Center: https://bit.ly/47jOxRo</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: An attack targeted an ATGM squad who launched fire towards <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>; the IDF carried out a large-scale strike in Lebanon. Combat aircraft of the Air Force recently attacked terror targets of the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization, in the Wadi Hamoul region. Among the targets attacked were launch sites, a military complex, and additional terror infrastructures. In addition, IDF forces attacked an ATGM squad of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization in the Aytharon region, who had earlier today launched fire in the Yaron region towards Baram region. Following alerts on the intrusion of an unmanned aircraft in the north of the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4341",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4341
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4341",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4341"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4341/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4341"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4341"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4341"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

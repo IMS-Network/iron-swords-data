@@ -1,0 +1,122 @@
+{
+    "id": 4783,
+    "date": "2023-11-27T12:12:01",
+    "date_gmt": "2023-11-27T10:12:01",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8006/"
+    },
+    "modified": "2023-11-27T12:12:01",
+    "modified_gmt": "2023-11-27T10:12:01",
+    "slug": "8006",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8006/",
+    "title": {
+        "rendered": "&#8220;Revolutionizing Military Cuisine: Innovative Meal Options for Soldiers in the Gaza Strip&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Pampering with more than just MREs:<br />\nNot just about the tuna &#8211; new dishes for the soldiers in the Gaza Strip<br />\nhttps://www.idf.il/156603</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Pampering with more than just MREs: Not just about the tuna &#8211; new dishes for the soldiers in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip https://www.idf.il/156603</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4783",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4783
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4783",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4783"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4783/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4783"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4783"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4783"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

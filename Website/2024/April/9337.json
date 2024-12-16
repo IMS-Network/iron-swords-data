@@ -1,0 +1,122 @@
+{
+    "id": 3476,
+    "date": "2024-04-04T13:33:30",
+    "date_gmt": "2024-04-04T10:33:30",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9337/"
+    },
+    "modified": "2024-04-04T13:33:30",
+    "modified_gmt": "2024-04-04T10:33:30",
+    "slug": "9337",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9337/",
+    "title": {
+        "rendered": "&#8220;New Head of IDF Research Division Appointed Amid Brig. Gen. Amit Saar&#8217;s Health Concerns: Major Shifts in Leadership Roles&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesman:</p>\n<p>Following the immediate completion of his role as Head of the Research Division, Brig. Gen. Amit Saar, who was recently diagnosed with a tumor, a succession discussion for the role of Head of the Research Division took place today (Thursday). The Chief of Staff, with the approval of the Minister of Defense, appointed Deputy General A to the role of Head of the Research Division. The officer will be promoted to the rank of Major General. The officer will enter his role within a few months, and at this stage, his place will be filled by Maj. Gen. Itai Veron, who responded to the task and agreed to serve in this complex period.</p>\n<p>The Chief of Staff, General Aviv Kochavi, acknowledges the many years of service of Brig. Gen. Amit Saar in the IDF, as well as his lifelong commitment to the security of the citizens of Israel, and wishes him a speedy recovery.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>IDF spokesman: Following the immediate completion of his role as Head of the Research Division, Brig. Gen. Amit Saar, who was recently diagnosed with a tumor, a succession discussion for the role of Head of the Research Division took place today (Thursday). The Chief of Staff, with the approval of the Minister of Defense, appointed Deputy General A to the role of Head of the Research Division. The officer will be promoted to the rank of Major General. The officer will enter his role within a few months, and at this stage, his place will be filled by Maj. Gen.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3476",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3476
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3476",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3476"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3476/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3476"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3476"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3476"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

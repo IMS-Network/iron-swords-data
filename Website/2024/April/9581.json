@@ -1,0 +1,122 @@
+{
+    "id": 3240,
+    "date": "2024-04-28T14:13:29",
+    "date_gmt": "2024-04-28T11:13:29",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9581/"
+    },
+    "modified": "2024-04-28T14:13:29",
+    "modified_gmt": "2024-04-28T11:13:29",
+    "slug": "9581",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9581/",
+    "title": {
+        "rendered": "&#8220;Chief of Staff Approves War Continuation Plans with Southern Command on Passover Eve&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>The Chief of Staff approved plans with the commanders of the divisions and brigades in the Southern Command.</p>\n<p>Today (Sunday), on the eve of the second day of Passover, the Chief of Staff, Lt. Gen. Herzl Halevi, held a discussion and approved plans for the continuation of the war with the commander of the Southern Command, Maj. Gen. Yaron Finkelman, and all the division and brigade commanders in the command.</p>\n<p>Attached is a video on the topic: https://bit.ly/4dimtSL</p>\n<p>Attached are photos on the topic: https://IDFANC.activetrail.biz/ANC2804</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: The Chief of Staff approved plans with the commanders of the divisions and brigades in the Southern Command. Today (Sunday), on the eve of the second day of Passover, the Chief of Staff, Lt. Gen. Herzl Halevi, held a discussion and approved plans for the continuation of the war with the commander of the Southern Command, Maj. Gen. Yaron Finkelman, and all the division and brigade commanders in the command. Attached is a video on the topic: https://bit.ly/4dimtSL Attached are photos on the topic: https://IDFANC.activetrail.biz/ANC2804</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3240",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3240
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3240",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3240"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3240/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3240"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3240"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3240"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

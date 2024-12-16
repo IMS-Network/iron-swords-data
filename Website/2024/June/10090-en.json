@@ -1,0 +1,124 @@
+{
+    "id": 8981,
+    "date": "2024-06-11T21:32:11",
+    "date_gmt": "2024-06-11T18:32:11",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10090-en/"
+    },
+    "modified": "2024-06-11T21:32:11",
+    "modified_gmt": "2024-06-11T18:32:11",
+    "slug": "10090-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10090-en/",
+    "title": {
+        "rendered": "&#8220;IDF Duvdevan Unit Neutralizes Terrorists in Jenin: Major Counter-Terrorism Operation Unveils Weapons Cache&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Fighters from the Duvdevan Unit eliminated four armed terrorists during an exchange of fire and struck others in the Jenin area of Menashe; the forces located weapons used by the terrorists.</p>\n<p>IDF forces, under the intelligence direction of the Shin Bet, completed a counter-terrorism operation in the village of Dan in Jenin in the Menashe Brigade in recent hours.</p>\n<p>As part of the operation, fighters from the Duvdevan Unit conducted a pressure operation on a structure used by terrorists in the area, and during the exchange of fire with the terrorists, the fighters eliminated four terrorists and hit others.<br />\nAt the same time, an IDF attack helicopter targeted the area of the structure used by the terrorists.</p>\n<p>Additionally, the forces located three M-16 rifles, a pistol, several magazines used by the terrorists, and a vehicle containing multiple explosives.</p>\n<p>The confiscated weaponry has been transferred for further handling by security forces, with no casualties among our forces.</p>\n<p>Attached is a photo of the weapons found in the area: https://IDFANC.activetrail.biz/ANC11062024745697406359</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Fighters from the <a  href=\"https://iron-swords.co.il/t/duvdevan-unit/\">Duvdevan Unit</a> eliminated four armed terrorists during an exchange of fire and struck others in the Jenin area of Menashe; the forces located weapons used by the terrorists. IDF forces, under the intelligence direction of the Shin Bet, completed a counter-terrorism operation in the village of Dan in Jenin in the Menashe Brigade in recent hours. As part of the operation, fighters from the Duvdevan Unit conducted a pressure operation on a structure used by terrorists in the area, and during the exchange of fire with the terrorists, the fighters eliminated four terrorists and hit</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8981",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8981,
+        "he": 8982,
+        "ru": 8983
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8981",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8981"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8981/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8981"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8981"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8981"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

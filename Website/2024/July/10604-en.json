@@ -1,0 +1,124 @@
+{
+    "id": 7464,
+    "date": "2024-07-23T19:52:40",
+    "date_gmt": "2024-07-23T16:52:40",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10604-en/"
+    },
+    "modified": "2024-07-23T19:52:40",
+    "modified_gmt": "2024-07-23T16:52:40",
+    "slug": "10604-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10604-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Targets in Southern Lebanon Amid Ongoing Tensions&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF continues to strike Hezbollah terrorist targets in southern Lebanon.</p>\n<p>Fighter planes have attacked in recent hours a launcher used by the terrorist organization Hezbollah in the Kfar Hamam area, a terrorist infrastructure in the Ayta Ashab area, and an observation post of the organization in the Al-Hiyam area.</p>\n<p>Following the alerts triggered in the Kiryat Shmona area in the last hour, about fifteen launches from Lebanon were identified, some of which were intercepted, while the rest fell in open areas within the Kiryat Shmona vicinity.</p>\n<p>Additionally, several launches were identified crossing from Lebanon into the Mount Dov area, with several impacts noted in the region. IDF forces have responded by attacking the sources of fire with artillery.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF continues to strike <a  href=\"/hezbollah\">Hezbollah</a> terrorist targets in southern Lebanon. Fighter planes have attacked in recent hours a launcher used by the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in the Kfar Hamam area, a terrorist infrastructure in the Ayta Ashab area, and an observation post of the organization in the Al-Hiyam area. Following the alerts triggered in the Kiryat Shmona area in the last hour, about fifteen launches from Lebanon were identified, some of which were intercepted, while the rest fell in open areas within the Kiryat Shmona vicinity. Additionally, several launches were identified crossing from Lebanon into the Mount</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7464",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7464,
+        "he": 7465,
+        "ru": 7466
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7464",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7464"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7464/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7464"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7464"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7464"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

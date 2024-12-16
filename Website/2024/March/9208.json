@@ -1,0 +1,122 @@
+{
+    "id": 3601,
+    "date": "2024-03-21T18:31:33",
+    "date_gmt": "2024-03-21T16:31:33",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9208/"
+    },
+    "modified": "2024-03-21T18:31:33",
+    "modified_gmt": "2024-03-21T16:31:33",
+    "slug": "9208",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9208/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Terror Cells and Infrastructure in Lebanon: A Comprehensive Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Combat aircraft and helicopters attacked a cell of terrorists, terror infrastructures, and military buildings of the Hezbollah terror organization in Lebanon.</p>\n<p>A short while ago, a combat helicopter attacked a cell of terrorists in the area of&#8217; Tyre Harpah.<br />\nIn addition, combat aircraft attacked three terror infrastructures in the areas of Yarun, Yarin, and Ayta al-Shaab, in addition to three military buildings in the areas of Mis al-Jebel and Kfar Hula. </p>\n<p>During the recent hours, a number of launches were identified from Lebanese territory towards various areas in the north of the country.<br />\nIDF forces attacked the sources of fire.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Combat aircraft and helicopters attacked a cell of terrorists, terror infrastructures, and military buildings of the <a  href=\"/hezbollah\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> in Lebanon. A short while ago, a combat helicopter attacked a cell of terrorists in the area of&#8217; Tyre Harpah. In addition, combat aircraft attacked three terror infrastructures in the areas of Yarun, Yarin, and Ayta al-Shaab, in addition to three military buildings in the areas of Mis al-Jebel and Kfar Hula. During the recent hours, a number of launches were identified from Lebanese territory towards various areas in the north of the country. IDF forces attacked the sources</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3601",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3601
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3601",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3601"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3601/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3601"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3601"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3601"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

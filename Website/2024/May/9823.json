@@ -1,0 +1,122 @@
+{
+    "id": 3002,
+    "date": "2024-05-22T10:08:28",
+    "date_gmt": "2024-05-22T07:08:28",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9823/"
+    },
+    "modified": "2024-05-22T10:08:28",
+    "modified_gmt": "2024-05-22T07:08:28",
+    "slug": "9823",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9823/",
+    "title": {
+        "rendered": "&#8220;Inside Look: The Aftermath and Triumph of Zeitoun Raid &#8211; A Major General&#8217;s Perspective&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Listen to the Major General, the operation has been completed:<br />\n&#8220;We suffered losses, but we came out with our heads up&#8221;. Behind the scenes of the raid in Zeitoun. </p>\n<p>For the full article:</p>\n<p>https://www.idf.il/202402</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Listen to the Major General, the operation has been completed: &#8220;We suffered losses, but we came out with our heads up&#8221;. Behind the scenes of the raid in Zeitoun. For the full article: https://www.idf.il/202402</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3002",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3002
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3002",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3002"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3002/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3002"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3002"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3002"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

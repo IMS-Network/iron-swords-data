@@ -1,0 +1,122 @@
+{
+    "id": 4280,
+    "date": "2024-01-05T08:50:58",
+    "date_gmt": "2024-01-05T06:50:58",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8515/"
+    },
+    "modified": "2024-01-05T08:50:58",
+    "modified_gmt": "2024-01-05T06:50:58",
+    "slug": "8515",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8515/",
+    "title": {
+        "rendered": "&#8220;Decisive IDF Operations: Successful Neutralization of Terrorists and Destruction of Launch Sites in Gaza Strip&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>During the night in Al-Bureij and Khan Yunis; elimination of a group of terrorists and destruction of several launch sites that targeted Israeli territory.</p>\n<p>Over the past day, IDF forces from the air, sea, and land, have attacked more than 100 terror targets in the Gaza Strip, including command centers and military sites, launch sites, and buildings in which terror infrastructure was stored alongside weapons. </p>\n<p>In the Al-Bureij camp, soldiers from the 414th collection battalion operated. During their operation, an armed terrorist group tried to attack a tank. The soldiers pursued the group into built-up areas. A force drone monitored the group, and after the terrorists were definitively identified, the soldiers directed an airstrike from the air force, which attacked the building where the group had entrenched themselves, and eliminated the terrorists. </p>\n<p>In the Khan Yunis area, soldiers from the 4th Brigade combat team, located several launch sites from which rockets were launched towards Israeli territory. The soldiers destroyed the launch sites and during a number of encounters in the area, they eliminated many terrorists.</p>\n<p>Attached is documentation of IDF attacks in the Gaza Strip: https://bit.ly/3RH6ALI</p>\n<p>Attached are pictures from IDF operations in the Strip: https://IDFANC.activetrail.biz/ANC05012024913795730</p>\n<p>Attached is documentation of the elimination of the terrorist group in Al-Bureij: https://bit.ly/47oHbMs</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: During the night in Al-Bureij and Khan Yunis; elimination of a group of terrorists and destruction of several launch sites that targeted Israeli territory. Over the past day, IDF forces from the air, sea, and land, have attacked more than 100 terror targets in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip, including command centers and military sites, launch sites, and buildings in which terror infrastructure was stored alongside weapons. In the Al-Bureij camp, soldiers from the 414th collection battalion operated. During their operation, an armed terrorist group tried to attack a tank. The soldiers pursued the group into built-up areas. A force</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4280",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4280
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4280",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4280"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4280/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4280"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4280"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4280"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

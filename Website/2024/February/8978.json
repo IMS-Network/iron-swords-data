@@ -1,0 +1,122 @@
+{
+    "id": 3825,
+    "date": "2024-02-26T20:02:03",
+    "date_gmt": "2024-02-26T18:02:03",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8978/"
+    },
+    "modified": "2024-02-26T20:02:03",
+    "modified_gmt": "2024-02-26T18:02:03",
+    "slug": "8978",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8978/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Military Bases in Lebanon: A Detailed Report on Recent Attacks&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked military buildings of the Hezbollah terror organization in Lebanese territory; fighter jets attacked the launch site from which launches were made to Golan Heights.</p>\n<p>In recent hours, fighter jets attacked military buildings of the Hezbollah terror organization in the area of \u200b\u200bAyta al-Shaab in southern Lebanon.</p>\n<p>In addition, a short time ago, the fighter jets attacked the launch site in the Kaoukaba area, from which dozens of launches were made a few hours ago towards the Golan Heights area.</p>\n<p>Earlier today, an IDF tank attacked another military building of the Hezbollah terror organization in the village of Kila.</p>\n<p>Attached is documentation from the attacks: https://bit.ly/3UWF93I</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked military buildings of the <a  href=\"/hezbollah\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> in Lebanese territory; fighter jets attacked the launch site from which launches were made to Golan Heights. In recent hours, fighter jets attacked military buildings of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terror organization in the area of \u200b\u200bAyta al-Shaab in southern Lebanon. In addition, a short time ago, the fighter jets attacked the launch site in the Kaoukaba area, from which dozens of launches were made a few hours ago towards the Golan Heights area. Earlier today, an IDF tank attacked another military building of the Hezbollah terror organization in the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3825",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3825
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3825",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3825"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3825/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3825"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3825"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3825"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

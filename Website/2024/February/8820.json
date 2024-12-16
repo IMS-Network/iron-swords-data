@@ -1,0 +1,122 @@
+{
+    "id": 3983,
+    "date": "2024-02-08T11:27:25",
+    "date_gmt": "2024-02-08T09:27:25",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8820/"
+    },
+    "modified": "2024-02-08T11:27:25",
+    "modified_gmt": "2024-02-08T09:27:25",
+    "slug": "8820",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8820/",
+    "title": {
+        "rendered": "&#8220;IDF and Border Police Demolish Terrorist&#8217;s Home, Arrest Eight Suspects in Judea and Samaria: A Night of Decisive Action&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF and Border Police forces demolished last night the home of another terrorist who carried out the attack at the Tunnel Checkpoint; the forces arrested eight wanted individuals across Judea and Samaria last night.</p>\n<p>Reserve IDF forces, engineering units and Border Police demolished in the city of Hebron in the Judea Brigade area the home of a terrorist belonging to the Hamas terror organization, who carried out the attack at the Tunnel Checkpoint on November 16, 2023, together with two other terrorists. The homes of the two additional terrorists were recently demolished by security forces.<br />\nIn that attack, an IDF soldier, Maj. Avraham Patna Z&#8221;L, was killed. The IDF shares in the family&#8217;s pain and will continue to walk beside them.</p>\n<p>The forces arrested last night eight wanted individuals suspected of involvement in terrorist activity across Judea and Samaria.</p>\n<p>In the villages of Shiokh and Al-Khader in Etzion, the forces found weapons, combat equipment and a lathe for the manufacture of weapons. </p>\n<p>In the village of Anata in the Benjamin Brigade area, the forces found combat equipment.</p>\n<p>The detainees and the seized combat equipment were transferred for further processing by the security forces, our forces were not injured.</p>\n<p>Attached are photos from the demolition of the terrorist&#8217;s house: https://IDFANC.activetrail.biz/ANC08022024-203895</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF and Border Police forces demolished last night the home of another terrorist who carried out the attack at the Tunnel Checkpoint; the forces arrested eight wanted individuals across Judea and Samaria last night. Reserve IDF forces, engineering units and Border Police demolished in the city of Hebron in the Judea Brigade area the home of a terrorist belonging to the <a  href=\"/hamas\">Hamas</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a>, who carried out the attack at the Tunnel Checkpoint on November 16, 2023, together with two other terrorists. The homes of the two additional terrorists were recently demolished by security forces. In that attack,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3983",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3983
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3983",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3983"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3983/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3983"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3983"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3983"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

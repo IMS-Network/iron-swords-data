@@ -1,0 +1,124 @@
+{
+    "id": 8906,
+    "date": "2024-06-13T16:46:06",
+    "date_gmt": "2024-06-13T13:46:06",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10115-en/"
+    },
+    "modified": "2024-06-13T16:46:06",
+    "modified_gmt": "2024-06-13T13:46:06",
+    "slug": "10115-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10115-en/",
+    "title": {
+        "rendered": "&#8220;Enhancing Combat Readiness: IDF Exercises in Mountainous Terrain and Casualty Evacuation&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Scenarios at varying ranges, mountainous and dense terrain, and evacuation of casualties in depth:<br />\nUnit 4 and 226 completed a series of exercises to enhance combat readiness in the northern sector.<br />\nhttps://www.idf.il/208505</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Scenarios at varying ranges, mountainous and dense terrain, and evacuation of casualties in depth: Unit 4 and 226 completed a series of exercises to enhance combat readiness in the northern sector. https://www.idf.il/208505</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8906",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8906,
+        "he": 8907,
+        "ru": 8908
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8906",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8906"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8906/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8906"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8906"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8906"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

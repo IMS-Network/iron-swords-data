@@ -1,0 +1,140 @@
+{
+    "id": 16229,
+    "date": "2024-02-18T00:00:00",
+    "date_gmt": "2024-02-17T22:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/18-02-2024/"
+    },
+    "modified": "2024-08-27T23:07:37",
+    "modified_gmt": "2024-08-27T20:07:37",
+    "slug": "18-02-2024",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/aid/18-02-2024/",
+    "title": {
+        "rendered": "Israel Aid and Humanitarian Efforts in Gaza: Feb. 18, 2024"
+    },
+    "content": {
+        "rendered": "<h2>Crossings Closed for Humanitarian Efforts</h2>\n<p>In line with the agreement reached with the US, Egypt, and the UN, <strong>Kerem Shalom</strong> and <strong>Nitzana</strong> crossings will be closed on Saturdays. This closure aims to facilitate the UN&#8217;s distribution of goods on the Gazan side of Kerem Shalom and the reception on the Egyptian side of Rafah.</p>\n<h2>Recent Deliveries to Gaza</h2>\n<p>Yesterday, (Feb. 17) <strong>4 tankers</strong> of cooking gas and <strong>2 tankers</strong> of fuel designated for the operation of essential infrastructure in Gaza entered the Gaza Strip. Additionally, the second waterline from the Egyptian side of Rafah to the Gazan side of Rafah was successfully connected. This project, undertaken by the <strong>United Arab Emirates</strong>, is expected to supply water to residents of the southern part of Gaza.</p>\n<h2>Operational Bakeries in Gaza</h2>\n<p>Currently, <strong>15 bakeries</strong> are operational in Gaza, providing over <strong>2 million</strong> breads, rolls, and pita breads each day for the local population. Over the last two weeks, the number of operational bakeries increased from <strong>10</strong> to <strong>12</strong>, and now to <strong>15</strong>, following the facilitation by COGAT.</p>\n<h2>Infrastructure Repairs and Humanitarian Aid</h2>\n<p>The coordination of the repair of vital infrastructure was successfully completed. Today, (Feb. 18) between <strong>10:00</strong> and <strong>14:00</strong>, the IDF will pause operations in the <strong>Al Shaboura</strong> neighborhood of Rafah, southern Gaza Strip, to enable the movement of humanitarian aid.</p>\n<h2>Water Infrastructure Developments</h2>\n<p>Israel opened two water pipes from Israel \u2014 <strong>Birkat Sa&#8217;id</strong> and <strong>Bani Suheila</strong> \u2014 providing water to hundreds of thousands of residents in the southern Gaza Strip.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Egypt and UN close crossings Saturdays; aid and infrastructure improved.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 15696,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        1338
+    ],
+    "tags": [
+        1352
+    ],
+    "class_list": [
+        "post-16229",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-aid",
+        "tag-daily-humanitarian-aid-update"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 16229,
+        "he": 16230,
+        "ru": 16231
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16229",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=16229"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16229/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 16232,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16229/revisions/16232"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/15696"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=16229"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=16229"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=16229"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

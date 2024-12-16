@@ -1,0 +1,124 @@
+{
+    "id": 7419,
+    "date": "2024-07-25T05:04:11",
+    "date_gmt": "2024-07-25T02:04:11",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10619-en/"
+    },
+    "modified": "2024-07-25T05:04:11",
+    "modified_gmt": "2024-07-25T02:04:11",
+    "slug": "10619-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10619-en/",
+    "title": {
+        "rendered": "&#8220;IDF and Shin Bet Recover Kidnapped Victims in Khan Younis: A Triumph of Intelligence and Valor&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint statement from the IDF Spokesperson and the Shin Bet Spokesperson:</p>\n<p>The IDF and Shin Bet have recovered the kidnapped and murdered Mia Goren, as well as the fallen abductees Master Sergeant (Res.) Oren Goldin, Sergeant Major Tomer Ahimas, and Corporal Kirill Brodsky, from the Khan Younis area in an operation by Division 98.</p>\n<p>During an operation by the forces of Division 98, led by Shin Bet investigators and operatives on the ground, the kidnapped and murdered Mia Goren, and the fallen abductees Master Sergeant (Res.) Oren Goldin, Sergeant Major Tomer Ahimas, and Corporal Kirill Brodsky, were recovered yesterday (Wednesday) from Khan Younis. According to reliable intelligence information in our possession, it appears that Mia Goren, of blessed memory, was murdered, and Master Sergeant (Res.) Oren Goldin, Sergeant Major Tomer Ahimas, and Corporal Kirill Brodsky, of blessed memory, fell in battle during the brutal terrorist attack on October 7, and their bodies were taken to Gaza.</p>\n<p>The recovery was carried out yesterday (Wednesday) by Shin Bet forces along with the combat team of the Commando Brigade, Yahalom forces, and Egoz under the command of Division 98.</p>\n<p>The intelligence effort leading up to the operation was managed by the Israel Security Agency in conjunction with intelligence information gathered from the interrogation of terrorists in the Shin Bet, intelligence efforts in collaboration with the intelligence team of the Captives Command in the Intelligence Corps, and others that led to the execution of the operation.</p>\n<p>Alongside the operational effort, the team for captives and missing persons, along with the Center for Captives and Missing Persons in the Casualties Division of the Human Resources Directorate, which is responsible for supporting the families of the captives, worked together with the Forensic Institute and the Israeli Police for the identification of the captives and the delivery of notifications to the families.</p>\n<p>The IDF and Shin Bet continue, even at this moment, to employ all operational and intelligence efforts to fulfill the supreme national mission of returning all captives.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint statement from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a> and the Shin Bet Spokesperson: The IDF and Shin Bet have recovered the kidnapped and murdered Mia Goren, as well as the fallen abductees Master <a  href=\"https://iron-swords.co.il/t/sergeant/\">Sergeant</a> (Res.) Oren Goldin, Sergeant Major Tomer Ahimas, and Corporal Kirill Brodsky, from the Khan Younis area in an operation by Division 98. During an operation by the forces of Division 98, led by Shin Bet investigators and operatives on the ground, the kidnapped and murdered Mia Goren, and the fallen abductees Master Sergeant (Res.) Oren Goldin, Sergeant Major Tomer Ahimas, and Corporal Kirill Brodsky, were recovered yesterday (Wednesday)</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7419",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7419,
+        "he": 7420,
+        "ru": 7421
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7419",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7419"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7419/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7419"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7419"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7419"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 3022,
+    "date": "2024-05-20T14:56:38",
+    "date_gmt": "2024-05-20T11:56:38",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9803/"
+    },
+    "modified": "2024-05-20T14:56:38",
+    "modified_gmt": "2024-05-20T11:56:38",
+    "slug": "9803",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9803/",
+    "title": {
+        "rendered": "&#8220;IDF, ISA, and Border Guard Units Arrest 15 Terror Suspects and Seize Incitement Materials: A Comprehensive Report on Counter-Terror Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The seizure of incitement materials, weaponry, and terror funds; IDF, ISA (Shin Bet), and border guard units arrested 15 wanted individuals overnight involved in terrorist activities. </p>\n<p>During an operation in Beit Umar in the Etzion Brigade, the soldiers arrested a wanted individual armed with a modified Shotgun, alongside two additional wanted individuals who were arrested. In the area of Wadi Fukin in the brigade&#8217;s region, IDF soldiers located and seized incitement materials, among them the book &#8220;Mein Kampf.&#8221;</p>\n<p>In the city of Hebron in the Judea brigade, the soldiers investigated numerous suspects, and additionally, in the Yatta area, the forces arrested a wanted person and seized terror funds worth hundreds of thousands of shekels. </p>\n<p>Ten more wanted individuals were arrested in the areas of Ramallah, Bidu, Dir Jreer, and Beit Ijza in the Binyamin Brigade.</p>\n<p>The arrested suspects and the seized weapons have been transferred for further security forces processing, no injuries were reported amongst our forces.</p>\n<p>So far, since the beginning of the war, approximately 4,000 wanted individuals have been arrested across the Judea and Samaria division and the Jordan Valley brigade, about 1,700 of them are associated with the Hamas terror organization.</p>\n<p>Attached is footage of the forces&#8217; operations across Judea and Samaria: https://bit.ly/3K5Jj2C</p>\n<p>Attached are images from the forces&#8217; operations across Judea and Samaria: https://idfanc.activetrail.biz/ANC200520248758</p>\n<p>Attached are images of the incitement materials and weaponry seized: https://idfanc.activetrail.biz/%D7%97%D7%95%D7%9E%D7%A8%D7%99%D7%9D-%D7%95%D7%90%D7%9E%D7%9C%D7%97-%D7%A9%D7%A0%D7%AA%D7%A4%D7%A1</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The seizure of incitement materials, weaponry, and terror funds; IDF, ISA (Shin Bet), and border guard units arrested 15 wanted individuals overnight involved in terrorist activities. During an operation in Beit Umar in the Etzion Brigade, the soldiers arrested a wanted individual armed with a modified Shotgun, alongside two additional wanted individuals who were arrested. In the area of Wadi Fukin in the brigade&#8217;s region, IDF soldiers located and seized incitement materials, among them the book &#8220;Mein Kampf.&#8221; In the city of Hebron in the Judea brigade, the soldiers investigated numerous suspects, and additionally, in the Yatta area,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3022",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3022
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3022",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3022"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3022/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3022"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3022"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3022"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

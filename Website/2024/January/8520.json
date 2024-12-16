@@ -1,0 +1,122 @@
+{
+    "id": 4277,
+    "date": "2024-01-05T12:00:37",
+    "date_gmt": "2024-01-05T10:00:37",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8520/"
+    },
+    "modified": "2024-01-05T12:00:37",
+    "modified_gmt": "2024-01-05T10:00:37",
+    "slug": "8520",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8520/",
+    "title": {
+        "rendered": "&#8220;Decoding the Destruction of Hamas Terror Infrastructure by C6 Corps 646 and Yahalom Units: Inside Gaza&#8217;s Towers Neighborhood&#8221;"
+    },
+    "content": {
+        "rendered": "<p>&#8220;C6 Corps 646 and Yahalom combat engineer units destroy Hamas terror infrastructures: a commando unit, a chemical weapons lab, tunnels, and rocket launch pads &#8211; documentation from within the Towers neighborhood in Gaza</p>\n<p>https://www.idf.il/169582&#8221;</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>&#8220;C6 Corps 646 and Yahalom combat engineer units destroy <a  href=\"/hamas\">Hamas</a> terror infrastructures: a commando unit, a chemical weapons lab, tunnels, and rocket launch pads &#8211; documentation from within the Towers neighborhood in <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> https://www.idf.il/169582&#8221;</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4277",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4277
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4277",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4277"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4277/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4277"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4277"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4277"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

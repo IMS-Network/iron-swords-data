@@ -1,0 +1,140 @@
+{
+    "id": 16181,
+    "date": "2024-03-06T00:00:00",
+    "date_gmt": "2024-03-05T22:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/06-03-2024/"
+    },
+    "modified": "2024-08-27T22:58:01",
+    "modified_gmt": "2024-08-27T19:58:01",
+    "slug": "06-03-2024",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/aid/06-03-2024/",
+    "title": {
+        "rendered": "Israel Aid and Humanitarian Efforts in Gaza: Mar. 6, 2024"
+    },
+    "content": {
+        "rendered": "<h1>Humanitarian Aid Efforts in Gaza: Recent Developments</h1>\n<p>164 trucks carrying humanitarian aid were inspected and transferred to Gaza for the civilian population yesterday (Mar. 5). A total of 255 trucks entered the Gaza Strip, and 243 trucks were distributed by aid organizations to shelters and Gazans in need. </p>\n<h2>Food Convoys and Essential Supplies</h2>\n<p>A convoy carrying food was coordinated to the northern Gaza Strip. Over the last few days, more than 100 trucks were transferred to the northern Gaza Strip. On the same day (Mar. 5), 4 tankers of cooking gas designated for the operation of essential infrastructure in Gaza entered the Gaza Strip. Truck convoys via the Jordan delivery channel are expected to enter Gaza today and in the next few days.</p>\n<h2>Medical Supplies and Support</h2>\n<p>All medical supplies, including anesthetics, are immediately approved and transferred to Gaza following inspection. Just yesterday, a WHO truck loaded with anesthetics, chemotherapy medicine, and other medical supplies entered Gaza. </p>\n<h2>Airdrops of Humanitarian Aid</h2>\n<p>Yesterday (Mar. 5), 172 packages of humanitarian aid were airdropped over Gaza with a joint effort from Jordan, Egypt, France, the USA, UAE, and Israel. Over the last week, more than 550 packages carrying humanitarian aid were airdropped over Gaza.</p>\n<h2>Foreign Nationals and Medical Support</h2>\n<p>17 foreign nationals are expected to exit the Gaza Strip today (Mar. 6), while 9 foreign nationals exited yesterday. Additionally, a delegation of medical staff is expected to enter the Gaza Strip today (Mar. 6) to bolster the medical response.</p>\n<h2>Operational Local Services</h2>\n<p>A United Arab Emirates floating hospital docked at the El-Arish port on Feb. 22 and began receiving Gazan patients for treatment. Currently, 20 bakeries are operational in Gaza, providing over 2.5 million breads, rolls, and pita breads a day for the local population. Over the last 2 weeks, the number of operational bakeries increased from 10 to 12, then to 15, and now to 20, following COGAT&#8217;s facilitation.</p>\n<h2>Infrastructure Repairs</h2>\n<p>The coordination of the repair of vital infrastructure was successfully completed.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Humanitarian aid and medical support increased for <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>&#8216;s civilians.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 15696,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        1338
+    ],
+    "tags": [
+        1352
+    ],
+    "class_list": [
+        "post-16181",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-aid",
+        "tag-daily-humanitarian-aid-update"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 16181,
+        "he": 16182,
+        "ru": 16183
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16181",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=16181"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16181/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 16184,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16181/revisions/16184"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/15696"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=16181"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=16181"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=16181"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

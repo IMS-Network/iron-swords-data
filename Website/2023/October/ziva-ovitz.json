@@ -1,0 +1,144 @@
+{
+    "id": 2422,
+    "date": "2023-10-07T06:30:00",
+    "date_gmt": "2023-10-07T03:30:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=2422"
+    },
+    "modified": "2024-05-26T08:19:03",
+    "modified_gmt": "2024-05-26T05:19:03",
+    "slug": "ziva-ovitz",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/victims/ziva-ovitz/",
+    "title": {
+        "rendered": "Ziva ovitz"
+    },
+    "content": {
+        "rendered": "\n<p>Ziva Ovits, aged 77, died from her wounds after trying to run into the bomb shelter in her home in Moshav Ami&#8217;oz on the October 7th Hamas rockets. Ziva left behind a husband, 3 children, and 11 grandkids. Ziva used to make the best Matbocha dip in all of the Moshav, which she made from a whole box of tomatoes from the Moshav she peeled every Friday,<br>Everyone wanted to get the recipe from Ziva&#8217;s kitchen.<br> Sadly, Ziva couldn&#8217;t make her dream of visiting Dubai with her family. <br>Her grandkids added and said &#8220;Our grandmother always worried about us, about our future, taught us that humanity always comes first, Thank you our beloved for your endless love and everything you have given us.&#8221;, May her memory last forever.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Ziva Ovits, aged 77, died from her wounds after trying to run into the bomb shelter in her home in Moshav Ami&#8217;oz on the October 7th <a  href=\"/hamas\">Hamas</a> rockets. Ziva left behind a husband, 3 children, and 11 grandkids. Ziva used to make the best Matbocha dip in all of the Moshav, which she made from a whole box of tomatoes from the Moshav she peeled every Friday,Everyone wanted to get the recipe from Ziva&#8217;s kitchen. Sadly, Ziva couldn&#8217;t make her dream of visiting Dubai with her family. Her grandkids added and said &#8220;Our grandmother always worried about us, about our</p>\n",
+        "protected": false
+    },
+    "author": 27,
+    "featured_media": 2430,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-october-7th-victims",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 21,
+        "footnotes": ""
+    },
+    "categories": [
+        21
+    ],
+    "tags": [
+        129,
+        132,
+        130,
+        137
+    ],
+    "class_list": [
+        "post-2422",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-victims",
+        "tag-amioz",
+        "tag-moshav-amioz",
+        "tag-murdered-in-her-home",
+        "tag-october-7th-massacre-victims"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2422
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2422",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/27"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2422"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 2,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2422/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 2624,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2422/revisions/2624"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/2430"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2422"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2422"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2422"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

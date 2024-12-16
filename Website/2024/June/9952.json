@@ -1,0 +1,122 @@
+{
+    "id": 2873,
+    "date": "2024-06-01T12:42:12",
+    "date_gmt": "2024-06-01T09:42:12",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9952/"
+    },
+    "modified": "2024-06-01T12:42:12",
+    "modified_gmt": "2024-06-01T09:42:12",
+    "slug": "9952",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9952/",
+    "title": {
+        "rendered": "&#8220;IDF Neutralizes Hezbollah Rocket Launchers: Swift Response to Attacks on Kiryat Shmona&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Shortly after the rockets were launched at Kiryat Shmona: The IDF destroyed the launcher in Lebanon from which the firing was carried out; two Hezbollah terrorists identified in the area of Majdal Slem were attacked.</p>\n<p>During the morning, IDF forces identified two Hezbollah terrorists operating in the area of Majdal Slem, shortly after which an aircraft attacked the terrorists.</p>\n<p>Earlier today, two rocket launches were identified crossing from Lebanese territory towards the area of Kiryat Shmona, no casualties.<br />\nShortly after that, an air force aircraft attacked and destroyed the launcher from which the firing was carried out.</p>\n<p>Attached is video footage from the elimination: https://bit.ly/4e5CpZ6.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Shortly after the rockets were launched at Kiryat Shmona: The IDF destroyed the launcher in Lebanon from which the firing was carried out; two <a  href=\"/hezbollah\">Hezbollah</a> terrorists identified in the area of Majdal Slem were attacked. During the morning, IDF forces identified two <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorists operating in the area of Majdal Slem, shortly after which an aircraft attacked the terrorists. Earlier today, two rocket launches were identified crossing from Lebanese territory towards the area of Kiryat Shmona, no casualties. Shortly after that, an air force aircraft attacked and destroyed the launcher from which the firing was carried out. Attached</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2873",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2873
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2873",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2873"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2873/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2873"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2873"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2873"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

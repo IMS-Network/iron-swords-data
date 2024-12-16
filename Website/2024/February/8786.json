@@ -1,0 +1,122 @@
+{
+    "id": 4017,
+    "date": "2024-02-04T11:21:29",
+    "date_gmt": "2024-02-04T09:21:29",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8786/"
+    },
+    "modified": "2024-02-04T11:21:29",
+    "modified_gmt": "2024-02-04T09:21:29",
+    "slug": "8786",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8786/",
+    "title": {
+        "rendered": "&#8220;IDF, Shin Bet, and Border Police Conduct Successful Arrests: Seizing Weapons and Detaining Suspects Across Judea and Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF soldiers along with Shin Bet and Border Police operated last night to arrest four wanted individuals across Judea and Samaria.</p>\n<p>In the refugee camp of Balata in Nablus, undercover Border Police and IDF soldiers arrested this morning, directed by the Shin Bet, a wanted suspect suspected of shooting at our forces and seized his weapon.</p>\n<p>In the village of Jifna in Binyamin, the soldiers arrested a wanted individual and found military equipment and weapons. </p>\n<p>In the Jalazone refugee camp in Binyamin, the soldiers arrested another wanted individual and in the city of Nablus in Samaria, an additional wanted individual was arrested. </p>\n<p>The arrested suspects and the seized weapons have been handed over for further action by the security forces, no injuries were reported to our forces.</p>\n<p>So far since the beginning of the war, about 3,000 wanted individuals have been arrested across the Judea and Samaria Brigade and the Jordan Valley Brigade, over 1,350 of them are affiliated with the Hamas terror organization.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF soldiers along with Shin Bet and Border Police operated last night to arrest four wanted individuals across Judea and Samaria. In the refugee camp of Balata in Nablus, undercover Border Police and IDF soldiers arrested this morning, directed by the Shin Bet, a wanted suspect suspected of shooting at our forces and seized his weapon. In the village of Jifna in Binyamin, the soldiers arrested a wanted individual and found military equipment and weapons. In the Jalazone refugee camp in Binyamin, the soldiers arrested another wanted individual and in the city of Nablus in Samaria, an additional</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4017",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4017
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4017",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4017"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4017/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4017"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4017"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4017"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

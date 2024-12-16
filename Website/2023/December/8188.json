@@ -1,0 +1,122 @@
+{
+    "id": 4604,
+    "date": "2023-12-09T18:33:23",
+    "date_gmt": "2023-12-09T16:33:23",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8188/"
+    },
+    "modified": "2023-12-09T18:33:23",
+    "modified_gmt": "2023-12-09T16:33:23",
+    "slug": "8188",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8188/",
+    "title": {
+        "rendered": "&#8220;Remembering IDF Heroes: Updated Casualty and Injury Report from Recent Gaza Strip Battles&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Attached is a message from the IDF spokesperson regarding the names of five IDF casualties whose notifications have been delivered to their families: https://IDFANC.activetrail.biz/ANC09122023MNFIOERHFFD</p>\n<p>Attached is a link to the IDF website, where their details and pictures are published and updated: https://www.idf.il/59780</p>\n<p>In addition, a soldier from battalion 53, &#8220;Barak&#8221; formation (188), was severely injured yesterday (Friday) in a battle in the north of the Gaza Strip. An officer and two IDF soldiers from the 603 Engineering Battalion, &#8220;Saar Megolan&#8221; formation (7), were severely injured yesterday (Friday) in a battle in the south of the Gaza Strip.</p>\n<p>Also, an officer and a platoon sergeant from Geffen Battalion, 1st Armoured Brigade, were severely injured yesterday (Friday) in a battle in the north of the Gaza Strip.</p>\n<p>Two IDF reserve soldiers were severely injured yesterday (Friday) as a result of fire towards an IDF position in Lebanon.</p>\n<p>In addition, a soldier from the Givati reconnaissance battalion was severely injured today (Saturday) in a battle in the north of the Gaza Strip. A reserve officer from the 6017 Medical Corps unit was severely injured today in the Gaza Strip.</p>\n<p>Also, a reserve soldier from battalion 93, Kfir brigade, was severely injured today (Saturday) in a battle in the north of the Gaza Strip as were a section commander and an armoured fighting vehicle operator from battalion 93, Kfir brigade, in the north of the Gaza Strip.</p>\n<p>Two reserve soldiers from the 79th Battalion, 14th Brigade, were severely injured today (Saturday) in a battle in the center of the Gaza Strip.</p>\n<p>The wounded were taken to the hospital for medical treatment, their families were updated.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Attached is a message from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a> regarding the names of five IDF casualties whose notifications have been delivered to their families: https://IDFANC.activetrail.biz/ANC09122023MNFIOERHFFD Attached is a link to the IDF website, where their details and pictures are published and updated: https://www.idf.il/59780 In addition, a soldier from battalion 53, &#8220;Barak&#8221; formation (188), was severely injured yesterday (Friday) in a battle in the north of the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. An officer and two IDF soldiers from the 603 Engineering Battalion, &#8220;Saar Megolan&#8221; formation (7), were severely injured yesterday (Friday) in a battle in the south of the Gaza Strip. Also, an officer</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4604",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4604
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4604",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4604"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4604/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4604"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4604"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4604"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 4760,
+    "date": "2023-11-29T16:42:33",
+    "date_gmt": "2023-11-29T14:42:33",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8029/"
+    },
+    "modified": "2023-11-29T16:42:33",
+    "modified_gmt": "2023-11-29T14:42:33",
+    "slug": "8029",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8029/",
+    "title": {
+        "rendered": "&#8220;Hamas Endangers Captives: IDF&#8217;s Relentless Pursuit for Their Safe Return to Israel&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson: </p>\n<p>The terror organization Hamas continues to act cruelly and inhumanely. IDF representatives spoke with the Bibas family, informed them about the publication and are accompanying them at this moment. The IDF is examining the reliability of the information.</p>\n<p>The responsibility for the safety of all the captives in the Gaza Strip rests entirely on the terror organization Hamas.<br />\nHamas is endangering the captives, including nine children. Hamas is required to return them immediately to Israel.</p>\n<p>The IDF, along with all bodies, will continue to accompany the Bibas family, as well as all families of the captives.</p>\n<p>The IDF is operating by all means, intelligence and operations, in order to bring the captives home.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> <a  href=\"/hamas\">Hamas</a> continues to act cruelly and inhumanely. IDF representatives spoke with the Bibas family, informed them about the publication and are accompanying them at this moment. The IDF is examining the reliability of the information. The responsibility for the safety of all the captives in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip rests entirely on the terror organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a>. Hamas is endangering the captives, including nine children. Hamas is required to return them immediately to <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>. The IDF, along with all bodies, will continue to accompany the Bibas family, as well as all families of the captives. The IDF</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4760",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4760
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4760",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4760"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4760/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4760"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4760"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4760"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": 8963,
+    "date": "2024-06-12T15:30:03",
+    "date_gmt": "2024-06-12T12:30:03",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10096-en/"
+    },
+    "modified": "2024-06-12T15:30:03",
+    "modified_gmt": "2024-06-12T12:30:03",
+    "slug": "10096-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10096-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Launchers in Southern Lebanon Amid Ongoing Rocket Threats to Northern Israel&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF continues to strike in southern Lebanon; two additional launchers used to launch rockets towards northern Israel earlier today have been targeted.</p>\n<p>Combat aircraft recently attacked two launchers belonging to the terrorist organization Hezbollah in the areas of A-Taybeh and Marjayoun in southern Lebanon, from which rockets were launched towards northern Israel earlier today.</p>\n<p>In addition, IDF forces conducted artillery fire towards the Rashiya al-Fuqhar area in southern Lebanon, from which rockets were fired towards northern Israel.</p>\n<p>In response to alerts activated in northern Israel at 11:52, 12:00, and 12:19, interceptors were launched towards suspicious aerial targets, and these incidents have concluded. Alerts for rocket and missile fire were activated due to concerns about the debris from the intercepts.</p>\n<p>Following the alerts activated at 12:55 in the Meron area and at 14:09 in the Metula region, several launches were detected crossing from Lebanese territory.</p>\n<p>In all the incidents, there were no casualties.</p>\n<p>Firefighting forces continue to operate in northern Israel to extinguish the fires that broke out as a result of the rocket launches conducted by the terrorist organization Hezbollah earlier today.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF continues to strike in southern Lebanon; two additional launchers used to launch rockets towards northern <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> earlier today have been targeted. Combat aircraft recently attacked two launchers belonging to the terrorist organization <a  href=\"/hezbollah\">Hezbollah</a> in the areas of A-Taybeh and Marjayoun in southern Lebanon, from which rockets were launched towards northern Israel earlier today. In addition, IDF forces conducted artillery fire towards the Rashiya al-Fuqhar area in southern Lebanon, from which rockets were fired towards northern Israel. In response to alerts activated in northern Israel at 11:52, 12:00, and 12:19, interceptors were launched towards suspicious aerial targets,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8963",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8963,
+        "he": 8964,
+        "ru": 8965
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8963",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8963"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8963/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8963"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8963"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8963"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

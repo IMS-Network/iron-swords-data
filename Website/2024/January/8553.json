@@ -1,0 +1,122 @@
+{
+    "id": 4244,
+    "date": "2024-01-09T09:12:05",
+    "date_gmt": "2024-01-09T07:12:05",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8553/"
+    },
+    "modified": "2024-01-09T09:12:05",
+    "modified_gmt": "2024-01-09T07:12:05",
+    "slug": "8553",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8553/",
+    "title": {
+        "rendered": "&#8220;IDF Forces Intensify Ground Operations in Khan Yunis: Terrorist Casualties and Weapon Discoveries on the Rise&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>IDF forces are expanding their ground operations in the heart of Khan Yunis; dozens of terrorists were killed, and a wide variety of weaponry and underground tunnels were uncovered.</p>\n<p>In the last day, the combat teams of the divisions fighting under Brigade 98 have expanded their operations in the depth of Khan Yunis. During their attacks, around 40 terrorists were killed, a wide variety of weapons were uncovered, and significant tunnels were discovered. Among the weapons found by the combat team of the Paratroopers Brigade are 12 Kalashnikov rifles, four loaded RPG launchers, dozens of grenades, and ammunition depots.</p>\n<p>The combat team from Kfir Brigade carried out a raid on a fortified structure in Khan Yunis and located an armed terrorist. The forces fired at the terrorist and killed him.</p>\n<p>As part of the activities of the Golani Brigade&#8217;s combat team in the Al-Ma&#8217;azi region in the centre of the Strip, and by using intelligence-guided force from Unit 636, terrorists from the Central Camps Brigade were detected in the area. The forces directed an aircraft from the Air Force that attacked and killed the cell. </p>\n<p>The IDF&#8217;s naval forces attacked military positions, warehouses and boats that served the Hamas terrorist organization&#8217;s naval force in the Gaza Strip in the last day.</p>\n<p>_attached is footage from the attacks in the Gaza Strip over the last day: https://bit.ly/3RQYHDt</p>\n<p>_attached is footage from the activities of the forces in the Gaza Strip:  https://bit.ly/3Hdkv7C </p>\n<p>_attached is footage from the attack on targets by the naval forces in the Gaza Strip: https://bit.ly/41QzY6O </p>\n<p>_attached are pictures from the activities of the forces in the Gaza Strip: https://IDFANC.activetrail.biz/ANC09012024EVHUUFKDKKD</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: IDF forces are expanding their ground operations in the heart of Khan Yunis; dozens of terrorists were killed, and a wide variety of weaponry and underground tunnels were uncovered. In the last day, the combat teams of the divisions fighting under Brigade 98 have expanded their operations in the depth of Khan Yunis. During their attacks, around 40 terrorists were killed, a wide variety of weapons were uncovered, and significant tunnels were discovered. Among the weapons found by the combat team of the <a  href=\"https://iron-swords.co.il/t/paratroopers-brigade/\">Paratroopers Brigade</a> are 12 Kalashnikov rifles, four loaded RPG launchers, dozens of grenades, and ammunition</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4244",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4244
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4244",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4244"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4244/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4244"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4244"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4244"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

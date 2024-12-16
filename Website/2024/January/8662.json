@@ -1,0 +1,122 @@
+{
+    "id": 4137,
+    "date": "2024-01-20T13:46:07",
+    "date_gmt": "2024-01-20T11:46:07",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8662/"
+    },
+    "modified": "2024-01-20T13:46:07",
+    "modified_gmt": "2024-01-20T11:46:07",
+    "slug": "8662",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8662/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah&#8217;s Terror Infrastructure in Al-Adaysseh, Southern Lebanon: A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked Hezbollah&#8217;s terror infrastructures in the region of Al-Adaysseh in southern Lebanon</p>\n<p>A short while ago, fighter jets of the Air Force attacked a terror infrastructure, an observation post and a launch post of the Hezbollah terror organization in the region of Al-Adaysseh in southern Lebanon. Over the course of the night, an IDF tank fired to remove a threat in the Mount Dov area.</p>\n<p>In response to the alert about the intrusion of an enemy aircraft in the north, a missile was launched following a false identification. In the recent hours, two launches from Lebanon to Israel were identified, the IDF attacked the sources of the fire, no casualties.</p>\n<p>Attached is footage from the attacks: https://bit.ly/424b5Vu</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked <a  href=\"/hezbollah\">Hezbollah</a>&#8217;s terror infrastructures in the region of Al-Adaysseh in southern Lebanon A short while ago, fighter jets of the Air Force attacked a terror infrastructure, an observation post and a launch post of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> in the region of Al-Adaysseh in southern Lebanon. Over the course of the night, an IDF tank fired to remove a threat in the Mount Dov area. In response to the alert about the intrusion of an enemy aircraft in the north, a missile was launched following a false identification. In the recent hours, two launches from Lebanon</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4137",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4137
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4137",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4137"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4137/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4137"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4137"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4137"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

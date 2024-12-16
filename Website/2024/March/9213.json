@@ -1,0 +1,122 @@
+{
+    "id": 3596,
+    "date": "2024-03-22T16:22:46",
+    "date_gmt": "2024-03-22T14:22:46",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9213/"
+    },
+    "modified": "2024-03-22T16:22:46",
+    "modified_gmt": "2024-03-22T14:22:46",
+    "slug": "9213",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9213/",
+    "title": {
+        "rendered": "&#8220;IDF Intercepts Lebanese Aerial Target, Strikes Hezbollah Base in Aita al-Shaab: A Comprehensive Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>The IDF attacked a military structure of the Hezbollah terror organization in Aita al-Shaab; a short time ago, a suspected aerial target that had crossed from Lebanon was intercepted.</p>\n<p>Fighter jets attacked a short time ago a military structure of the Hezbollah terror organization in Aita al-Shaab in southern Lebanon.</p>\n<p>During the day, several launchings towards the Metula area were identified, the IDF attacked the sources of the fire in the territory of Lebanon.</p>\n<p>Following alerts about the entry of a hostile aircraft in the Western Galilee area a short time ago, air defense fighters intercepted a suspected aerial target that had crossed from Lebanese territory.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>The IDF attacked a military structure of the <a  href=\"/hezbollah\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> in Aita al-Shaab; a short time ago, a suspected aerial target that had crossed from Lebanon was intercepted. Fighter jets attacked a short time ago a military structure of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terror organization in Aita al-Shaab in southern Lebanon. During the day, several launchings towards the Metula area were identified, the IDF attacked the sources of the fire in the territory of Lebanon. Following alerts about the entry of a hostile aircraft in the Western Galilee area a short time ago, air defense fighters intercepted a suspected aerial target</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3596",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3596
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3596",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3596"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3596/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3596"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3596"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3596"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

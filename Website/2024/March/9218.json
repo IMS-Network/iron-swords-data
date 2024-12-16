@@ -1,0 +1,122 @@
+{
+    "id": 3591,
+    "date": "2024-03-23T13:17:08",
+    "date_gmt": "2024-03-23T11:17:08",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9218/"
+    },
+    "modified": "2024-03-23T13:17:08",
+    "modified_gmt": "2024-03-23T11:17:08",
+    "slug": "9218",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9218/",
+    "title": {
+        "rendered": "&#8220;IDF Maps Terrorist&#8217;s House Following Persah Junction Shooting: Night Operations Reveal Potential Terrorism Funds&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF soldiers mapped the home of the terrorist who carried out the shooting attack at Persah Junction last night.</p>\n<p>IDF forces operated last night in the village of Deir Ibzi&#8217;a in the Ephraim Brigade&#8217;s division, mapping the house of the terrorist Mujahad Bargout Mansour, who carried out the shooting attack yesterday (Friday) near the Persah Junction.</p>\n<p>IDF forces, Shin Bet and Border Police arrested two suspects in the city of Nablus and a wanted person in the village of Ar-Ram overnight.</p>\n<p>In the city of Tulkarm located in Manasseh, funds were seized that were suspected of being intended for terrorist activities, and another wanted person was arrested in the village of Khirbat. There were no casualties for our forces.</p>\n<p>Since the beginning of the war, about 3,600 wanted persons have been arrested across the Judea and Samaria division and in the Jordan Valley and Valleys Brigade, about 1,600 of them affiliated with the Hamas terrorist organization.</p>\n<p>Attached is a documentation from mapping the terrorist&#8217;s house: https://bit.ly/3TNqoiC</p>\n<p>Attached are pictures from mapping the terrorist&#8217;s house: https://idfanc.activetrail.biz/ANC23032024685458414685</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF soldiers mapped the home of the terrorist who carried out the shooting attack at Persah Junction last night. IDF forces operated last night in the village of Deir Ibzi&#8217;a in the Ephraim Brigade&#8217;s division, mapping the house of the terrorist Mujahad Bargout Mansour, who carried out the shooting attack yesterday (Friday) near the Persah Junction. IDF forces, Shin Bet and Border Police arrested two suspects in the city of Nablus and a wanted person in the village of Ar-Ram overnight. In the city of Tulkarm located in Manasseh, funds were seized that were suspected of being intended</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3591",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3591
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3591",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3591"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3591/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3591"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3591"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3591"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

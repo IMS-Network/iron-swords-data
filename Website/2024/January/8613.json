@@ -1,0 +1,122 @@
+{
+    "id": 4185,
+    "date": "2024-01-15T18:49:01",
+    "date_gmt": "2024-01-15T16:49:01",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8613/"
+    },
+    "modified": "2024-01-15T18:49:01",
+    "modified_gmt": "2024-01-15T16:49:01",
+    "slug": "8613",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8613/",
+    "title": {
+        "rendered": "&#8220;Experiencing 80 Days in Gaza: A Unique Perspective from Unit 36&#8217;s Departure&#8221;"
+    },
+    "content": {
+        "rendered": "<p>80 days in Gaza from 4 pairs of eyes:<br />\nUnit 36 is leaving the strip. The pictures, the documentation, and the voices of contact<br />\nhttps://www.idf.il/173403</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>80 days in <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> from 4 pairs of eyes: Unit 36 is leaving the strip. The pictures, the documentation, and the voices of contact https://www.idf.il/173403</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4185",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4185
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4185",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4185"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4185/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4185"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4185"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4185"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

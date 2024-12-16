@@ -1,0 +1,122 @@
+{
+    "id": 3762,
+    "date": "2024-03-05T09:42:30",
+    "date_gmt": "2024-03-05T07:42:30",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9041/"
+    },
+    "modified": "2024-03-05T09:42:30",
+    "modified_gmt": "2024-03-05T07:42:30",
+    "slug": "9041",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9041/",
+    "title": {
+        "rendered": "&#8220;IDF Successfully Thwarts Largest-Ever Terror Tunnel in Northern Gaza Strip: An Inside Look&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF has thwarted the largest terror tunnel ever revealed in the northern Gaza Strip.</p>\n<p>Following the exposure of a terror tunnel on December 16, 2023, the terror tunnel of the Hamas terror organization has been thwarted, with several offshoots that were dug from the northern Gaza Strip towards Israeli territory. It should be noted that the tunnel did not cross into Israeli territory.</p>\n<p>Over the past few weeks, the IDF has been engaged in investigating and thwarting the tunnel. The tunnel was located and destroyed in a joint effort of the Engineering Unit of the Gaza Division, the Northern Brigade in the Division, the Yahalom Unit, the Engineering Officer Command in the Ground Forces, the Southern Command, and the Engineering and Construction Department of the Ministry of Defense. </p>\n<p>Attached is footage from the explosion of the tunnel: https://bit.ly/3P2nio7 </p>\n<p>Attached is documentation of IDF forces&#8217; activity to thwart the tunnel: https://bit.ly/3uYM0iC</p>\n<p>Attached is a link to the Deputy Commander of the Engineering Unit of the Gaza Division, Major Y: https://bit.ly/3wG5qt1 </p>\n<p>Attached are pictures on the subject: https://IDFANC.activetrail.biz/ANC2149741</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF has thwarted the largest terror tunnel ever revealed in the northern <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. Following the exposure of a terror tunnel on December 16, 2023, the terror tunnel of the <a  href=\"/hamas\">Hamas</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> has been thwarted, with several offshoots that were dug from the northern Gaza Strip towards Israeli territory. It should be noted that the tunnel did not cross into Israeli territory. Over the past few weeks, the IDF has been engaged in investigating and thwarting the tunnel. The tunnel was located and destroyed in a joint effort of the Engineering Unit of the <a  href=\"https://iron-swords.co.il/t/gaza-division/\">Gaza Division</a>,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3762",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3762
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3762",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3762"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3762/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3762"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3762"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3762"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

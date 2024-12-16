@@ -1,0 +1,122 @@
+{
+    "id": 4649,
+    "date": "2023-12-06T20:00:05",
+    "date_gmt": "2023-12-06T18:00:05",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8143/"
+    },
+    "modified": "2023-12-06T20:00:05",
+    "modified_gmt": "2023-12-06T18:00:05",
+    "slug": "8143",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8143/",
+    "title": {
+        "rendered": "&#8220;First-Ever Combat of Israel&#8217;s Special Forces in Khan Yunis Heartland: A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Allowed for publication:<br />\nThe Israel Defense Forces&#8217; Special Forces are fighting for the first time in the heart of Khan Yunis.</p>\n<p>https://www.idf.il/159767</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Allowed for publication: The <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> Defense Forces&#8217; Special Forces are fighting for the first time in the heart of Khan Yunis. https://www.idf.il/159767</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4649",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4649
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4649",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4649"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4649/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4649"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4649"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4649"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

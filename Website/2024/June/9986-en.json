@@ -1,0 +1,124 @@
+{
+    "id": 9293,
+    "date": "2024-06-04T05:20:54",
+    "date_gmt": "2024-06-04T02:20:54",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/9986-en/"
+    },
+    "modified": "2024-06-04T05:20:54",
+    "modified_gmt": "2024-06-04T02:20:54",
+    "slug": "9986-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9986-en/",
+    "title": {
+        "rendered": "&#8220;IDF and Emergency Services Unite to Combat Northern Wildfires: Situation Assessment &#038; Updates&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces, together with firefighting and rescue forces; a joint operation to gain control over the fire sites in the northern part of the country.</p>\n<p>Attached is a video of the Northern Command Commander assessing the situation at the firefighting station in Kiryat Shmona: https://bit.ly/3VbljQU</p>\n<p>Attached are images of the Northern Command Commander assessing the situation at the firefighting station in Kiryat Shmona: https://idfanc.activetrail.biz/ANC04062-2476585</p>\n<p>Attached is a recording of the firefighting battalion commander (7763) of the Home Front Command, Lieutenant Colonel (res.) Shlomi Verdi: https://bit.ly/4c5dZgl</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces, together with firefighting and rescue forces; a joint operation to gain control over the fire sites in the northern part of the country. Attached is a video of the Northern Command Commander assessing the situation at the firefighting station in Kiryat Shmona: https://bit.ly/3VbljQU Attached are images of the Northern Command Commander assessing the situation at the firefighting station in Kiryat Shmona: https://idfanc.activetrail.biz/ANC04062-2476585 Attached is a recording of the firefighting battalion commander (7763) of the Home Front Command, Lieutenant Colonel (res.) Shlomi Verdi: https://bit.ly/4c5dZgl</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9293",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9293,
+        "he": 9294,
+        "ru": 9295
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9293",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9293"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9293/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9293"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9293"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9293"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

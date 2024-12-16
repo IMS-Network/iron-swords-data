@@ -1,0 +1,122 @@
+{
+    "id": 4320,
+    "date": "2023-12-31T22:04:13",
+    "date_gmt": "2023-12-31T20:04:13",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8474/"
+    },
+    "modified": "2023-12-31T22:04:13",
+    "modified_gmt": "2023-12-31T20:04:13",
+    "slug": "8474",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8474/",
+    "title": {
+        "rendered": "&#8220;IDF Successfully Intercepts Potential Threats: Airborne Targets Near Israeli Territory Neutralized&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>A short while ago, a combat aircraft from the air force successfully intercepted a suspected airborne target heading towards Israeli territory from the east. The airborne target was being tracked by IDF forces and did not cross into Israeli territory.</p>\n<p>In addition, following earlier alerts today about the penetration of a hostile aircraft in the north of the country, the air surveillance unit identified a suspected airborne target that crossed from Syrian territory towards Israeli territory. Combat aircraft from the air force successfully intercepted the target.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: A short while ago, a combat aircraft from the air force successfully intercepted a suspected airborne target heading towards Israeli territory from the east. The airborne target was being tracked by IDF forces and did not cross into Israeli territory. In addition, following earlier alerts today about the penetration of a hostile aircraft in the north of the country, the air surveillance unit identified a suspected airborne target that crossed from Syrian territory towards Israeli territory. Combat aircraft from the air force successfully intercepted the target.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4320",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4320
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4320",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4320"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4320/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4320"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4320"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4320"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 3405,
+    "date": "2024-04-11T11:34:09",
+    "date_gmt": "2024-04-11T08:34:09",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9409/"
+    },
+    "modified": "2024-04-11T11:34:09",
+    "modified_gmt": "2024-04-11T08:34:09",
+    "slug": "9409",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9409/",
+    "title": {
+        "rendered": "&#8220;IDF and Border Police Arrest Six Suspects, Seize Weapons Overnight in Judea and Samaria: Security Update&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF soldiers, the Shin Bet (Israel Security Agency) and Border Police operated overnight to arrest six suspects in Judea and Samaria; numerous weapons were discovered and confiscated in the Gush Etzion Brigade area. </p>\n<p>IDF soldiers, the Shin Bet, and Border Police operated overnight to arrest six suspects across Judea and Samaria.</p>\n<p>In Eizariya, in the Gush Etzion Brigade area, soldiers arrested two suspects and confiscated many weapons, including M-16 rifles, a pistol, and other weaponry.</p>\n<p>In Qabalan and Urif in Samaria, a suspect was arrested, and many means of warfare and incitement materials were confiscated. In Kalandia, in Binyamin, another suspect was arrested, and weapons and military equipment were confiscated.</p>\n<p>In Turmus Ayya and Bir al-Basha in Menashe, a suspect was arrested and suspects were interrogated. In Hebron, in Judea, another suspect was arrested.</p>\n<p>The arrested suspects and the confiscated weapons were transferred for further handling by the security forces; our forces did not suffer any casualties.</p>\n<p>So far, since the beginning of the conflict, about 3,700 suspects have been arrested across the Judea and Samaria Division and in the Jordan Valley and the Valleys Brigade, about 1,600 of them are affiliated with the Hamas terror organization.</p>\n<p>Attached is a photo of the confiscated weapons: https://idfanc.activetrail.biz/ANC1104202487598.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF soldiers, the Shin Bet (<a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> Security Agency) and Border Police operated overnight to arrest six suspects in Judea and Samaria; numerous weapons were discovered and confiscated in the Gush Etzion Brigade area. IDF soldiers, the Shin Bet, and Border Police operated overnight to arrest six suspects across Judea and Samaria. In Eizariya, in the Gush Etzion Brigade area, soldiers arrested two suspects and confiscated many weapons, including M-16 rifles, a pistol, and other weaponry. In Qabalan and Urif in Samaria, a suspect was arrested, and many means of warfare and incitement materials were confiscated. In Kalandia, in</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3405",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3405
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3405",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3405"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3405/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3405"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3405"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3405"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

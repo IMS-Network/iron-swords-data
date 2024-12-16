@@ -1,0 +1,122 @@
+{
+    "id": 4376,
+    "date": "2023-12-26T18:06:23",
+    "date_gmt": "2023-12-26T16:06:23",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8417/"
+    },
+    "modified": "2023-12-26T18:06:23",
+    "modified_gmt": "2023-12-26T16:06:23",
+    "slug": "8417",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8417/",
+    "title": {
+        "rendered": "&#8220;Chief of Staff Asserts: No Shortcuts in Dismantling a Terror Organization &#8211; The War Continues&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Watch the Chief of Staff&#8217;s statement:<br />\n&#8220;The war will continue for many more months and we will operate in different ways &#8211; there are no shortcuts in the fundamental dismantling of a terror organization&#8221;<br />\nhttps://www.idf.il/166758</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Watch the Chief of Staff&#8217;s statement: &#8220;The war will continue for many more months and we will operate in different ways &#8211; there are no shortcuts in the fundamental dismantling of a <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a>&#8221; https://www.idf.il/166758</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4376",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4376
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4376",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4376"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4376/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4376"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4376"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4376"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

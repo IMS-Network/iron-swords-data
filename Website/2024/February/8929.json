@@ -1,0 +1,122 @@
+{
+    "id": 3874,
+    "date": "2024-02-20T22:41:37",
+    "date_gmt": "2024-02-20T20:41:37",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8929/"
+    },
+    "modified": "2024-02-20T22:41:37",
+    "modified_gmt": "2024-02-20T20:41:37",
+    "slug": "8929",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8929/",
+    "title": {
+        "rendered": "&#8220;Jerusalem Terrorist&#8217;s Home to be Demolished: IDF Spokesperson Confirms Rejection of Family&#8217;s Appeal&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The Home Front Command Chief endorsed a demolition and sealing order for the house of the terrorist who carried out the shooting attack near Shalem police station in Jerusalem.</p>\n<p>The Home Front Command Chief, Major General Raffi Milo, endorsed today (Tuesday) the demolition and sealing order for the house where the terrorist, Khaled Almuhtaseb, resided in East Jerusalem. </p>\n<p>The terrorist carried out the shooting attack near Shalem police station in Jerusalem on the 12th of October, 2023. Two policemen were seriously and lightly wounded in the attack.</p>\n<p>The order was implemented after the appeal submitted by the terrorist&#8217;s family was rejected.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The Home Front Command Chief endorsed a demolition and sealing order for the house of the terrorist who carried out the shooting attack near Shalem police station in <a  href=\"https://iron-swords.co.il/t/jerusalem/\">Jerusalem</a>. The Home Front Command Chief, Major General Raffi Milo, endorsed today (Tuesday) the demolition and sealing order for the house where the terrorist, Khaled Almuhtaseb, resided in East Jerusalem. The terrorist carried out the shooting attack near Shalem police station in Jerusalem on the 12th of October, 2023. Two policemen were seriously and lightly wounded in the attack. The order was implemented after the appeal submitted by the terrorist&#8217;s</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3874",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3874
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3874",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3874"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3874/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3874"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3874"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3874"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

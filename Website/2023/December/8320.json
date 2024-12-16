@@ -1,0 +1,122 @@
+{
+    "id": 4473,
+    "date": "2023-12-19T08:52:14",
+    "date_gmt": "2023-12-19T06:52:14",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8320/"
+    },
+    "modified": "2023-12-19T08:52:14",
+    "modified_gmt": "2023-12-19T06:52:14",
+    "slug": "8320",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8320/",
+    "title": {
+        "rendered": "&#8220;IDF, Shin Bet, and Border Police Demolish Terrorist&#8217;s House: A Successful Night Operation Yields Arrests and Seizures in Samaria and Jude"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF soldiers, along with the Shin Bet and Border Police, destroyed last night in the village of Akraba in the Samaria Brigade, the house of the terrorist who committed the attack in Hawara, where Shai and Aviad Niereker were murdered; ten wanted individuals were arrested throughout Judea and Samaria.</p>\n<p>IDF reserve soldiers, Engineering Corps, Shin Bet, and Border Police demolished last night in the village of Akraba, in the Samaria Brigade, the house of the terrorist Osama Bani Fadel who carried out the attack in Hawara on 19.8.23, in which Shai and Aviad Niereker were murdered.</p>\n<p>In addition, the forces arrested ten wanted individuals throughout Judea and Samaria, including four identified with the Hamas terror organization. The forces confiscated an M-16 weapon in the village of Beit Ummar in the Etzion Brigade. As part of the operation to confiscate illegal vehicles in the village of Zurif, 40 vehicles were seized and in the village of Karawat Bani Hassan in the Ephraim Brigade, terror funds worth over 100,000 NIS were confiscated.</p>\n<p>The arrested suspects were transferred for further investigation by the security forces. No injuries were reported among our forces.</p>\n<p>Attached is documentation of the demolition of the terrorist&#8217;s house: https://bit.ly/41xUTvh</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF soldiers, along with the Shin Bet and Border Police, destroyed last night in the village of Akraba in the Samaria Brigade, the house of the terrorist who committed the attack in Hawara, where Shai and Aviad Niereker were murdered; ten wanted individuals were arrested throughout Judea and Samaria. IDF reserve soldiers, Engineering Corps, Shin Bet, and Border Police demolished last night in the village of Akraba, in the Samaria Brigade, the house of the terrorist Osama Bani Fadel who carried out the attack in Hawara on 19.8.23, in which Shai and Aviad Niereker were murdered. In addition,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4473",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4473
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4473",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4473"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4473/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4473"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4473"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4473"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

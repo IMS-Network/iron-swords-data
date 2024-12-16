@@ -1,0 +1,140 @@
+{
+    "id": 15761,
+    "date": "2024-08-04T00:00:00",
+    "date_gmt": "2024-08-03T21:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/04-08-2024/"
+    },
+    "modified": "2024-08-27T20:55:11",
+    "modified_gmt": "2024-08-27T17:55:11",
+    "slug": "04-08-2024",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/aid/04-08-2024/",
+    "title": {
+        "rendered": "Israel Aid and Humanitarian Efforts in Gaza: August 4, 2024"
+    },
+    "content": {
+        "rendered": "<h1>Humanitarian Aid Update</h1>\n<section>\n<h2>Aid Trucks Entry</h2>\n<p>39 trucks carrying humanitarian goods were coordinated to Gaza, via the Erez Crossing (August 4).</p>\n</section>\n<section>\n<h2>Current Aid Collection</h2>\n<p>About 450 trucks are still waiting to be collected from the Gazan side of Kerem Shalom (August 4).</p>\n</section>\n<section>\n<h2>Jordanian Route Coordination</h2>\n<p>39 trucks were coordinated via the Jordanian route yesterday.</p>\n</section>\n<section>\n<h2>Support for Northern Gaza</h2>\n<p>39 aid trucks and 4 fuel tankers were coordinated to northern Gaza yesterday.</p>\n</section>\n<section>\n<h2>Shelter Equipment Update</h2>\n<p>Since the start of the war, we have facilitated the entry of over 70,000 tons of shelter equipment into Gaza. This includes over 280,000 tents, enough for over 2 million people, distributed to various aid organizations in Gaza.</p>\n<p>On Friday (August 2), 15 trucks carrying 4,500 tents were offloaded on the Gazan side of Kerem Shalom.</p>\n</section>\n<section>\n<h2>Fuel Summary</h2>\n<p>During the month of July, over 3 million liters of fuel designated for the operation of vital humanitarian infrastructure entered Gaza. UN aid agencies can coordinate the entry of fuel for humanitarian and vital operations based on need, any day of the week.</p>\n</section>\n<section>\n<h2>Local Tactical Pause</h2>\n<p>Today, (August 4) between 10:00 and 14:00, the IDF will pause operations in the Al Awad neighborhood in Deir al Balah to enable the movement of humanitarian aid.</p>\n</section>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>39 aid trucks coordinated to <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>; over 70,000 tons delivered.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 15696,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        1338
+    ],
+    "tags": [
+        1352
+    ],
+    "class_list": [
+        "post-15761",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-aid",
+        "tag-daily-humanitarian-aid-update"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 15761,
+        "he": 15762,
+        "ru": 15763
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15761",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=15761"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15761/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 15764,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15761/revisions/15764"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/15696"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=15761"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=15761"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=15761"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

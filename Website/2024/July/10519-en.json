@@ -1,0 +1,124 @@
+{
+    "id": 7711,
+    "date": "2024-07-18T07:53:28",
+    "date_gmt": "2024-07-18T04:53:28",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10519-en/"
+    },
+    "modified": "2024-07-18T07:53:28",
+    "modified_gmt": "2024-07-18T04:53:28",
+    "slug": "10519-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10519-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Key Islamic Jihad Leaders Amid Ongoing Gaza Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF and the Shin Bet eliminated the head of the naval force in the city of Gaza for the Islamic Jihad and another terrorist from the organization who participated in the murderous massacre on October 7; IDF forces continue fighting in the Gaza Strip.</p>\n<p>Under the intelligence guidance of Shin Bet, Military Intelligence, and the Navy, an IDF aircraft attacked and eliminated the terrorist Anis Marad, head of the naval force in the Gaza city area for the Islamic Jihad terror organization.</p>\n<p>In a separate attack, an IDF aircraft, guided by Military Intelligence, Shin Bet, and the Southern Command, eliminated the terrorist Ahmad Al-Masri, who is affiliated with the Islamic Jihad terror organization and participated in the murderous massacre carried out by terrorist organizations in the Gaza perimeter on October 7. Additionally, the terrorist is responsible for numerous launches that crossed from the Shuja&#8217;iyya area towards southern communities.</p>\n<p>Combatants from the Givati Brigade have located several tunnel openings in the Rafah area over the past day, and in cooperation with the Air Force, eliminated several terrorists who posed a threat to our forces in the area.</p>\n<p>Yesterday (Wednesday), terrorists from the Hamas terror organization fired an RPG missile at IDF forces deep in the humanitarian corridor while aid trucks were traveling through it. IDF forces operated in the area to neutralize the cell. As a result of the fire, an IDF soldier from the Givati Brigade was moderately injured and was evacuated for medical treatment at a hospital; his family has been updated.</p>\n<p>Following the fire, the humanitarian corridor was closed for several hours, and then the distribution of aid along the humanitarian corridor returned to routine.</p>\n<p>The IDF, through the Coordinator of Government Activities in the Territories, will continue to operate in accordance with international law to facilitate humanitarian assistance for the residents of the Gaza Strip.</p>\n<p>Attached are photos from the forces&#8217; activities in the Gaza Strip: https://IDFANC.activetrail.biz/ANC1807202444664976</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF and the Shin Bet eliminated the head of the naval force in the city of <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> for the Islamic Jihad and another terrorist from the organization who participated in the murderous massacre on October 7; IDF forces continue fighting in the Gaza Strip. Under the intelligence guidance of Shin Bet, Military Intelligence, and the Navy, an IDF aircraft attacked and eliminated the terrorist Anis Marad, head of the naval force in the Gaza city area for the Islamic Jihad <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a>. In a separate attack, an IDF aircraft, guided by Military Intelligence, Shin Bet, and the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7711",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7711,
+        "he": 7712,
+        "ru": 7713
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7711",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7711"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7711/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7711"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7711"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7711"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

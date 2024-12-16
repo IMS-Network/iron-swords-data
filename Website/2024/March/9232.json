@@ -1,0 +1,122 @@
+{
+    "id": 3580,
+    "date": "2024-03-24T17:56:35",
+    "date_gmt": "2024-03-24T15:56:35",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9232/"
+    },
+    "modified": "2024-03-24T17:56:35",
+    "modified_gmt": "2024-03-24T15:56:35",
+    "slug": "9232",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9232/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Terror Targets in Lebanon: An In-depth Look at the Recent Military Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>A military infrastructure where terrorists were operating; combat aircraft attacked terror targets in Lebanese territory</p>\n<p>A short while ago, combat aircraft of the Air Force attacked a military building of the Hezbollah terror organization in the Ita al-Shaab area and another military infrastructure of the organization in the Al-Adaisseh area. This was after soldiers from Battalion 869 identified terrorists operating in it.</p>\n<p>During the day, three ATGM launches were identified towards Shetula and the Ramin ridge. IDF forces attacked the source of the fire along with several other areas in Lebanon that were attacked to eliminate the threat.</p>\n<p>Attached is a documentation of the attacks: https://bit.ly/3VuInM4</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: A military infrastructure where terrorists were operating; combat aircraft attacked terror targets in Lebanese territory A short while ago, combat aircraft of the Air Force attacked a military building of the <a  href=\"/hezbollah\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> in the Ita al-Shaab area and another military infrastructure of the organization in the Al-Adaisseh area. This was after soldiers from Battalion 869 identified terrorists operating in it. During the day, three ATGM launches were identified towards Shetula and the Ramin ridge. IDF forces attacked the source of the fire along with several other areas in Lebanon that were attacked to eliminate the threat.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3580",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3580
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3580",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3580"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3580/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3580"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3580"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3580"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

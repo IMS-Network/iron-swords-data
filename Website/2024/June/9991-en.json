@@ -1,0 +1,124 @@
+{
+    "id": 9278,
+    "date": "2024-06-04T13:00:06",
+    "date_gmt": "2024-06-04T10:00:06",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/9991-en/"
+    },
+    "modified": "2024-06-04T13:00:06",
+    "modified_gmt": "2024-06-04T10:00:06",
+    "slug": "9991-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9991-en/",
+    "title": {
+        "rendered": "&#8220;IDF Reports: Over 100 Hezbollah Operatives Neutralized in Ongoing Conflict&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Following the identification and closure of a circle by Collection Unit 869:<br />\nMore than 100 Hezbollah operatives have been eliminated since the beginning of the war.<br />\nhttps://www.idf.il/206533</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Following the identification and closure of a circle by Collection Unit 869: More than 100 <a  href=\"/hezbollah\">Hezbollah</a> operatives have been eliminated since the beginning of the war. https://www.idf.il/206533</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9278",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9278,
+        "he": 9279,
+        "ru": 9280
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9278",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9278"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9278/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9278"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9278"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9278"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

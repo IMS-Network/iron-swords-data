@@ -1,0 +1,124 @@
+{
+    "id": 8222,
+    "date": "2024-07-04T15:26:44",
+    "date_gmt": "2024-07-04T12:26:44",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10345-en/"
+    },
+    "modified": "2024-07-04T15:26:44",
+    "modified_gmt": "2024-07-04T12:26:44",
+    "slug": "10345-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10345-en/",
+    "title": {
+        "rendered": "&#8220;IDF Dismantles Terrorist Homes Following Route 1 Attack: Key Arrests Made in Judea and Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces destroyed the homes of two of the terrorists who carried out the shooting attack on Route 1 on February 1, 2024, in which Matan Almeli\u1e25, may his memory be a blessing, was murdered and additional civilians were injured.</p>\n<p>During the night, IDF forces in the Zatara area of the Etzion Brigade destroyed the homes of the terrorists Muhammad Zawahra and Khatem Zawahra. The two, along with another terrorist, executed the shooting attack on February 22, 2024, on Route 1 near the A-Zaim checkpoint, where Matan Almeli\u1e25, may his memory be a blessing, was murdered and several other Israeli civilians were injured.</p>\n<p>In addition, IDF fighters, along with the Shin Bet and Border Police, arrested three wanted individuals overnight throughout Judea and Samaria, including a wanted person in Tulkarem who incited to terrorism, a wanted individual in the Adna area of Judea suspected of incitement to terrorism, and another wanted person in the Qalqilya area.</p>\n<p>Furthermore, the forces confiscated equipment used for printing incitement materials for terrorist organizations in the Tulkarem area.</p>\n<p>The arrested individuals have been transferred for further investigation by the security forces, and there were no injuries to our forces.</p>\n<p>To date, approximately 4,150 wanted individuals have been arrested since the beginning of the war throughout the Judea and Samaria Division and the Jordan Valley Brigade. About 1,750 of them are affiliated with the terrorist organization Hamas.</p>\n<p>Attached is a documentation of the destruction of the terrorists&#8217; homes: https://bit.ly/3XKNt8d</p>\n<p>Attached are photos from the forces&#8217; operations: https://idfanc.activetrail.biz/ANC0407202487346</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces destroyed the homes of two of the terrorists who carried out the shooting attack on Route 1 on February 1, 2024, in which Matan Almeli\u1e25, may his memory be a blessing, was murdered and additional civilians were injured. During the night, IDF forces in the Zatara area of the Etzion Brigade destroyed the homes of the terrorists Muhammad Zawahra and Khatem Zawahra. The two, along with another terrorist, executed the shooting attack on February 22, 2024, on Route 1 near the A-Zaim checkpoint, where Matan Almeli\u1e25, may his memory be a blessing, was murdered and several</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8222",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8222,
+        "he": 8223,
+        "ru": 8224
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8222",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8222"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8222/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8222"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8222"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8222"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

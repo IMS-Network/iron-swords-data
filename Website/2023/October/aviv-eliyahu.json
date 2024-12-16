@@ -1,0 +1,134 @@
+{
+    "id": 2450,
+    "date": "2023-10-07T06:30:00",
+    "date_gmt": "2023-10-07T03:30:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=2450"
+    },
+    "modified": "2024-05-17T14:46:00",
+    "modified_gmt": "2024-05-17T11:46:00",
+    "slug": "aviv-eliyahu",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/victims/aviv-eliyahu/",
+    "title": {
+        "rendered": "Aviv eliyahu"
+    },
+    "content": {
+        "rendered": "\n<p>Aviv Eliyahu, 38, was the Security Manager of the Nova festival. When the Hamas artillery attack started, he ran to the stage and instructed everyone to get down on the ground and put their hands on their heads. He then hurried to the festival\u2019s entrance intersection to help direct people out of the area. He encountered a group of Hamas terrorists and neutralized them. Using the radio, he instructed security personnel to place a security patrol car at the entrance to prevent the terrorists from entering, but the patrol car was hit by an RPG and the terrorists breached the perimeter.<br><br>Aviv and his security guards were hit by the initial gunfire from Hamas terrorists, sacrificing their lives to protect the festival-goers. By doing so, they prevented a much larger massacre. Aviv died while bravely fighting the terrorists.<br><br>His brother Yanay, who was also at the festival, managed to escape, while another family member, Shlomi Ziv, was taken hostage by Hamas.<br></p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Aviv Eliyahu, 38, was the Security Manager of the Nova festival. When the <a  href=\"/hamas\">Hamas</a> artillery attack started, he ran to the stage and instructed everyone to get down on the ground and put their hands on their heads. He then hurried to the festival\u2019s entrance intersection to help direct people out of the area. He encountered a group of <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> terrorists and neutralized them. Using the radio, he instructed security personnel to place a security patrol car at the entrance to prevent the terrorists from entering, but the patrol car was hit by an RPG and the terrorists breached the</p>\n",
+        "protected": false
+    },
+    "author": 16,
+    "featured_media": 2451,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-october-7th-victims",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 21,
+        "footnotes": ""
+    },
+    "categories": [
+        21
+    ],
+    "tags": [
+        138,
+        34
+    ],
+    "class_list": [
+        "post-2450",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-victims",
+        "tag-elkosh",
+        "tag-nova"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2450
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2450",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/16"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2450"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2450/revisions"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/2451"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2450"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2450"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2450"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

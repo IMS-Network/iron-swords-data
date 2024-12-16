@@ -1,0 +1,122 @@
+{
+    "id": 4414,
+    "date": "2023-12-23T10:59:16",
+    "date_gmt": "2023-12-23T08:59:16",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8379/"
+    },
+    "modified": "2023-12-23T10:59:16",
+    "modified_gmt": "2023-12-23T08:59:16",
+    "slug": "8379",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8379/",
+    "title": {
+        "rendered": "&#8220;Over 700 Gaza Strip Terror Operatives Detained: An Unprecedented Joint Operation by IDF and Shin Bet&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint message to the IDF spokesperson and Shin Bet spokespeople:</p>\n<p>Within about a week: Over 200 Hamas and PLO terror operatives were arrested by IDF and Shin Bet forces in the Gaza Strip and taken for further investigation by Unit 504 of the Intelligence Corps and Shin Bet.</p>\n<p>IDF soldiers, in collaboration with Shin Bet, arrested hundreds of suspects involved in terrorist activity in the Gaza Strip within a week. Among them, over 200 Hamas and PLO terror operatives were taken for further investigation in Israeli territory. Some of the operatives who were arrested chose to hide in the civilian population and surrender, they were taken to Israel with field investigators of Unit 504 of the Intelligence Corps and Shin Bet coordinators.</p>\n<p>In total, more than 700 operatives from the terror organizations in the Gaza Strip were taken for investigation.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint message to the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a> and Shin Bet spokespeople: Within about a week: Over 200 <a  href=\"/hamas\">Hamas</a> and PLO terror operatives were arrested by IDF and Shin Bet forces in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip and taken for further investigation by Unit 504 of the Intelligence Corps and Shin Bet. IDF soldiers, in collaboration with Shin Bet, arrested hundreds of suspects involved in terrorist activity in the Gaza Strip within a week. Among them, over 200 <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> and PLO terror operatives were taken for further investigation in Israeli territory. Some of the operatives who were arrested chose to hide in the civilian</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4414",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4414
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4414",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4414"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4414/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4414"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4414"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4414"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

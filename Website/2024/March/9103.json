@@ -1,0 +1,122 @@
+{
+    "id": 3703,
+    "date": "2024-03-12T00:24:40",
+    "date_gmt": "2024-03-11T22:24:40",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9103/"
+    },
+    "modified": "2024-03-12T00:24:40",
+    "modified_gmt": "2024-03-11T22:24:40",
+    "slug": "9103",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9103/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes: Inside the Airstrikes on Hezbollah&#8217;s Terror Compounds in Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked two Hezbollah terror organization compounds deep in Lebanon</p>\n<p>A short while ago, combat aircraft attacked two compounds of the Hezbollah terror organization in the Bekaa Valley deep in Lebanon. The compounds are affiliated with the Hezbollah Air Force which planned and implemented various plots against the territory of the State of Israel.</p>\n<p>The attacks were carried out in response to Hezbollah&#8217;s operation of an airborne craft towards the Golan Heights in recent days.</p>\n<p>Attached is footage from the attack: https://bit.ly/43fI2i5</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked two <a  href=\"/hezbollah\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> compounds deep in Lebanon A short while ago, combat aircraft attacked two compounds of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terror organization in the Bekaa Valley deep in Lebanon. The compounds are affiliated with the Hezbollah Air Force which planned and implemented various plots against the territory of the State of <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>. The attacks were carried out in response to Hezbollah&#8217;s operation of an airborne craft towards the Golan Heights in recent days. Attached is footage from the attack: https://bit.ly/43fI2i5</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3703",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3703
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3703",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3703"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3703/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3703"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3703"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3703"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

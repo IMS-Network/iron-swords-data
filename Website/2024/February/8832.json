@@ -1,0 +1,122 @@
+{
+    "id": 3971,
+    "date": "2024-02-09T19:18:43",
+    "date_gmt": "2024-02-09T17:18:43",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8832/"
+    },
+    "modified": "2024-02-09T19:18:43",
+    "modified_gmt": "2024-02-09T17:18:43",
+    "slug": "8832",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8832/",
+    "title": {
+        "rendered": "&#8220;IDF Thwarts Missile Attacks from Lebanon: A Detailed Report on Successful Interceptions and Counter Strikes&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Following the alarms in the northern region: The IDF identified and destroyed one of the launchers from which the firing was carried out</p>\n<p>In response to alerts activated in the north of the country, dozens of launches from Lebanese territory were identified towards the Golan Heights region. The air defense fighters successfully intercepted many launches. No casualties occurred.</p>\n<p>The alerts in the Kiryat Shmona region and its periphery were activated following concern for interception debris, alerts were activated in other places in the Home Front Command region.</p>\n<p>After a short while, IDF forces identified one of the launchers from which the firing was carried out in the Cleat Daba area in Lebanon, an aircraft destroyed the launcher.</p>\n<p>Also, earlier today, a combat aircraft attacked a military building belonging to the Hezbollah terrorist organization in the  El-Hiyam area. In addition, the IDF attacked with artillery fire in several regions in Lebanon.</p>\n<p>Attached is documentation from the attack on the launcher and the military site: https://bit.ly/3wb8Xzn</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Following the alarms in the northern region: The IDF identified and destroyed one of the launchers from which the firing was carried out In response to alerts activated in the north of the country, dozens of launches from Lebanese territory were identified towards the Golan Heights region. The air defense fighters successfully intercepted many launches. No casualties occurred. The alerts in the Kiryat Shmona region and its periphery were activated following concern for interception debris, alerts were activated in other places in the Home Front Command region. After a short while, IDF forces identified one of the launchers</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3971",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3971
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3971",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3971"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3971/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3971"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3971"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3971"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

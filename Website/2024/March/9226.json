@@ -1,0 +1,122 @@
+{
+    "id": 3583,
+    "date": "2024-03-24T12:23:56",
+    "date_gmt": "2024-03-24T10:23:56",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9226/"
+    },
+    "modified": "2024-03-24T12:23:56",
+    "modified_gmt": "2024-03-24T10:23:56",
+    "slug": "9226",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9226/",
+    "title": {
+        "rendered": "&#8220;IDF and Shin Bet Launch Joint Operation: 40 Terror Targets Neutralized in Khan Yunis&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint message from IDF spokesperson and Shin Bet spokesperson:</p>\n<p>The IDF and Shin Bet have commenced an operation in the west of Khan Yunis; about 40 terror targets have been destroyed from the air, our forces have neutralized terrorists at short range in clashes.</p>\n<p>IDF and Shin Bet soldiers initiated an operation last night led by Brigade 98, in the Al-Amal neighborhood in western Khan Yunis, to continue dismantling terror infrastructures and neutralizing terrorists in the area. </p>\n<p>The operation began with an airstrike, in which air force combat aircraft destroyed about 40 terror targets. Among the targets attacked were military buildings, underground tunnels, and other terrorist infrastructure.</p>\n<p>In a combined coordination, fighters from the Commando Brigade, Givati and 7th Brigade are currently dominating the area and continue to neutralize terrorists in short range clashes.</p>\n<p>Attached is documentation from the attacks: https://bit.ly/3TuedG7</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint message from <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a> and Shin Bet spokesperson: The IDF and Shin Bet have commenced an operation in the west of Khan Yunis; about 40 terror targets have been destroyed from the air, our forces have neutralized terrorists at short range in clashes. IDF and Shin Bet soldiers initiated an operation last night led by Brigade 98, in the Al-Amal neighborhood in western Khan Yunis, to continue dismantling terror infrastructures and neutralizing terrorists in the area. The operation began with an airstrike, in which air force combat aircraft destroyed about 40 terror targets. Among the targets attacked were military</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3583",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3583
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3583",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3583"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3583/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3583"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3583"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3583"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

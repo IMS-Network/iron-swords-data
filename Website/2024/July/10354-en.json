@@ -1,0 +1,124 @@
+{
+    "id": 8195,
+    "date": "2024-07-05T09:33:41",
+    "date_gmt": "2024-07-05T06:33:41",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10354-en/"
+    },
+    "modified": "2024-07-05T09:33:41",
+    "modified_gmt": "2024-07-05T06:33:41",
+    "slug": "10354-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10354-en/",
+    "title": {
+        "rendered": "&#8220;IDF Operations Update: 100 Terrorists Neutralized in Gaza&#8217;s Shuja&#8217;iyya Area&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The forces of Division 98 have eliminated approximately 100 terrorists in the Shuja&#8217;iyya area; within two minutes: the terrorist who carried out the rocket attacks yesterday on Nahal Oz was eliminated.</p>\n<p>Fighters from the combat teams under Division 98 have eliminated around 100 terrorists since the beginning of operations in Shuja&#8217;iyya, destroyed more than 100 terrorist infrastructures, and located weapons in the area.</p>\n<p>In the past 24 hours, the combat teams of the Paratroopers Brigade have eliminated several terrorists who fired at our forces in the area. Additionally, the combat teams of Brigade 7 have eliminated dozens of armed terrorists in recent encounters, through tank fire, and by directing airstrikes by the Air Force.</p>\n<p>In a rapid closure of the loop by Brigade 7 and the Air Force, aircraft eliminated the terrorist who launched the rocket attacks on Nahal Oz yesterday (Thursday), just two minutes after he carried out the launches.</p>\n<p>In Rafah, the combat teams of Division 162 have eliminated dozens of terrorists in the past 24 hours and destroyed several booby-trapped buildings in the area.</p>\n<p>Fighters from the combat team of the &#8216;Old Man&#8217; Brigade (8) under Division 99 have eliminated several terrorists in the central Gaza Strip over the past day, including a terrorist who attempted to attack our forces and a group of terrorists who tried to plant explosives in the area.</p>\n<p>Throughout the last 24 hours, aircraft and fighter jets from the Air Force attacked approximately 50 terrorist targets across the Gaza Strip, including booby-trapped buildings, armed terrorist squads, and launch positions.</p>\n<p>Attached is documentation from IDF attacks in the Gaza Strip: https://bit.ly/4eSEFTE</p>\n<p>Attached is documentation from the activity of Brigade 7 in the Shuja&#8217;iyya area: https://bit.ly/4cpSaZJ</p>\n<p>Attached are images of weapons discovered by the fighters of Brigade 7 in Shuja&#8217;iyya: https://IDFANC.activetrail.biz/ANC05070202410329</p>\n<p>Attached are images from the activity of the forces in the Gaza Strip: https://IDFANC.activetrail.biz/ANC050720247456946</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The forces of Division 98 have eliminated approximately 100 terrorists in the Shuja&#8217;iyya area; within two minutes: the terrorist who carried out the rocket attacks yesterday on Nahal Oz was eliminated. Fighters from the combat teams under Division 98 have eliminated around 100 terrorists since the beginning of operations in Shuja&#8217;iyya, destroyed more than 100 terrorist infrastructures, and located weapons in the area. In the past 24 hours, the combat teams of the <a  href=\"https://iron-swords.co.il/t/paratroopers-brigade/\">Paratroopers Brigade</a> have eliminated several terrorists who fired at our forces in the area. Additionally, the combat teams of Brigade 7 have eliminated dozens of</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8195",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8195,
+        "he": 8196,
+        "ru": 8197
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8195",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8195"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8195/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8195"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8195"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8195"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

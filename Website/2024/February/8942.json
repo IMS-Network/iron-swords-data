@@ -1,0 +1,122 @@
+{
+    "id": 3861,
+    "date": "2024-02-22T18:45:23",
+    "date_gmt": "2024-02-22T16:45:23",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8942/"
+    },
+    "modified": "2024-02-22T18:45:23",
+    "modified_gmt": "2024-02-22T16:45:23",
+    "slug": "8942",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8942/",
+    "title": {
+        "rendered": "&#8220;IDF&#8217;s &#8216;Arrow&#8217; Defense System Intercepts Seventh Airborne Threat: A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The Air Force has neutralized an airborne threat &#8211; the seventh operational interception of the long-range defense system \u201cArrow\u201d since the beginning of the war.</p>\n<p>In the early hours of the morning, the &#8220;Arrow&#8221; air defense system identified a long-range ballistic target that was launched from the southeast towards the airspace of the State of Israel.</p>\n<p>The systems tracked the path of the missile, and soldiers from the &#8220;Arrow&#8221; unit in the air defense array intercepted it outside the borders of the State of Israel.</p>\n<p>Attached is a link from the battery commander in the &#8220;Arrow&#8221; unit, Lieutenant Colonel S&#8217;: https://bit.ly/3uJkzsY</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The Air Force has neutralized an airborne threat &#8211; the seventh operational interception of the long-range defense system \u201cArrow\u201d since the beginning of the war. In the early hours of the morning, the &#8220;Arrow&#8221; air defense system identified a long-range ballistic target that was launched from the southeast towards the airspace of the State of <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>. The systems tracked the path of the missile, and soldiers from the &#8220;Arrow&#8221; unit in the air defense array intercepted it outside the borders of the State of Israel. Attached is a link from the battery commander in the &#8220;Arrow&#8221; unit, Lieutenant</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3861",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3861
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3861",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3861"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3861/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3861"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3861"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3861"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 3317,
+    "date": "2024-04-19T10:33:49",
+    "date_gmt": "2024-04-19T07:33:49",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9503/"
+    },
+    "modified": "2024-04-19T10:33:49",
+    "modified_gmt": "2024-04-19T07:33:49",
+    "slug": "9503",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9503/",
+    "title": {
+        "rendered": "&#8220;IDF&#8217;s Nahal Brigade Continues to Neutralize Terrorists: A Look at Recent Attacks and Defense Strategies&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Fighters from the Nahal Brigade&#8217;s combat team continue to eliminate terrorists in the center of the strip; they were swiftly attacked by artillery fire and from the air, where a rocket was launched at Ashkelon.</p>\n<p>The combat team of the Nahal Brigade continues to fight in the center of the strip and has killed a number of terrorists throughout the day. In one of the attacks, after being detected from the air, two terrorists who approached our forces were killed in an air strike.</p>\n<p>Yesterday night, a rocket was launched at the city of Ashkelon, which fell in an open area. Within a few minutes, the 215th Fire Brigade attacked the area from which the launch was detected with artillery in Beit Lahia and an aircraft attacked a weapons warehouse in the area.</p>\n<p>Throughout the day, Air Force aircraft attacked and destroyed about 25 targets in support of the ground forces. Among the targets are military buildings, observation posts, launching positions, and other military infrastructures.</p>\n<p>Attached are photos from the forces&#8217; operations: https://IDFANC.activetrail.biz/ANC19042024.156156156</p>\n<p>Attached is documentation of IDF attacks in the strip: https://bit.ly/3xHBbT7</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Fighters from the <a  href=\"https://iron-swords.co.il/t/nahal-brigade/\">Nahal Brigade</a>&#8217;s combat team continue to eliminate terrorists in the center of the strip; they were swiftly attacked by artillery fire and from the air, where a rocket was launched at <a  href=\"https://iron-swords.co.il/t/ashkelon/\">Ashkelon</a>. The combat team of the Nahal Brigade continues to fight in the center of the strip and has killed a number of terrorists throughout the day. In one of the attacks, after being detected from the air, two terrorists who approached our forces were killed in an air strike. Yesterday night, a rocket was launched at the city of Ashkelon, which fell in</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3317",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3317
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3317",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3317"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3317/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3317"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3317"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3317"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

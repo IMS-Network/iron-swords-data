@@ -1,0 +1,122 @@
+{
+    "id": 3248,
+    "date": "2024-04-27T08:34:35",
+    "date_gmt": "2024-04-27T05:34:35",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9573/"
+    },
+    "modified": "2024-04-27T08:34:35",
+    "modified_gmt": "2024-04-27T05:34:35",
+    "slug": "9573",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9573/",
+    "title": {
+        "rendered": "&#8220;IDF Unit 636 Thwarts Terrorist Attack at Salem Outpost: Confiscates Weapons and Ensures Safety&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Fighters of Unit 636 eliminated two terrorists who fired at the Salem outpost in the Menashe Brigade.</p>\n<p>During the night, fighters of Unit 636 identified several terrorists who arrived by car and fired at the Salem outpost in the Menashe Brigade.<br />\nThe soldiers, who set up a proactive ambush due to similar past events, eliminated two terrorists, and confiscated two &#8220;M-16&#8221; type weapons used for the shooting.</p>\n<p>The confiscated war material has been forwarded for further treatment by the security forces, our forces did not suffer any casualties. </p>\n<p>Attached is a picture of the weapons used by the terrorists: https://IDFANC.activetrail.biz/ANC2704202404594309845</p>\n<p>Attached is a link to a message from the deputy commander, Unit 636 leader: https://bit.ly/3UBJg4P</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Fighters of Unit 636 eliminated two terrorists who fired at the Salem outpost in the Menashe Brigade. During the night, fighters of Unit 636 identified several terrorists who arrived by car and fired at the Salem outpost in the Menashe Brigade. The soldiers, who set up a proactive ambush due to similar past events, eliminated two terrorists, and confiscated two &#8220;M-16&#8221; type weapons used for the shooting. The confiscated war material has been forwarded for further treatment by the security forces, our forces did not suffer any casualties. Attached is a picture of the weapons used by the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3248",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3248
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3248",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3248"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3248/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3248"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3248"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3248"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

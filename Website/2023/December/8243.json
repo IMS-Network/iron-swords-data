@@ -1,0 +1,122 @@
+{
+    "id": 4550,
+    "date": "2023-12-13T11:52:36",
+    "date_gmt": "2023-12-13T09:52:36",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8243/"
+    },
+    "modified": "2023-12-13T11:52:36",
+    "modified_gmt": "2023-12-13T09:52:36",
+    "slug": "8243",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8243/",
+    "title": {
+        "rendered": "&#8220;Heroic Battles of the Golani Brigade in Shejaiya: An In-Depth Look at Their Fight Against Underground Terrorism&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>The Golani Brigade&#8217;s combat team is fighting in the casbah of Shejaiya; intense battles continue to be waged from civilian infrastructure and underground territories. The division commander to the combat troops: &#8220;Golani, like Golani, leads from the front &#8211; charges and leaves no one behind&#8221;</p>\n<p>The fighting team of the Golani Brigade and its commanders have been battling for about a week deep in the area of Shejaiya in Gaza City. In recent days, the brigade has been attacking terrorist infrastructure in the casbah of Shejaiya. The attack is an advanced stage in the effort to cleanse the neighborhood of Hamas terrorists and negate the organization&#8217;s capabilities. The casbah is a dense and complex area for tampering, Hamas terrorists operate from civilian infrastructures, and the neighborhood is full of undergrounds.</p>\n<p>As part of the attack, the brigade&#8217;s combat team encountered terrorists who threw explosives at the force and shot at them from a residential building that included an underground. The commanders in the field showed courage and composure, led from the front, and jumped to help and evacuate the wounded fighters to the back. As part of the heroic battle, some of the commanders and soldiers who came to help and evacuate the force in the building fell. Last night, at the end of the event, the commander of the 36th Brigade held a situation assessment with the commanders of the Golani Brigade&#8217;s combat team.</p>\n<p>Attached is documentation of the activities of the Golani Brigade&#8217;s combat team in Shejaiya: https://bit.ly/3GHD0R2</p>\n<p>Attached is documentation from the field situation assessment conducted by the 36th Brigade commander, Brigadier General Dado Bar Kalifa with the brigade commanders: https://bit.ly/3RIzhcA</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: The <a  href=\"https://iron-swords.co.il/t/golani-brigade-2/\">Golani Brigade</a>&#8217;s combat team is fighting in the casbah of Shejaiya; intense battles continue to be waged from civilian infrastructure and underground territories. The division commander to the combat troops: &#8220;Golani, like Golani, leads from the front &#8211; charges and leaves no one behind&#8221; The fighting team of the <a  href=\"https://iron-swords.co.il/t/golani-brigade/\">Golani Brigade</a> and its commanders have been battling for about a week deep in the area of Shejaiya in <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> City. In recent days, the brigade has been attacking terrorist infrastructure in the casbah of Shejaiya. The attack is an advanced stage in the effort to cleanse the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4550",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4550
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4550",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4550"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4550/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4550"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4550"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4550"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

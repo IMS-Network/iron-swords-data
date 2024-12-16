@@ -1,0 +1,122 @@
+{
+    "id": 3261,
+    "date": "2024-04-25T12:01:40",
+    "date_gmt": "2024-04-25T09:01:40",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9560/"
+    },
+    "modified": "2024-04-25T12:01:40",
+    "modified_gmt": "2024-04-25T09:01:40",
+    "slug": "9560",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9560/",
+    "title": {
+        "rendered": "&#8220;IDF&#8217;s Nighttime Crackdown: Arrests of Wanted Terror Suspects and Seizure of Military Equipment Across Judea and Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>In an operation in the Tul Karem area, IDF soldiers, Shin Bet and Border Police arrested six wanted suspects involved in terrorist activity; eight more suspects were arrested overnight throughout Judea and Samaria.</p>\n<p>IDF soldiers, Shin Bet, Border Police and Israeli Police operated overnight to arrest eight wanted suspects throughout Judea and Samaria.</p>\n<p>In a night operation in the area of Tul Karem in the Menashe Brigade, Duvdevan soldiers, Haruv Unit, Shin Bet and Border Police arrested six wanted suspects involved in terrorist activity. In the city of Hebron, in the Judea Brigade area, the forces arrested another wanted suspect.</p>\n<p>During an operation in Beit Furik in the Samaria Brigade area, a violent disturbance broke out, during which terrorists threw stones at the forces at the scene. The soldiers responded with gunfire and hits were identified. In addition, in Beit Dagan and Talfit in the Samaria Brigade area, the forces confiscated incitement materials alongside military equipment.</p>\n<p>In planned activity in Nabi Saleh in the Ephraim Brigade last night, soldiers arrested a wanted suspect, destroyed an explosive device and confiscated a Carl Gustav rifle. </p>\n<p>In Ramallah in the Binyamin Brigade area, terrorists threw stones at the forces operating in the area. The forces responded with gunfire and a hit was identified. </p>\n<p>The arrested suspects and seized war materials are transferred for further handling by the security forces, no injuries to our forces.</p>\n<p>So far, since the beginning of the war, about 3,850 wanted suspects have been arrested across the Judea and Samaria Division and in the Jordan Valley and Valleys Brigade, about 1,650 of them are affiliated with the terrorist organization Hamas.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: In an operation in the Tul Karem area, IDF soldiers, Shin Bet and Border Police arrested six wanted suspects involved in terrorist activity; eight more suspects were arrested overnight throughout Judea and Samaria. IDF soldiers, Shin Bet, Border Police and Israeli Police operated overnight to arrest eight wanted suspects throughout Judea and Samaria. In a night operation in the area of Tul Karem in the Menashe Brigade, Duvdevan soldiers, Haruv Unit, Shin Bet and Border Police arrested six wanted suspects involved in terrorist activity. In the city of Hebron, in the Judea Brigade area, the forces arrested another</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3261",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3261
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3261",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3261"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3261/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3261"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3261"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3261"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

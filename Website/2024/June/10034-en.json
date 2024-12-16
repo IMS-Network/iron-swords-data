@@ -1,0 +1,124 @@
+{
+    "id": 9149,
+    "date": "2024-06-08T09:45:39",
+    "date_gmt": "2024-06-08T06:45:39",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10034-en/"
+    },
+    "modified": "2024-06-08T09:45:39",
+    "modified_gmt": "2024-06-08T06:45:39",
+    "slug": "10034-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10034-en/",
+    "title": {
+        "rendered": "&#8220;IDF Enhances Security at U.S. Dock in Gaza for Humanitarian Aid Amid Ongoing Military Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF is reinforcing security at the American dock today in preparation for the entry of humanitarian aid in the coming days; troops from Brigade 162 continue to strike in the Rafah area.</p>\n<p>Today (Saturday), the IDF began to bolster the security of the American dock in Gaza in order to start bringing in humanitarian aid in the coming days.</p>\n<p>Troops from Brigade 162 are continuing intelligence-based operations against terrorist targets in the Rafah area.</p>\n<p>Combatants from Combat Team 401 conducted a raid in the area of the Tal Sultan battalion, during which they destroyed a military compound used for training terrorists from the Hamas terrorist organization. The soldiers eliminated terrorists who posed a threat to their forces, located numerous weapons and several tunnels.</p>\n<p>Fighting in eastern Deir al-Balah and eastern Al-Bureij, led by Brigade 98, continues. Over the past 24 hours, Air Force aircraft, in cooperation with brigade forces, have attacked dozens of terrorist infrastructures and terrorist cells, including a structure that served as a terrorist infrastructure with underground pathways disguised as a civilian building. As a result of the attack, secondary explosions were observed, indicating the presence of numerous weapons in the structure. Additionally, the forces attacked terrorists near an underground tunnel; as a result of the strikes, rockets that were ready for launch were fired and landed near the tunnel in the Gaza Strip. There are no casualties among our forces.</p>\n<p>As part of the activities of Brigade 99 in the central Gaza Strip, Air Force fighter jets eliminated a terrorist cell that had fired mortars during the week at our forces in the area; there are no casualties among our forces.</p>\n<p>Attached are photos from the forces&#8217; activities: https://idfanc.activetrail.biz/ANC0806202478787</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF is reinforcing security at the American dock today in preparation for the entry of humanitarian aid in the coming days; troops from Brigade 162 continue to strike in the Rafah area. Today (Saturday), the IDF began to bolster the security of the American dock in <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> in order to start bringing in humanitarian aid in the coming days. Troops from Brigade 162 are continuing intelligence-based operations against terrorist targets in the Rafah area. Combatants from Combat Team 401 conducted a raid in the area of the Tal Sultan battalion, during which they destroyed a military compound</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9149",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9149,
+        "he": 9150,
+        "ru": 9151
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9149",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9149"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9149/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9149"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9149"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9149"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

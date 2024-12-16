@@ -1,0 +1,124 @@
+{
+    "id": 7916,
+    "date": "2024-07-12T15:00:13",
+    "date_gmt": "2024-07-12T12:00:13",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10450-en/"
+    },
+    "modified": "2024-07-12T15:00:13",
+    "modified_gmt": "2024-07-12T12:00:13",
+    "slug": "10450-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10450-en/",
+    "title": {
+        "rendered": "&#8220;IDF Commando Brigade Raids UNRWA Compound: Uncovering Hamas Weapons and Equipment&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Identification of weapons and observation equipment:<br />\nFollowing intelligence information &#8211; the Commando Brigade raided a UNRWA compound used by Hamas.<br />\nhttps://www.idf.il/216203</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Identification of weapons and observation equipment: Following intelligence information &#8211; the Commando Brigade raided a <a  href=\"https://iron-swords.co.il/c/know-your-enemies/unrwa/\">UNRWA</a> compound used by <a  href=\"/hamas\">Hamas</a>. https://www.idf.il/216203</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7916",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7916,
+        "he": 7917,
+        "ru": 7918
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7916",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7916"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7916/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7916"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7916"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7916"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "id": 15933,
+    "date": "2024-06-05T00:00:00",
+    "date_gmt": "2024-06-04T21:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/05-06-2024/"
+    },
+    "modified": "2024-08-27T21:24:51",
+    "modified_gmt": "2024-08-27T18:24:51",
+    "slug": "05-06-2024",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/aid/05-06-2024/",
+    "title": {
+        "rendered": "Israel Aid and Humanitarian Efforts in Gaza: June 5, 2024"
+    },
+    "content": {
+        "rendered": "<h2>Humanitarian Aid Update for Gaza &#8211; June 4, 2024</h2>\n<p>Yesterday (June 4), a significant effort was made to provide humanitarian aid to Gaza. A total of 263 humanitarian aid trucks were transferred to the region, with 181 trucks entering via the Kerem Shalom crossing and 82 trucks via the Erez crossing.</p>\n<h3>Aid Capacity in Gaza</h3>\n<p>The Gazan side of Kerem Shalom is currently at full capacity, with the contents of over 1,000 aid trucks awaiting pickup by UN aid agencies as of June 4.</p>\n<h3>Fuel Supply for Essential Infrastructure</h3>\n<p>In addition to the aid trucks, 8 tankers of fuel designated for the operation of essential infrastructure in Gaza also entered the territory yesterday (June 4).</p>\n<h3>Healthcare Support Initiatives</h3>\n<p>The Indonesian Hospital, located in northern Gaza, became operational as of June 3, 2024. This initiative is part of a broader plan, in collaboration with international partners, to strengthen the health system in the Gaza Strip.</p>\n<h3>Airdrops of Humanitarian Aid</h3>\n<p>Humanitarian efforts included airdrops yesterday (June 4) that delivered 27 pallets containing tens of thousands of packages of aid into Gaza.</p>\n<h3>Coordination of Aid to Northern Gaza</h3>\n<p>A total of 82 trucks were coordinated for delivery to northern Gaza on June 4. Out of 50 overall coordination requests, 37 were approved. Specifically, out of 19 coordination requests to northern Gaza, 13 were approved, and out of 14 UN coordination requests, 13 were approved. Since January 1, 2024, 88% of all coordination requests have been approved.</p>\n<h3>Exit of Foreign Nationals</h3>\n<p>On June 4, 38 foreign nationals were scheduled to exit Gaza.</p>\n<h3>IDF Operations and Humanitarian Aid Movement</h3>\n<p>Today, June 5, between 10:00 and 14:00, the IDF will pause operations in the Al Rashid neighborhood in Khan Yunis to facilitate the movement of humanitarian aid.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>263 aid trucks sent to <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>; 88% request approval rate.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 15696,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        1338
+    ],
+    "tags": [
+        1352
+    ],
+    "class_list": [
+        "post-15933",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-aid",
+        "tag-daily-humanitarian-aid-update"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 15933,
+        "he": 15934,
+        "ru": 15935
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15933",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=15933"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15933/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 15936,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15933/revisions/15936"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/15696"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=15933"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=15933"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=15933"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

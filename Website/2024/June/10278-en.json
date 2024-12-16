@@ -1,0 +1,124 @@
+{
+    "id": 8420,
+    "date": "2024-06-28T14:00:04",
+    "date_gmt": "2024-06-28T11:00:04",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10278-en/"
+    },
+    "modified": "2024-06-28T14:00:04",
+    "modified_gmt": "2024-06-28T11:00:04",
+    "slug": "10278-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10278-en/",
+    "title": {
+        "rendered": "&#8220;Uncovering Terror Tactics: IDF Discovers &#8216;Snakes and Ladders&#8217; Game Targeting Israeli Cities in Rafah&#8221;"
+    },
+    "content": {
+        "rendered": "<p>During weapon scans in Rafah:<br />\nNahal Brigade scouts identified a &#8220;Snakes and Ladders&#8221; game with targets for attacks in Israeli cities.<br />\n[Link](https://www.idf.il/211965)</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>During weapon scans in Rafah: <a  href=\"https://iron-swords.co.il/t/nahal-brigade/\">Nahal Brigade</a> scouts identified a &#8220;Snakes and Ladders&#8221; game with targets for attacks in Israeli cities. [Link](https://www.idf.il/211965)</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8420",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8420,
+        "he": 8421,
+        "ru": 8422
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8420",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8420"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8420/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8420"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8420"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8420"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

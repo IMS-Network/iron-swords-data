@@ -1,0 +1,124 @@
+{
+    "id": 7401,
+    "date": "2024-07-25T11:10:48",
+    "date_gmt": "2024-07-25T08:10:48",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10625-en/"
+    },
+    "modified": "2024-07-25T11:10:48",
+    "modified_gmt": "2024-07-25T08:10:48",
+    "slug": "10625-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10625-en/",
+    "title": {
+        "rendered": "&#8220;IDF Launches Manhunt After Shooting Attack Near Nabi Elias: Two Soldiers Injured&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Following the initial report, assailants opened fire from a passing vehicle toward a military force that was on a mission to protect the route near Nabi Elias in the Ephraim Brigade.<br />\nIDF forces have launched a manhunt for the assailants, reinforcing routes and surrounding villages in the area.</p>\n<p>As a result of the shooting attack, two IDF soldiers operating in the area were lightly injured, and one additional soldier was moderately injured. The soldiers were evacuated for medical treatment at a hospital, and their families have been informed.</p>\n<p>Attached is documentation from the situational assessment at the scene of the attack in the Ephraim Brigade: https://bit.ly/3Ydj2aY</p>\n<p>Attached are photos on the subject: https://idfanc.activetrail.biz/ANC2507202487346</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Following the initial report, assailants opened fire from a passing vehicle toward a military force that was on a mission to protect the route near Nabi Elias in the Ephraim Brigade. IDF forces have launched a manhunt for the assailants, reinforcing routes and surrounding villages in the area. As a result of the shooting attack, two IDF soldiers operating in the area were lightly injured, and one additional soldier was moderately injured. The soldiers were evacuated for medical treatment at a hospital, and their families have been informed. Attached is documentation from the situational assessment at the scene</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7401",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7401,
+        "he": 7402,
+        "ru": 7403
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7401",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7401"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7401/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7401"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7401"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7401"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

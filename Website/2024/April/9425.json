@@ -1,0 +1,122 @@
+{
+    "id": 3389,
+    "date": "2024-04-13T16:40:31",
+    "date_gmt": "2024-04-13T13:40:31",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9425/"
+    },
+    "modified": "2024-04-13T16:40:31",
+    "modified_gmt": "2024-04-13T13:40:31",
+    "slug": "9425",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9425/",
+    "title": {
+        "rendered": "&#8220;IDF Security Operations Update: The Search and Discovery of Binyamin Achimeir&#8217;s Body&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Following the locating of Binyamin Achimeir&#8217;s body, attached is documentation of security forces&#8217; sweeps in the area in the last day: https://bit.ly/3U0cWH8</p>\n<p>Attached are photos from the situation assessment of the Judea and Samaria Division and Commander Binyamin at the event site: https://IDFANC.activetrail.biz/ANC13042024745937</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Following the locating of Binyamin Achimeir&#8217;s body, attached is documentation of security forces&#8217; sweeps in the area in the last day: https://bit.ly/3U0cWH8 Attached are photos from the situation assessment of the <a  href=\"https://iron-swords.co.il/t/judea-and-samaria-division/\">Judea and Samaria Division</a> and Commander Binyamin at the event site: https://IDFANC.activetrail.biz/ANC13042024745937</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3389",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3389
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3389",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3389"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3389/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3389"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3389"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3389"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

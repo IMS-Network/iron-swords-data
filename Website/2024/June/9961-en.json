@@ -1,0 +1,124 @@
+{
+    "id": 9365,
+    "date": "2024-06-02T09:56:02",
+    "date_gmt": "2024-06-02T06:56:02",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/9961-en/"
+    },
+    "modified": "2024-06-02T09:56:02",
+    "modified_gmt": "2024-06-02T06:56:02",
+    "slug": "9961-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9961-en/",
+    "title": {
+        "rendered": "&#8220;IDF Operations Update: Ongoing Combat and Targeted Strikes in Gaza Strip&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF forces continue fighting in the Gaza Strip; a launch site was destroyed in the Rafah area just minutes after launches were identified from it towards our forces.</p>\n<p>Forces from Division 162 continue fighting in the Rafah area, during which the soldiers located numerous weapons and eliminated armed terrorists in the area. In a coordinated operation between the Nahal Brigade and the Air Force, a launch site was destroyed just minutes after launches were identified from it towards our forces. There were no casualties among our forces in this event.</p>\n<p>Forces from Division 99 continue to operate in the central Gaza Strip. Over the past 24 hours, soldiers from Brigade 2, in collaboration with the Air Force, attacked terrorists who posed a threat to the forces. Additionally, during an operation by the multidimensional unit, the forces, in cooperation with the Air Force, targeted a group of terrorists located in a military structure who threatened the maneuvering forces in the area.</p>\n<p>Over the last 24 hours, Air Force fighter jets have attacked more than 30 terrorist targets, including military infrastructures, ammunition depots, and armed terrorist squads that posed a threat to forces on the ground.</p>\n<p>Attached are images from IDF operations in the strip: https://idfanc.activetrail.biz/ANC0206202474849</p>\n<p>Attached is documentation of IDF strikes in the strip: https://bit.ly/4aIL2G8</p>\n<p>Attached is documentation from IDF operations in the strip: https://bit.ly/4b0wPVf</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF forces continue fighting in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip; a launch site was destroyed in the Rafah area just minutes after launches were identified from it towards our forces. Forces from Division 162 continue fighting in the Rafah area, during which the soldiers located numerous weapons and eliminated armed terrorists in the area. In a coordinated operation between the <a  href=\"https://iron-swords.co.il/t/nahal-brigade/\">Nahal Brigade</a> and the Air Force, a launch site was destroyed just minutes after launches were identified from it towards our forces. There were no casualties among our forces in this event. Forces from Division 99 continue to operate in</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9365",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9365,
+        "he": 9366,
+        "ru": 9367
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9365",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9365"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9365/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9365"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9365"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9365"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

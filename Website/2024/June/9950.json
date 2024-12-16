@@ -1,0 +1,122 @@
+{
+    "id": 2875,
+    "date": "2024-06-01T08:59:38",
+    "date_gmt": "2024-06-01T05:59:38",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9950/"
+    },
+    "modified": "2024-06-01T08:59:38",
+    "modified_gmt": "2024-06-01T05:59:38",
+    "slug": "9950",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9950/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Back: Major Hezbollah Assets in Lebanon Under Attack&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Documentation: The IDF attacked significant assets of the Hezbollah terrorist organization in Lebanon</p>\n<p>In response to the launches executed towards the north of the country yesterday, air force fighter jets attacked significant assets of the Hezbollah terrorist organization in the Ain Qana region, and in the villages of Hameela and Adlon. Simultaneously, fighter jets attacked an observation post in the Tir Harfa area next to military buildings in the Al-Jibin and Al-Khiyam areas.</p>\n<p>Moreover, during the night, air force fighter jets attacked a launcher in the Majdal Zoun area, from which shots were fired at the ground yesterday, and a terror infrastructure in the Rashiya Al-Fukhar area.</p>\n<p>Following the alarm that was triggered a short while ago in the Misgav Am area, it was a false detection. A short while before that, two launches were detected crossing from Lebanese territory into the Yiftah area and fell in open territory.</p>\n<p>Attached is documentation of the attacks: https://bit.ly/4e19RzV</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Documentation: The IDF attacked significant assets of the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization in Lebanon In response to the launches executed towards the north of the country yesterday, air force fighter jets attacked significant assets of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization in the Ain Qana region, and in the villages of Hameela and Adlon. Simultaneously, fighter jets attacked an observation post in the Tir Harfa area next to military buildings in the Al-Jibin and Al-Khiyam areas. Moreover, during the night, air force fighter jets attacked a launcher in the Majdal Zoun area, from which shots were fired at the ground yesterday,</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2875",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2875
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2875",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2875"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2875/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2875"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2875"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2875"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

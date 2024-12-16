@@ -1,0 +1,122 @@
+{
+    "id": 3658,
+    "date": "2024-03-17T08:28:43",
+    "date_gmt": "2024-03-17T06:28:43",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9150/"
+    },
+    "modified": "2024-03-17T08:28:43",
+    "modified_gmt": "2024-03-17T06:28:43",
+    "slug": "9150",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9150/",
+    "title": {
+        "rendered": "&#8220;IDF&#8217;s Nahal and Givati Brigades Eliminate Terrorists, Neutralize Threats in Central Gaza Strip: A Day of Successful Collaborative Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>The combat team of the Nahal Brigade eliminated about 18 terrorists in the center of the strip from the air and the ground: simultaneously, the Air Force in cooperation with the combat team of the 7th Brigade attacked a building from which a rocket was fired at the forces.</p>\n<p>The Nahal Brigade&#8217;s combat team continues to operate in the center of the strip and has eliminated about 18 terrorists over the last day using sniper fire, shells, and successful collaboration with the Air Force. In one of the attacks, the brigade&#8217;s fire complex identified a cell of four terrorists close to the forces, and the Air Force forces surrounded and eliminated them by aircraft.</p>\n<p>In another attack, the forces spotted three terrorists entering a building, immediately after the terrorists exited the building an aircraft attacked and eliminated the cell. Additionally, the forces located a terrorist who left a military building in their sector, within minutes an aircraft attacked and eliminated the terrorist.</p>\n<p>The Givati Brigade&#8217;s combat soldiers continue to operate in the Khan Yunis area, over the past day the forces identified two terrorists loading military equipment onto a motorcycle and in collaboration with the Air Force, they eliminated them using an aircraft. In addition, the forces spotted and eliminated two terrorists who approached the forces. </p>\n<p>The combat soldiers of the 7th Brigade continue to operate and over the past day they eliminated terrorists and located weapons in Khan Yunis. In one operation the Air Force, in collaboration with the brigade&#8217;s fire complex, attacked a building from which a rocket was fired at the forces without casualties, in addition, a terrorist who was in close proximity to the forces was eliminated by an aircraft.</p>\n<p>Attached is documentation from the attacks in the Gaza Strip: https://bit.ly/3v4NjwF </p>\n<p>Attached are photos from the forces&#8217; activity in the Gaza Strip: https://IDFANC.activetrail.biz/ANC17032024546798</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: The combat team of the <a  href=\"https://iron-swords.co.il/t/nahal-brigade/\">Nahal Brigade</a> eliminated about 18 terrorists in the center of the strip from the air and the ground: simultaneously, the Air Force in cooperation with the combat team of the 7th Brigade attacked a building from which a rocket was fired at the forces. The Nahal Brigade&#8217;s combat team continues to operate in the center of the strip and has eliminated about 18 terrorists over the last day using sniper fire, shells, and successful collaboration with the Air Force. In one of the attacks, the brigade&#8217;s fire complex identified a cell of four</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3658",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3658
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3658",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3658"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3658/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3658"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3658"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3658"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

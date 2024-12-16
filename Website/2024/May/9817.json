@@ -1,0 +1,122 @@
+{
+    "id": 3008,
+    "date": "2024-05-21T22:04:51",
+    "date_gmt": "2024-05-21T19:04:51",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9817/"
+    },
+    "modified": "2024-05-21T22:04:51",
+    "modified_gmt": "2024-05-21T19:04:51",
+    "slug": "9817",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9817/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Targets across Southern Lebanon: An In-depth Analysis of Recent Combat Activities&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>In four different areas in southern Lebanon: The IDF attacked a series of terror targets of the terror organization Hezbollah</p>\n<p>A short time ago, combat aircraft attacked a series of targets of the terror organization Hezbollah in four different areas in southern Lebanon. Among the targets attacked were a Hezbollah terrorist cell in the El Adaysse area, a launcher that was used by the organization in the Halta area, and military buildings of Hezbollah in the areas of Yarun, Maroun al-Ras and Aita al-Shaab in southern Lebanon.</p>\n<p>Earlier today, a number of launches were identified crossing from Lebanon towards several areas in the north of the country, no injuries. IDF forces attacked the sources of fire with artillery.</p>\n<p>Attached is documentation of the attacks: https://bit.ly/4dHAn0W</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: In four different areas in southern Lebanon: The IDF attacked a series of terror targets of the <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> <a  href=\"/hezbollah\">Hezbollah</a> A short time ago, combat aircraft attacked a series of targets of the terror organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in four different areas in southern Lebanon. Among the targets attacked were a Hezbollah terrorist cell in the El Adaysse area, a launcher that was used by the organization in the Halta area, and military buildings of Hezbollah in the areas of Yarun, Maroun al-Ras and Aita al-Shaab in southern Lebanon. Earlier today, a number of launches were identified crossing from Lebanon</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3008",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3008
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3008",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3008"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3008/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3008"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3008"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3008"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

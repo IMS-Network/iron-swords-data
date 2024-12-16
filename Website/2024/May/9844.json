@@ -1,0 +1,122 @@
+{
+    "id": 2981,
+    "date": "2024-05-23T12:49:18",
+    "date_gmt": "2024-05-23T09:49:18",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9844/"
+    },
+    "modified": "2024-05-23T12:49:18",
+    "modified_gmt": "2024-05-23T09:49:18",
+    "slug": "9844",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9844/",
+    "title": {
+        "rendered": "&#8220;IDF Foils Armed Terrorist Plot: Unearthing Hidden Weapons in Jenin Hospital Compound&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Documentation: A team of armed terrorists was identified as they hid weapons in a vehicle in the hospital compound in Jenin. Force recon team &#8216;Carob&#8217; and Battalion 636 secured the area and eliminated the weapons. </p>\n<p>In the midst of an operation by the IDF and the Israeli Security Agency (Shin Bet) in Jenin in the Menashe Brigade area, an armed group of terrorists was identified firing at the forces by Battalion 636&#8217;s ambush soldiers. Directed from the air by a drone operator, the Carob force&#8217;s warriors pursued the group of terrorists who fled to a hospital to hide. </p>\n<p>The soldiers followed the terrorist&#8217;s course and managed to locate the vehicles in a parking lot near the hospital. The terrorists hid their weapons in the vehicle and fled on foot into the hospital compound. The soldiers broke into the vehicles and found inside them six weapons and ammunition used by the terrorists.</p>\n<p>Attached is documentation of the terrorists firing at the forces and fleeing in a vehicle to the hospital compound: https://bit.ly/3WOy5qZ</p>\n<p>Attached is additional documentation showing the terrorists fleeing to the hospital compound: https://bit.ly/3Vc7EtV</p>\n<p>Attached is documentation of breaking into the vehicle by the Carob Force: https://bit.ly/4bQ426A</p>\n<p>Attached is a photo of the located weapons: https://IDFANC.activetrail.biz/ANC23052024239467</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Documentation: A team of armed terrorists was identified as they hid weapons in a vehicle in the hospital compound in Jenin. Force recon team &#8216;Carob&#8217; and Battalion 636 secured the area and eliminated the weapons. In the midst of an operation by the IDF and the Israeli Security Agency (Shin Bet) in Jenin in the Menashe Brigade area, an armed group of terrorists was identified firing at the forces by Battalion 636&#8217;s ambush soldiers. Directed from the air by a drone operator, the Carob force&#8217;s warriors pursued the group of terrorists who fled to a hospital to hide.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2981",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2981
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2981",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2981"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2981/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2981"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2981"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2981"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

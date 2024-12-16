@@ -1,0 +1,122 @@
+{
+    "id": 3172,
+    "date": "2024-05-07T12:55:09",
+    "date_gmt": "2024-05-07T09:55:09",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9649/"
+    },
+    "modified": "2024-05-07T12:55:09",
+    "modified_gmt": "2024-05-07T09:55:09",
+    "slug": "9649",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9649/",
+    "title": {
+        "rendered": "&#8220;Decisive IDF Action: Combat Operations in Gaza Strip Neutralize Terrorist Cells and Infrastructure&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Fighter jets attacked and eliminated a terrorist cell that was identified by the combat team forces of the 679 Brigade entering a military building in the center of the Gaza Strip; fighters of the 99th Brigade continue to operate in the central corridor of the Strip.</p>\n<p>Yesterday (Monday), three launches were detected crossing from the north of the Gaza Strip towards the territory of the State of Israel, two of which were intercepted. A short time later, fighter jets and aircraft of the Air Force, led by the Gaza Brigade, targeted several military sites in the area, including a military building and additional terror infrastructures. </p>\n<p>Following the identification by observers from Battalion 414, aircraft of the Air Force, led by the Gaza Brigade, attacked and eliminated an armed terrorist cell in the Beit Hanoun area.</p>\n<p>The combat team forces of Brigade 679 continue to operate in the central corridor of the Gaza Strip. During the activity, the forces identified a terrorist cell entering a military building in the area, fighter planes attacked the building and eliminated the terrorists.</p>\n<p>Attached is documentation of the IDF attacks across the Strip: https://bit.ly/4bvIig5</p>\n<p>Attached are photos of IDF forces activities in the Strip: https://IDFANC.activetrail.biz/ANC0705203428346</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Fighter jets attacked and eliminated a terrorist cell that was identified by the combat team forces of the 679 Brigade entering a military building in the center of the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip; fighters of the 99th Brigade continue to operate in the central corridor of the Strip. Yesterday (Monday), three launches were detected crossing from the north of the Gaza Strip towards the territory of the State of <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>, two of which were intercepted. A short time later, fighter jets and aircraft of the Air Force, led by the Gaza Brigade, targeted several military sites in the area, including</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3172",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3172
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3172",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3172"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3172/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3172"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3172"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3172"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

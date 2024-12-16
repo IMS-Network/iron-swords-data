@@ -1,0 +1,124 @@
+{
+    "id": 9071,
+    "date": "2024-06-09T23:34:10",
+    "date_gmt": "2024-06-09T20:34:10",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10060-en/"
+    },
+    "modified": "2024-06-09T23:34:10",
+    "modified_gmt": "2024-06-09T20:34:10",
+    "slug": "10060-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10060-en/",
+    "title": {
+        "rendered": "&#8220;IDF Announces New Access Policy for Gaza Envelope: Key Changes Explained&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>According to the situation assessment, the Southern Command Commander has signed an order to change the policy regarding the closed military zones in several areas around the Gaza Envelope and in agricultural territories.</p>\n<p>As part of the changes to the closed areas, the space adjacent to Kibbutz Gvar&#8217;am will be opened, and civilians will be allowed to access the location. Additionally, the area near the Moshav of Shokeda will be closed, and access to it without prior coordination is prohibited.</p>\n<p>The order will take effect today, Sunday, June 9, 2024, at 23:59.</p>\n<p>Attached is the order as signed by the Southern Command Commander: https://did.li/tfuIw</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: According to the situation assessment, the Southern Command Commander has signed an order to change the policy regarding the closed military zones in several areas around the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Envelope and in agricultural territories. As part of the changes to the closed areas, the space adjacent to Kibbutz Gvar&#8217;am will be opened, and civilians will be allowed to access the location. Additionally, the area near the Moshav of Shokeda will be closed, and access to it without prior coordination is prohibited. The order will take effect today, Sunday, June 9, 2024, at 23:59. Attached is the order as signed</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9071",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9071,
+        "he": 9072,
+        "ru": 9073
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9071",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9071"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9071/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9071"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9071"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9071"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

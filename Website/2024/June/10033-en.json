@@ -1,0 +1,124 @@
+{
+    "id": 9152,
+    "date": "2024-06-07T20:55:39",
+    "date_gmt": "2024-06-07T17:55:39",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10033-en/"
+    },
+    "modified": "2024-06-07T20:55:39",
+    "modified_gmt": "2024-06-07T17:55:39",
+    "slug": "10033-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10033-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Key Hamas Leader in Rafah: Salama Muhammad Abu Ajaj Eliminated&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF eliminated a central terrorist figure from the General Security apparatus of the Hamas terror organization in Rafah.</p>\n<p>IAF fighter jets, guided by intelligence from the Intelligence Division, attacked and eliminated Salama Muhammad Abu Ajaj last night (Thursday), a leading figure in the General Security apparatus of the Hamas terror organization in the Rafah area. The General Security apparatus serves as a &#8220;cover&#8221; for Hamas&#8217;s military wing and plays crucial roles in ensuring the organization\u2019s survival, managing the ongoing military operations of Hamas, and disrupting the IDF&#8217;s operational freedom in the Gaza Strip.<br />\nAs part of his activities, Ajaj worked towards the continued foundation and military strengthening of the terror organization in the Rafah area.</p>\n<p>It is reported that as a result of the attack, the terrorist Iyad Al-Ma\u2019ari, the mayor of northern Nazareth, was also killed.</p>\n<p>Iyad Al-Ma\u2019ari was a terrorist with a rich background in the Hamas terror organization; he previously operated as part of the &#8220;West Bank Headquarters&#8221; of Hamas and had played a significant role in directing attacks in the Judea and Samaria region.</p>\n<p>Attached is the identity card of the terrorist Salama Muhammad Abu Ajaj: https://idfanc.activetrail.biz/ANC07062024547576</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF eliminated a central terrorist figure from the General Security apparatus of the <a  href=\"/hamas\">Hamas</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> in Rafah. IAF fighter jets, guided by intelligence from the Intelligence Division, attacked and eliminated Salama Muhammad Abu Ajaj last night (Thursday), a leading figure in the General Security apparatus of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> terror organization in the Rafah area. The General Security apparatus serves as a &#8220;cover&#8221; for Hamas&#8217;s military wing and plays crucial roles in ensuring the organization\u2019s survival, managing the ongoing military operations of Hamas, and disrupting the IDF&#8217;s operational freedom in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip. As part of his</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9152",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9152,
+        "he": 9153,
+        "ru": 9154
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9152",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9152"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9152/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9152"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9152"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9152"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 3729,
+    "date": "2024-03-08T19:50:36",
+    "date_gmt": "2024-03-08T17:50:36",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9077/"
+    },
+    "modified": "2024-03-08T19:50:36",
+    "modified_gmt": "2024-03-08T17:50:36",
+    "slug": "9077",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9077/",
+    "title": {
+        "rendered": "&#8220;Explosive Incident Injures Seven IDF Soldiers Near Silat ad-Dahr: Latest Updates on Search for Perpetrators&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>During IDF forces&#8217; activity near the village of Silat ad-Dahr in the Samaria Brigade earlier today, three IDF soldiers were moderately injured and four additional soldiers were slightly injured as a result of an explosive device going off in their vicinity.<br />\nThe soldiers were taken for medical treatment at a hospital, their families have been updated.<br />\nIDF forces continue to search for the terrorists in the area.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: During IDF forces&#8217; activity near the village of Silat ad-Dahr in the Samaria Brigade earlier today, three IDF soldiers were moderately injured and four additional soldiers were slightly injured as a result of an explosive device going off in their vicinity. The soldiers were taken for medical treatment at a hospital, their families have been updated. IDF forces continue to search for the terrorists in the area.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3729",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3729
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3729",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3729"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3729/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3729"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3729"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3729"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

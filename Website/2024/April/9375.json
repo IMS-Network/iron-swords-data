@@ -1,0 +1,122 @@
+{
+    "id": 3438,
+    "date": "2024-04-08T11:09:06",
+    "date_gmt": "2024-04-08T08:09:06",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9375/"
+    },
+    "modified": "2024-04-08T11:09:06",
+    "modified_gmt": "2024-04-08T08:09:06",
+    "slug": "9375",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9375/",
+    "title": {
+        "rendered": "&#8220;Massive IDF Operation: Over 3,700 Wanted Individuals Arrested Across Judea and Samaria&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson: </p>\n<p>IDF forces, Shin Bet, and border police operated last night to arrest 11 wanted individuals across Judea and Samaria. </p>\n<p>As part of the operation in the Binyamin brigade, the soldiers arrested four wanted individuals in the village of Al-Mu&#8217;ayyir, and in the village of Anata, the forces arrested another wanted individual and confiscated a handgun. </p>\n<p>In the El-Aroub area in the Etzion brigade, three wanted individuals were arrested.</p>\n<p>In the village of Dura in the Judea brigade, soldiers arrested a wanted individual and investigated dozens more suspects. </p>\n<p>The arrested wanted individuals and the confiscated weapons were handed over for further handling by security forces, no casualties to our forces.</p>\n<p>So far, since the beginning of the war, about 3,700 wanted individuals have been arrested across the Judea and Samaria division and in the Jordan Valley and Jezreel Valley brigades, about 1,600 of them are affiliated with the Hamas terrorist organization.</p>\n<p>Attached is footage from the forces&#8217; activities across Judea and Samaria: https://bit.ly/4cOMjxn</p>\n<p>Attached are photos from the forces&#8217; activities: https://IDFANC.activetrail.biz/ANC0804202456767389</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: IDF forces, Shin Bet, and border police operated last night to arrest 11 wanted individuals across Judea and Samaria. As part of the operation in the Binyamin brigade, the soldiers arrested four wanted individuals in the village of Al-Mu&#8217;ayyir, and in the village of Anata, the forces arrested another wanted individual and confiscated a handgun. In the El-Aroub area in the Etzion brigade, three wanted individuals were arrested. In the village of Dura in the Judea brigade, soldiers arrested a wanted individual and investigated dozens more suspects. The arrested wanted individuals and the confiscated weapons were handed over</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3438",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3438
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3438",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3438"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3438/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3438"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3438"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3438"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

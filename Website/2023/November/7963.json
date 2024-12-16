@@ -1,0 +1,122 @@
+{
+    "id": 4823,
+    "date": "2023-11-23T12:42:42",
+    "date_gmt": "2023-11-23T10:42:42",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/7963/"
+    },
+    "modified": "2023-11-23T12:42:42",
+    "modified_gmt": "2023-11-23T10:42:42",
+    "slug": "7963",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/7963/",
+    "title": {
+        "rendered": "&#8220;IDF Responds to 35 Missile Attacks from Lebanon: Updates and Tactics Revealed&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>In continuation of the alerts in the northern part of the country, about 35 launches from Lebanese territory were identified that crossed into Israeli territory. The air defense fighters intercepted several launches.<br />\nIn addition, terrorists have launched several anti-tank missiles and mortars towards various areas along the border since this morning.</p>\n<p>An IDF aircraft attacked several launchers from which the launches were made. In addition, IDF forces attacked with the &#8220;Steel Sting&#8221; combat method another launcher from which fire was carried out.</p>\n<p>Also, the IDF attacked the sources of fire with artillery.</p>\n<p>Attached is documentation of the launcher attack: https://bit.ly/3QUSOoa</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: In continuation of the alerts in the northern part of the country, about 35 launches from Lebanese territory were identified that crossed into Israeli territory. The air defense fighters intercepted several launches. In addition, terrorists have launched several anti-tank missiles and mortars towards various areas along the border since this morning. An IDF aircraft attacked several launchers from which the launches were made. In addition, IDF forces attacked with the &#8220;Steel Sting&#8221; combat method another launcher from which fire was carried out. Also, the IDF attacked the sources of fire with artillery. Attached is documentation of the launcher</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4823",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4823
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4823",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4823"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4823/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4823"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4823"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4823"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 3738,
+    "date": "2024-03-07T15:49:01",
+    "date_gmt": "2024-03-07T13:49:01",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9068/"
+    },
+    "modified": "2024-03-07T15:49:01",
+    "modified_gmt": "2024-03-07T13:49:01",
+    "slug": "9068",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9068/",
+    "title": {
+        "rendered": "&#8220;Israeli Defense Forces Strike Hezbollah Military Bases in Southern Lebanon: A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked military buildings of Hezbollah, a terrorist organization, in southern Lebanon.</p>\n<p>Fighter jets recently attacked two military buildings of the terrorist organization Hezbollah in the Ithron and Ayta ash-Shab regions.</p>\n<p>Yesterday (D&#8217;), in the evening hours, a military building of the organization in the Al-Matmura area and an observation post in the Al-Jibin area were attacked.</p>\n<p>In recent hours, launches from Lebanese territory to Israeli territory have been identified in the areas of Rosh Hanikra, Ya&#8217;ara, and the Upper Galilee, the IDF struck artillery sources of the shooting.</p>\n<p>Attached is documentation of the attacks: https://bit.ly/48Jq7l1</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked military buildings of <a  href=\"/hezbollah\">Hezbollah</a>, a terrorist organization, in southern Lebanon. Fighter jets recently attacked two military buildings of the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in the Ithron and Ayta ash-Shab regions. Yesterday (D&#8217;), in the evening hours, a military building of the organization in the Al-Matmura area and an observation post in the Al-Jibin area were attacked. In recent hours, launches from Lebanese territory to Israeli territory have been identified in the areas of Rosh Hanikra, Ya&#8217;ara, and the Upper Galilee, the IDF struck artillery sources of the shooting. Attached is documentation of the attacks: https://bit.ly/48Jq7l1</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3738",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3738
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3738",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3738"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3738/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3738"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3738"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3738"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

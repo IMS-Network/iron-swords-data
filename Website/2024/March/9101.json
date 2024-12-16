@@ -1,0 +1,122 @@
+{
+    "id": 3705,
+    "date": "2024-03-11T20:34:30",
+    "date_gmt": "2024-03-11T18:34:30",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9101/"
+    },
+    "modified": "2024-03-11T20:34:30",
+    "modified_gmt": "2024-03-11T18:34:30",
+    "slug": "9101",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9101/",
+    "title": {
+        "rendered": "&#8220;Joint IDF and Shin Bet Operation Thwarts Imminent Terror Attack: Key Details Revealed&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint message to the IDF spokesperson and Shin Bet spokespersons:</p>\n<p>The Duvdevan fighters and the Shin Bet eliminated a terrorist who planned to carry out an attack in the immediate timeframe.</p>\n<p>In a joint operation of the Duvdevan unit and Shin Bet fighters in the village of Zita in the Menashe brigade, a short while ago, directed by the Shin Bet, the terrorist Mohammed Ghabar, a resident of Jenin, was killed on his way to Israeli territory to carry out a close-range attack in the immediate timeframe, carrying a weapon and a ready-to-use explosive.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint message to the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a> and Shin Bet spokespersons: The Duvdevan fighters and the Shin Bet eliminated a terrorist who planned to carry out an attack in the immediate timeframe. In a joint operation of the <a  href=\"https://iron-swords.co.il/t/duvdevan-unit/\">Duvdevan unit</a> and Shin Bet fighters in the village of Zita in the Menashe brigade, a short while ago, directed by the Shin Bet, the terrorist Mohammed Ghabar, a resident of Jenin, was killed on his way to Israeli territory to carry out a close-range attack in the immediate timeframe, carrying a weapon and a ready-to-use explosive.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3705",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3705
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3705",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3705"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3705/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3705"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3705"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3705"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

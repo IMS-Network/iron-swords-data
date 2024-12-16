@@ -1,0 +1,140 @@
+{
+    "id": 16305,
+    "date": "2024-01-26T00:00:00",
+    "date_gmt": "2024-01-25T22:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/26-01-2024/"
+    },
+    "modified": "2024-08-27T23:22:19",
+    "modified_gmt": "2024-08-27T20:22:19",
+    "slug": "26-01-2024",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/aid/26-01-2024/",
+    "title": {
+        "rendered": "Israel Aid and Humanitarian Efforts in Gaza: Jan. 26, 2024"
+    },
+    "content": {
+        "rendered": "<h1>Humanitarian Aid Transfer to Gaza Strip: January 25 Update</h1>\n<p>On January 25, 2023, 60 trucks carrying humanitarian aid were transferred to the Gaza Strip. The trucks were inspected at Nitzana and transferred to Gaza via the Rafah Crossing, as Kerem Shalom was closed. Among the 60 trucks, 24 trucks were designated to carry food supplies.</p>\n<h2>Medical and Cooking Gas Supplies</h2>\n<p>Additionally, 7 ambulances were transferred to the Gaza Strip after undergoing inspection. Four tankers of cooking gas, which are essential for the operation of vital infrastructure in Gaza, also entered the Gaza Strip on the same day.</p>\n<h2>Coordination of Foreign Nationals</h2>\n<p>On January 26, 47 foreign nationals are scheduled for coordinated exit from the Gaza Strip.</p>\n<h2>Logistical Enhancements for Humanitarian Aid</h2>\n<p>Four warehouses have been established to enhance the logistic capacity of international organizations that are receiving humanitarian aid within the Gaza Strip. Coordination for the repair of vital infrastructure has been successfully completed.</p>\n<h2>Bakeries and Humanitarian Pause by IDF</h2>\n<p>Currently, 12 bakeries are operational, providing 2 million pita breads daily. Furthermore, on January 25, between 10:00 and 14:00, the IDF has announced a temporary pause in operations in the Al-Salam neighborhood in Dier al Balach, central Gaza, to allow for the movement of humanitarian aid.</p>\n<h2>Routing of Humanitarian Aid</h2>\n<p>Humanitarian aid, which includes food, water, medical supplies, and shelter equipment, is routed to Egypt and then forwarded to undergo Israeli security screening at either Nitzana or Kerem Shalom Crossings. After the screening, UN aid is sent to the Gaza Strip via Kerem Shalom, while other supplies are sent via the Rafah crossing in Egypt.</p>\n<h2>Future Humanitarian Aid Channels</h2>\n<p>A humanitarian aid delivery channel via Jordan is currently operational, with additional delivery channels also in the planning stages. It&#8217;s important to note that the volume of humanitarian aid is determined by factors including the capacity of humanitarian organizations within the Gaza Strip to absorb the aid.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>60 trucks of humanitarian aid entered <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>; critical infrastructure repairs ongoing.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 15696,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        1338
+    ],
+    "tags": [
+        1352
+    ],
+    "class_list": [
+        "post-16305",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-aid",
+        "tag-daily-humanitarian-aid-update"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 16305,
+        "he": 16306,
+        "ru": 16307
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16305",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=16305"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16305/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 16308,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16305/revisions/16308"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/15696"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=16305"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=16305"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=16305"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

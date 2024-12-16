@@ -1,0 +1,122 @@
+{
+    "id": 4076,
+    "date": "2024-01-28T18:39:31",
+    "date_gmt": "2024-01-28T16:39:31",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8724/"
+    },
+    "modified": "2024-01-28T18:39:31",
+    "modified_gmt": "2024-01-28T16:39:31",
+    "slug": "8724",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8724/",
+    "title": {
+        "rendered": "&#8220;IDF Launches Strategic Strikes Against Hezbollah&#8217;s Military Infrastructure in Lebanon: A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked targets of the Hezbollah terror organization in Lebanon; military buildings, sites, and positions used by the organization were hit.</p>\n<p>A short while ago, fighter jets attacked military buildings, observation posts, and military sites of the terrorist organization over wide areas, Al-Dhahira, Aita al-Shaab and additional areas in southern Lebanon.</p>\n<p>In addition, the IDF attacked an operational command center and terrorist infrastructure of Hezbollah earlier today (Monday). Also, a number of targets posing a threat in southern Lebanon were hit using artillery and tanks.</p>\n<p>During the day, a number of firings from Lebanon were identified that fell into open areas in the Margaliot and Zarit regions.</p>\n<p>Following the alarms activated in the Katzrin area, mortar shells were fired towards two suspected aerial targets, the event ended.</p>\n<p>Attached is footage from IDF attacks: https://bit.ly/3UnGxwd</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked targets of the <a  href=\"/hezbollah\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> in Lebanon; military buildings, sites, and positions used by the organization were hit. A short while ago, fighter jets attacked military buildings, observation posts, and military sites of the terrorist organization over wide areas, Al-Dhahira, Aita al-Shaab and additional areas in southern Lebanon. In addition, the IDF attacked an operational command center and terrorist infrastructure of <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> earlier today (Monday). Also, a number of targets posing a threat in southern Lebanon were hit using artillery and tanks. During the day, a number of firings from Lebanon were identified that</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4076",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4076
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4076",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4076"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4076/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4076"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4076"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4076"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

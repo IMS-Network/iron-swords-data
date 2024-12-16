@@ -1,0 +1,138 @@
+{
+    "id": 17550,
+    "date": "2024-09-12T17:05:12",
+    "date_gmt": "2024-09-12T14:05:12",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=17550"
+    },
+    "modified": "2024-09-12T17:05:17",
+    "modified_gmt": "2024-09-12T14:05:17",
+    "slug": "january-2024",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/terror-attacks/january-2024/",
+    "title": {
+        "rendered": "Palestinian Terrorism |\u00a0January 2024"
+    },
+    "content": {
+        "rendered": "\n<p><strong>January 7</strong> \u2013 A Border Police fighter was killed and 3 additional fighters were injured during a counter-terrorism operation in the Jenin refugee camp.</p>\n\n\n\n<p><strong>January 7</strong> \u2013 The Wadi Haramiya attack: A 30-year-old Israeli Arab was murdered in a shooting attack, and a Christian Arab woman was critically injured and died three weeks later.</p>\n\n\n\n<p><strong>January 7</strong> \u2013 A stabbing attack at the Givat Ze&#8217;ev checkpoint, where 2 IDF soldiers were lightly injured.</p>\n\n\n\n<p><strong>January 12</strong> \u2013 A group of Palestinian terrorists infiltrated the settlement of Adora in the Hebron Hills. Two Jewish residents were injured by gunfire, and the 3 Palestinian terrorists were killed.</p>\n\n\n\n<p><strong>January 15</strong> \u2013 The combined attack in Ra&#8217;anana: Two Palestinian terrorists from Bani Na&#8217;im stabbed a driver and stole her vehicle, injuring more than 18 people and murdering a woman in her seventies in a combined stabbing and ramming attack across multiple locations in Jerusalem streets, Haroshet, and Ahuza in Ra&#8217;anana. The Palestinian terrorists were later arrested.</p>\n\n\n\n<p><strong>January 23</strong> \u2013 A Palestinian terrorist armed with a handgun and riding a scooter arrived at a pillbox near the Einav junction and opened fire at a reserve force of Battalion 9306 stationed there. The soldiers returned fire and neutralized the Palestinian terrorist. No soldiers were injured.</p>\n\n\n\n<p><strong>January 29</strong> \u2013 A Palestinian terrorist attempted to carry out a stabbing attack at the entrance to Tekoa and was killed by soldiers from the Tavor Battalion of the Rescue and Training Brigade.</p>\n\n\n\n<p><strong>January 29</strong> \u2013 A Palestinian resident of Tamra carried out a car-ramming attack, severely injuring an IDF soldier at the entrance to the Naval Training Base in Haifa. The Palestinian terrorist then attempted to continue the attack with an axe and was killed.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>In January, Palestinians carried out 515 terrorist attacks, including stone-throwing incidents, resulting in 4 deaths and 41 injuries.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 17542,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1570,
+        "footnotes": ""
+    },
+    "categories": [
+        1570
+    ],
+    "tags": [
+        1574
+    ],
+    "class_list": [
+        "post-17550",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-terror-attacks",
+        "tag-palestinian-terrorism"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 17550
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/17550",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=17550"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/17550/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 17551,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/17550/revisions/17551"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/17542"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=17550"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=17550"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=17550"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

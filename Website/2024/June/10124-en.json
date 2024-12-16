@@ -1,0 +1,124 @@
+{
+    "id": 8879,
+    "date": "2024-06-14T13:18:40",
+    "date_gmt": "2024-06-14T10:18:40",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10124-en/"
+    },
+    "modified": "2024-06-14T13:18:40",
+    "modified_gmt": "2024-06-14T10:18:40",
+    "slug": "10124-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10124-en/",
+    "title": {
+        "rendered": "&#8220;IDF Air Force Intercepts 11 Hostile Aircraft from Hezbollah: 72-Hour Update&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Interception of 11 hostile aircraft launched from Lebanon; documentation from the Air Force&#8217;s air defense operations</p>\n<p>In the last 72 hours, the terrorist organization Hezbollah has launched 16 hostile aircraft towards Israeli territory. Of these, air defense systems and fighter jets successfully intercepted 11 hostile aircraft.</p>\n<p>The Air Force is working to thwart any terrorist activities as part of its mission to protect the skies of the state, using fighter jets, air defense systems, and control units, and continues to operate to safeguard Israel&#8217;s borders 24/7.</p>\n<p>Attached is documentation of the interception of hostile targets in the northern area: https://bit.ly/4c0540f</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Interception of 11 hostile aircraft launched from Lebanon; documentation from the Air Force&#8217;s air defense operations In the last 72 hours, the terrorist organization <a  href=\"/hezbollah\">Hezbollah</a> has launched 16 hostile aircraft towards Israeli territory. Of these, air defense systems and fighter jets successfully intercepted 11 hostile aircraft. The Air Force is working to thwart any terrorist activities as part of its mission to protect the skies of the state, using fighter jets, air defense systems, and control units, and continues to operate to safeguard <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>&#8217;s borders 24/7. Attached is documentation of the interception of hostile targets in the northern</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8879",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8879,
+        "he": 8880,
+        "ru": 8881
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8879",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8879"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8879/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8879"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8879"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8879"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

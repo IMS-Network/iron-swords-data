@@ -1,0 +1,122 @@
+{
+    "id": 3855,
+    "date": "2024-02-23T12:03:51",
+    "date_gmt": "2024-02-23T10:03:51",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8948/"
+    },
+    "modified": "2024-02-23T12:03:51",
+    "modified_gmt": "2024-02-23T10:03:51",
+    "slug": "8948",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8948/",
+    "title": {
+        "rendered": "&#8220;Inside Flotilla 3&#8217;s Massive Sea Exercise: Torpedo Boats, &#8216;Bat&#8217; Helicopters and STEEL Missiles in Action&#8221;"
+    },
+    "content": {
+        "rendered": "<p>A broad exercise of torpedo boats, SHALDAG-class fast patrol boats, working with &#8220;Bat&#8221; helicopters and STEEL missile launch in the heart of the sea:<br />\nA wide-scale training of Flotilla 3 for simulated combat in the northern arena has concluded.<br />\nhttps://www.idf.il/182178</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>A broad exercise of torpedo boats, SHALDAG-class fast patrol boats, working with &#8220;Bat&#8221; helicopters and STEEL missile launch in the heart of the sea: A wide-scale training of Flotilla 3 for simulated combat in the northern arena has concluded. https://www.idf.il/182178</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3855",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3855
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3855",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3855"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3855/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3855"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3855"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3855"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

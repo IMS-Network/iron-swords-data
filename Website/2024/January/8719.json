@@ -1,0 +1,122 @@
+{
+    "id": 4081,
+    "date": "2024-01-28T08:55:06",
+    "date_gmt": "2024-01-28T06:55:06",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8719/"
+    },
+    "modified": "2024-01-28T08:55:06",
+    "modified_gmt": "2024-01-28T06:55:06",
+    "slug": "8719",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8719/",
+    "title": {
+        "rendered": "&#8220;Unveiling IDF&#8217;s Strategic Battles: Conquering Terror in Khan Yunis &#038; Northern Regions&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Fighters from the 98th Division continue their fierce battle in Khan Yunis; simultaneously, in the northern region, fighters from the 5th Brigade&#8217;s combat team have located and destroyed a tunnel that served the terrorists in the area.</p>\n<p>Commando Brigade fighters continue their fierce battle in Khan Yunis. Egoz Unit fighters identified a group of terrorists armed with RPGs and eliminated them. Maglan Unit fighters eliminated several terrorists and found weapons in the area.</p>\n<p>Paratroopers Brigade&#8217;s combat team soldiers continue to attack terror targets in Khan Yunis. The fighters eliminated terrorists and found numerous weapons.</p>\n<p>In coordination with the 7th Brigade&#8217;s fire system, the Air Force eliminated two terrorists in the city using a fighter jet.</p>\n<p>In the northern region, fighters from the 5th Brigade&#8217;s combat team found a tunnel and destroyed it. Additionally, the fighters eliminated terrorists and found weapons in the area.</p>\n<p>In the central region, the Nahal Brigade&#8217;s combat team&#8217;s fire system targeted a remotely piloted aircraft that eliminated a terrorist nearby. Throughout the day, the combat team&#8217;s fighters eliminated additional terrorists.</p>\n<p>Attached is footage from the attacks in the Gaza Strip: https://bit.ly/47X0EUS</p>\n<p>Attached are photos from the forces&#8217; activity in the Strip: https://IDFANC.activetrail.biz/ANC2801202496854</p>\n<p>Attached is a photo of the weapons found by Paratroopers Brigade fighters in Khan Yunis: https://IDFANC.activetrail.biz/ANC28012024039848746</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Fighters from the 98th Division continue their fierce battle in Khan Yunis; simultaneously, in the northern region, fighters from the 5th Brigade&#8217;s combat team have located and destroyed a tunnel that served the terrorists in the area. Commando Brigade fighters continue their fierce battle in Khan Yunis. Egoz Unit fighters identified a group of terrorists armed with RPGs and eliminated them. Maglan Unit fighters eliminated several terrorists and found weapons in the area. <a  href=\"https://iron-swords.co.il/t/paratroopers-brigade/\">Paratroopers Brigade</a>&#8217;s combat team soldiers continue to attack terror targets in Khan Yunis. The fighters eliminated terrorists and found numerous weapons. In coordination with the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4081",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4081
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4081",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4081"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4081/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4081"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4081"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4081"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

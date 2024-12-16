@@ -1,0 +1,124 @@
+{
+    "id": 7805,
+    "date": "2024-07-16T00:40:35",
+    "date_gmt": "2024-07-15T21:40:35",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10487-en/"
+    },
+    "modified": "2024-07-16T00:40:35",
+    "modified_gmt": "2024-07-15T21:40:35",
+    "slug": "10487-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10487-en/",
+    "title": {
+        "rendered": "&#8220;IDF Mistakenly Shoots at Israeli Vehicle: Two Civilians Injured in Incident&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>An IDF force operating in the area of the Benjamin Brigade recently opened fire towards a vehicle identified by the force as suspicious. Following an initial investigation, it was determined that the fire was mistakenly directed at an Israeli vehicle, and the incident is under investigation.</p>\n<p>As a result of the shooting, two Israeli civilians were lightly injured and evacuated for medical treatment at a hospital.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: An IDF force operating in the area of the Benjamin Brigade recently opened fire towards a vehicle identified by the force as suspicious. Following an initial investigation, it was determined that the fire was mistakenly directed at an Israeli vehicle, and the incident is under investigation. As a result of the shooting, two Israeli civilians were lightly injured and evacuated for medical treatment at a hospital.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7805",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7805,
+        "he": 7806,
+        "ru": 7807
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7805",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7805"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7805/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7805"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7805"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7805"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

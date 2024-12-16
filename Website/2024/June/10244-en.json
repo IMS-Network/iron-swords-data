@@ -1,0 +1,124 @@
+{
+    "id": 8522,
+    "date": "2024-06-25T16:38:10",
+    "date_gmt": "2024-06-25T13:38:10",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10244-en/"
+    },
+    "modified": "2024-06-25T16:38:10",
+    "modified_gmt": "2024-06-25T13:38:10",
+    "slug": "10244-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10244-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah: Air and Artillery Attacks in Southern Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Terror infrastructure and military buildings; the IDF continues to attack Hezbollah targets in Lebanon</p>\n<p>Fighter jets attacked military structures earlier today, alongside the terror infrastructure of the terrorist organization Hezbollah in the al-Hiyam and al-Adaysah areas of southern Lebanon.</p>\n<p>In addition, the IDF carried out artillery fire in the areas of Blydeh, Labouna, al-Nakura, and Shouba in southern Lebanon.</p>\n<p>Following alerts triggered by suspicions of an incursion by hostile aircraft in the northern part of the country, air defense fighters successfully intercepted two aerial targets that crossed from Lebanese territory into Israel; no injuries were reported. Alerts for rocket and missile fire were activated due to concerns about falling debris from the interceptions.</p>\n<p>Attached is footage from the attacks: https://bit.ly/4beF5kh</p>\n<p>Attached is footage of the interception of an aerial target by air defense fighters: https://bit.ly/3xANgtB</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Terror infrastructure and military buildings; the IDF continues to attack <a  href=\"/hezbollah\">Hezbollah</a> targets in Lebanon Fighter jets attacked military structures earlier today, alongside the terror infrastructure of the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in the al-Hiyam and al-Adaysah areas of southern Lebanon. In addition, the IDF carried out artillery fire in the areas of Blydeh, Labouna, al-Nakura, and Shouba in southern Lebanon. Following alerts triggered by suspicions of an incursion by hostile aircraft in the northern part of the country, air defense fighters successfully intercepted two aerial targets that crossed from Lebanese territory into <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>; no injuries were reported. Alerts for</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8522",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8522,
+        "he": 8523,
+        "ru": 8524
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8522",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8522"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8522/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8522"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8522"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8522"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

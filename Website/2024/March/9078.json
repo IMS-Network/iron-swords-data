@@ -1,0 +1,122 @@
+{
+    "id": 3728,
+    "date": "2024-03-08T20:10:56",
+    "date_gmt": "2024-03-08T18:10:56",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9078/"
+    },
+    "modified": "2024-03-08T20:10:56",
+    "modified_gmt": "2024-03-08T18:10:56",
+    "slug": "9078",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9078/",
+    "title": {
+        "rendered": "&#8220;Israeli Combat Aircraft Strike Terror Targets in South Lebanon: A Detailed Report on IDF Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>A military position from which launches were made into the territory of Israel, along with other terror targets; combat aircraft attacked in South Lebanon.</p>\n<p>A short time ago, combat aircraft attacked a number of terror targets in South Lebanon. Among the targets attacked were a military building in a spacious area, a terror infrastructure in the Labona area, and a military position in the Aita al-Shaab area, from which launches were carried out into the territory of Israel. Secondary explosions were identified at the end of the attack on the position, indicating the presence of weapons stored at the position.</p>\n<p>Throughout the day, a number of launches from Lebanese territory toward several areas in the north of the country were identified. IDF forces attacked the source of the fire.</p>\n<p>Attached is documentation on the subject: https://bit.ly/3TsRgEv</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: A military position from which launches were made into the territory of <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>, along with other terror targets; combat aircraft attacked in South Lebanon. A short time ago, combat aircraft attacked a number of terror targets in South Lebanon. Among the targets attacked were a military building in a spacious area, a terror infrastructure in the Labona area, and a military position in the Aita al-Shaab area, from which launches were carried out into the territory of Israel. Secondary explosions were identified at the end of the attack on the position, indicating the presence of weapons stored at</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3728",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3728
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3728",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3728"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3728/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3728"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3728"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3728"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": 7174,
+    "date": "2024-07-31T10:25:12",
+    "date_gmt": "2024-07-31T07:25:12",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10699-en/"
+    },
+    "modified": "2024-07-31T10:25:12",
+    "modified_gmt": "2024-07-31T07:25:12",
+    "slug": "10699-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10699-en/",
+    "title": {
+        "rendered": "&#8220;IDF Operations: Targeting Terrorism in Gaza &#8211; Division 252 Strikes Key Threats&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Soldiers of Division 252 eliminated a cell of terrorists who had planted explosives in the center of the Gaza Strip with the aim of harming our forces.</p>\n<p>The task force of Brigade 401, under the command of Division 162, continues to operate in the Tel al-Sultan area, conducting targeted raids on terror infrastructure and eliminating terrorists.</p>\n<p>At the same time, forces from Division 252 are operating in the center of the Gaza Strip. The forces are conducting targeted raids and destroying terror infrastructure. During the operation, the soldiers identified a cell of terrorists planting explosives in the area with the intention of harming the forces, and an IDF aircraft attacked and eliminated the cell.</p>\n<p>Over the past day, aircraft and fighter jets of the Israeli Air Force have attacked dozens of terror targets in the Gaza Strip. Among the targets attacked were terror infrastructure, terrorists, underground shafts, positions, and military buildings.</p>\n<p>Attached is documentation of IDF operations in the Gaza Strip: https://bit.ly/3Sx5Mdz</p>\n<p>Attached are images from IDF operations in the Gaza Strip: https://IDFANC.activetrail.biz/ANC3107202462389729872</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Soldiers of Division 252 eliminated a cell of terrorists who had planted explosives in the center of the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip with the aim of harming our forces. The task force of Brigade 401, under the command of Division 162, continues to operate in the Tel al-Sultan area, conducting targeted raids on terror infrastructure and eliminating terrorists. At the same time, forces from Division 252 are operating in the center of the Gaza Strip. The forces are conducting targeted raids and destroying terror infrastructure. During the operation, the soldiers identified a cell of terrorists planting explosives in the area</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7174",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7174,
+        "he": 7175,
+        "ru": 7176
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7174",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7174"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7174/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7174"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7174"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7174"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

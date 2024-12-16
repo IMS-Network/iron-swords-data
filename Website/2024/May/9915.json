@@ -1,0 +1,122 @@
+{
+    "id": 2910,
+    "date": "2024-05-29T06:32:07",
+    "date_gmt": "2024-05-29T03:32:07",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9915/"
+    },
+    "modified": "2024-05-29T06:32:07",
+    "modified_gmt": "2024-05-29T03:32:07",
+    "slug": "9915",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9915/",
+    "title": {
+        "rendered": "&#8220;IDF Intercepts Suspicious Aerial Target, Launches Counterattacks on Hezbollah&#8217;s Terror Targets in Southern Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson: </p>\n<p>The IDF intercepted a suspicious aerial target heading towards the country&#8217;s territory; IDF forces attacked Hezbollah&#8217;s terror targets in southern Lebanon last night.</p>\n<p>Our aerial defense fighters recently intercepted a suspicious aerial target over the nautical space in the Rosh Hanikra area, no alert was activated according to policy. </p>\n<p>Overnight, Air Force fighter jets attacked a military building housing Hezbollah terrorists in the Ein Qura area, alongside the organization&#8217;s terrorism infrastructures in the Ramyeh and Al-Tiri areas in southern Lebanon. </p>\n<p>IDF forces attacked with artillery the locations from which the launchings towards the Shetula area were identified last night (Tuesday).</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF intercepted a suspicious aerial target heading towards the country&#8217;s territory; IDF forces attacked <a  href=\"/hezbollah\">Hezbollah</a>&#8217;s terror targets in southern Lebanon last night. Our aerial defense fighters recently intercepted a suspicious aerial target over the nautical space in the Rosh Hanikra area, no alert was activated according to policy. Overnight, Air Force fighter jets attacked a military building housing <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorists in the Ein Qura area, alongside the organization&#8217;s terrorism infrastructures in the Ramyeh and Al-Tiri areas in southern Lebanon. IDF forces attacked with artillery the locations from which the launchings towards the Shetula area were identified last</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-2910",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2910
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2910",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2910"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2910/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2910"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2910"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2910"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

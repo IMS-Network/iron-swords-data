@@ -1,0 +1,122 @@
+{
+    "id": 3747,
+    "date": "2024-03-06T16:55:41",
+    "date_gmt": "2024-03-06T14:55:41",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9058/"
+    },
+    "modified": "2024-03-06T16:55:41",
+    "modified_gmt": "2024-03-06T14:55:41",
+    "slug": "9058",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9058/",
+    "title": {
+        "rendered": "&#8220;IDF Jets Target Hezbollah Military Buildings: Inside the Recent Strikes and Drone Intercept in Northern Israel&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>A short while ago, fighter jets attacked a military building of the Hezbollah terrorist organization in the Yaroun area and another military building of the organization in the Kfara region. In addition, IDF forces attacked to eliminate threats in the Kfar Chammam area.</p>\n<p>Earlier today, IDF forces brought down an explosive drone of the Hezbollah terrorist organization that was identified crossing from Lebanese territory into the Metula area in the north of the country. Additional forces were dispatched to the location. There are no casualties.</p>\n<p>Attached is documentation of the attack in the Kfara area:<br />\nhttps://bit.ly/48C2L0M</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: A short while ago, fighter jets attacked a military building of the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization in the Yaroun area and another military building of the organization in the Kfara region. In addition, IDF forces attacked to eliminate threats in the Kfar Chammam area. Earlier today, IDF forces brought down an explosive drone of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization that was identified crossing from Lebanese territory into the Metula area in the north of the country. Additional forces were dispatched to the location. There are no casualties. Attached is documentation of the attack in the Kfara area: https://bit.ly/48C2L0M</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3747",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3747
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3747",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3747"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3747/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3747"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3747"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3747"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

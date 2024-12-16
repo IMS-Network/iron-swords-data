@@ -1,0 +1,122 @@
+{
+    "id": 4495,
+    "date": "2023-12-17T18:10:44",
+    "date_gmt": "2023-12-17T16:10:44",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8298/"
+    },
+    "modified": "2023-12-17T18:10:44",
+    "modified_gmt": "2023-12-17T16:10:44",
+    "slug": "8298",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8298/",
+    "title": {
+        "rendered": "&#8220;Remembering IDF&#8217;s Fallen Hero: Sergeant Boris Donbetski&#8217;s Story and Updates on Injured Iron Trails&#8217; Soldier&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Attached is a message from the IDF spokesperson about the name of an IDF fallen soldier, which has been delivered to his family:<br />\nhttps://IDFANC.activetrail.biz/ANC171220235411021</p>\n<p>Attached is a link to the IDF website, where details and photos of the fallen soldiers are published and updated:<br />\nhttps://www.idf.il/59780</p>\n<p>In addition, in the battle in which Sergeant Boris Donbetski was killed, a reserve soldier in the 46th Battalion, &#8216;Iron Trails&#8217; (401), was seriously injured.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Attached is a message from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a> about the name of an IDF fallen soldier, which has been delivered to his family: https://IDFANC.activetrail.biz/ANC171220235411021 Attached is a link to the IDF website, where details and photos of the fallen soldiers are published and updated: https://www.idf.il/59780 In addition, in the battle in which <a  href=\"https://iron-swords.co.il/t/sergeant/\">Sergeant</a> Boris Donbetski was killed, a reserve soldier in the 46th Battalion, &#8216;Iron Trails&#8217; (401), was seriously injured.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4495",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4495
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4495",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4495"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4495/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4495"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4495"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4495"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

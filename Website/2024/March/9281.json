@@ -1,0 +1,122 @@
+{
+    "id": 3531,
+    "date": "2024-03-29T14:26:25",
+    "date_gmt": "2024-03-29T11:26:25",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9281/"
+    },
+    "modified": "2024-03-29T14:26:25",
+    "modified_gmt": "2024-03-29T11:26:25",
+    "slug": "9281",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9281/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Down Hezbollah&#8217;s Deputy Missile Commander: Inside the Elimination of Ali Abd Al-Hassan Naim&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>The IDF eliminated the deputy commander of the missile and rocket unit of the Hezbollah terror organization</p>\n<p>Earlier today, the IDF, using an Air Force aircraft, attacked and eliminated Ali Abd Al-Hassan Naim, a Hezbollah terrorist who served as the deputy commander of the terror organization&#8217;s missile and rocket unit, in the El-Bazuriyah area in Lebanon. Ali, a significant knowledge hub in the organization, is a leader in the field of rockets, one of the leaders in launching heavy rockets, and as part of his role, worked on planning and operating launch paths towards Israel&#8217;s home front.</p>\n<p>Attached is documentation from the attack: https://bit.ly/3TEwsc5</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: The IDF eliminated the deputy commander of the missile and rocket unit of the <a  href=\"/hezbollah\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> Earlier today, the IDF, using an Air Force aircraft, attacked and eliminated Ali Abd Al-Hassan Naim, a <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist who served as the deputy commander of the terror organization&#8217;s missile and rocket unit, in the El-Bazuriyah area in Lebanon. Ali, a significant knowledge hub in the organization, is a leader in the field of rockets, one of the leaders in launching heavy rockets, and as part of his role, worked on planning and operating launch paths towards <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>&#8217;s home front. Attached</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3531",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3531
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3531",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3531"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3531/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3531"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3531"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3531"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

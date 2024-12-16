@@ -1,0 +1,124 @@
+{
+    "id": 7318,
+    "date": "2024-07-27T10:16:17",
+    "date_gmt": "2024-07-27T07:16:17",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10651-en/"
+    },
+    "modified": "2024-07-27T10:16:17",
+    "modified_gmt": "2024-07-27T07:16:17",
+    "slug": "10651-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10651-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes: Destruction of Gaza Air-Launch Site and Elimination of Terror Cells&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF destroyed an air-launch site that was prepared for launching strikes towards the country: Divisions 98 and 162 continue to raid terror infrastructures and eliminate armed terrorist cells in various areas.</p>\n<p>In the last 24 hours, Air Force fighter jets attacked dozens of terror targets in the Gaza Strip, including military buildings, armed cells, and other terror infrastructures. Additionally, under the direction of the Southern Command, an air launch site in the Zeitoun area, which was prepared for launching strikes towards Israeli territory, was attacked and destroyed.</p>\n<p>In Khan Younis, combat teams from the 7th Brigade and Paratroopers under the command of Division 98 conducted a focused raid on terror infrastructures above and below ground, uncovering numerous weapons. Among the discovered weapons were shoulder missiles, grenades, Kalashnikov rifles, and additional military equipment. During one of the raids, an operational terrorist cell was identified preparing to launch from the area; within minutes of the identification, fighter jets attacked and eliminated the terrorists.</p>\n<p>In the Rafah area, combat fighters from the Givati Brigade and 401 under the command of Division 162 raided several military infrastructures, locating weapons and eliminating armed cells in close-range combat.</p>\n<p>Attached is documentation of the attack on the launch site in Zeitoun: https://bit.ly/3WPu1Xb</p>\n<p>Attached is documentation of IDF operations in the Gaza Strip: https://bit.ly/4djbQ14</p>\n<p>Attached are images from IDF operations in the Gaza Strip: https://IDFANC.activetrail.biz/ANC270720248209484098</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF destroyed an air-launch site that was prepared for launching strikes towards the country: Divisions 98 and 162 continue to raid terror infrastructures and eliminate armed terrorist cells in various areas. In the last 24 hours, Air Force fighter jets attacked dozens of terror targets in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip, including military buildings, armed cells, and other terror infrastructures. Additionally, under the direction of the Southern Command, an air launch site in the Zeitoun area, which was prepared for launching strikes towards Israeli territory, was attacked and destroyed. In Khan Younis, combat teams from the 7th Brigade and</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7318",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7318,
+        "he": 7319,
+        "ru": 7320
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7318",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7318"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7318/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7318"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7318"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7318"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": 8165,
+    "date": "2024-07-06T08:58:58",
+    "date_gmt": "2024-07-06T05:58:58",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10367-en/"
+    },
+    "modified": "2024-07-06T08:58:58",
+    "modified_gmt": "2024-07-06T05:58:58",
+    "slug": "10367-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10367-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hamas: Key Operations in Shuja&#8217;iya and Deir al-Balah&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The Air Force, in cooperation with Paratrooper forces, eliminated an armed terrorist cell equipped with RPG launchers in the Shuja&#8217;iya area; a rocket launcher positioned by Hamas in a humanitarian zone in Deir al-Balah was attacked.</p>\n<p>Fighters from the combat teams of the 7th Brigade and the Paratroopers under the command of Division 98 engaged in combat in the Shuja&#8217;iya area over the past day against armed cells, destroying weapons and terrorist infrastructure above and below ground in the area.<br />\nIn one of the operations, the paratroopers identified several Hamas terrorists lying in wait and opened fire on the unit. At the conclusion of the ensuing battle, the fighters eliminated all the terrorists without any casualties among our forces.</p>\n<p>In another operation, Air Force fighter jets, guided by brigade forces, attacked and killed three armed terrorists with RPG launchers identified in the area.</p>\n<p>In the Rafah area, operations by Division 162 continue. Forces from Brigade 401, together with the Air Force, attacked and encircled a terrorist cell that fired at them, alongside strikes and the elimination of additional terrorist cells that posed a threat to the forces.<br />\nAdditionally, as part of searches conducted by Nahal fighters, several underground infrastructures in the area were destroyed, and during the operation, weapons and military equipment were found.</p>\n<p>Yesterday (Friday), Air Force aircraft in cooperation with the Southern Command attacked a Hamas launcher positioned within the humanitarian zone in Deir al-Balah and near shelters of the civilian population.</p>\n<p>Before the attack, extensive efforts were made to reduce the likelihood of civilian casualties. As part of those efforts, warnings were issued in advance to civilians in the area, and real-time intelligence analysis was conducted.</p>\n<p>Attached are images from the forces&#8217; activities: https://IDFANC.activetrail.biz/ANC060720242974972947</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The Air Force, in cooperation with Paratrooper forces, eliminated an armed terrorist cell equipped with RPG launchers in the Shuja&#8217;iya area; a rocket launcher positioned by <a  href=\"/hamas\">Hamas</a> in a humanitarian zone in Deir al-Balah was attacked. Fighters from the combat teams of the 7th Brigade and the Paratroopers under the command of Division 98 engaged in combat in the Shuja&#8217;iya area over the past day against armed cells, destroying weapons and terrorist infrastructure above and below ground in the area. In one of the operations, the paratroopers identified several <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> terrorists lying in wait and opened fire on</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8165",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8165,
+        "he": 8166,
+        "ru": 8167
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8165",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8165"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8165/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8165"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8165"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8165"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

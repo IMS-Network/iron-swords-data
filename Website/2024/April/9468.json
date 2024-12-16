@@ -1,0 +1,122 @@
+{
+    "id": 3348,
+    "date": "2024-04-16T11:52:45",
+    "date_gmt": "2024-04-16T08:52:45",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9468/"
+    },
+    "modified": "2024-04-16T11:52:45",
+    "modified_gmt": "2024-04-16T08:52:45",
+    "slug": "9468",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9468/",
+    "title": {
+        "rendered": "&#8220;Massive IDF Operation: 23 Arrests and Major Terror Funds Seizure in Judea, Samaria and Beyond&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF and security forces have begun a brigade-level operation in the seam zone; IDF soldiers, Shin Bet, and Border Police operated overnight to arrest 23 wanted individuals throughout Judea and Samaria and seized large sums of terror finance.</p>\n<p>IDF soldiers, Shin Bet, and Border Police operated overnight to arrest 23 wanted individuals throughout Judea and Samaria.</p>\n<p>In Jenin, located in the Manasseh region, our forces arrested five wanted individuals and seized terror funds.</p>\n<p>The IDF forces and security forces in the Ephraim Brigade have begun a multi-day operation in the seam zone, tonight four wanted individuals were arrested in the village of Hableh, alongside a confiscated M4 type weapon. In the city of Qalqilya which is in the brigade&#8217;s jurisdiction, the forces arrested another wanted individual.</p>\n<p>In Hebron, located in Judea, our forces arrested seven wanted individuals, and in Dura, also under the brigade&#8217;s jurisdiction, terror funds were confiscated. Four more wanted individuals were arrested in Deheisheh, located in the Etzion region.</p>\n<p>In Qalandia, located in the Binyamin region, our forces arrested a wanted individual and in Kfar Aqab another wanted individual was arrested. In the Azariya area under the brigade&#8217;s jurisdiction, an airsoft type weapon was discovered.</p>\n<p>The wanted individuals were arrested and the confiscated combat means were transferred for further handling by the security forces. Our forces had no casualties.</p>\n<p>Since the beginning of the war, about 3,700 wanted individuals have been arrested throughout the Judea and Samaria Division, and in the Valley and Foothills Brigade, about 1,600 of them are affiliated with the Hamas terror organization.</p>\n<p>Attached are photos of the forces&#8217; activities: https://idfanc.activetrail.biz/ANC16042024875856</p>\n<p>Attached is documentation on the matter: https://bit.ly/43YG5XY</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF and security forces have begun a brigade-level operation in the seam zone; IDF soldiers, Shin Bet, and Border Police operated overnight to arrest 23 wanted individuals throughout Judea and Samaria and seized large sums of terror finance. IDF soldiers, Shin Bet, and Border Police operated overnight to arrest 23 wanted individuals throughout Judea and Samaria. In Jenin, located in the Manasseh region, our forces arrested five wanted individuals and seized terror funds. The IDF forces and security forces in the Ephraim Brigade have begun a multi-day operation in the seam zone, tonight four wanted individuals were</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3348",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3348
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3348",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3348"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3348/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3348"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3348"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3348"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

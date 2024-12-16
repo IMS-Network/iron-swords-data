@@ -1,0 +1,122 @@
+{
+    "id": 4413,
+    "date": "2023-12-23T14:06:05",
+    "date_gmt": "2023-12-23T12:06:05",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8380/"
+    },
+    "modified": "2023-12-23T14:06:05",
+    "modified_gmt": "2023-12-23T12:06:05",
+    "slug": "8380",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8380/",
+    "title": {
+        "rendered": "&#8220;IDF and Security Forces Arrest Five, Seize Weapons in Overnight Operations: A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF soldiers, Shin Bet, and Border Patrol arrested five wanted individuals and seized weapons across Judea and Samaria last night.</p>\n<p>Reservist IDF soldiers conducted platoon operations for weapon searches in the villages of Beit Ur al-Tahta and Beit Ur al-Fauqa in the Samaria Brigade, seizing two weapons and arresting two wanted individuals who had these weapons in their possession. </p>\n<p>In the village of Barta&#8217;a and in the refugee camps of Kalandia and Deheishe, three wanted individuals were arrested, military equipment was seized and terror funds were confiscated.</p>\n<p>The arrested individuals have been handed over for further investigation by security forces, our forces were not harmed.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF soldiers, Shin Bet, and Border Patrol arrested five wanted individuals and seized weapons across Judea and Samaria last night. Reservist IDF soldiers conducted platoon operations for weapon searches in the villages of Beit Ur al-Tahta and Beit Ur al-Fauqa in the Samaria Brigade, seizing two weapons and arresting two wanted individuals who had these weapons in their possession. In the village of Barta&#8217;a and in the refugee camps of Kalandia and Deheishe, three wanted individuals were arrested, military equipment was seized and terror funds were confiscated. The arrested individuals have been handed over for further investigation by</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4413",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4413
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4413",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4413"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4413/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4413"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4413"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4413"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

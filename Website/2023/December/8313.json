@@ -1,0 +1,122 @@
+{
+    "id": 4480,
+    "date": "2023-12-18T18:04:27",
+    "date_gmt": "2023-12-18T16:04:27",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8313/"
+    },
+    "modified": "2023-12-18T18:04:27",
+    "modified_gmt": "2023-12-18T16:04:27",
+    "slug": "8313",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8313/",
+    "title": {
+        "rendered": "&#8220;IDF Update: Ashkelon Restrictions Lifted, Gathering Limit Increased &#8211; Stay Informed with Home Front Command Guidelines&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Easening of the Home Front Command&#8217;s Defense Policy</p>\n<p>Following an assessment of the situation, it has been decided that as of today (Monday) at 18:00, all restrictions in the city of Ashkelon on workplaces and educational activities will be lifted. In addition, at the beginning of the week, it was decided to increase the gathering limit to 5,000 people in areas defined under the green policy.</p>\n<p>It is important to continue to follow the guidelines published by the Home Front Command through official dissemination channels. The full instructions are updated on the national emergency portal and in the Home Front Command&#8217;s information pamphlet.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Easening of the Home Front Command&#8217;s Defense Policy Following an assessment of the situation, it has been decided that as of today (Monday) at 18:00, all restrictions in the city of <a  href=\"https://iron-swords.co.il/t/ashkelon/\">Ashkelon</a> on workplaces and educational activities will be lifted. In addition, at the beginning of the week, it was decided to increase the gathering limit to 5,000 people in areas defined under the green policy. It is important to continue to follow the guidelines published by the Home Front Command through official dissemination channels. The full instructions are updated on the national emergency portal and in the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4480",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4480
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4480",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4480"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4480/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4480"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4480"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4480"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

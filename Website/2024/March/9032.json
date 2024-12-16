@@ -1,0 +1,122 @@
+{
+    "id": 3771,
+    "date": "2024-03-04T13:53:12",
+    "date_gmt": "2024-03-04T11:53:12",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9032/"
+    },
+    "modified": "2024-03-04T13:53:12",
+    "modified_gmt": "2024-03-04T11:53:12",
+    "slug": "9032",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9032/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Military Sites in Shiyeen and Aita el-Shaab; Civilians Injured in Rocket Attack from Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>A short while ago, combat aircraft attacked a military site of the Hezbollah terrorist organization in the Shiyeen area, where organization&#8217;s terrorists were located.</p>\n<p>Also, earlier today, combat aircraft attacked a military building of the Hezbollah terrorist organization in the area of Aita el-Shaab.</p>\n<p>In addition, a rocket launch was identified from Lebanese territory towards the Margaliot area.<br />\nAs a result of the launch, a number of civilians were injured and were evacuated for medical treatment at the hospital by Air Force and MDA helicopters. IDF forces attacked the source of the fire.</p>\n<p>Attached is footage from the attack in the area of Aita el-Shaab: https://bit.ly/3TkMLvC</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: A short while ago, combat aircraft attacked a military site of the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization in the Shiyeen area, where organization&#8217;s terrorists were located. Also, earlier today, combat aircraft attacked a military building of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization in the area of Aita el-Shaab. In addition, a rocket launch was identified from Lebanese territory towards the Margaliot area. As a result of the launch, a number of civilians were injured and were evacuated for medical treatment at the hospital by Air Force and MDA helicopters. IDF forces attacked the source of the fire. Attached is footage from the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3771",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3771
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3771",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3771"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3771/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3771"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3771"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3771"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

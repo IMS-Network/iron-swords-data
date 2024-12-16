@@ -1,0 +1,122 @@
+{
+    "id": 4255,
+    "date": "2024-01-08T07:15:37",
+    "date_gmt": "2024-01-08T05:15:37",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8542/"
+    },
+    "modified": "2024-01-08T07:15:37",
+    "modified_gmt": "2024-01-08T05:15:37",
+    "slug": "8542",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8542/",
+    "title": {
+        "rendered": "&#8220;Israeli Defense Forces Launch Nighttime Strikes on Hezbollah Targets in Lebanon: A Detailed Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked a series of Hezbollah terror organization targets in Lebanon</p>\n<p>During the night, the IDF attacked a series of Hezbollah terror organization targets in Lebanon.</p>\n<p>Fighter jets from the Air Force attacked a military complex of the Hezbollah terror organization in the spacious village of Marwahin, as well as a rocket launcher and terror infrastructure in the village of Aita al-Shaab.</p>\n<p>In the course of the passing day, a remotely manned aircraft of the Air Force attacked a launcher from which fire was carried out towards Israeli territory, and a combat helicopter attacked a space from which an anti-tank missile was launched towards Israel.</p>\n<p>Attached is documentation of IDF attacks in Lebanon: https://bit.ly/3tIxbQG</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked a series of <a  href=\"/hezbollah\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> targets in Lebanon During the night, the IDF attacked a series of <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terror organization targets in Lebanon. Fighter jets from the Air Force attacked a military complex of the Hezbollah terror organization in the spacious village of Marwahin, as well as a rocket launcher and terror infrastructure in the village of Aita al-Shaab. In the course of the passing day, a remotely manned aircraft of the Air Force attacked a launcher from which fire was carried out towards Israeli territory, and a combat helicopter attacked a space from</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4255",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4255
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4255",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4255"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4255/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4255"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4255"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4255"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

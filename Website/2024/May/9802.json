@@ -1,0 +1,122 @@
+{
+    "id": 3023,
+    "date": "2024-05-20T14:20:27",
+    "date_gmt": "2024-05-20T11:20:27",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9802/"
+    },
+    "modified": "2024-05-20T14:20:27",
+    "modified_gmt": "2024-05-20T11:20:27",
+    "slug": "9802",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9802/",
+    "title": {
+        "rendered": "&#8220;Decoding IDF&#8217;s Strategic Strikes: Targeting Hezbollah&#8217;s Terror Units and Weapon Warehouses in Southern Lebanon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>*A weapons warehouse, a terrorist unit, and a launch site; documentation of attacks on Hezbollah&#8217;s terror targets in Southern Lebanon*</p>\n<p>A short while ago, the Fire Brigade of the 91st Brigade identified a Hezbollah terrorist unit in the area of Mis Al-Jabal. Air Force fighter jets attacked the unit. The terrorist unit was at a launch site from which shots were fired towards our country in recent days.</p>\n<p>Earlier today, Air force fighter jets attacked a weapons warehouse and a military building of the organization in the region of Al-Nakura in Southern Lebanon. During the attack, secondary explosions that indicate the presence of weapons in place were identified. Additionally, shooting to remove threat in Al-Nakura area was conducted.</p>\n<p>Attached is documentation from the attacks: https://bit.ly/3wvSzKs</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: *A weapons warehouse, a terrorist unit, and a launch site; documentation of attacks on <a  href=\"/hezbollah\">Hezbollah</a>&#8217;s terror targets in Southern Lebanon* A short while ago, the Fire Brigade of the 91st Brigade identified a <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist unit in the area of Mis Al-Jabal. Air Force fighter jets attacked the unit. The terrorist unit was at a launch site from which shots were fired towards our country in recent days. Earlier today, Air force fighter jets attacked a weapons warehouse and a military building of the organization in the region of Al-Nakura in Southern Lebanon. During the attack, secondary explosions</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3023",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3023
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3023",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3023"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3023/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3023"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3023"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3023"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

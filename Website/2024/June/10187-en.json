@@ -1,0 +1,124 @@
+{
+    "id": 8690,
+    "date": "2024-06-20T13:37:38",
+    "date_gmt": "2024-06-20T10:37:38",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10187-en/"
+    },
+    "modified": "2024-06-20T13:37:38",
+    "modified_gmt": "2024-06-20T10:37:38",
+    "slug": "10187-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10187-en/",
+    "title": {
+        "rendered": "&#8220;IDF Operation: Major Weapons Seizure and Arrests in Zurif and Jenin&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF, Shin Bet, and Border Police forces completed a wide operation in the village of Zurif last night, seizing weapons and arresting wanted individuals; two wanted persons were arrested this morning in Jenin in the Jenin area.</p>\n<p>During the night, IDF, Shin Bet, and Border Police forces arrested nine wanted individuals. In a brigade-wide operation conducted in Zurif by the Etzion Brigade, the forces interrogated dozens of suspects, seized weapons, arrested two wanted individuals, and confiscated approximately 50 illegal vehicles.</p>\n<p>Border Police forces, guided by intelligence information from the IDF and Shin Bet, located five weapons this morning in an apartment that was reportedly used as a hideout for wanted individuals. Inside the apartment, an M-16 rifle was found along with a Kalashnikov rifle and three hunting rifles. Meanwhile, the fighters operated during the morning in Jenin within the brigade&#8217;s jurisdiction, arresting two wanted individuals and seizing two pistols.</p>\n<p>Additionally, the forces completed an operation in Beit Sira within the Benjamin Brigade, during which they arrested four wanted individuals and interrogated additional suspects. In the village of Aqaba within the brigade&#8217;s jurisdiction, another wanted individual was arrested.</p>\n<p>The arrested wanted individuals and the confiscated weapons were transferred for further processing by security forces; there are no casualties.</p>\n<p>To date, approximately 4,150 wanted individuals have been arrested since the beginning of the war in the Judea and Samaria Division and the Jordan Valley Brigade, about 1,750 of whom are affiliated with the terrorist organization Hamas.</p>\n<p>Attached are pictures of the weapons seized during the night: https://IDFANC.activetrail.biz/ANC20062024429080740</p>\n<p>Attached are pictures from the forces&#8217; activities during the night: https://IDFANC.activetrail.biz/ANC20062024829872490</p>\n<p>Documentation from the operation in Zurif is attached: https://bit.ly/3VLCObT</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF, Shin Bet, and Border Police forces completed a wide operation in the village of Zurif last night, seizing weapons and arresting wanted individuals; two wanted persons were arrested this morning in Jenin in the Jenin area. During the night, IDF, Shin Bet, and Border Police forces arrested nine wanted individuals. In a brigade-wide operation conducted in Zurif by the Etzion Brigade, the forces interrogated dozens of suspects, seized weapons, arrested two wanted individuals, and confiscated approximately 50 illegal vehicles. Border Police forces, guided by intelligence information from the IDF and Shin Bet, located five weapons this morning</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-8690",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 8690,
+        "he": 8691,
+        "ru": 8692
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8690",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=8690"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/8690/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=8690"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=8690"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=8690"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

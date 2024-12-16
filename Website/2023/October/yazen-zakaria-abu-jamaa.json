@@ -1,0 +1,138 @@
+{
+    "id": 1012,
+    "date": "2023-10-07T06:30:00",
+    "date_gmt": "2023-10-07T03:30:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=1012"
+    },
+    "modified": "2024-04-11T21:01:40",
+    "modified_gmt": "2024-04-11T18:01:40",
+    "slug": "yazen-zakaria-abu-jamaa",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/victims/yazen-zakaria-abu-jamaa/",
+    "title": {
+        "rendered": "Yazen Zakaria Abu Jama&#8217;a"
+    },
+    "content": {
+        "rendered": "\n<p>Yazen was five years old, He was killed by a Hamas rocket hit near his home in the first hours of the war, leaving his parents and three sisters.<br></p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Five years old. He was killed by a <a  href=\"/hamas\">Hamas</a> rocket</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 1013,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-october-7th-victims",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 21,
+        "footnotes": ""
+    },
+    "categories": [
+        21
+    ],
+    "tags": [
+        61
+    ],
+    "class_list": [
+        "post-1012",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-victims",
+        "tag-arara"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 1012
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1012",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=1012"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1012/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 1014,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1012/revisions/1014"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/1013"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=1012"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=1012"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=1012"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

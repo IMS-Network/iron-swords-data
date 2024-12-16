@@ -1,0 +1,122 @@
+{
+    "id": 4046,
+    "date": "2024-01-31T20:06:45",
+    "date_gmt": "2024-01-31T18:06:45",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8755/"
+    },
+    "modified": "2024-01-31T20:06:45",
+    "modified_gmt": "2024-01-31T18:06:45",
+    "slug": "8755",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8755/",
+    "title": {
+        "rendered": "&#8220;Heroic Rescue: 669 and Evacuation Unit&#8217;s Joint Effort in Strip Fire Crisis&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Under fire, from the air and from the ground:<br />\nThe combined forces of 669 and the Evacuation Unit in evacuating injured in a fire at the heart of the strip. Watch<br />\nhttps://www.idf.il/177577</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Under fire, from the air and from the ground: The combined forces of 669 and the Evacuation Unit in evacuating injured in a fire at the heart of the strip. Watch https://www.idf.il/177577</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4046",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4046
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4046",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4046"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4046/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4046"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4046"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4046"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

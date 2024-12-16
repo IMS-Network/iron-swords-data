@@ -1,0 +1,122 @@
+{
+    "id": 4080,
+    "date": "2024-01-28T12:03:42",
+    "date_gmt": "2024-01-28T10:03:42",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8720/"
+    },
+    "modified": "2024-01-28T12:03:42",
+    "modified_gmt": "2024-01-28T10:03:42",
+    "slug": "8720",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8720/",
+    "title": {
+        "rendered": "&#8220;IDF Forces Detain Key Figures in Infiltration Network: A Comprehensive Night Raid Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>During the night, soldiers from the IDF, General Security Service, and Border Police detained ten wanted individuals across Judea and Samaria. In the Etzion area, two suspects who had been involved in transporting and smuggling infiltrators were arrested; one of them led a transportation infrastructure for infiltrators. </p>\n<p>IDF reservists detained a central figure in the infiltrators&#8217; transportation infrastructure in the village of Shiyoukh, which is part of the Etzion Division. In addition, the forces arrested another suspect who was involved in transporting and smuggling infiltrators. Furthermore, vehicles used by the two suspects were identified and seized.</p>\n<p>In the Wadi Burkin area of the Menashe Division, the forces detained two wanted individuals. During the operation, there were exchanges of fire at the scene.</p>\n<p>In the village of Kalkas, within the Judea Division, the soldiers confiscated weapons and tens of thousands of shekels suspected to be funding terror activities.</p>\n<p>The detainees have been transferred for further investigation by security forces. There were no casualties among our forces.</p>\n<p>Since the beginning of the conflict, over 2,950 suspects have been detained across the Judea and Samaria territorial Division and the Jordan Valley Division. Over 1,350 of them are affiliated with the terrorist organization Hamas.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: During the night, soldiers from the IDF, General Security Service, and Border Police detained ten wanted individuals across Judea and Samaria. In the Etzion area, two suspects who had been involved in transporting and smuggling infiltrators were arrested; one of them led a transportation infrastructure for infiltrators. IDF reservists detained a central figure in the infiltrators&#8217; transportation infrastructure in the village of Shiyoukh, which is part of the Etzion Division. In addition, the forces arrested another suspect who was involved in transporting and smuggling infiltrators. Furthermore, vehicles used by the two suspects were identified and seized. In the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4080",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4080
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4080",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4080"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4080/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4080"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4080"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4080"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

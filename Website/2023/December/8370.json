@@ -1,0 +1,122 @@
+{
+    "id": 4423,
+    "date": "2023-12-22T10:29:46",
+    "date_gmt": "2023-12-22T08:29:46",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8370/"
+    },
+    "modified": "2023-12-22T10:29:46",
+    "modified_gmt": "2023-12-22T08:29:46",
+    "slug": "8370",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8370/",
+    "title": {
+        "rendered": "&#8220;IDF, Shin Bet and Border Police Arrest 11 Wanted Men in Judea and Samaria: Seized Combat Equipment Details &#038; Images&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF soldiers, Shin Bet and Border Police arrested last night 11 wanted men across Judea and Samaria.</p>\n<p>During the night, forces arrested 11 wanted men throughout Judea and Samaria.<br />\nIn a brigade operation in the village of Dura in Judea, reserve IDF soldiers arrested eight wanted men and also found and seized combat equipment.</p>\n<p>Likewise, in Beit Rima of the Ephraim Brigade and in the village of Tura of the Manasseh Brigade, IDF and Border Police soldiers located and confiscated additional combat equipment.</p>\n<p>The arrested wanted men and the seized combat equipment have been transferred for further handling by the security forces. There were no casualties to our forces.</p>\n<p>So far, since the beginning of the war, about 2,450 wanted men have been arrested throughout the Judea and Samaria Division and the Jordan Valley and Plains Brigade, about 1,210 of whom are affiliated with the Hamas terrorist organization.</p>\n<p>Attached are pictures of the seized combat equipment: https://IDFANC.activetrail.biz/ANC22122023.1561891818</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF soldiers, Shin Bet and Border Police arrested last night 11 wanted men across Judea and Samaria. During the night, forces arrested 11 wanted men throughout Judea and Samaria. In a brigade operation in the village of Dura in Judea, reserve IDF soldiers arrested eight wanted men and also found and seized combat equipment. Likewise, in Beit Rima of the Ephraim Brigade and in the village of Tura of the Manasseh Brigade, IDF and Border Police soldiers located and confiscated additional combat equipment. The arrested wanted men and the seized combat equipment have been transferred for further handling</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4423",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4423
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4423",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4423"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4423/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4423"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4423"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4423"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

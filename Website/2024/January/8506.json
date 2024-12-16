@@ -1,0 +1,122 @@
+{
+    "id": 4289,
+    "date": "2024-01-04T10:25:25",
+    "date_gmt": "2024-01-04T08:25:25",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8506/"
+    },
+    "modified": "2024-01-04T10:25:25",
+    "modified_gmt": "2024-01-04T08:25:25",
+    "slug": "8506",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8506/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hamas Terror Cells and Long-Range Rocket Launchers across Gaza Strip: An In-depth Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF has eliminated Hamas terrorist cells throughout the Strip in the last day; forces located long-range rocket launchers in the heart of the Al-Bureij camp.</p>\n<p>In Khan Yunis, an Air Force aircraft, guided by Division 4 combat team, eliminated three terrorists who tried to plant an explosive in the vicinity of our forces. Our fighters eliminated two additional terrorists who were hiding in a nearby building. In addition, a fighter jet attacked a Hamas terrorist organization&#8217;s weapons storage in the city area.</p>\n<p>During the forces&#8217; operations, terrorists fired an anti-tank missile at a Division 7 combat team. Shortly after, an Air Force aircraft attacked the anti-tank position from which the missile was launched and the terrorist cell at the post.</p>\n<p>An Air Force fighter jet attacked a military building of the Hamas terrorist organization, guided by Brigade 98 forces. The building was active with an anti-tank unit of the Dir al-Balakh battalion and two buildings were attacked, to which terrorists fled and from which many weapons were evacuated. Afterward, an aircraft eliminated another terrorist who reached the buildings attempting to search for weapons in the area.</p>\n<p>In Al-Bureij, during an operational activity of a Givati Brigade combat team, the fighters located long-range rocket launchers in the heart of the camp.</p>\n<p>The Naval forces continue to attack in support to the forces operating on the Gaza Strip coastline. In a collaboration between the Naval, Air, and Ground forces, the Naval fighters have eliminated terrorists who ambushed forces in the Strip, guided precisely by ground forces.</p>\n<p>Attached is footage of the IDF attacks in the Strip: https://bit.ly/3vhExea</p>\n<p>Attached is footage of the IDF forces&#8217; operations in the Strip: https://bit.ly/41Ith6R</p>\n<p>Attached are photos from the forces&#8217; operations: https://IDFANC.activetrail.biz/ANC040120236854126451</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF has eliminated <a  href=\"/hamas\">Hamas</a> terrorist cells throughout the Strip in the last day; forces located long-range rocket launchers in the heart of the Al-Bureij camp. In Khan Yunis, an Air Force aircraft, guided by Division 4 combat team, eliminated three terrorists who tried to plant an explosive in the vicinity of our forces. Our fighters eliminated two additional terrorists who were hiding in a nearby building. In addition, a fighter jet attacked a <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> terrorist organization&#8217;s weapons storage in the city area. During the forces&#8217; operations, terrorists fired an anti-tank missile at a Division 7 combat team.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4289",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4289
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4289",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4289"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4289/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4289"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4289"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4289"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

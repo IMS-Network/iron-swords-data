@@ -1,0 +1,122 @@
+{
+    "id": 3427,
+    "date": "2024-04-09T08:55:16",
+    "date_gmt": "2024-04-09T05:55:16",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9386/"
+    },
+    "modified": "2024-04-09T08:55:16",
+    "modified_gmt": "2024-04-09T05:55:16",
+    "slug": "9386",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9386/",
+    "title": {
+        "rendered": "&#8220;IDF Targets Syrian Army&#8217;s Military Infrastructure: In-depth Analysis of the Latest Combat Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked military infrastructures and a military post of the Syrian army.</p>\n<p>Combat aircraft attacked the Syrian army&#8217;s military infrastructures in the Haja area during the night. In addition, last night (Monday) the IDF fired artillery at a Syrian army post in the south of the country.</p>\n<p>Last night (Monday), a launch from Syria towards the Jonathan area in the Golan Heights was identified, there were no casualties. The IDF fired artillery at the sources of fire.</p>\n<p>In addition, two launches from Lebanon towards the Misgav Am area were identified during the night, which fell in open areas. There were no casualties.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked military infrastructures and a military post of the Syrian army. Combat aircraft attacked the Syrian army&#8217;s military infrastructures in the Haja area during the night. In addition, last night (Monday) the IDF fired artillery at a Syrian army post in the south of the country. Last night (Monday), a launch from Syria towards the Jonathan area in the Golan Heights was identified, there were no casualties. The IDF fired artillery at the sources of fire. In addition, two launches from Lebanon towards the Misgav Am area were identified during the night, which fell in open</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3427",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3427
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3427",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3427"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3427/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3427"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3427"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3427"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 3249,
+    "date": "2024-04-26T20:03:14",
+    "date_gmt": "2024-04-26T17:03:14",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9572/"
+    },
+    "modified": "2024-04-26T20:03:14",
+    "modified_gmt": "2024-04-26T17:03:14",
+    "slug": "9572",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9572/",
+    "title": {
+        "rendered": "&#8220;Decisive IDF Strike: Lebanese Islamic Jihad Leader Tzaeb Khalaf Eliminated, Halting Terror Plans Against Israel&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF has eliminated a senior terrorist in the Islamic Jihad organization in Lebanon, who promoted many terrorist acts against Israel.</p>\n<p>The IDF attacked and eliminated the terrorist Tzaeb Khalaf, a senior member of the Islamic Jihad organization in Lebanon, who promoted many trajectories of terror against Israel. This was accomplished using aircraft from the Air Force. </p>\n<p>The terrorist Tzaeb Khalaf was working on behalf of the Islamic Jihad organization, leading and promoting many terrorist attacks and paths of terror from Lebanon against Israel in the northern region, in the Mount Dov area and in other areas recently.</p>\n<p>The terrorist Tzaeb Khalaf acted in collaboration with the Hamas terrorist organization&#8217;s branch in Lebanon, coordinating and conducting terrorist acts against Israel.</p>\n<p>His elimination was carried out to damage the organization&#8217;s capabilities to promote and execute terrorist activities that it planned recently against the State of Israel in the northern border area.</p>\n<p>Attached is documentation of the elimination: https://bit.ly/3UbaygS</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF has eliminated a senior terrorist in the Islamic Jihad organization in Lebanon, who promoted many terrorist acts against <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a>. The IDF attacked and eliminated the terrorist Tzaeb Khalaf, a senior member of the Islamic Jihad organization in Lebanon, who promoted many trajectories of terror against Israel. This was accomplished using aircraft from the Air Force. The terrorist Tzaeb Khalaf was working on behalf of the Islamic Jihad organization, leading and promoting many terrorist attacks and paths of terror from Lebanon against Israel in the northern region, in the Mount Dov area and in other areas recently.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3249",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3249
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3249",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3249"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3249/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3249"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3249"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3249"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

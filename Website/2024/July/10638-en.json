@@ -1,0 +1,124 @@
+{
+    "id": 7357,
+    "date": "2024-07-26T09:20:24",
+    "date_gmt": "2024-07-26T06:20:24",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10638-en/"
+    },
+    "modified": "2024-07-26T09:20:24",
+    "modified_gmt": "2024-07-26T06:20:24",
+    "slug": "10638-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10638-en/",
+    "title": {
+        "rendered": "&#8220;IDF Operations Update: 100 Terrorists Eliminated in Gaza Strip Fighting&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The fighting in the Gaza Strip continues; soldiers from Brigade 98 have eliminated approximately 100 terrorists in Khan Yunis so far; seven terrorist cells that launched mortars at our forces have been taken out from the air.</p>\n<p>The combat teams of Brigades 7 and the Paratroopers, operating under the command of Brigade 98 in Khan Yunis, have eliminated around 100 terrorists in the area.</p>\n<p>In several targeted strikes, Air Force aircraft, guided by Brigade 98, targeted and eliminated seven terrorist cells that launched mortars at our forces during the fighting in the area, with no casualties reported. In additional strikes in the area, terrorist cells preparing to fire at our forces were eliminated from the air.</p>\n<p>Soldiers from Unit 414 identified two armed terrorists operating in the Rafah area, and in coordination with the Air Force, aircraft attacked the terrorists and eliminated them. Shortly after, a terrorist was spotted taking the weapon that one of the eliminated terrorists had, and he was also eliminated from the air alongside another terrorist.</p>\n<p>Combat teams from the Givati Brigade and Brigade 401, under the command of Brigade 162, eliminated several terrorists in the Rafah area who posed a threat to our forces and located tunnel shafts and weaponry, including long-range rocket launchers and explosives in the Tel al-Sultan area.</p>\n<p>Approximately 45 terror targets were attacked in the last 24 hours by fighter jets, attack helicopters, and aircraft from the Air Force, including terrorist cells, tunnel entrances, military structures, and various terror infrastructures. In one of the strikes, aircraft attacked, guided by Southern Command, two launch pits from which rockets were fired during the war towards the Be&#8217;er Sheva area.</p>\n<p>Attached is documentation from IDF attacks in the Gaza Strip: https://bit.ly/3LFd2QL</p>\n<p>Attached is documentation from the elimination of armed terrorists in the Rafah area: https://bit.ly/3WdeIWo</p>\n<p>Attached is documentation of the Paratroopers\u2019 activities in the Khan Yunis area: https://bit.ly/4dfvIT1</p>\n<p>Attached are photos from the forces&#8217; activities in the Gaza Strip: https://IDFANC.activetrail.biz/ANC26072024625459</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The fighting in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip continues; soldiers from Brigade 98 have eliminated approximately 100 terrorists in Khan Yunis so far; seven terrorist cells that launched mortars at our forces have been taken out from the air. The combat teams of Brigades 7 and the Paratroopers, operating under the command of Brigade 98 in Khan Yunis, have eliminated around 100 terrorists in the area. In several targeted strikes, Air Force aircraft, guided by Brigade 98, targeted and eliminated seven terrorist cells that launched mortars at our forces during the fighting in the area, with no casualties reported. In</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7357",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7357,
+        "he": 7358,
+        "ru": 7359
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7357",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7357"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7357/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7357"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7357"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7357"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

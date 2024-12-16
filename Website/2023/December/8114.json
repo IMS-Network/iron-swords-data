@@ -1,0 +1,122 @@
+{
+    "id": 4677,
+    "date": "2023-12-05T09:12:04",
+    "date_gmt": "2023-12-05T07:12:04",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8114/"
+    },
+    "modified": "2023-12-05T09:12:04",
+    "modified_gmt": "2023-12-05T07:12:04",
+    "slug": "8114",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8114/",
+    "title": {
+        "rendered": "&#8220;Inside Brigade 162&#8217;s Strategic Assault on Hamas Strongholds: A Comprehensive Overview of IDF and Shin Bet Joint Operations&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Soldiers of Brigade 162 are on the attack in the Jabaliya area on Hamas strongholds; Israel Defense Forces (IDF) soldiers, in cooperation with the Israel Security Agency (the Shin Bet), are targeting the General Security Service of the Hamas terror organization.</p>\n<p>Forces of Brigade 162 are operating in the Jabaliya area, after completing the stage of taking over the camp. In the last day, our forces have attacked Hamas strongholds in the area and destroyed terror infrastructures. The soldiers thwarted terror infrastructures, located tools of warfare, discovered launchers in civilian buildings, and aided ongoing attacks by the Air Force.</p>\n<p>In addition, the Air Force, in collaboration with Paratroopers Brigade soldiers, targeted buildings from which Naqba terrorists operated yesterday (Monday), and killed Hamas terror organization militants. As part of the activity, the soldiers located and destroyed rockets in a yard of a house in the north of the Strip.</p>\n<p>In a joint operation with the Shin Bet, reserve forces of Brigade 551 and Shayetet 13 targeted the headquarters of Hamas&#8217; General Security Service in Jabaliya. In there, observation and control tools, tools of warfare, and maps were found.</p>\n<p>The Naval Arm soldiers attacked dozens of operational targets of terror organizations in the Gaza Strip, to aid the forces operating on land. Among the targets attacked were buildings from which the terrorists conducted warfare and fired mortar shells.</p>\n<p>Attached is footage from the attacks: https://bit.ly/3GrHYBg</p>\n<p>Attached is footage from the navy attacks: https://bit.ly/47Wq0mV</p>\n<p>Attached is footage of the forces&#8217; activities: https://bit.ly/41fbx2Q</p>\n<p>Attached are photos from the forces&#8217; activities: https://IDFANC.activetrail.biz/ANC05122023OIFGJOIEROITGB</p>\n<p>Attached are the photos of the rockets found by paratrooper soldiers: https://IDFANC.activetrail.biz/ANC04122023.2626</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Soldiers of Brigade 162 are on the attack in the Jabaliya area on <a  href=\"/hamas\">Hamas</a> strongholds; <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> Defense Forces (IDF) soldiers, in cooperation with the Israel Security Agency (the Shin Bet), are targeting the General Security Service of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a>. Forces of Brigade 162 are operating in the Jabaliya area, after completing the stage of taking over the camp. In the last day, our forces have attacked Hamas strongholds in the area and destroyed terror infrastructures. The soldiers thwarted terror infrastructures, located tools of warfare, discovered launchers in civilian buildings, and aided ongoing attacks by the Air Force. In</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4677",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4677
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4677",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4677"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4677/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4677"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4677"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4677"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": 9083,
+    "date": "2024-06-09T18:00:08",
+    "date_gmt": "2024-06-09T15:00:08",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10056-en/"
+    },
+    "modified": "2024-06-09T18:00:08",
+    "modified_gmt": "2024-06-09T15:00:08",
+    "slug": "10056-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10056-en/",
+    "title": {
+        "rendered": "&#8220;Shayetet 13&#8217;s Daring Rescue: 4 Hostages Saved in Nuzha Under Fire&#8221;"
+    },
+    "content": {
+        "rendered": "<p>In a rescue operation that lasted only a few minutes under fire in the heart of Nuzha:<br />\nThe fighters of Shayetet 13 transferred 4 hostages from the Yamam and Shin Bet forces to the IDF. Special documentation.</p>\n<p>All the details:</p>\n<p>https://www.idf.il/207791</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>In a rescue operation that lasted only a few minutes under fire in the heart of Nuzha: The fighters of Shayetet 13 transferred 4 <a  href=\"https://iron-swords.co.il/t/hostages/\">hostages</a> from the Yamam and Shin Bet forces to the IDF. Special documentation. All the details: https://www.idf.il/207791</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-9083",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 9083,
+        "he": 9084,
+        "ru": 9085
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9083",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=9083"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/9083/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=9083"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=9083"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=9083"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

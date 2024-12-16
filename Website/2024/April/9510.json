@@ -1,0 +1,122 @@
+{
+    "id": 3310,
+    "date": "2024-04-20T15:12:40",
+    "date_gmt": "2024-04-20T12:12:40",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9510/"
+    },
+    "modified": "2024-04-20T15:12:40",
+    "modified_gmt": "2024-04-20T12:12:40",
+    "slug": "9510",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9510/",
+    "title": {
+        "rendered": "&#8220;Exclusive: IDF Strikes on Hezbollah Targets in Southern Lebanon &#8211; Detailed Report and Footage Links&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF spokesperson:</p>\n<p>Footage: IDF forces attacked Hezbollah terrorist targets including the organization&#8217;s terrorists in southern Lebanon.</p>\n<p>During the day, IDF forces identified a terrorist entering a military structure of the terrorist organization Hezbollah in the area of \u200b\u200bAyta al-Shaab.<br />\nAn aviation vessel attacked the building and the terrorist who was there.</p>\n<p>Simultaneously, an aviation vessel attacked a terrorist who was in a military base of Hezbollah terrorist organization in the area of \u200b\u200bKfar Kila in southern Lebanon.</p>\n<p>Attached is footage of the attack in the area of \u200b\u200bAyta al-Shaab: https://bit.ly/3UnFcou</p>\n<p>Attached is footage of the attack in the area of \u200b\u200bKfar Kila: https://bit.ly/3WacfxE</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF spokesperson</a>: Footage: IDF forces attacked <a  href=\"/hezbollah\">Hezbollah</a> terrorist targets including the organization&#8217;s terrorists in southern Lebanon. During the day, IDF forces identified a terrorist entering a military structure of the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in the area of \u200b\u200bAyta al-Shaab. An aviation vessel attacked the building and the terrorist who was there. Simultaneously, an aviation vessel attacked a terrorist who was in a military base of Hezbollah terrorist organization in the area of \u200b\u200bKfar Kila in southern Lebanon. Attached is footage of the attack in the area of \u200b\u200bAyta al-Shaab: https://bit.ly/3UnFcou Attached is footage of the attack in the area of</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3310",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3310
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3310",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3310"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3310/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3310"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3310"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3310"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

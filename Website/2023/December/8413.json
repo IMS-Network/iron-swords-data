@@ -1,0 +1,122 @@
+{
+    "id": 4380,
+    "date": "2023-12-26T11:55:09",
+    "date_gmt": "2023-12-26T09:55:09",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8413/"
+    },
+    "modified": "2023-12-26T11:55:09",
+    "modified_gmt": "2023-12-26T09:55:09",
+    "slug": "8413",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8413/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah Terrorist Infrastructure in Lebanon: A Detailed Report on the Attack and Response&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked a terrorist infrastructure of the Hezbollah terrorist organization</p>\n<p>A short while ago, several launches from Lebanese territory were identified toward the Mount Dov and Shomera area. IDF fighters attacked targets in Lebanon.</p>\n<p>In the morning hours, a combat aircraft of the Air Force attacked a terrorist infrastructure of the Hezbollah terrorist organization in Lebanese territory. In addition, a tank fired at a target to eliminate a threat posed from Lebanon.</p>\n<p>Also, earlier this morning, a ground-to-air missile was launched from Lebanese territory at an Air Force aircraft operating in the area. The missile did not hit the aircraft which completed its mission successfully.</p>\n<p>Attached is documentation of the attack on the terrorist infrastructure: https://bit.ly/4aNivR5</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked a terrorist infrastructure of the <a  href=\"/hezbollah\">Hezbollah</a> terrorist organization A short while ago, several launches from Lebanese territory were identified toward the Mount Dov and Shomera area. IDF fighters attacked targets in Lebanon. In the morning hours, a combat aircraft of the Air Force attacked a terrorist infrastructure of the <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> terrorist organization in Lebanese territory. In addition, a tank fired at a target to eliminate a threat posed from Lebanon. Also, earlier this morning, a ground-to-air missile was launched from Lebanese territory at an Air Force aircraft operating in the area. The missile did not</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4380",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4380
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4380",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4380"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4380/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4380"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4380"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4380"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

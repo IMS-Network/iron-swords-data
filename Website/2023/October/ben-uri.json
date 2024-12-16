@@ -1,0 +1,132 @@
+{
+    "id": 2400,
+    "date": "2023-10-07T08:30:00",
+    "date_gmt": "2023-10-07T05:30:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=2400"
+    },
+    "modified": "2024-05-13T16:42:16",
+    "modified_gmt": "2024-05-13T13:42:16",
+    "slug": "ben-uri",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/victims/ben-uri/",
+    "title": {
+        "rendered": "ben uri"
+    },
+    "content": {
+        "rendered": "\n<p>Ben Uri, 31, tragically lost his life at the &#8220;Nova&#8221; party in Ra&#8217;im on October 7 while attempting to hide inside a concrete pipe during a Hamas attack. Remembered by his sister Reot Matlon as &#8220;90 kg of heart,&#8221; Ben was known for his kindness, compassion, and intelligence. A video found on his phone captured his final moments, showing him entering a yoga position and meditating while hiding. Ben&#8217;s demeanor changed after serving in the &#8220;Tzuk Eitan&#8221; operation, leaving him noticeably different upon his return. His family noted a lack of patience and a shift in his personality, indicating that while his body returned, his soul did not.</p>\n\n\n\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\">\n<p></p>\n<cite>This summary is based on the post found at <a href=\"https://www.mako.co.il/news-military/6361323ddea5a810/Article-2fd7049d187ac81027.htm\" data-type=\"link\" data-id=\"https://www.mako.co.il/news-military/6361323ddea5a810/Article-2fd7049d187ac81027.htm\">mako</a></cite></blockquote>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Ben Uri, 31, tragically lost his life at the &#8220;Nova&#8221; party in Ra&#8217;im on October 7 while attempting to hide inside a concrete pipe during a <a  href=\"/hamas\">Hamas</a> attack. Remembered by his sister Reot Matlon as &#8220;90 kg of heart,&#8221; Ben was known for his kindness, compassion, and intelligence. A video found on his phone captured his final moments, showing him entering a yoga position and meditating while hiding. Ben&#8217;s demeanor changed after serving in the &#8220;Tzuk Eitan&#8221; operation, leaving him noticeably different upon his return. His family noted a lack of patience and a shift in his personality, indicating that</p>\n",
+        "protected": false
+    },
+    "author": 6,
+    "featured_media": 2401,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-october-7th-victims",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 21,
+        "footnotes": ""
+    },
+    "categories": [
+        21
+    ],
+    "tags": [
+        34
+    ],
+    "class_list": [
+        "post-2400",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-victims",
+        "tag-nova"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 2400
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2400",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/6"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=2400"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/2400/revisions"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/2401"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=2400"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=2400"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=2400"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

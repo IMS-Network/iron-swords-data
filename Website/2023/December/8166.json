@@ -1,0 +1,122 @@
+{
+    "id": 4626,
+    "date": "2023-12-08T12:24:00",
+    "date_gmt": "2023-12-08T10:24:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8166/"
+    },
+    "modified": "2023-12-08T12:24:00",
+    "modified_gmt": "2023-12-08T10:24:00",
+    "slug": "8166",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8166/",
+    "title": {
+        "rendered": "&#8220;Key Updates in IDF&#8217;s Investigation into Yuval Doron Kestelman&#8217;s Case: Family Approves Exhumation for Autopsy&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Representatives of the military prosecution met yesterday with the family of the late Yuval Doron Kestelman, and presented the main developments in the investigation to them.</p>\n<p>Simultaneously, the Military Police, accompanied by the Military Attorney&#8217;s Office, conducted additional checks with relevant professional entities, from which new and pertinent information emerged. According to this information, it was found that there is an investigative anticipation in performing an autopsy.</p>\n<p>This timely information was brought to the knowledge of Yuval&#8217;s family, who agreed to the exhumation. Upon receiving their consent and examining all the relevant factors, the investigative Military Police and the Military Attorney&#8217;s Office proceeded with the exhumation of the body to have it transferred to the forensic medicine institute for the autopsy. For this purpose, they requested and received a court order.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Representatives of the military prosecution met yesterday with the family of the late Yuval Doron Kestelman, and presented the main developments in the investigation to them. Simultaneously, the Military Police, accompanied by the Military Attorney&#8217;s Office, conducted additional checks with relevant professional entities, from which new and pertinent information emerged. According to this information, it was found that there is an investigative anticipation in performing an autopsy. This timely information was brought to the knowledge of Yuval&#8217;s family, who agreed to the exhumation. Upon receiving their consent and examining all the relevant factors, the investigative Military Police and</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4626",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4626
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4626",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4626"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4626/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4626"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4626"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4626"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

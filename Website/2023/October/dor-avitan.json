@@ -1,0 +1,138 @@
+{
+    "id": 1045,
+    "date": "2023-10-07T06:30:00",
+    "date_gmt": "2023-10-07T03:30:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/?p=1045"
+    },
+    "modified": "2024-04-12T15:30:35",
+    "modified_gmt": "2024-04-12T12:30:35",
+    "slug": "dor-avitan",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/victims/dor-avitan/",
+    "title": {
+        "rendered": "Dor Avitan"
+    },
+    "content": {
+        "rendered": "\n<p>Dor Avitan, 26, from Eilat, was murdered by Hamas terrorists at the Supernova music festival on October 7.</p>\n\n\n\n<h2 class=\"wp-block-gutenverse-heading guten-element guten-FRNOZo\">Life Story</h2>\n\n\n\n<p>a musician and songwriter, auditioned for this season of \u201cHakochav Haba\u201d (Rising Star), which started filming just a few weeks before the Hamas massacre. At the semi-final, the show played clips of three young singers \u2014 including Dor \u2014 who auditioned and were later killed.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>An Israeli civilian that was killed by <a  href=\"/hamas\">Hamas</a> in the &#8220;Nova&#8221; Festival in Kibbutz Reim</p>\n",
+        "protected": false
+    },
+    "author": 14,
+    "featured_media": 1046,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-october-7th-victims",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 21,
+        "footnotes": ""
+    },
+    "categories": [
+        21
+    ],
+    "tags": [
+        34
+    ],
+    "class_list": [
+        "post-1045",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-victims",
+        "tag-nova"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 1045
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1045",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/14"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=1045"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 5,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1045/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 1056,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/1045/revisions/1056"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/1046"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=1045"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=1045"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=1045"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

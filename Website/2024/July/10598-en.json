@@ -1,0 +1,124 @@
+{
+    "id": 7484,
+    "date": "2024-07-23T15:46:29",
+    "date_gmt": "2024-07-23T12:46:29",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10598-en/"
+    },
+    "modified": "2024-07-23T15:46:29",
+    "modified_gmt": "2024-07-23T12:46:29",
+    "slug": "10598-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10598-en/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Hezbollah in Southern Lebanon: Air Force Targets Operatives Amid Rising Tensions&#8221;"
+    },
+    "content": {
+        "rendered": "<p>The IDF attacked Hezbollah operatives in the Shakra area of southern Lebanon.</p>\n<p>Earlier today, an Air Force aircraft struck a vehicle containing operatives from the terrorist organization Hezbollah in the Shakra area of southern Lebanon.</p>\n<p>Following alerts activated in the north of the country about the infiltration of hostile aircraft, several suspicious aerial targets were identified crossing from Lebanese territory.<br />\nSome were intercepted, and several impacts were detected in the vicinity of Mount Meron, with no casualties reported.</p>\n<p>In response to alerts regarding rocket and missile fire in the Misgav region, several launches were identified crossing from Lebanese territory.<br />\nMost were intercepted, and impacts were detected in the areas of Metula and Kiryat Shmona, with no injuries reported.</p>\n<p>Firefighting forces are currently working to extinguish fires that broke out in several areas due to the launches and the fall of interceptor debris.</p>\n<p>IDF forces attacked the sources of fire using artillery.</p>\n<p>Attached is documentation from the attack: https://we.tl/t-JqvZRfRiB1</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>The IDF attacked <a  href=\"/hezbollah\">Hezbollah</a> operatives in the Shakra area of southern Lebanon. Earlier today, an Air Force aircraft struck a vehicle containing operatives from the terrorist organization <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hezbollah/\">Hezbollah</a> in the Shakra area of southern Lebanon. Following alerts activated in the north of the country about the infiltration of hostile aircraft, several suspicious aerial targets were identified crossing from Lebanese territory. Some were intercepted, and several impacts were detected in the vicinity of Mount Meron, with no casualties reported. In response to alerts regarding rocket and missile fire in the Misgav region, several launches were identified crossing from Lebanese territory. Most</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7484",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7484,
+        "he": 7485,
+        "ru": 7486
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7484",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7484"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7484/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7484"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7484"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7484"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

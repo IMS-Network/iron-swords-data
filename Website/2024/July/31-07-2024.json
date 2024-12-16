@@ -1,0 +1,140 @@
+{
+    "id": 15769,
+    "date": "2024-07-31T00:00:00",
+    "date_gmt": "2024-07-30T21:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/31-07-2024/"
+    },
+    "modified": "2024-08-27T20:56:28",
+    "modified_gmt": "2024-08-27T17:56:28",
+    "slug": "31-07-2024",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/aid/31-07-2024/",
+    "title": {
+        "rendered": "Israel Aid and Humanitarian Efforts in Gaza: July 31, 2024"
+    },
+    "content": {
+        "rendered": "<h1>Aid Trucks Entry to Gaza</h1>\n<p>213 trucks carrying humanitarian goods were transferred to Gaza. 150 trucks entered via the Kerem Shalom Crossing and 63 trucks via the Erez West Crossing on July 30.</p>\n<h2>Aid Collection Efforts</h2>\n<p>171 trucks were dispatched from the Kerem Shalom Crossing, with 144 by the private sector and 29 by the UN. Hundreds of trucks filled with aid are currently waiting to be collected from the Gazan side of the Kerem Shalom Crossing by UN aid agencies as of July 30.</p>\n<h2>Medical Missions for Gazan Patients</h2>\n<p>On July 30, 148 Gazan patients, including children, exited Gaza via the Kerem Shalom Crossing and Ramon Airport for medical treatment in the UAE. This humanitarian operation was conducted under the leadership of the UAE, in cooperation with Israeli authorities and the WHO. Throughout the operation, medical professionals were available to assist patients, and security measures were implemented to ensure the safety of civilians and personnel. The patients and their guardians underwent security assessments. This unprecedented operation is a direct result of Israel&#8217;s humanitarian policy since the onset of the war, emphasizing the distinction between the civilian population of Gaza and Hamas.</p>\n<h2>Fuel Deliveries to Gaza</h2>\n<p>On July 30, 6 tankers of fuel and 6 tankers of cooking gas designated for essential infrastructure operations were transferred to Gaza.</p>\n<h2>Coordination of Aid Requests</h2>\n<p>Out of 43 general requests submitted, 39 (91%) were approved yesterday.</p>\n<h2>Local Tactical Pause for Humanitarian Aid</h2>\n<p>On July 31, between 10:00 and 14:00, the IDF will pause operations in the Al Samach neighborhood in Deir al-Balah to facilitate the movement of humanitarian aid.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>213 aid trucks entered <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a>; medical missions underway.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 15696,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        1338
+    ],
+    "tags": [
+        1352
+    ],
+    "class_list": [
+        "post-15769",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-aid",
+        "tag-daily-humanitarian-aid-update"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 15769,
+        "he": 15770,
+        "ru": 15771
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15769",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=15769"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15769/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 15772,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/15769/revisions/15772"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/15696"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=15769"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=15769"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=15769"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

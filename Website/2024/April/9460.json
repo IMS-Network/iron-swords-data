@@ -1,0 +1,122 @@
+{
+    "id": 3356,
+    "date": "2024-04-15T21:03:06",
+    "date_gmt": "2024-04-15T18:03:06",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9460/"
+    },
+    "modified": "2024-04-15T21:03:06",
+    "modified_gmt": "2024-04-15T18:03:06",
+    "slug": "9460",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9460/",
+    "title": {
+        "rendered": "&#8220;Israeli Chief of Staff&#8217;s Response to Missile Attacks: Insights from Nevatim Base Visit and &#8216;Iron Dome&#8217; Operation&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The Chief of Staff at Nevatim Base: Respond to missiles fired at Israel</p>\n<p>The Chief of Staff, Major General Herzl Halevi, visited today (Monday) Nevatim Base with the base commander, Brigadier General Yotam Sigler.<br />\nDuring the visit, the Chief of Staff toured the Adir 140 Squadron and spoke with the air and squadron commanders who took part in the thwarting and interception of the Iranian attack against Israel as part of the &#8220;Iron Dome&#8221; operation.</p>\n<p>Attached is a clip from the Major General&#8217;s remarks: https://bit.ly/3vPtsBV</p>\n<p>Here are his full remarks: &#8220;You see in a short story Iran wanted to harm the strategic capabilities of Israel, which is something that has not happened before. We prepared for the &#8216;Iron Dome&#8217; operation, this preparation brought Iran to also face the aerial superiority that you expressed very well.<br />\nWe saw last Monday what was being organized, and we think that Israel is very strong and knows how to cope alone, but with such a massive and distant threat we are always glad to have with us, and I tell you, a call to the American Central Command, General Corilla, on Monday, by Thursday morning he had already landed in the country, we began joint coordination. There is something in this statement &#8211; Iran meets here a very, very strong international capability.<br />\nYou see that we look forward, we weigh our steps, and this launching of so many missiles, cruise missiles, Katyushas at Israel will be answered.<br />\nWe conclude this visit, excellent people conduct excellent processes and achieve excellent results. It is very, very noticeable. I think you&#8217;re well prepared and I trust this capability very much for what will be required.&#8221;</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The Chief of Staff at Nevatim Base: Respond to missiles fired at <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> The Chief of Staff, Major General Herzl Halevi, visited today (Monday) Nevatim Base with the base commander, Brigadier General Yotam Sigler. During the visit, the Chief of Staff toured the Adir 140 Squadron and spoke with the air and squadron commanders who took part in the thwarting and interception of the Iranian attack against Israel as part of the &#8220;Iron Dome&#8221; operation. Attached is a clip from the Major General&#8217;s remarks: https://bit.ly/3vPtsBV Here are his full remarks: &#8220;You see in a short story <a  href=\"https://iron-swords.co.il/c/know-your-enemies/iran/\">Iran</a> wanted</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3356",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3356
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3356",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3356"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3356/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3356"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3356"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3356"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

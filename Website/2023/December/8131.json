@@ -1,0 +1,122 @@
+{
+    "id": 4661,
+    "date": "2023-12-06T07:57:01",
+    "date_gmt": "2023-12-06T05:57:01",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8131/"
+    },
+    "modified": "2023-12-06T07:57:01",
+    "modified_gmt": "2023-12-06T05:57:01",
+    "slug": "8131",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8131/",
+    "title": {
+        "rendered": "&#8220;Intense IDF Combat in Gaza: 250 Targets Attacked, Terror Infrastructures Destroyed&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>Intense combat with armed squads alongside aerial assistance, during which approximately 250 targets were attacked; IDF forces continue to fight in the Gaza Strip</p>\n<p>In the last day, the Air Force attacked approximately 250 targets in the Gaza Strip, fighters continue to locate and destroy weaponry, subterranean tunnels, explosives and additional terror infrastructures.</p>\n<p>The combat team of the 7th Brigade and brigade-level artillery support directed a combat aircraft that destroyed the two launchers from which the terrorists carried out the attack on the center of the country yesterday. Also, as part of the attacks, terrorists from the Hamas and PFLP terror organizations were killed, along with a number of terror infrastructures that were destroyed.</p>\n<p>IDF forces from the Kfir Brigade eliminated an armed terrorist squad operating near a school in the northern Strip. Subsequently, the fighters located and destroyed an underground tunnel and additional terrorist infrastructures that were established in the school area. In another school in the northern Strip, weapons and ammunition were found.</p>\n<p>Attached are pictures from the activity of the forces in the Gaza Strip: https://IDFANC.activetrail.biz/ANC061220236521</p>\n<p>Attached is documentation of the activity of the forces in the Gaza Strip: https://bit.ly/3Nel1Wm</p>\n<p>Attached is documentation of IDF attacks in the Strip area: https://bit.ly/3NcZtsR</p>\n<p>Attached is documentation of the attack on the launchers from which the barrage was launched towards Israeli territory: https://bit.ly/485dEbM</p>\n<p>Attached is documentation of locating an explosive in a school in the northern Strip: https://bit.ly/3NdJQS7</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: Intense combat with armed squads alongside aerial assistance, during which approximately 250 targets were attacked; IDF forces continue to fight in the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> Strip In the last day, the Air Force attacked approximately 250 targets in the Gaza Strip, fighters continue to locate and destroy weaponry, subterranean tunnels, explosives and additional terror infrastructures. The combat team of the 7th Brigade and brigade-level artillery support directed a combat aircraft that destroyed the two launchers from which the terrorists carried out the attack on the center of the country yesterday. Also, as part of the attacks, terrorists from the <a  href=\"/hamas\">Hamas</a></p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4661",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4661
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4661",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4661"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4661/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4661"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4661"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4661"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 4163,
+    "date": "2024-01-17T12:41:50",
+    "date_gmt": "2024-01-17T10:41:50",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8636/"
+    },
+    "modified": "2024-01-17T12:41:50",
+    "modified_gmt": "2024-01-17T10:41:50",
+    "slug": "8636",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8636/",
+    "title": {
+        "rendered": "&#8220;IDF Launches Decisive Strikes Against Hezbollah Targets in Lebanon: A Comprehensive Report&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked in Lebanon since this morning</p>\n<p>Starting from this morning, the IDF has been attacking targets in Lebanon.</p>\n<p>The air force&#8217;s fighter jets attacked terror infrastructure and military buildings of the Hezbollah terror organization in the Chouf region of Lebanon a short while ago.</p>\n<p>An IDF tank fired to remove a threat identified in the Itha Al-Sha&#8217;b area of Lebanon. In addition, artillery forces fired to remove a threat to the Al-Dahira area.</p>\n<p>IDF fighters attacked a military building in Marjayoun, following the detection of a terror cell.</p>\n<p>Moreover, a missile launch from Lebanon towards Galadulah region was identified, IDF forces attacked the sources of the fire.</p>\n<p>Attached video documentation of the attacks: https://bit.ly/48GkxAP</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked in Lebanon since this morning Starting from this morning, the IDF has been attacking targets in Lebanon. The air force&#8217;s fighter jets attacked terror infrastructure and military buildings of the <a  href=\"/hezbollah\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> in the Chouf region of Lebanon a short while ago. An IDF tank fired to remove a threat identified in the Itha Al-Sha&#8217;b area of Lebanon. In addition, artillery forces fired to remove a threat to the Al-Dahira area. IDF fighters attacked a military building in Marjayoun, following the detection of a terror cell. Moreover, a missile launch from Lebanon towards Galadulah</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4163",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4163
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4163",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4163"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4163/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4163"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4163"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4163"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

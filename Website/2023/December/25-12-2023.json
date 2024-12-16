@@ -1,0 +1,140 @@
+{
+    "id": 16421,
+    "date": "2023-12-25T00:00:00",
+    "date_gmt": "2023-12-24T22:00:00",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/25-12-2023/"
+    },
+    "modified": "2024-08-27T23:46:06",
+    "modified_gmt": "2024-08-27T20:46:06",
+    "slug": "25-12-2023",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/facts/aid/25-12-2023/",
+    "title": {
+        "rendered": "Israel Aid and Humanitarian Efforts in Gaza: Dec. 25, 2023"
+    },
+    "content": {
+        "rendered": "<h1>Humanitarian Aid Arrives in Gaza Strip</h1>\n<p>On December 24, 80,000 vaccines for measles, mumps, and rubella, donated by UNICEF, have arrived in the Gaza Strip. A field hospital in Rafah, operated by the Red Crescent, is expected to begin treating patients in the coming days.</p>\n<h2>Field Hospitals Set to Operate</h2>\n<p>The hospital in Rafah has a capacity of 50 beds and a personnel of 120, including 6 intensive care units and 3 operating rooms. Additionally, 4 more field hospitals are in the process of being established, expected to be operational soon. Extra equipment and personnel for these field hospitals have also entered the Gaza Strip.</p>\n<h2>Water Supply Projects</h2>\n<p>The first phase of establishing a water line from mobile desalination facilities located on the Egyptian side to the Rafah area has been completed. This project, carried out by the United Arab Emirates, is designed to supply water to approximately 150 thousand people.</p>\n<h2>Logistics and Aid Transfer</h2>\n<p>In recent developments, 113 trucks were inspected and transferred to the Gaza Strip via the Rafah crossing. In coordination with the UN, no trucks were inspected at the Kerem Shalom crossing due to logistic constraints on the Gazan side of the crossing.</p>\n<h2>Provision of Cooking Gas</h2>\n<p>Furthermore, 4 tankers of cooking gas designated for the operation of essential infrastructure in Gaza have entered the Gaza Strip.</p>\n<h2>Planned Humanitarian Aid Operations</h2>\n<p>Today, December 25, between 10:00 and 14:00, the IDF will pause operations in A-Sheikh Muhammad al-Yamani (West) and Deir al-Balah to enable the movement of humanitarian aid. A similar pause occurred on December 23 at the Tel Al-Saltan neighborhood of Rafah.</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>UNICEF donates 80,000 vaccines; field hospitals operational soon.</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 15696,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        1338
+    ],
+    "tags": [
+        1352
+    ],
+    "class_list": [
+        "post-16421",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-aid",
+        "tag-daily-humanitarian-aid-update"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 16421,
+        "he": 16422,
+        "ru": 16423
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16421",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=16421"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16421/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 16424,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/16421/revisions/16424"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media/15696"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=16421"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=16421"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=16421"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

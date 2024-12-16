@@ -1,0 +1,122 @@
+{
+    "id": 3449,
+    "date": "2024-04-07T16:20:04",
+    "date_gmt": "2024-04-07T13:20:04",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9364/"
+    },
+    "modified": "2024-04-07T16:20:04",
+    "modified_gmt": "2024-04-07T13:20:04",
+    "slug": "9364",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9364/",
+    "title": {
+        "rendered": "&#8220;IDF Strikes Major Hezbollah Military Base in Southern Lebanon: An In-depth Look at the Recent Conflict&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The IDF attacked a large military complex of the Radwan Force in southern Lebanon</p>\n<p>A short while ago, fighter jets attacked a military complex which has seven military buildings of the Radwan Force, a faction of the Hezbollah terror organization in the Al-Khiyam area. In addition, IDF forces attacked a military command associated with the organization in the Kfar Tura area.</p>\n<p>IDF forces attacked the sources of fire in the Kochaba and Miss Al-Jabal areas in southern Lebanon in response to barrages identified earlier today towards the Golan Heights and the Menara area.</p>\n<p>Attached is footage from the attacks: https://bit.ly/3U7BC1P</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The IDF attacked a large military complex of the Radwan Force in southern Lebanon A short while ago, fighter jets attacked a military complex which has seven military buildings of the Radwan Force, a faction of the <a  href=\"/hezbollah\">Hezbollah</a> <a  href=\"https://iron-swords.co.il/t/terror-organization/\">terror organization</a> in the Al-Khiyam area. In addition, IDF forces attacked a military command associated with the organization in the Kfar Tura area. IDF forces attacked the sources of fire in the Kochaba and Miss Al-Jabal areas in southern Lebanon in response to barrages identified earlier today towards the Golan Heights and the Menara area. Attached is footage from the</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3449",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3449
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3449",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3449"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3449/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3449"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3449"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3449"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

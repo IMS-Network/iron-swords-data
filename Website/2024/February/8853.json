@@ -1,0 +1,122 @@
+{
+    "id": 3950,
+    "date": "2024-02-12T19:39:21",
+    "date_gmt": "2024-02-12T17:39:21",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8853/"
+    },
+    "modified": "2024-02-12T19:39:21",
+    "modified_gmt": "2024-02-12T17:39:21",
+    "slug": "8853",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8853/",
+    "title": {
+        "rendered": "&#8220;Inside the IDF&#8217;s Tireless Effort to Rescue Kidnapped Civilians: A Discussion with General Nitzan Alon&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesman:</p>\n<p>General (res.) Nitzan Alon in a conversation with the clerks of the command responsible for returning the captives.</p>\n<p>General (res.) Nitzan Alon held a discussion today (Monday) with dozens of regular and reserve clerks at the command responsible for intelligence, operations, and negotiations for the return of the kidnapped.</p>\n<p>The clerks in the command work day and night to find the whereabouts of the kidnapped and their condition. Together, they have brought in an intense effort over many weeks, the intelligence that identified the asset where Fernando Marmen and Luis Har were held captive by Hamas and were rescued tonight, and the intelligence based on which we planned the operation in which IDF, Shin Bet and Yamam forces participated. </p>\n<p>After the success of the operation overnight, the clerks in the command are continuing to make all efforts to bring back the remaining 134 captives, both men and women, still held by Hamas at home.</p>\n<p>Attached is footage of General (res.) Nitzan Alon&#8217;s commentary: https://bit.ly/4bu0Qhz </p>\n<p>Attached are photos on the subject: https://IDFANC.activetrail.biz/ANC67967665</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>IDF Spokesman: General (res.) Nitzan Alon in a conversation with the clerks of the command responsible for returning the captives. General (res.) Nitzan Alon held a discussion today (Monday) with dozens of regular and reserve clerks at the command responsible for intelligence, operations, and negotiations for the return of the kidnapped. The clerks in the command work day and night to find the whereabouts of the kidnapped and their condition. Together, they have brought in an intense effort over many weeks, the intelligence that identified the asset where Fernando Marmen and Luis Har were held captive by <a  href=\"/hamas\">Hamas</a> and were</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3950",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3950
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3950",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3950"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3950/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3950"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3950"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3950"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 4644,
+    "date": "2023-12-07T11:12:57",
+    "date_gmt": "2023-12-07T09:12:57",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8148/"
+    },
+    "modified": "2023-12-07T11:12:57",
+    "modified_gmt": "2023-12-07T09:12:57",
+    "slug": "8148",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8148/",
+    "title": {
+        "rendered": "&#8220;Exposing Hamas: Rocket Attacks Launched from Civilian Protected Areas &#8211; Shocking Evidence Revealed by IDF&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>IDF reveals in foreign media: Hamas is launching rockets from humanitarian areas towards Israel</p>\n<p>Yesterday, at 15:59, Hamas terrorists launched 12 rockets towards Be&#8217;er Sheva. The rockets were launched near tents housing Gazan civilians who were evacuated to the south of the Strip for their protection and near UN facilities.</p>\n<p>Attached is documentation from the launch site, near civil tents: https://bit.ly/3TcgUxw</p>\n<p>Attached are images from the launch site, next to tents housing Gazan civilians: https://IDFANC.activetrail.biz/ANC07122023MFEDVGBNDFIU</p>\n<p>Yesterday at 12:52, Hamas fired a rocket from the humanitarian zone. The rocket fell in the Strip area and put many Gazan civilians at risk. Attached is a reenactment of the faulty launch: https://IDFANC.activetrail.biz/ANC07122023KFGNEIOG</p>\n<p>Yesterday at 14:12, Hamas terrorists launched a rocket from the humanitarian area towards Israel. Attached are images from the launch: https://IDFANC.activetrail.biz/ANC07122023MGIONBGBB</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: IDF reveals in foreign media: <a  href=\"/hamas\">Hamas</a> is launching rockets from humanitarian areas towards <a  href=\"https://iron-swords.co.il/t/israel/\">Israel</a> Yesterday, at 15:59, <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a> terrorists launched 12 rockets towards Be&#8217;er Sheva. The rockets were launched near tents housing Gazan civilians who were evacuated to the south of the Strip for their protection and near UN facilities. Attached is documentation from the launch site, near civil tents: https://bit.ly/3TcgUxw Attached are images from the launch site, next to tents housing Gazan civilians: https://IDFANC.activetrail.biz/ANC07122023MFEDVGBNDFIU Yesterday at 12:52, Hamas fired a rocket from the humanitarian zone. The rocket fell in the Strip area and put many Gazan civilians</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4644",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4644
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4644",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4644"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4644/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4644"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4644"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4644"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

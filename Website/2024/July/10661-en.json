@@ -1,0 +1,124 @@
+{
+    "id": 7288,
+    "date": "2024-07-27T22:54:33",
+    "date_gmt": "2024-07-27T19:54:33",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized-en/10661-en/"
+    },
+    "modified": "2024-07-27T22:54:33",
+    "modified_gmt": "2024-07-27T19:54:33",
+    "slug": "10661-en",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/10661-en/",
+    "title": {
+        "rendered": "&#8220;IDF Leaders Assess Situation in Majdal Shams: A Community&#8217;s Grief and Support&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The commander of the Northern Command, Major General Uri Gordine, held a situation assessment at the operations center in Majdal Shams with the commander of Division 210, Brigadier General Yair Plai, and other commanders. Additionally, they visited the impact site in Majdal Shams and held discussions with the heads of the councils and the residents.</p>\n<p>Earlier today, the commander of the Northern Command, Major General Uri Gordine, spoke with the head of the Druze community, Sheikh Ma&#8217;ufaq Tarif, expressed his deep sorrow on behalf of himself and the entire IDF for the deaths of the youths, and requested to strengthen the families and the entire community.</p>\n<p>Attached is a video on the subject: https://bit.ly/3ynDhYQ</p>\n<p>Attached are pictures on the subject: https://IDFANC.activetrail.biz/ANC22192707</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The commander of the Northern Command, Major General Uri Gordine, held a situation assessment at the operations center in Majdal Shams with the commander of Division 210, Brigadier General Yair Plai, and other commanders. Additionally, they visited the impact site in Majdal Shams and held discussions with the heads of the councils and the residents. Earlier today, the commander of the Northern Command, Major General Uri Gordine, spoke with the head of the Druze community, Sheikh Ma&#8217;ufaq Tarif, expressed his deep sorrow on behalf of himself and the entire IDF for the deaths of the youths, and requested</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 209,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-7288",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 7288,
+        "he": 7289,
+        "ru": 7290
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7288",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=7288"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/7288/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=7288"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=7288"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=7288"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

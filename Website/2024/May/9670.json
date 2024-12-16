@@ -1,0 +1,122 @@
+{
+    "id": 3153,
+    "date": "2024-05-08T19:29:19",
+    "date_gmt": "2024-05-08T16:29:19",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/9670/"
+    },
+    "modified": "2024-05-08T19:29:19",
+    "modified_gmt": "2024-05-08T16:29:19",
+    "slug": "9670",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/9670/",
+    "title": {
+        "rendered": "&#8220;IDF and Shin Bet Joint Operation: Elimination of Hamas&#8217; Naval Force Commander in Gaza City&#8221;"
+    },
+    "content": {
+        "rendered": "<p>Joint statement from the IDF Spokesperson and the Shin Bet Spokesperson:</p>\n<p>The IDF and Shin Bet have eliminated the commander of Hamas&#8217; naval force in Gaza City. </p>\n<p>In a joint operation by the IDF and Shin Bet, an aircraft from the Air Force, guided by intelligence from Shin Bet and the Navy, eliminated terrorist Ahmed Ali, the commander of Hamas&#8217; naval force in Gaza City, in the last day.</p>\n<p>Ahmed Ali promoted offensive activities against Israeli territory and additional attacks against IDF forces operating in the Gaza Strip during the war. Recently, he has been working to promote attacks against IDF forces operating in the central corridor of the Gaza Strip.</p>\n<p>As part of his role, in recent years Ali has been involved in managing projects of the naval force of the Hamas terrorist organization in the Strip.</p>\n<p>Attached is footage from the elimination: https://bit.ly/3y7mSHM</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Joint statement from the <a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a> and the Shin Bet Spokesperson: The IDF and Shin Bet have eliminated the commander of <a  href=\"/hamas\">Hamas</a>&#8217; naval force in <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> City. In a joint operation by the IDF and Shin Bet, an aircraft from the Air Force, guided by intelligence from Shin Bet and the Navy, eliminated terrorist Ahmed Ali, the commander of <a  href=\"https://iron-swords.co.il/c/know-your-enemies/hamas/\">Hamas</a>&#8217; naval force in Gaza City, in the last day. Ahmed Ali promoted offensive activities against Israeli territory and additional attacks against IDF forces operating in the Gaza Strip during the war. Recently, he has been working to promote attacks against</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-3153",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 3153
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3153",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=3153"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/3153/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=3153"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=3153"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=3153"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

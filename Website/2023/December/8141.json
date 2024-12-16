@@ -1,0 +1,122 @@
+{
+    "id": 4651,
+    "date": "2023-12-06T18:21:51",
+    "date_gmt": "2023-12-06T16:21:51",
+    "guid": {
+        "rendered": "https://iron-swords.co.il/uncategorized/8141/"
+    },
+    "modified": "2023-12-06T18:21:51",
+    "modified_gmt": "2023-12-06T16:21:51",
+    "slug": "8141",
+    "status": "publish",
+    "type": "post",
+    "link": "https://iron-swords.co.il/idf-updates/8141/",
+    "title": {
+        "rendered": "&#8220;Major General Yaron Finkleman Leads Strategic IDF Offensive in Khan Yunis: An Inside Look&#8221;"
+    },
+    "content": {
+        "rendered": "<p>IDF Spokesperson:</p>\n<p>The commander of the Southern Command in a situation assessment in the south of the Gaza strip: &#8220;The fight in Khan Yunis is a central effort. We are pushing forward towards the targets at the front&#8221;</p>\n<p>The commander of the Southern Command, Major General Yaron Finkleman, held an operational situation assessment today (Wednesday) with IDF forces currently fighting in the area of the city of Khan Yunis. The combat forces presented to the commander of the command the offensive actions taken so far, and the continuation plan for the ground operation in the area.</p>\n<p>From the words of the commander of the Southern Command, Major General Yaron Finkleman: &#8220;The fight in Khan Yunis is a central effort, I am impressed that it is well managed &#8211; that they are in control of it, that they are pushing forward. There are significant targets here, we will go with this. Continue to support it. We allocate what is needed here and keep pushing forward all the time towards the targets that are highlighted here at the front for us.&#8221;</p>\n<p>Attached is documentation from the situation assessment conducted by the commander of the Southern Command in the south of the Gaza Strip: https://bit.ly/41qmyOZ</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p><a  href=\"https://iron-swords.co.il/c/idf-spokesperson/\">IDF Spokesperson</a>: The commander of the Southern Command in a situation assessment in the south of the <a  href=\"https://iron-swords.co.il/t/gaza/\">Gaza</a> strip: &#8220;The fight in Khan Yunis is a central effort. We are pushing forward towards the targets at the front&#8221; The commander of the Southern Command, Major General Yaron Finkleman, held an operational situation assessment today (Wednesday) with IDF forces currently fighting in the area of the city of Khan Yunis. The combat forces presented to the commander of the command the offensive actions taken so far, and the continuation plan for the ground operation in the area. From the words of</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "wp-custom-template-idf-updates",
+    "format": "standard",
+    "meta": {
+        "wds_primary_category": 1,
+        "footnotes": ""
+    },
+    "categories": [
+        199
+    ],
+    "tags": [],
+    "class_list": [
+        "post-4651",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-idf-updates"
+    ],
+    "lang": "en",
+    "translations": {
+        "en": 4651
+    },
+    "pll_sync_post": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4651",
+                "targetHints": {
+                    "allow": [
+                        "GET",
+                        "POST",
+                        "PUT",
+                        "PATCH",
+                        "DELETE"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/types/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/comments?post=4651"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/posts/4651/revisions"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/media?parent=4651"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/categories?post=4651"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://iron-swords.co.il/wp-json/wp/v2/tags?post=4651"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}
