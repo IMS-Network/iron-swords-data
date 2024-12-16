@@ -29,7 +29,7 @@ def organize_posts(posts):
     for post in posts:
         post_date = datetime.fromisoformat(post["date_gmt"]).astimezone()
         year = post_date.year
-        month = post_date.strftime("%m")
+        month = post_date.strftime("%B")
         slug = post["slug"]
 
         year_path = base_path / str(year)
@@ -45,7 +45,7 @@ def remove_deleted_posts(current_posts):
     for post in current_posts:
         post_date = datetime.fromisoformat(post["date_gmt"]).astimezone()
         year = post_date.year
-        month = post_date.strftime("%m")
+        month = post_date.strftime("%B")
         slug = post["slug"]
 
         existing_posts.add((str(year), month, f"{slug}.json"))
