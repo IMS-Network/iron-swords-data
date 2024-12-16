@@ -2,17 +2,15 @@ from telethon.sync import TelegramClient
 from telethon.tl.types import MessageMediaPhoto, MessageMediaDocument
 import os
 from datetime import datetime
-import requests
 
-# Telegram API credentials from environment variables
-API_ID = os.getenv("TELEGRAM_API_ID")
-API_HASH = os.getenv("TELEGRAM_API_HASH")
+# Telegram Bot Token (from environment variables)
+BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 CHANNEL = "@idf_telegram"  # Replace with your channel username
 START_DATE = datetime(2023, 10, 7)  # Starting from October 7, 2023
 SAVE_PATH = "./IDFspokesman"
 
-# Initialize Telegram client
-client = TelegramClient('session', API_ID, API_HASH)
+# Initialize Telegram client using bot token
+client = TelegramClient('bot_session', api_id=0, api_hash='none').start(bot_token=BOT_TOKEN)
 
 def download_media(media, folder_path, filename_prefix):
     """Download media (photos/videos) to the specified folder."""
