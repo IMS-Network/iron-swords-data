@@ -34,13 +34,13 @@ jobs:
         git config --local user.name "${{ secrets.GIT_USER_NAME }}"
         git config --local user.email "${{ secrets.GIT_USER_EMAIL }}"
         git add .
-        git commit -m "Sync Telegram messages on $(date)"
+        git commit -m "Sync IDF Telegram messages on $(date)"
         git push
 
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v5
       with:
         branch: sync-telegram-messages
-        commit-message: "Sync Telegram messages"
-        title: "Daily Telegram Messages Sync"
-        body: "This PR syncs messages and media from Telegram."
+        commit-message: "Sync IDF Telegram messages"
+        title: "Daily IDF Telegram Messages Sync"
+        body: "This PR syncs messages and media from IDF Telegram."
