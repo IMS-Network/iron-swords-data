@@ -9,7 +9,7 @@ API_ID = os.getenv("TELEGRAM_API_ID")
 API_HASH = os.getenv("TELEGRAM_API_HASH")
 CHANNEL = "@idf_telegram"  # Replace with your channel username
 START_DATE = datetime(2023, 10, 7)  # Starting from October 7, 2023
-SAVE_PATH = "./telegram-data"
+SAVE_PATH = "./IDFspokesman"
 
 # Initialize Telegram client
 client = TelegramClient('session', API_ID, API_HASH)
