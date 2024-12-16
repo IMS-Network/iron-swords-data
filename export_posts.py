@@ -69,15 +69,25 @@ def organize_posts(posts):
         month = post_date.strftime("%B")
         slug = post["slug"]
 
+        # Path for the post JSON file
         year_path = base_path / str(year)
         month_path = year_path / month
         month_path.mkdir(parents=True, exist_ok=True)
-
         post_path = month_path / f"{slug}.json"
 
-        # Save or overwrite post as JSON
+        # Check if the file exists and if the post has been updated
+        if post_path.exists():
+            with open(post_path, "r") as f:
+                existing_post = json.load(f)
+                existing_modified = existing_post.get("modified_gmt", "")
+                if existing_modified == post["modified_gmt"]:
+                    # No updates, skip this post
+                    continue
+
+        # Save or overwrite post as JSON (updated or new)
         with open(post_path, "w") as f:
             json.dump(post, f, indent=4)
+        print(f"Updated: {post_path}")
 
 # Remove posts that no longer exist on WordPress
 def remove_deleted_posts(current_posts):
