@@ -14,6 +14,11 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
+    - name: Decode and decrypt Telegram session file
+      run: |
+        echo "${{ secrets.TELEGRAM_SESSION_ENC }}" | base64 --decode > user_session.session.enc
+        openssl enc -aes-256-cbc -pbkdf2 -d -in user_session.session.enc -out user_session.session -k "${{ secrets.ENCRYPTION_PASSWORD }}"
+
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
@@ -26,7 +31,6 @@ jobs:
       env:
         TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
         TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
-        PHONE_NUMBER: ${{ secrets.PHONE_NUMBER }}
       run: |
         python export_idf_telegram.py
 
