@@ -3,14 +3,16 @@ from telethon.tl.types import MessageMediaPhoto, MessageMediaDocument
 import os
 from datetime import datetime
 
-# Telegram Bot Token (from environment variables)
-BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
-CHANNEL = "@idf_telegram"  # Replace with your channel username
-START_DATE = datetime(2023, 10, 7)  # Starting from October 7, 2023
+# Configuration
+API_ID = int(os.getenv("TELEGRAM_API_ID"))  # Your Telegram API ID
+API_HASH = os.getenv("TELEGRAM_API_HASH")  # Your Telegram API Hash
+PHONE_NUMBER = os.getenv("PHONE_NUMBER")  # Your phone number
+CHANNEL = "@idf_telegram"  # Target public channel
+START_DATE = datetime(2023, 10, 7)  # Starting date
 SAVE_PATH = "./IDFspokesman"
 
-# Initialize Telegram client using bot token
-client = TelegramClient('bot_session', api_id=0, api_hash='none').start(bot_token=BOT_TOKEN)
+# Initialize client using your phone number
+client = TelegramClient("user_session", API_ID, API_HASH)
 
 def download_media(media, folder_path, filename_prefix):
     """Download media (photos/videos) to the specified folder."""
@@ -19,7 +21,6 @@ def download_media(media, folder_path, filename_prefix):
         client.download_media(media, file=os.path.join(folder_path, filename))
         return filename
     elif isinstance(media, MessageMediaDocument):
-        # Download videos or documents
         filename = f"{filename_prefix}_media.mp4" if 'video' in media.document.mime_type else f"{filename_prefix}_media"
         client.download_media(media, file=os.path.join(folder_path, filename))
         return filename
@@ -72,6 +73,8 @@ def process_messages():
             print(f"Saved message {message_id} to {md_filename}")
 
 if __name__ == "__main__":
+    print("Logging in...")
+    client.start(phone=PHONE_NUMBER)
     print("Starting Telegram scraping...")
     process_messages()
     print("Telegram scraping completed successfully.")
