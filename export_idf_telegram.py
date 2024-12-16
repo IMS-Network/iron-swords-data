@@ -2,6 +2,10 @@ from telethon.sync import TelegramClient
 from telethon.tl.types import MessageMediaPhoto, MessageMediaDocument
 import os
 from datetime import datetime
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 # Configuration
 API_ID = int(os.getenv("TELEGRAM_API_ID"))  # Your Telegram API ID
