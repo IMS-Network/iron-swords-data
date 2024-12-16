@@ -7,7 +7,7 @@ from pathlib import Path
 API_URL = os.getenv("API_URL") 
 USERNAME = os.getenv("USERNAME")
 APP_PASSWORD = os.getenv("APP_PASSWORD") 
-GITHUB_REPO_PATH = "./wordpress-posts"
+GITHUB_REPO_PATH = "./Website"
 
 import base64
 auth_string = f"{USERNAME}:{APP_PASSWORD}"
