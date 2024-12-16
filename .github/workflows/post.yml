@@ -8,6 +8,7 @@ on:
 jobs:
   sync-posts:
     runs-on: ubuntu-latest
+    environment: Website
 
     steps:
     - name: Checkout repository
@@ -23,7 +24,7 @@ jobs:
 
     - name: Export WordPress posts
       env:
-        WP_API_URL: ${{ secrets.WP_API_URL }}
+        WP_API_URL: ${{ secrets.API_URL }}
         WP_USERNAME: ${{ secrets.WP_USERNAME }}
         WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
       run: |
