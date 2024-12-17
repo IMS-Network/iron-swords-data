@@ -52,7 +52,7 @@ jobs:
         git config --local user.name "${{ secrets.GIT_USER_NAME }}"
         git config --local user.email "${{ secrets.GIT_USER_EMAIL }}"
         git add .
-        git commit -m "Sync IDF Telegram messages on $(date)" || echo "No changes to commit"
+        git commit -m "Sync Telegram messages up to $(date)" || echo "No changes to commit"
         git push
 
     - name: Create Pull Request
