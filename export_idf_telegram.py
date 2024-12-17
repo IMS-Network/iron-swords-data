@@ -2,7 +2,7 @@ from telethon.sync import TelegramClient
 from telethon.tl.types import MessageMediaPhoto, MessageMediaDocument
 import os
 import json
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from dotenv import load_dotenv
 
 # Load environment variables
@@ -44,22 +44,27 @@ def download_media(media, folder_path, filename_prefix):
 # Function to process messages
 def process_messages():
     last_message_id = load_last_message_id()
-    current_date = datetime.now()
-    start_date = current_date.replace(day=1)  # Start of the current month
-    end_date = (start_date + timedelta(days=32)).replace(day=1) - timedelta(seconds=1)  # End of the current month
+    current_date = datetime.now(timezone.utc)  # Ensure UTC timezone
+    start_date = current_date.replace(day=1)  # Start of the current month (UTC)
+    end_date = (start_date + timedelta(days=32)).replace(day=1) - timedelta(seconds=1)  # End of the current month (UTC)
 
-    print(f"Scraping messages from {start_date.date()} to {end_date.date()}")
+    print(f"Scraping messages from {start_date} to {end_date}")
 
     with client:
         for message in client.iter_messages(CHANNEL, offset_id=last_message_id, reverse=True):
-            if message.date < start_date or message.date > end_date:
-                continue  # Process messages only for the current month
+            if not message.date:
+                continue  # Skip messages without a date
+
+            # Convert message.date to UTC-aware datetime
+            message_date = message.date.astimezone(timezone.utc)
+
+            if message_date < start_date or message_date > end_date:
+                continue  # Skip messages outside the current month
 
             if not message.message and not message.media:
                 continue
 
             # Extract message info
-            message_date = message.date.astimezone()
             year = message_date.year
             month = message_date.strftime("%B")
             day = message_date.day
