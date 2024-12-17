@@ -11,28 +11,42 @@ jobs:
     environment: Telegram
 
     steps:
+    # Step 1: Checkout repository
     - name: Checkout repository
       uses: actions/checkout@v4
 
+    # Step 2: Install OpenSSL and confirm version
     - name: Install latest OpenSSL
       run: |
         sudo apt-get update
         sudo apt-get install -y openssl
         openssl version
 
+    # Step 3: Debug base64 decoding and show the first bytes
+    - name: Debug base64 decoding
+      run: |
+        echo "${{ secrets.TELEGRAM_SESSION_ENC }}" | base64 --decode > user_session.session.enc
+        echo "First 20 bytes of decoded file:"
+        hexdump -C user_session.session.enc | head -n 10
+
+    # Step 4: Decode and decrypt Telegram session file
     - name: Decode and decrypt Telegram session file
       run: |
         echo "${{ secrets.TELEGRAM_SESSION_ENC }}" | base64 --decode > user_session.session.enc
-        openssl enc -aes-256-cbc -pbkdf2 -d -in user_session.session.enc -out user_session.session -k "${{ secrets.ENCRYPTION_PASSWORD }}"
+        openssl enc -aes-256-cbc -pbkdf2 -iter 100000 -d -in user_session.session.enc -out user_session.session -k "${{ secrets.ENCRYPTION_PASSWORD }}"
+        echo "Decryption successful!"
 
+    # Step 5: Set up Python environment
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
         python-version: '3.11'
 
+    # Step 6: Install required Python dependencies
     - name: Install dependencies
       run: pip install telethon requests python-dotenv
 
+    # Step 7: Run the Telegram scraper script
     - name: Scrape Telegram messages
       env:
         TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
@@ -40,14 +54,16 @@ jobs:
       run: |
         python export_idf_telegram.py
 
+    # Step 8: Commit and push changes if any new messages were scraped
     - name: Commit and push changes
       run: |
         git config --local user.name "${{ secrets.GIT_USER_NAME }}"
         git config --local user.email "${{ secrets.GIT_USER_EMAIL }}"
         git add .
-        git commit -m "Sync IDF Telegram messages on $(date)"
+        git commit -m "Sync IDF Telegram messages on $(date)" || echo "No changes to commit"
         git push
 
+    # Step 9: Create a Pull Request with the changes
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v5
       with:
