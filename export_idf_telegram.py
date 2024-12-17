@@ -11,7 +11,7 @@ load_dotenv()
 # Configuration
 API_ID = int(os.getenv("TELEGRAM_API_ID"))
 API_HASH = os.getenv("TELEGRAM_API_HASH")
-CHANNEL = "@idf_telegram"  # Target Telegram channel
+CHANNEL = "@idf_telegram"
 SAVE_PATH = "./IDFspokesman"
 STATE_FILE = "last_message_id.json"
 
