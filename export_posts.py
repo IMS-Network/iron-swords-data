@@ -1,7 +1,7 @@
 import requests
 import os
 import json
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import base64
@@ -113,19 +113,19 @@ def remove_deleted_posts(current_posts):
 
 def process_messages():
     last_message_id = load_last_message_id()
-    current_date = datetime.now()
-    start_date = current_date.replace(day=1, tzinfo=timezone.utc)  # Start of the current month (UTC)
-    end_date = (start_date + timedelta(days=32)).replace(day=1) - timedelta(seconds=1)  # End of the current month (UTC)
+    current_date = datetime.now(timezone.utc)  # Force UTC timezone
+    start_date = current_date.replace(day=1)  # Start of the current month (UTC)
+    end_date = (start_date + timedelta(days=32)).replace(day=1) - timedelta(seconds=1)  # End of the current month
 
-    print(f"Scraping messages from {start_date.date()} to {end_date.date()}")
+    print(f"Scraping messages from {start_date} to {end_date}")
 
     with client:
         for message in client.iter_messages(CHANNEL, offset_id=last_message_id, reverse=True):
             if not message.date:
                 continue  # Skip messages without a date
 
-            # Convert message.date to UTC timezone-aware datetime
-            message_date = message.date.replace(tzinfo=timezone.utc)
+            # Convert message.date to UTC-aware datetime
+            message_date = message.date.astimezone(timezone.utc)
 
             if message_date < start_date or message_date > end_date:
                 continue  # Skip messages outside the current month
