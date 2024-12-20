@@ -20,20 +20,16 @@ START_DATE = datetime(2023, 10, 7, tzinfo=timezone.utc)  # Start scraping from t
 client = TelegramClient("user_session", API_ID, API_HASH)
 
 # Function to load the last scraped message ID
-def load_last_message_id(year, month):
+def load_last_message_id():
     if os.path.exists(STATE_FILE):
         with open(STATE_FILE, "r") as f:
             state = json.load(f)
-            return state.get(f"{year}-{month}", 0)
+            return state.get("last_message_id", 0)
     return 0
 
 # Function to save the last scraped message ID
-def save_last_message_id(year, month, last_id):
-    state = {}
-    if os.path.exists(STATE_FILE):
-        with open(STATE_FILE, "r") as f:
-            state = json.load(f)
-    state[f"{year}-{month}"] = last_id
+def save_last_message_id(last_id):
+    state = {"last_message_id": last_id}
     with open(STATE_FILE, "w") as f:
         json.dump(state, f)
 
@@ -48,31 +44,24 @@ def download_media(media, folder_path, filename_prefix):
     client.download_media(media, file=os.path.join(folder_path, filename))
     return filename
 
-# Function to process messages for a single month
-def process_month(year, month):
-    print(f"Scraping messages for {year}-{month:02}")
-    last_message_id = load_last_message_id(year, month)
-
-    # Calculate start and end dates for the month
-    start_date = datetime(year, month, 1, tzinfo=timezone.utc)
-    end_date = (start_date + timedelta(days=32)).replace(day=1) - timedelta(seconds=1)
+# Function to process messages
+def process_messages():
+    print("Starting Telegram scraping...")
+    
+    # Load the last processed message ID
+    last_message_id = load_last_message_id()
+    print(f"Last scraped message ID: {last_message_id}")
 
     with client:
         for message in client.iter_messages(CHANNEL, offset_id=last_message_id, reverse=True):
-            if not message.date:
-                continue
-
-            # Convert message.date to UTC-aware datetime
-            message_date = message.date.astimezone(timezone.utc)
-
-            # Stop if message is outside the current month
-            if message_date < start_date or message_date > end_date:
+            if not message.date or message.date < START_DATE:
                 continue
 
             if not message.message and not message.media:
                 continue
 
             # Extract message info
+            message_date = message.date.astimezone(timezone.utc)
             year = message_date.year
             month_name = message_date.strftime("%B")
             day = message_date.day
@@ -109,29 +98,10 @@ def process_month(year, month):
             # Update last message ID
             last_message_id = message_id
 
-    # Save the last processed message ID for the month
-    save_last_message_id(year, month, last_message_id)
-    print(f"Finished scraping {year}-{month:02}, last message ID: {last_message_id}")
-
-# Function to iterate over months and process messages
-def process_messages():
-    current_date = datetime.now(timezone.utc)
-    year, month = START_DATE.year, START_DATE.month
-
-    while True:
-        process_month(year, month)
-
-        # Stop if we reach the current month
-        if year == current_date.year and month == current_date.month:
-            break
-
-        # Move to the next month
-        month += 1
-        if month > 12:
-            month = 1
-            year += 1
+    # Save the last processed message ID
+    save_last_message_id(last_message_id)
+    print(f"Finished scraping, last message ID: {last_message_id}")
 
 if __name__ == "__main__":
-    print("Starting Telegram scraping...")
     process_messages()
     print("Telegram scraping completed successfully.")
