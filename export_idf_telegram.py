@@ -109,25 +109,31 @@ def download_media(media, folder_path, filename_prefix):
         except Exception as e:
             raise FileNotFoundError(f"Failed to create folder {folder_path}: {e}")
 
+    # Determine the file name based on media type
     if isinstance(media, MessageMediaPhoto):
         filename = f"{filename_prefix}_photo.jpg"
     elif isinstance(media, MessageMediaDocument):
         filename = f"{filename_prefix}_media.mp4" if 'video' in media.document.mime_type else f"{filename_prefix}_media"
     else:
-        print(f"Unsupported media type, skipping download for: {filename_prefix}")
+        print(f"Unsupported media type for message {filename_prefix}, skipping.")
         return None
 
     file_path = os.path.join(folder_path, filename)
+
+    # Retry logic for downloading media
     for attempt in range(3):
         try:
+            print(f"Attempting to download media to: {file_path} (Attempt {attempt + 1})")
             client.download_media(media, file=file_path)
             if os.path.exists(file_path):
+                print(f"Media successfully downloaded: {file_path}")
                 return file_path
         except Exception as e:
-            print(f"Attempt {attempt + 1} to download media failed: {e}")
-            time.sleep(2)
+            print(f"Download attempt {attempt + 1} failed for {file_path}: {e}")
+            time.sleep(2)  # Retry delay
 
-    raise FileNotFoundError(f"Media download failed after retries: {file_path}")
+    print(f"Media download failed after retries for {file_path}")
+    return None  # Gracefully return None if download fails
 
 # Function to process messages
 def process_messages():
@@ -168,6 +174,8 @@ def process_messages():
                             print(f"Deleted local file: {media_filename}")
                     else:
                         media_links[relative_path] = relative_path
+                else:
+                    print(f"Skipping message {message_id} due to media download failure.")
 
             md_content = f"## Message {message_id}\n\n{message.message or ''}\n\n"
             for original, new_link in media_links.items():
