@@ -50,9 +50,25 @@ def save_last_message_id(last_id):
     with open(STATE_FILE, "w") as f:
         json.dump(state, f)
 
-# Upload a file to R2 bucket
+# Function to check if a file exists in R2
+def check_r2_file_exists(file_key):
+    try:
+        s3_client.head_object(Bucket=R2_BUCKET_NAME, Key=file_key)
+        print(f"File already exists in R2: {file_key}")
+        return True
+    except s3_client.exceptions.ClientError as e:
+        if e.response['Error']['Code'] == "404":
+            return False
+        else:
+            print(f"Error checking file in R2: {e}")
+            raise
+
+# Modified upload function to include duplicate checks
 def upload_to_r2(file_path, bucket_name):
     file_key = os.path.relpath(file_path, SAVE_PATH).replace("\\", "/")
+    if check_r2_file_exists(file_key):
+        return f"https://{R2_BUCKET_NAME}.{R2_ENDPOINT_URL}/{file_key}"
+
     try:
         s3_client.upload_file(file_path, bucket_name, file_key)
         print(f"Uploaded to R2: {file_key}")
@@ -116,12 +132,17 @@ def process_messages():
                 media_folder = os.path.join(day_folder, str(message_id))
                 media_file = download_media(message.media, media_folder, str(message_id))
                 if media_file:
-                    if os.path.getsize(media_file) > FILE_SIZE_THRESHOLD_MB * 1024 * 1024:
-                        r2_link = upload_to_r2(media_file, R2_BUCKET_NAME)
-                        os.remove(media_file)
-                        media_links["r2"] = r2_link
-                    else:
-                        media_links["local"] = os.path.relpath(media_file, SAVE_PATH).replace("\\", "/")
+                    try:
+                        if os.path.getsize(media_file) > FILE_SIZE_THRESHOLD_MB * 1024 * 1024:
+                            r2_link = upload_to_r2(media_file, R2_BUCKET_NAME)
+                            if r2_link:
+                                os.remove(media_file)
+                                media_links["r2"] = r2_link
+                        else:
+                            media_links["local"] = os.path.relpath(media_file, SAVE_PATH).replace("\\", "/")
+                    except FileNotFoundError:
+                        print(f"File not found locally: {media_file}")
+                        continue
 
             md_content = f"## Message {message_id}\n\n{message.message or ''}\n\n"
             for link_type, link in media_links.items():
