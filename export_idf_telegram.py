@@ -87,7 +87,12 @@ def git_commit_changes(message_id):
     subprocess.run(["git", "commit", "-m", f"Processed message ID {message_id}"], check=True)
 
 def git_push_branch(branch_name):
-    subprocess.run(["git", "push", "--set-upstream", "origin", branch_name], check=True)
+    try:
+        subprocess.run(["git", "push", "--set-upstream", "origin", branch_name], check=True)
+        print(f"Branch {branch_name} pushed successfully.")
+    except subprocess.CalledProcessError as e:
+        print(f"Failed to push branch {branch_name}: {e}")
+        raise
 
 def create_pr(branch_name, last_message_id):
     pr_title = f"Processed Telegram messages up to ID {last_message_id}"
