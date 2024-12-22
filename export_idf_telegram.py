@@ -7,6 +7,7 @@ from telethon.tl.types import MessageMediaPhoto, MessageMediaDocument
 import json
 from datetime import datetime, timezone
 import time
+import argparse
 
 # Load environment variables from a .env file
 load_dotenv()
@@ -36,6 +37,11 @@ s3_client = boto3.client(
 # Initialize Telegram client
 client = TelegramClient("user_session", API_ID, API_HASH)
 
+# Argument parsing
+parser = argparse.ArgumentParser(description="Telegram scraping script.")
+parser.add_argument("--last-id", action="store_true", help="Print the last scraped message ID and exit.")
+args = parser.parse_args()
+
 # Function to load the last scraped message ID
 def load_last_message_id():
     if os.path.exists(STATE_FILE):
@@ -58,50 +64,10 @@ def file_exists_in_r2(file_key, bucket_name):
     except s3_client.exceptions.ClientError:
         return False
 
-# Function to list all files in the R2 bucket
-def list_r2_files(bucket_name):
-    try:
-        paginator = s3_client.get_paginator("list_objects_v2")
-        operation_parameters = {"Bucket": bucket_name}
-        file_list = []
-        for page in paginator.paginate(**operation_parameters):
-            if "Contents" in page:
-                for obj in page["Contents"]:
-                    file_list.append(obj["Key"])
-        return file_list
-    except Exception as e:
-        print(f"Failed to list files in R2 bucket: {e}")
-        return []
-
-# Function to find and log duplicate files in the R2 bucket
-def find_duplicates_in_r2(bucket_name):
-    print("Scanning for duplicate files in the R2 bucket...")
-    files = list_r2_files(bucket_name)
-    file_hash_map = {}
-    duplicates = []
-
-    for file_key in files:
-        try:
-            response = s3_client.head_object(Bucket=bucket_name, Key=file_key)
-            file_hash = response["ETag"]
-            if file_hash in file_hash_map:
-                duplicates.append((file_key, file_hash_map[file_hash]))
-            else:
-                file_hash_map[file_hash] = file_key
-        except Exception as e:
-            print(f"Error processing file {file_key}: {e}")
-
-    if duplicates:
-        print("Found duplicate files:")
-        for dup, original in duplicates:
-            print(f"Duplicate: {dup}, Original: {original}")
-    else:
-        print("No duplicate files found.")
-
 # Function to upload media to R2
 def upload_to_r2(file_path, bucket_name):
     try:
-        file_key = os.path.relpath(file_path, SAVE_PATH).replace("\\", "/")  # Relative path for R2 key
+        file_key = os.path.relpath(file_path, SAVE_PATH).replace("\\", "/")
         if file_exists_in_r2(file_key, bucket_name):
             print(f"File already exists in R2: {file_key}")
             return f"{PUBLIC_URL_PREFIX}{file_key}"
@@ -112,46 +78,10 @@ def upload_to_r2(file_path, bucket_name):
         print(f"Failed to upload {file_path}: {e}")
         return None
 
-# Function to update markdown links
-def update_markdown_links(md_filename, media_links):
-    with open(md_filename, "r", encoding="utf-8") as md_file:
-        content = md_file.read()
-
-    updated_content = content
-    for original, new_link in media_links.items():
-        updated_content = updated_content.replace(original, new_link)
-
-    with open(md_filename, "w", encoding="utf-8") as md_file:
-        md_file.write(updated_content)
-
-# Function to scan and upload existing media
-def scan_and_upload_existing():
-    print("Scanning and uploading existing media...")
-    for root, dirs, files in os.walk(SAVE_PATH):
-        for file in files:
-            file_path = os.path.join(root, file)
-            relative_path = os.path.relpath(file_path, SAVE_PATH).replace("\\", "/")
-            if os.path.getsize(file_path) > FILE_SIZE_THRESHOLD_MB * 1024 * 1024:
-                file_key = os.path.relpath(file_path, SAVE_PATH).replace("\\", "/")
-                if file_exists_in_r2(file_key, R2_BUCKET_NAME):
-                    print(f"File already exists in R2: {file_key}")
-                    continue
-                r2_link = upload_to_r2(file_path, R2_BUCKET_NAME)
-                if r2_link:
-                    # Update Markdown files if any reference the media
-                    for md_file in [f for f in os.listdir(root) if f.endswith(".md")]:
-                        update_markdown_links(os.path.join(root, md_file), {relative_path: r2_link})
-                    os.remove(file_path)
-                    print(f"Deleted local file: {file_path}")
-    print("Finished scanning and uploading existing media.")
-
 # Function to download and process media
 def download_media(media, folder_path, filename_prefix):
     if not os.path.exists(folder_path):
-        try:
-            os.makedirs(folder_path, exist_ok=True)
-        except Exception as e:
-            raise FileNotFoundError(f"Failed to create folder {folder_path}: {e}")
+        os.makedirs(folder_path, exist_ok=True)
 
     # Determine the file name based on media type
     if isinstance(media, MessageMediaPhoto):
@@ -177,7 +107,7 @@ def download_media(media, folder_path, filename_prefix):
             time.sleep(2)  # Retry delay
 
     print(f"Media download failed after retries for {file_path}")
-    return None  # Gracefully return None if download fails
+    return None
 
 # Function to process messages
 def process_messages():
@@ -209,22 +139,14 @@ def process_messages():
                 media_filename = download_media(message.media, media_folder, f"{message_id}")
                 if media_filename:
                     relative_path = os.path.relpath(media_filename, day_folder).replace("\\", "/")
-
                     if os.path.getsize(media_filename) > FILE_SIZE_THRESHOLD_MB * 1024 * 1024:
-                        file_key = os.path.relpath(media_filename, SAVE_PATH).replace("\\", "/")
-                        if file_exists_in_r2(file_key, R2_BUCKET_NAME):
-                            print(f"File already exists in R2: {file_key}")
-                            media_links[relative_path] = f"{PUBLIC_URL_PREFIX}{file_key}"
-                        else:
-                            r2_link = upload_to_r2(media_filename, R2_BUCKET_NAME)
-                            if r2_link:
-                                media_links[relative_path] = r2_link
-                                os.remove(media_filename)
-                                print(f"Deleted local file: {media_filename}")
+                        r2_link = upload_to_r2(media_filename, R2_BUCKET_NAME)
+                        if r2_link:
+                            media_links[relative_path] = r2_link
+                            os.remove(media_filename)
+                            print(f"Deleted local file: {media_filename}")
                     else:
                         media_links[relative_path] = relative_path
-                else:
-                    print(f"Skipping message {message_id} due to media download failure.")
 
             md_content = f"## Message {message_id}\n\n{message.message or ''}\n\n"
             for original, new_link in media_links.items():
@@ -237,15 +159,15 @@ def process_messages():
                 f.write(md_content)
             print(f"Saved message {message_id} to {md_filename}")
 
-            update_markdown_links(md_filename, media_links)
-
             last_message_id = message_id
 
     save_last_message_id(last_message_id)
     print(f"Finished scraping, last message ID: {last_message_id}")
 
+# Handle --last-id argument
+if args.last_id:
+    print(load_last_message_id())
+    exit(0)
+
 if __name__ == "__main__":
-    find_duplicates_in_r2(R2_BUCKET_NAME)
-    scan_and_upload_existing()
     process_messages()
-    print("Telegram scraping completed successfully.")
