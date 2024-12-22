@@ -102,6 +102,12 @@ def scan_and_upload_existing():
 
 # Function to download and process media
 def download_media(media, folder_path, filename_prefix):
+    if not os.path.exists(folder_path):
+        try:
+            os.makedirs(folder_path, exist_ok=True)
+        except Exception as e:
+            raise FileNotFoundError(f"Failed to create folder {folder_path}: {e}")
+
     if isinstance(media, MessageMediaPhoto):
         filename = f"{filename_prefix}_photo.jpg"
     elif isinstance(media, MessageMediaDocument):
@@ -110,7 +116,14 @@ def download_media(media, folder_path, filename_prefix):
         return None
 
     file_path = os.path.join(folder_path, filename)
-    client.download_media(media, file=file_path)
+    try:
+        client.download_media(media, file=file_path)
+    except Exception as e:
+        raise FileNotFoundError(f"Failed to download media to {file_path}: {e}")
+
+    if not os.path.exists(file_path):
+        raise FileNotFoundError(f"Media download failed: {file_path}")
+
     return file_path
 
 # Function to process messages
@@ -140,7 +153,6 @@ def process_messages():
 
             media_links = {}
             if message.media:
-                os.makedirs(media_folder, exist_ok=True)
                 media_filename = download_media(message.media, media_folder, f"{message_id}")
                 if media_filename:
                     relative_path = os.path.relpath(media_filename, day_folder).replace("\\", "/")
