@@ -6,8 +6,6 @@ from telethon.sync import TelegramClient
 from telethon.tl.types import MessageMediaPhoto, MessageMediaDocument
 import json
 from datetime import datetime, timezone
-import time
-import subprocess
 
 # Load environment variables from a .env file
 load_dotenv()
@@ -51,51 +49,58 @@ def save_last_message_id(last_id):
     with open(STATE_FILE, "w") as f:
         json.dump(state, f)
 
-# Function to check if a file exists in R2
-def check_r2_file_exists(file_key):
+# Function to check if a file exists in the R2 bucket
+def file_exists_in_r2(file_key, bucket_name):
     try:
-        s3_client.head_object(Bucket=R2_BUCKET_NAME, Key=file_key)
-        print(f"File already exists in R2: {file_key}")
+        s3_client.head_object(Bucket=bucket_name, Key=file_key)
         return True
-    except s3_client.exceptions.ClientError as e:
-        if e.response['Error']['Code'] == "404":
-            return False
-        else:
-            print(f"Error checking file in R2: {e}")
-            raise
+    except s3_client.exceptions.ClientError:
+        return False
 
-# Modified upload function to include duplicate checks
+# Function to upload media to R2
 def upload_to_r2(file_path, bucket_name):
-    file_key = os.path.relpath(file_path, SAVE_PATH).replace("\\", "/")
-    if check_r2_file_exists(file_key):
-        return f"https://{R2_BUCKET_NAME}.{R2_ENDPOINT_URL}/{file_key}"
-
     try:
+        file_key = os.path.relpath(file_path, SAVE_PATH).replace("\\", "/")  # Relative path for R2 key
+        if file_exists_in_r2(file_key, bucket_name):
+            print(f"File already exists in R2: {file_key}")
+            return f"{PUBLIC_URL_PREFIX}{file_key}"
         s3_client.upload_file(file_path, bucket_name, file_key)
-        print(f"Uploaded to R2: {file_key}")
-        return f"https://{R2_BUCKET_NAME}.{R2_ENDPOINT_URL}/{file_key}"
+        print(f"Uploaded: {file_path} -> {file_key}")
+        return f"{PUBLIC_URL_PREFIX}{file_key}"
     except Exception as e:
         print(f"Failed to upload {file_path}: {e}")
         return None
 
-# Git operations
-def git_prepare_branch(branch_name):
-    subprocess.run(["git", "fetch", "origin", "production"], check=True)
-    subprocess.run(["git", "checkout", "-b", branch_name], check=True)
+# Function to update markdown links
+def update_markdown_links(md_filename, media_links):
+    with open(md_filename, "r", encoding="utf-8") as md_file:
+        content = md_file.read()
 
-def git_commit_changes(message_id):
-    subprocess.run(["git", "add", "."], check=True)
-    subprocess.run(["git", "commit", "-m", f"Processed message ID {message_id}"], check=True)
+    updated_content = content
+    for original, new_link in media_links.items():
+        updated_content = updated_content.replace(original, new_link)
 
-def git_push_branch(branch_name):
-    subprocess.run(["git", "push", "--set-upstream", "origin", branch_name], check=True)
+    with open(md_filename, "w", encoding="utf-8") as md_file:
+        md_file.write(updated_content)
 
-def create_pr(branch_name, last_message_id):
-    pr_title = f"Processed Telegram messages up to ID {last_message_id}"
-    pr_body = f"Processed Telegram messages up to ID {last_message_id}. This PR includes all changes."
-    subprocess.run(["gh", "pr", "create", "--title", pr_title, "--body", pr_body, "--base", "production"], check=True)
+# Function to scan and upload existing media
+def scan_and_upload_existing():
+    print("Scanning and uploading existing media...")
+    for root, dirs, files in os.walk(SAVE_PATH):
+        for file in files:
+            file_path = os.path.join(root, file)
+            relative_path = os.path.relpath(file_path, SAVE_PATH).replace("\\", "/")
+            if os.path.getsize(file_path) > FILE_SIZE_THRESHOLD_MB * 1024 * 1024:
+                r2_link = upload_to_r2(file_path, R2_BUCKET_NAME)
+                if r2_link:
+                    # Update Markdown files if any reference the media
+                    for md_file in [f for f in os.listdir(root) if f.endswith(".md")]:
+                        update_markdown_links(os.path.join(root, md_file), {relative_path: r2_link})
+                    os.remove(file_path)
+                    print(f"Deleted local file: {file_path}")
+    print("Finished scanning and uploading existing media.")
 
-# Download and process media
+# Function to download and process media
 def download_media(media, folder_path, filename_prefix):
     if isinstance(media, MessageMediaPhoto):
         filename = f"{filename_prefix}_photo.jpg"
@@ -104,68 +109,68 @@ def download_media(media, folder_path, filename_prefix):
     else:
         return None
 
-# Main processing function
+    file_path = os.path.join(folder_path, filename)
+    client.download_media(media, file=file_path)
+    return file_path
+
+# Function to process messages
 def process_messages():
     print("Starting Telegram scraping...")
     last_message_id = load_last_message_id()
     print(f"Last scraped message ID: {last_message_id}")
 
     with client:
-        # Iterate messages starting from the last processed message ID
-        for message in client.iter_messages(CHANNEL, offset_id=last_message_id, reverse=False):
-            try:
-                if not message.date or message.date < START_DATE:
-                    continue
-                if not message.message and not message.media:
-                    continue
+        for message in client.iter_messages(CHANNEL, offset_id=last_message_id, reverse=True):
+            if not message.date or message.date < START_DATE:
+                continue
 
-                message_date = message.date.astimezone(timezone.utc)
-                year, month, day = message_date.year, message_date.strftime("%B"), f"{message_date.day:02}"
-                message_id = message.id
+            if not message.message and not message.media:
+                continue
 
-                # Ensure IDs are sequential
-                if last_message_id and message_id != last_message_id + 1:
-                    print(f"Skipped message IDs from {last_message_id} to {message_id}")
+            message_date = message.date.astimezone(timezone.utc)
+            year = message_date.year
+            month_name = message_date.strftime("%B")
+            day = message_date.day
+            message_id = message.id
 
-                last_message_id = message_id  # Update last processed message ID
+            day_folder = os.path.join(SAVE_PATH, str(year), month_name, f"{day:02}")
+            os.makedirs(day_folder, exist_ok=True)
+            md_filename = os.path.join(day_folder, f"{message_id}.md")
+            media_folder = os.path.join(day_folder, str(message_id))
 
-                day_folder = os.path.join(SAVE_PATH, str(year), month, day)
-                os.makedirs(day_folder, exist_ok=True)
-                md_filename = os.path.join(day_folder, f"{message_id}.md")
+            media_links = {}
+            if message.media:
+                os.makedirs(media_folder, exist_ok=True)
+                media_filename = download_media(message.media, media_folder, f"{message_id}")
+                if media_filename:
+                    relative_path = os.path.relpath(media_filename, day_folder).replace("\\", "/")
 
-                media_links = {}
-                if message.media:
-                    media_folder = os.path.join(day_folder, str(message_id))
-                    media_file = download_media(message.media, media_folder, str(message_id))
-                    if media_file:
-                        try:
-                            if os.path.getsize(media_file) > FILE_SIZE_THRESHOLD_MB * 1024 * 1024:
-                                r2_link = upload_to_r2(media_file, R2_BUCKET_NAME)
-                                if r2_link:
-                                    os.remove(media_file)
-                                    media_links["r2"] = r2_link
-                            else:
-                                media_links["local"] = os.path.relpath(media_file, SAVE_PATH).replace("\\", "/")
-                        except FileNotFoundError:
-                            print(f"File not found locally: {media_file}")
-                            continue
+                    if os.path.getsize(media_filename) > FILE_SIZE_THRESHOLD_MB * 1024 * 1024:
+                        r2_link = upload_to_r2(media_filename, R2_BUCKET_NAME)
+                        if r2_link:
+                            media_links[relative_path] = r2_link
+                            os.remove(media_filename)
+                            print(f"Deleted local file: {media_filename}")
+                    else:
+                        media_links[relative_path] = relative_path
 
-                md_content = f"## Message {message_id}\n\n{message.message or ''}\n\n"
-                for link_type, link in media_links.items():
-                    md_content += f"[{link_type.capitalize()} Media]({link})\n"
+            md_content = f"## Message {message_id}\n\n{message.message or ''}\n\n"
+            for original, new_link in media_links.items():
+                if new_link.endswith(".jpg"):
+                    md_content += f"![Photo]({new_link})\n"
+                elif new_link.endswith(".mp4"):
+                    md_content += f"![Video]({new_link})\n"
 
-                with open(md_filename, "w", encoding="utf-8") as f:
-                    f.write(md_content)
+            with open(md_filename, "w", encoding="utf-8") as f:
+                f.write(md_content)
+            print(f"Saved message {message_id} to {md_filename}")
 
-                # Save last processed message ID
-                save_last_message_id(message_id)
-                git_commit_changes(message_id)
-            except Exception as e:
-                print(f"Error processing message ID {message.id}: {e}")
+            update_markdown_links(md_filename, media_links)
 
-    # Push changes and create PR
-    git_push_branch(branch_name)
-    create_pr(branch_name, last_message_id)
+            last_message_id = message_id
+
+    save_last_message_id(last_message_id)
+    print(f"Finished scraping, last message ID: {last_message_id}")
 
 if __name__ == "__main__":
     scan_and_upload_existing()
