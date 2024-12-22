@@ -60,6 +60,9 @@ def save_last_message_id(last_id):
 # Git functions
 def git_commit_and_push(branch_name, message_id):
     try:
+        # Ensure the main branch is up-to-date
+        subprocess.run(["git", "fetch", "origin", "main"], check=True)
+
         # Create and switch to a new branch
         subprocess.run(["git", "checkout", "-b", branch_name], check=True)
 
@@ -73,6 +76,10 @@ def git_commit_and_push(branch_name, message_id):
         # Push branch
         subprocess.run(["git", "push", "--set-upstream", "origin", branch_name], check=True)
         print(f"Committed and pushed changes for branch {branch_name}")
+
+        # Debugging: Ensure there are commits in the branch
+        result = subprocess.run(["git", "log", "--oneline", f"{branch_name}...main"], check=True, capture_output=True, text=True)
+        print(f"Diff between {branch_name} and main:\n{result.stdout}")
 
         # Create a PR using GitHub CLI
         pr_title = f"Processed message ID {message_id}"
