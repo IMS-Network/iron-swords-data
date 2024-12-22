@@ -31,6 +31,14 @@ jobs:
       with:
         python-version: '3.11'
 
+    - name: Configure Git Author
+      run: |
+        git config --local user.name "${{ secrets.GIT_USER_NAME }}"
+        git config --local user.email "${{ secrets.GIT_USER_EMAIL }}"
+      env:
+        GIT_USER_NAME: ${{ secrets.GIT_USER_NAME }}
+        GIT_USER_EMAIL: ${{ secrets.GIT_USER_EMAIL }}
+
     - name: Install dependencies
       run: pip install --no-cache-dir -r requirements.txt
 
@@ -47,8 +55,6 @@ jobs:
 
     - name: Commit and push changes
       run: |
-        git config --local user.name "${{ secrets.GIT_USER_NAME }}"
-        git config --local user.email "${{ secrets.GIT_USER_EMAIL }}"
         LAST_ID=$(python export_idf_telegram.py --last-id)
         DATE=$(date +%Y-%m-%d)
         BRANCH_NAME="sync-${DATE}-id-${LAST_ID}"
