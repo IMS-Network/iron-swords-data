@@ -49,14 +49,18 @@ jobs:
       run: |
         git config --local user.name "${{ secrets.GIT_USER_NAME }}"
         git config --local user.email "${{ secrets.GIT_USER_EMAIL }}"
+        LAST_ID=$(python export_idf_telegram.py --last-id)
+        DATE=$(date +%Y-%m-%d)
+        BRANCH_NAME="sync-${DATE}-id-${LAST_ID}"
+        git checkout -b $BRANCH_NAME
         git add .
-        git commit -m "Sync Telegram messages up to $(date)" || echo "No changes to commit"
-        git push
+        git commit -m "Sync Telegram messages up to ID $LAST_ID on $DATE" || echo "No changes to commit"
+        git push --set-upstream origin $BRANCH_NAME
 
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v5
       with:
-        branch: sync-telegram-messages
-        commit-message: "Sync IDF Telegram messages"
-        title: "Daily IDF Telegram Messages Sync"
-        body: "This PR syncs messages and media from IDF Telegram."
+        branch: ${{ steps.commit-and-push.outputs.branch }}
+        commit-message: "Sync Telegram messages up to ID $LAST_ID on $DATE"
+        title: "Daily IDF Telegram Messages Sync - $DATE"
+        body: "This PR syncs messages and media from IDF Telegram as of $DATE (ID: $LAST_ID)."
