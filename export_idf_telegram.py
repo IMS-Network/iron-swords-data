@@ -6,6 +6,7 @@ from telethon.sync import TelegramClient
 from telethon.tl.types import MessageMediaPhoto, MessageMediaDocument
 import json
 from datetime import datetime, timezone
+import time
 
 # Load environment variables from a .env file
 load_dotenv()
@@ -113,18 +114,20 @@ def download_media(media, folder_path, filename_prefix):
     elif isinstance(media, MessageMediaDocument):
         filename = f"{filename_prefix}_media.mp4" if 'video' in media.document.mime_type else f"{filename_prefix}_media"
     else:
+        print(f"Unsupported media type, skipping download for: {filename_prefix}")
         return None
 
     file_path = os.path.join(folder_path, filename)
-    try:
-        client.download_media(media, file=file_path)
-    except Exception as e:
-        raise FileNotFoundError(f"Failed to download media to {file_path}: {e}")
+    for attempt in range(3):
+        try:
+            client.download_media(media, file=file_path)
+            if os.path.exists(file_path):
+                return file_path
+        except Exception as e:
+            print(f"Attempt {attempt + 1} to download media failed: {e}")
+            time.sleep(2)
 
-    if not os.path.exists(file_path):
-        raise FileNotFoundError(f"Media download failed: {file_path}")
-
-    return file_path
+    raise FileNotFoundError(f"Media download failed after retries: {file_path}")
 
 # Function to process messages
 def process_messages():
