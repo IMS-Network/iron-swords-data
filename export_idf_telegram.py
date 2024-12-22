@@ -58,6 +58,46 @@ def file_exists_in_r2(file_key, bucket_name):
     except s3_client.exceptions.ClientError:
         return False
 
+# Function to list all files in the R2 bucket
+def list_r2_files(bucket_name):
+    try:
+        paginator = s3_client.get_paginator("list_objects_v2")
+        operation_parameters = {"Bucket": bucket_name}
+        file_list = []
+        for page in paginator.paginate(**operation_parameters):
+            if "Contents" in page:
+                for obj in page["Contents"]:
+                    file_list.append(obj["Key"])
+        return file_list
+    except Exception as e:
+        print(f"Failed to list files in R2 bucket: {e}")
+        return []
+
+# Function to find and log duplicate files in the R2 bucket
+def find_duplicates_in_r2(bucket_name):
+    print("Scanning for duplicate files in the R2 bucket...")
+    files = list_r2_files(bucket_name)
+    file_hash_map = {}
+    duplicates = []
+
+    for file_key in files:
+        try:
+            response = s3_client.head_object(Bucket=bucket_name, Key=file_key)
+            file_hash = response["ETag"]
+            if file_hash in file_hash_map:
+                duplicates.append((file_key, file_hash_map[file_hash]))
+            else:
+                file_hash_map[file_hash] = file_key
+        except Exception as e:
+            print(f"Error processing file {file_key}: {e}")
+
+    if duplicates:
+        print("Found duplicate files:")
+        for dup, original in duplicates:
+            print(f"Duplicate: {dup}, Original: {original}")
+    else:
+        print("No duplicate files found.")
+
 # Function to upload media to R2
 def upload_to_r2(file_path, bucket_name):
     try:
@@ -92,6 +132,10 @@ def scan_and_upload_existing():
             file_path = os.path.join(root, file)
             relative_path = os.path.relpath(file_path, SAVE_PATH).replace("\\", "/")
             if os.path.getsize(file_path) > FILE_SIZE_THRESHOLD_MB * 1024 * 1024:
+                file_key = os.path.relpath(file_path, SAVE_PATH).replace("\\", "/")
+                if file_exists_in_r2(file_key, R2_BUCKET_NAME):
+                    print(f"File already exists in R2: {file_key}")
+                    continue
                 r2_link = upload_to_r2(file_path, R2_BUCKET_NAME)
                 if r2_link:
                     # Update Markdown files if any reference the media
@@ -167,11 +211,16 @@ def process_messages():
                     relative_path = os.path.relpath(media_filename, day_folder).replace("\\", "/")
 
                     if os.path.getsize(media_filename) > FILE_SIZE_THRESHOLD_MB * 1024 * 1024:
-                        r2_link = upload_to_r2(media_filename, R2_BUCKET_NAME)
-                        if r2_link:
-                            media_links[relative_path] = r2_link
-                            os.remove(media_filename)
-                            print(f"Deleted local file: {media_filename}")
+                        file_key = os.path.relpath(media_filename, SAVE_PATH).replace("\\", "/")
+                        if file_exists_in_r2(file_key, R2_BUCKET_NAME):
+                            print(f"File already exists in R2: {file_key}")
+                            media_links[relative_path] = f"{PUBLIC_URL_PREFIX}{file_key}"
+                        else:
+                            r2_link = upload_to_r2(media_filename, R2_BUCKET_NAME)
+                            if r2_link:
+                                media_links[relative_path] = r2_link
+                                os.remove(media_filename)
+                                print(f"Deleted local file: {media_filename}")
                     else:
                         media_links[relative_path] = relative_path
                 else:
@@ -196,6 +245,7 @@ def process_messages():
     print(f"Finished scraping, last message ID: {last_message_id}")
 
 if __name__ == "__main__":
+    find_duplicates_in_r2(R2_BUCKET_NAME)
     scan_and_upload_existing()
     process_messages()
     print("Telegram scraping completed successfully.")
