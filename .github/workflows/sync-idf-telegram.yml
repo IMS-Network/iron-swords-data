@@ -50,23 +50,6 @@ jobs:
         R2_SECRET_KEY: ${{ secrets.R2_SECRET_KEY }}
         R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
         R2_ENDPOINT_URL: ${{ secrets.R2_ENDPOINT_URL }}
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         python export_idf_telegram.py
-
-    - name: Commit and push changes
-      run: |
-        LAST_ID=$(python export_idf_telegram.py --last-id)
-        DATE=$(date +%Y-%m-%d)
-        BRANCH_NAME="sync-${DATE}-id-${LAST_ID}"
-        git checkout -b $BRANCH_NAME
-        git add .
-        git commit -m "Sync Telegram messages up to ID $LAST_ID on $DATE" || echo "No changes to commit"
-        git push --set-upstream origin $BRANCH_NAME
-
-    - name: Create Pull Request
-      uses: peter-evans/create-pull-request@v5
-      with:
-        branch: ${{ steps.commit-and-push.outputs.branch }}
-        commit-message: "Sync Telegram messages up to ID $LAST_ID on $DATE"
-        title: "Daily IDF Telegram Messages Sync - $DATE"
-        body: "This PR syncs messages and media from IDF Telegram as of $DATE (ID: $LAST_ID)."
