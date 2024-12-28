@@ -52,7 +52,6 @@ def process_messages():
     last_message_id = load_last_message_id()
     print(f"Last scraped message ID: {last_message_id}")
 
-    daily_messages = {}
     with client:
         for message in client.iter_messages(NEW_CHANNEL, offset_id=last_message_id, reverse=True):
             if not message.date or message.date < START_DATE:
@@ -66,47 +65,35 @@ def process_messages():
             month_name = message_date.strftime("%B")
             day = message_date.day
 
-            date_key = f"{year}/{month_name}/{day:02}"
+            day_folder = os.path.join(SAVE_PATH, str(year), month_name, f"{day:02}")
+            images_folder = os.path.join(day_folder, "images")
+            md_filename = os.path.join(day_folder, "alerts.md")
+
+            os.makedirs(images_folder, exist_ok=True)
+
             timestamp = message_date.strftime("%H:%M")
 
-            if date_key not in daily_messages:
-                daily_messages[date_key] = []
+            # Initialize the Markdown file if it doesn't exist
+            if not os.path.exists(md_filename):
+                with open(md_filename, "w", encoding="utf-8") as f:
+                    f.write(f"# Alerts for {message_date.strftime('%Y-%m-%d')}\n\n")
 
-            entry = {"timestamp": timestamp, "text": message.message, "media": None, "message_id": message.id}
+            # Append message content and media to the Markdown file
+            with open(md_filename, "a", encoding="utf-8") as f:
+                f.write(f"## {timestamp}\n\n")
+                if message.message:
+                    f.write(f"{message.message}\n\n")
 
-            if message.media:
-                media_folder = os.path.join(SAVE_PATH, str(year), month_name, f"{day:02}", "images")
-                os.makedirs(media_folder, exist_ok=True)
-                media_filename = download_media(message.media, media_folder, f"{message.id}")
-                if media_filename:
-                    relative_path = os.path.relpath(media_filename, os.path.join(SAVE_PATH, str(year), month_name, f"{day:02}")).replace("\\", "/")
-                    entry["media"] = relative_path
+                if message.media:
+                    media_filename = download_media(message.media, images_folder, f"{message.id}")
+                    if media_filename:
+                        relative_path = os.path.relpath(media_filename, day_folder).replace("\\", "/")
+                        if media_filename.endswith(".jpg"):
+                            f.write(f"![Photo](images/{os.path.basename(relative_path)})\n\n")
+                        elif media_filename.endswith(".mp4"):
+                            f.write(f"![Video](images/{os.path.basename(relative_path)})\n\n")
 
-            daily_messages[date_key].append(entry)
             last_message_id = message.id
-
-    # Save daily messages to Markdown files
-    for date_key, messages in daily_messages.items():
-        year, month_name, day = date_key.split("/")
-        day_folder = os.path.join(SAVE_PATH, year, month_name, day)
-        os.makedirs(day_folder, exist_ok=True)
-
-        md_filename = os.path.join(day_folder, "alerts.md")
-        images_folder = os.path.join(day_folder, "images")
-        os.makedirs(images_folder, exist_ok=True)
-
-        with open(md_filename, "w", encoding="utf-8") as f:
-            for message in messages:
-                f.write(f"# {message['timestamp']}\n\n")
-                if message['text']:
-                    f.write(f"{message['text']}\n\n")
-                if message['media']:
-                    if message['media'].endswith(".jpg"):
-                        f.write(f"![Photo](images/{os.path.basename(message['media'])})\n\n")
-                    elif message['media'].endswith(".mp4"):
-                        f.write(f"![Video](images/{os.path.basename(message['media'])})\n\n")
-
-        print(f"Saved daily messages to {md_filename}")
 
     save_last_message_id(last_message_id)
     print(f"Finished scraping, last message ID: {last_message_id}")
