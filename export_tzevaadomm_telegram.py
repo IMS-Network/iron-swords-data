@@ -36,9 +36,9 @@ def save_last_message_id(last_id):
 # Function to download and save media
 def download_media(media, folder_path, filename_prefix):
     if isinstance(media, MessageMediaPhoto):
-        filename = f"{filename_prefix}_photo.jpg"
+        filename = f"{filename_prefix}.jpg"
     elif isinstance(media, MessageMediaDocument):
-        filename = f"{filename_prefix}_media.mp4" if 'video' in media.document.mime_type else f"{filename_prefix}_media"
+        filename = f"{filename_prefix}.mp4" if 'video' in media.document.mime_type else f"{filename_prefix}.file"
     else:
         return None
 
@@ -62,20 +62,24 @@ def process_messages():
                 continue
 
             message_date = message.date.astimezone(timezone.utc)
-            date_key = message_date.strftime("%Y-%m-%d")
+            year = message_date.year
+            month_name = message_date.strftime("%B")
+            day = message_date.day
+
+            date_key = f"{year}/{month_name}/{day:02}"
             timestamp = message_date.strftime("%H:%M")
 
             if date_key not in daily_messages:
                 daily_messages[date_key] = []
 
-            entry = {"timestamp": timestamp, "text": message.message, "media": None}
+            entry = {"timestamp": timestamp, "text": message.message, "media": None, "message_id": message.id}
 
             if message.media:
-                media_folder = os.path.join(SAVE_PATH, date_key)
+                media_folder = os.path.join(SAVE_PATH, str(year), month_name, f"{day:02}", "images")
                 os.makedirs(media_folder, exist_ok=True)
                 media_filename = download_media(message.media, media_folder, f"{message.id}")
                 if media_filename:
-                    relative_path = os.path.relpath(media_filename, SAVE_PATH).replace("\\", "/")
+                    relative_path = os.path.relpath(media_filename, os.path.join(SAVE_PATH, str(year), month_name, f"{day:02}")).replace("\\", "/")
                     entry["media"] = relative_path
 
             daily_messages[date_key].append(entry)
@@ -83,9 +87,13 @@ def process_messages():
 
     # Save daily messages to Markdown files
     for date_key, messages in daily_messages.items():
-        day_folder = os.path.join(SAVE_PATH, date_key)
+        year, month_name, day = date_key.split("/")
+        day_folder = os.path.join(SAVE_PATH, year, month_name, day)
         os.makedirs(day_folder, exist_ok=True)
-        md_filename = os.path.join(day_folder, f"{date_key}.md")
+
+        md_filename = os.path.join(day_folder, "alerts.md")
+        images_folder = os.path.join(day_folder, "images")
+        os.makedirs(images_folder, exist_ok=True)
 
         with open(md_filename, "w", encoding="utf-8") as f:
             for message in messages:
@@ -94,9 +102,9 @@ def process_messages():
                     f.write(f"{message['text']}\n\n")
                 if message['media']:
                     if message['media'].endswith(".jpg"):
-                        f.write(f"![Photo]({message['media']})\n\n")
+                        f.write(f"![Photo](images/{os.path.basename(message['media'])})\n\n")
                     elif message['media'].endswith(".mp4"):
-                        f.write(f"![Video]({message['media']})\n\n")
+                        f.write(f"![Video](images/{os.path.basename(message['media'])})\n\n")
 
         print(f"Saved daily messages to {md_filename}")
 
