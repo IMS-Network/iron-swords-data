@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 from telethon.sync import TelegramClient
 from telethon.tl.types import MessageMediaPhoto, MessageMediaDocument
 import json
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timezone
 
 # Load environment variables from a .env file
 load_dotenv()
@@ -15,7 +15,6 @@ NEW_CHANNEL = "@tzevaadomm"  # Replace with the new Telegram channel handle
 SAVE_PATH = "./Tzevaadomm"
 STATE_FILE = "tzevaadomm_id.json"
 START_DATE = datetime(2023, 10, 7, tzinfo=timezone.utc)  # Start scraping from this date (UTC)
-TIME_THRESHOLD = timedelta(minutes=1)  # Combine messages sent within 1 minute
 
 # Initialize Telegram client
 client = TelegramClient("new_channel_session", API_ID, API_HASH)
@@ -53,7 +52,7 @@ def process_messages():
     last_message_id = load_last_message_id()
     print(f"Last scraped message ID: {last_message_id}")
 
-    combined_messages = []
+    daily_messages = {}
     with client:
         for message in client.iter_messages(NEW_CHANNEL, offset_id=last_message_id, reverse=True):
             if not message.date or message.date < START_DATE:
@@ -63,52 +62,43 @@ def process_messages():
                 continue
 
             message_date = message.date.astimezone(timezone.utc)
-            year = message_date.year
-            month_name = message_date.strftime("%B")
-            day = message_date.day
-            message_id = message.id
+            date_key = message_date.strftime("%Y-%m-%d")
+            timestamp = message_date.strftime("%H:%M")
 
-            # Check if the message should be combined with the last one
-            if combined_messages and (message_date - combined_messages[-1]['date']) <= TIME_THRESHOLD:
-                combined_messages[-1]['content'].append(message)
-            else:
-                combined_messages.append({
-                    'date': message_date,
-                    'content': [message]
-                })
+            if date_key not in daily_messages:
+                daily_messages[date_key] = []
 
-    for group in combined_messages:
-        group_date = group['date']
-        year = group_date.year
-        month_name = group_date.strftime("%B")
-        day = group_date.day
-
-        day_folder = os.path.join(SAVE_PATH, str(year), month_name, f"{day:02}")
-        os.makedirs(day_folder, exist_ok=True)
-        md_filename = os.path.join(day_folder, f"{group_date.strftime('%Y%m%d_%H%M%S')}.md")
-        media_folder = os.path.join(day_folder, group_date.strftime('%Y%m%d_%H%M%S'))
-
-        os.makedirs(media_folder, exist_ok=True)
-        md_content = f"## Combined Messages from {group_date.strftime('%Y-%m-%d %H:%M:%S')}\n\n"
-
-        for message in group['content']:
-            if message.message:
-                md_content += f"{message.message}\n\n"
+            entry = {"timestamp": timestamp, "text": message.message, "media": None}
 
             if message.media:
+                media_folder = os.path.join(SAVE_PATH, date_key)
+                os.makedirs(media_folder, exist_ok=True)
                 media_filename = download_media(message.media, media_folder, f"{message.id}")
                 if media_filename:
-                    relative_path = os.path.relpath(media_filename, day_folder).replace("\\", "/")
-                    if media_filename.endswith(".jpg"):
-                        md_content += f"![Photo]({relative_path})\n"
-                    elif media_filename.endswith(".mp4"):
-                        md_content += f"![Video]({relative_path})\n"
+                    relative_path = os.path.relpath(media_filename, SAVE_PATH).replace("\\", "/")
+                    entry["media"] = relative_path
+
+            daily_messages[date_key].append(entry)
+            last_message_id = message.id
+
+    # Save daily messages to Markdown files
+    for date_key, messages in daily_messages.items():
+        day_folder = os.path.join(SAVE_PATH, date_key)
+        os.makedirs(day_folder, exist_ok=True)
+        md_filename = os.path.join(day_folder, f"{date_key}.md")
 
         with open(md_filename, "w", encoding="utf-8") as f:
-            f.write(md_content)
-        print(f"Saved combined message group to {md_filename}")
+            for message in messages:
+                f.write(f"# {message['timestamp']}\n\n")
+                if message['text']:
+                    f.write(f"{message['text']}\n\n")
+                if message['media']:
+                    if message['media'].endswith(".jpg"):
+                        f.write(f"![Photo]({message['media']})\n\n")
+                    elif message['media'].endswith(".mp4"):
+                        f.write(f"![Video]({message['media']})\n\n")
 
-        last_message_id = max(msg.id for msg in group['content'])
+        print(f"Saved daily messages to {md_filename}")
 
     save_last_message_id(last_message_id)
     print(f"Finished scraping, last message ID: {last_message_id}")
