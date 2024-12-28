@@ -16,7 +16,7 @@ jobs:
 
     - name: Install OpenSSL
       run: |
-        sudo apt-get update
+        sudo apt-get update -q
         sudo apt-get install -y openssl
         openssl version
 
@@ -31,13 +31,13 @@ jobs:
       with:
         python-version: '3.11'
 
-    - name: Configure Git Author
-      run: |
-        git config --local user.name "${{ secrets.GIT_USER_NAME }}"
-        git config --local user.email "${{ secrets.GIT_USER_EMAIL }}"
-      env:
-        GIT_USER_NAME: ${{ secrets.GIT_USER_NAME }}
-        GIT_USER_EMAIL: ${{ secrets.GIT_USER_EMAIL }}
+    - name: Cache Python dependencies
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
 
     - name: Install dependencies
       run: pip install --no-cache-dir -r requirements.txt
@@ -53,3 +53,11 @@ jobs:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         python export_idf_telegram.py
+
+    - name: Commit and push changes
+      run: |
+        git add .
+        git commit -m "Sync Telegram messages [$(date -u)]"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
