@@ -42,7 +42,7 @@ jobs:
     - name: Install dependencies
       run: pip install --no-cache-dir -r requirements.txt
 
-    - name: Run Telegram scraping script
+    - name: Run IDF Telegram scraping script
       env:
         TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
         TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
@@ -53,6 +53,14 @@ jobs:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         python export_idf_telegram.py
+
+    - name: Run IDF Telegram scraping script
+      env:
+          TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
+          TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+          python export_tzevaadomm_telegram.py
 
     - name: Commit and push changes
       run: |
