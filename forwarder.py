@@ -7,7 +7,7 @@ import os
 # Load environment variables
 load_dotenv()
 API_ID = int(os.getenv("TELEGRAM_API_ID"))
-API_HASH = os.getenv("TELEGRAM_API_HASH"))
+API_HASH = os.getenv("TELEGRAM_API_HASH")
 SESSION_NAME = os.getenv("SESSION_NAME", "user_forwarder_session")
 DESTINATION_CHAT_ID = -1002167177194  # Your group ID
 
@@ -38,13 +38,13 @@ async def forward_message(event):
         except Exception as e:
             print(f"Failed to forward message from {source_chat} to topic {topic_id}: {e}")
 
-# Function to keep the session alive and synchronize periodically
+# Function to keep the session alive and ensure synchronization
 async def keep_alive():
     while True:
         try:
-            await client.get_me()  # Small API call to keep the session alive
-            await client.sync_updates()  # Synchronize updates
-            print("Session synchronized and active.")
+            # Small API call to ensure the session stays active
+            await client.get_me()
+            print("Session is active.")
         except PersistentTimestampOutdatedError:
             print("PersistentTimestampOutdatedError encountered. Reconnecting...")
             await client.disconnect()
@@ -59,8 +59,10 @@ async def main():
         print("Starting Telegram Forwarder...")
         await client.connect()
 
-        # Handle session out-of-sync errors
-        await client.sync_updates()
+        # Check if connected
+        if not await client.is_user_authorized():
+            print("Please log in to Telegram using this script.")
+            await client.start()
 
         print("Logged in as:", await client.get_me())
         
