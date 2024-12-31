@@ -35,10 +35,23 @@ async def forward_message(event):
                 thread_id=topic_id,  # Forward to the specific topic
             )
             print(f"Message forwarded from {source_chat} to topic {topic_id}")
+        except PersistentTimestampOutdatedError:
+            print("PersistentTimestampOutdatedError while forwarding message. Reconnecting...")
+            await reconnect_client()
         except Exception as e:
             print(f"Failed to forward message from {source_chat} to topic {topic_id}: {e}")
 
-# Function to keep the session alive and ensure synchronization
+# Function to reconnect the client
+async def reconnect_client():
+    try:
+        await client.disconnect()
+        await asyncio.sleep(5)  # Short delay before reconnecting
+        await client.connect()
+        print("Reconnected successfully.")
+    except Exception as e:
+        print(f"Failed to reconnect: {e}")
+
+# Function to keep the session alive and handle errors
 async def keep_alive():
     while True:
         try:
@@ -46,9 +59,8 @@ async def keep_alive():
             await client.get_me()
             print("Session is active.")
         except PersistentTimestampOutdatedError:
-            print("PersistentTimestampOutdatedError encountered. Reconnecting...")
-            await client.disconnect()
-            await client.connect()
+            print("PersistentTimestampOutdatedError encountered during keep_alive. Reconnecting...")
+            await reconnect_client()
         except Exception as e:
             print(f"Unexpected error during keep_alive: {e}")
         await asyncio.sleep(300)  # Run every 5 minutes
@@ -65,7 +77,7 @@ async def main():
             await client.start()
 
         print("Logged in as:", await client.get_me())
-        
+
         # Run the keep-alive task alongside the main event loop
         await asyncio.gather(
             client.run_until_disconnected(),
