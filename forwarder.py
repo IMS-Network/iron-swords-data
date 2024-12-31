@@ -8,7 +8,7 @@ import os
 load_dotenv()
 API_ID = int(os.getenv("TELEGRAM_API_ID"))
 API_HASH = os.getenv("TELEGRAM_API_HASH")
-SESSION_NAME = os.getenv("SESSION_NAME", "user_forwarder_session")
+SESSION_NAME = os.getenv("SESSION_NAME", "forwarder")
 DESTINATION_CHAT_ID = -1002167177194  # Your group ID
 
 # Mapping of source groups/channels to destination topic IDs
