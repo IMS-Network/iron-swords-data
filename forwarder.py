@@ -25,64 +25,34 @@ client = TelegramClient(SESSION_NAME, API_ID, API_HASH)
 # Function to forward messages to the correct topic
 @client.on(events.NewMessage(chats=list(GROUP_TO_TOPIC_MAPPING.keys())))
 async def forward_message(event):
+    print(f"New message detected from {event.chat.username or event.chat.id}")
     source_chat = event.chat.username or event.chat.id
     if source_chat in GROUP_TO_TOPIC_MAPPING:
         topic_id = GROUP_TO_TOPIC_MAPPING[source_chat]
         try:
+            await asyncio.sleep(1)  # Avoid hitting Telegram rate limits
             await client.forward_messages(
                 entity=DESTINATION_CHAT_ID,
                 messages=event.message,
                 thread_id=topic_id,  # Forward to the specific topic
             )
             print(f"Message forwarded from {source_chat} to topic {topic_id}")
-        except PersistentTimestampOutdatedError:
-            print("PersistentTimestampOutdatedError while forwarding message. Reconnecting...")
-            await reconnect_client()
         except Exception as e:
             print(f"Failed to forward message from {source_chat} to topic {topic_id}: {e}")
 
-# Function to reconnect the client
-async def reconnect_client():
-    try:
-        await client.disconnect()
-        await asyncio.sleep(5)  # Short delay before reconnecting
-        await client.connect()
-        print("Reconnected successfully.")
-    except Exception as e:
-        print(f"Failed to reconnect: {e}")
-
-# Function to keep the session alive and handle errors
-async def keep_alive():
-    while True:
-        try:
-            # Small API call to ensure the session stays active
-            await client.get_me()
-            print("Session is active.")
-        except PersistentTimestampOutdatedError:
-            print("PersistentTimestampOutdatedError encountered during keep_alive. Reconnecting...")
-            await reconnect_client()
-        except Exception as e:
-            print(f"Unexpected error during keep_alive: {e}")
-        await asyncio.sleep(300)  # Run every 5 minutes
-
-# Main function to start the client
 async def main():
     try:
         print("Starting Telegram Forwarder...")
         await client.connect()
 
-        # Check if connected
         if not await client.is_user_authorized():
             print("Please log in to Telegram using this script.")
             await client.start()
 
         print("Logged in as:", await client.get_me())
 
-        # Run the keep-alive task alongside the main event loop
-        await asyncio.gather(
-            client.run_until_disconnected(),
-            keep_alive(),
-        )
+        # Run the event listener
+        await client.run_until_disconnected()
     except Exception as e:
         print(f"Error in main: {e}")
     finally:
