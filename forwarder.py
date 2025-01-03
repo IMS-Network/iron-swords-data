@@ -1,5 +1,6 @@
 import os
 import requests
+import logging
 from dotenv import load_dotenv
 import time
 
@@ -7,6 +8,16 @@ import time
 load_dotenv()
 BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 DESTINATION_CHAT_ID = -1002167177194  # Your group ID
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    handlers=[
+        logging.FileHandler("bot_activity.log"),
+        logging.StreamHandler()
+    ]
+)
 
 # Mapping of source groups/channels to destination topic IDs
 GROUP_TO_TOPIC_MAPPING = {
@@ -38,7 +49,7 @@ def forward_message(chat_id, message_id, topic_id):
     return response.json()
 
 def main():
-    print("Starting bot...")
+    logging.info("Starting bot...")
     last_update_id = None
 
     while True:
@@ -54,14 +65,21 @@ def main():
                             topic_id = GROUP_TO_TOPIC_MAPPING[chat_username]
                             message_id = message["message_id"]
 
+                            # Log detected message
+                            logging.info(
+                                f"Detected message from @{chat_username}: {message.get('text', '[Non-text content]')}"
+                            )
+
                             # Forward message
-                            print(f"Forwarding message from {chat_username} to topic {topic_id}")
+                            logging.info(
+                                f"Forwarding message from @{chat_username} to topic {topic_id}"
+                            )
                             response = forward_message(DESTINATION_CHAT_ID, message_id, topic_id)
-                            print("Response:", response)
+                            logging.info(f"Forwarding response: {response}")
 
             time.sleep(1)  # Avoid hitting rate limits
         except Exception as e:
-            print(f"Error in main loop: {e}")
+            logging.error(f"Error in main loop: {e}")
             time.sleep(5)
 
 if __name__ == "__main__":
