@@ -1,14 +1,11 @@
-import asyncio
-from telethon import TelegramClient, events
-from telethon.errors import PersistentTimestampOutdatedError
-from dotenv import load_dotenv
 import os
+import requests
+from dotenv import load_dotenv
+import time
 
 # Load environment variables
 load_dotenv()
-API_ID = int(os.getenv("TELEGRAM_API_ID"))
-API_HASH = os.getenv("TELEGRAM_API_HASH")
-SESSION_NAME = os.getenv("SESSION_NAME", "forwarder")
+BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 DESTINATION_CHAT_ID = -1002167177194  # Your group ID
 
 # Mapping of source groups/channels to destination topic IDs
@@ -19,44 +16,53 @@ GROUP_TO_TOPIC_MAPPING = {
     "@salehdesk1": 5,         # Arabs News -> Topic 5
 }
 
-# Create the Telegram client using your user account
-client = TelegramClient(SESSION_NAME, API_ID, API_HASH)
+BASE_URL = f"https://api.telegram.org/bot{BOT_TOKEN}"
 
-# Function to forward messages to the correct topic
-@client.on(events.NewMessage(chats=list(GROUP_TO_TOPIC_MAPPING.keys())))
-async def forward_message(event):
-    print(f"New message detected from {event.chat.username or event.chat.id}")
-    source_chat = event.chat.username or event.chat.id
-    if source_chat in GROUP_TO_TOPIC_MAPPING:
-        topic_id = GROUP_TO_TOPIC_MAPPING[source_chat]
+def get_updates(offset=None):
+    """Fetch updates from Telegram"""
+    url = f"{BASE_URL}/getUpdates"
+    params = {"offset": offset, "timeout": 30}
+    response = requests.get(url, params=params)
+    return response.json()
+
+def forward_message(chat_id, message_id, topic_id):
+    """Forward a message to the destination chat"""
+    url = f"{BASE_URL}/forwardMessage"
+    data = {
+        "chat_id": chat_id,
+        "from_chat_id": chat_id,
+        "message_id": message_id,
+        "message_thread_id": topic_id,
+    }
+    response = requests.post(url, data=data)
+    return response.json()
+
+def main():
+    print("Starting bot...")
+    last_update_id = None
+
+    while True:
         try:
-            await asyncio.sleep(1)  # Avoid hitting Telegram rate limits
-            await client.forward_messages(
-                entity=DESTINATION_CHAT_ID,
-                messages=event.message,
-                thread_id=topic_id,  # Forward to the specific topic
-            )
-            print(f"Message forwarded from {source_chat} to topic {topic_id}")
+            updates = get_updates(offset=last_update_id)
+            if updates.get("ok"):
+                for update in updates.get("result", []):
+                    last_update_id = update["update_id"] + 1
+                    message = update.get("message")
+                    if message and "chat" in message:
+                        chat_username = message["chat"].get("username")
+                        if chat_username in GROUP_TO_TOPIC_MAPPING:
+                            topic_id = GROUP_TO_TOPIC_MAPPING[chat_username]
+                            message_id = message["message_id"]
+
+                            # Forward message
+                            print(f"Forwarding message from {chat_username} to topic {topic_id}")
+                            response = forward_message(DESTINATION_CHAT_ID, message_id, topic_id)
+                            print("Response:", response)
+
+            time.sleep(1)  # Avoid hitting rate limits
         except Exception as e:
-            print(f"Failed to forward message from {source_chat} to topic {topic_id}: {e}")
-
-async def main():
-    try:
-        print("Starting Telegram Forwarder...")
-        await client.connect()
-
-        if not await client.is_user_authorized():
-            print("Please log in to Telegram using this script.")
-            await client.start()
-
-        print("Logged in as:", await client.get_me())
-
-        # Run the event listener
-        await client.run_until_disconnected()
-    except Exception as e:
-        print(f"Error in main: {e}")
-    finally:
-        await client.disconnect()
+            print(f"Error in main loop: {e}")
+            time.sleep(5)
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    main()
