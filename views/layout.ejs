@@ -14,7 +14,7 @@
                                         <ul>
                                             <% 
                                             const files = fileStructure[year][month][day];
-                                            if (Array.isArray(files)) { 
+                                            if (Array.isArray(files) && files.length > 0) { 
                                                 files.forEach(file => { 
                                             %>
                                                 <li>
@@ -22,8 +22,10 @@
                                                 </li>
                                             <% 
                                                 });
-                                            } else {
-                                                console.error(`Expected an array, got: ${files}`);
+                                            } else { 
+                                            %>
+                                                <li><em>No files</em></li>
+                                            <% 
                                             } 
                                             %>
                                         </ul>
@@ -37,3 +39,6 @@
         <% }); %>
     </ul>
 </nav>
+<main>
+    <%= content || "<h1>Welcome to the Markdown Viewer</h1>" %>
+</main>

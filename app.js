@@ -43,7 +43,7 @@ async function generateFileStructure(rootDir) {
             const stats = await fs.stat(itemPath);
 
             if (stats.isDirectory()) {
-                obj[item] = {};
+                if (!obj[item]) obj[item] = {};
                 await recurse(itemPath, obj[item]);
             } else if (stats.isFile() && item.endsWith(".md")) {
                 const relativePath = path.relative(rootDir, itemPath).replace(/\\/g, "/");
@@ -53,17 +53,16 @@ async function generateFileStructure(rootDir) {
                 const month = parts[1];
                 const day = parts[2];
 
-                obj[year] = obj[year] || {};
-                obj[year][month] = obj[year][month] || {};
-                obj[year][month][day] = obj[year][month][day] || [];
-                
-                // Ensure it's an array
-                if (!Array.isArray(obj[year][month][day])) {
-                    console.error(`Day is not an array: ${JSON.stringify(obj[year][month][day])}`);
-                    obj[year][month][day] = [];
+                if (!fileStructure[year]) fileStructure[year] = {};
+                if (!fileStructure[year][month]) fileStructure[year][month] = {};
+                if (!fileStructure[year][month][day]) fileStructure[year][month][day] = [];
+
+                if (!Array.isArray(fileStructure[year][month][day])) {
+                    console.error(`Day is not an array: ${JSON.stringify(fileStructure[year][month][day])}`);
+                    fileStructure[year][month][day] = [];
                 }
 
-                obj[year][month][day].push({
+                fileStructure[year][month][day].push({
                     name: item.replace(".md", ""),
                     url: `/files/${relativePath}`,
                 });
@@ -72,6 +71,7 @@ async function generateFileStructure(rootDir) {
     }
 
     await recurse(rootDir, fileStructure);
+    console.log("Generated File Structure:", JSON.stringify(fileStructure, null, 2));
     return fileStructure;
 }
 
