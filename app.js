@@ -46,7 +46,20 @@ async function generateFileStructure(rootDir) {
                 obj[item] = {};
                 await recurse(itemPath, obj[item]);
             } else if (stats.isFile() && item.endsWith(".md")) {
-                obj[item] = `/files/${path.relative(rootDir, itemPath).replace(/\\/g, "/")}`;
+                const relativePath = path.relative(rootDir, itemPath).replace(/\\/g, "/");
+                const parts = relativePath.split("/");
+
+                const year = parts[0];
+                const month = parts[1];
+                const day = parts[2];
+
+                obj[year] = obj[year] || {};
+                obj[year][month] = obj[year][month] || {};
+                obj[year][month][day] = obj[year][month][day] || [];
+                obj[year][month][day].push({
+                    name: item.replace(".md", ""),
+                    url: `/files/${relativePath}`,
+                });
             }
         }
     }
