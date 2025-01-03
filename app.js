@@ -56,6 +56,13 @@ async function generateFileStructure(rootDir) {
                 obj[year] = obj[year] || {};
                 obj[year][month] = obj[year][month] || {};
                 obj[year][month][day] = obj[year][month][day] || [];
+                
+                // Ensure it's an array
+                if (!Array.isArray(obj[year][month][day])) {
+                    console.error(`Day is not an array: ${JSON.stringify(obj[year][month][day])}`);
+                    obj[year][month][day] = [];
+                }
+
                 obj[year][month][day].push({
                     name: item.replace(".md", ""),
                     url: `/files/${relativePath}`,

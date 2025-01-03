@@ -12,13 +12,20 @@
                                     <li>
                                         <span>Day <%= day %></span>
                                         <ul>
-                                            <% fileStructure[year][month][day].forEach(file => { %>
+                                            <% 
+                                            const files = fileStructure[year][month][day];
+                                            if (Array.isArray(files)) { 
+                                                files.forEach(file => { 
+                                            %>
                                                 <li>
-                                                    <a href="<%= file.url %>">
-                                                        <%= file.name %>
-                                                    </a>
+                                                    <a href="<%= file.url %>"><%= file.name %></a>
                                                 </li>
-                                            <% }); %>
+                                            <% 
+                                                });
+                                            } else {
+                                                console.error(`Expected an array, got: ${files}`);
+                                            } 
+                                            %>
                                         </ul>
                                     </li>
                                 <% }); %>
