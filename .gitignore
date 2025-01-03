@@ -1,10 +1,6 @@
 .env
-user_session.session
-user_session.session.enc
+*.session.enc
 session_base64.txt
-user_session.session-journal
 .DS_Store
-new_channel_session.session
-new_channel_session.session-journal
-user_forwarder_session.session
-user_forwarder_session.session-journal
+*.session
+*.session-journal
