@@ -66,6 +66,12 @@ const config: Config = {
           position: 'left',
           label: 'Tutorial',
         },
+        {
+          type: 'docSidebar',
+          sidebarId: 'IDF',
+          position: 'left',
+          label: 'IDF',
+        },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
