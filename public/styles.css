@@ -15,19 +15,23 @@ nav ul {
 nav ul li {
     padding: 10px;
     position: relative;
+    border-bottom: 1px solid #444;
 }
 
 nav ul li span {
     cursor: pointer;
+    display: block;
+    color: white;
 }
 
 nav ul li ul {
     display: none;
     position: absolute;
     background-color: #444;
-    left: 0;
-    top: 100%;
+    left: 100%;
+    top: 0;
     padding: 0;
+    min-width: 200px;
 }
 
 nav ul li:hover ul {
