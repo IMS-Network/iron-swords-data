@@ -4,3 +4,5 @@ session_base64.txt
 .DS_Store
 *.session
 *.session-journal
+node_modules/
+package-lock.json
