@@ -1,37 +1,32 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Markdown Viewer</title>
-    <link rel="stylesheet" href="/styles.css">
-</head>
-<body>
-    <nav>
-        <ul>
-            <% Object.keys(fileStructure).forEach(year => { %>
-                <li>
-                    <span><%= year %></span>
-                    <ul>
-                        <% Object.keys(fileStructure[year]).forEach(month => { %>
-                            <li>
-                                <span><%= month %></span>
-                                <ul>
-                                    <% Object.keys(fileStructure[year][month]).forEach(file => { %>
-                                        <li>
-                                            <a href="<%= fileStructure[year][month][file] %>"><%= file.replace(".md", "") %></a>
-                                        </li>
-                                    <% }); %>
-                                </ul>
-                            </li>
-                        <% }); %>
-                    </ul>
-                </li>
-            <% }); %>
-        </ul>
-    </nav>
-    <main>
-        <%= content %>
-    </main>
-</body>
-</html>
+<nav>
+    <ul>
+        <% Object.keys(fileStructure).forEach(year => { %>
+            <li>
+                <span><%= year %></span>
+                <ul>
+                    <% Object.keys(fileStructure[year]).forEach(month => { %>
+                        <li>
+                            <span><%= month %></span>
+                            <ul>
+                                <% Object.keys(fileStructure[year][month]).forEach(day => { %>
+                                    <li>
+                                        <span>Day <%= day %></span>
+                                        <ul>
+                                            <% fileStructure[year][month][day].forEach(file => { %>
+                                                <li>
+                                                    <a href="<%= file.url %>">
+                                                        <%= file.name %>
+                                                    </a>
+                                                </li>
+                                            <% }); %>
+                                        </ul>
+                                    </li>
+                                <% }); %>
+                            </ul>
+                        </li>
+                    <% }); %>
+                </ul>
+            </li>
+        <% }); %>
+    </ul>
+</nav>
