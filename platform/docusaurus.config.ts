@@ -39,8 +39,10 @@ const config: Config = {
       'classic',
       {
         docs: {
-          sidebarPath: './sidebars.ts',
-          include: ['../IDFspokesman/**/**/**/*.{md,mdx}'],
+          routeBasePath: "/",
+          path: "../IDFspokesman/",
+          sidebarPath: require.resolve("./sidebars.ts"),
+          
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:

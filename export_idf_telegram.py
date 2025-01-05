@@ -6,6 +6,7 @@ from telethon.sync import TelegramClient
 from telethon.tl.types import MessageMediaPhoto, MessageMediaDocument
 import json
 from datetime import datetime, timezone
+import posixpath  # Ensure consistent URL path formatting
 
 # Load environment variables from a .env file
 load_dotenv()
@@ -32,22 +33,9 @@ s3_client = boto3.client(
     endpoint_url=R2_ENDPOINT_URL,
 )
 
-# Initialize Telegram client
-client = TelegramClient("user_session", API_ID, API_HASH)
-
-# Function to load the last scraped message ID
-def load_last_message_id():
-    if os.path.exists(STATE_FILE):
-        with open(STATE_FILE, "r") as f:
-            state = json.load(f)
-            return state.get("last_message_id", 0)
-    return 0
-
-# Function to save the last scraped message ID
-def save_last_message_id(last_id):
-    state = {"last_message_id": last_id}
-    with open(STATE_FILE, "w") as f:
-        json.dump(state, f)
+# Ensure consistent paths for S3 and URLs
+def normalize_file_key(file_path):
+    return posixpath.normpath(file_path).replace("\\", "/")
 
 # Function to check if a file exists in the R2 bucket
 def file_exists_in_r2(file_key, bucket_name):
@@ -60,7 +48,7 @@ def file_exists_in_r2(file_key, bucket_name):
 # Function to upload media to R2
 def upload_to_r2(file_path, bucket_name):
     try:
-        file_key = os.path.relpath(file_path, SAVE_PATH).replace("\\", "/")  # Relative path for R2 key
+        file_key = normalize_file_key(os.path.relpath(file_path, SAVE_PATH))
         if file_exists_in_r2(file_key, bucket_name):
             print(f"File already exists in R2: {file_key}")
             return f"{PUBLIC_URL_PREFIX}{file_key}"
@@ -82,23 +70,6 @@ def update_markdown_links(md_filename, media_links):
 
     with open(md_filename, "w", encoding="utf-8") as md_file:
         md_file.write(updated_content)
-
-# Function to scan and upload existing media
-def scan_and_upload_existing():
-    print("Scanning and uploading existing media...")
-    for root, dirs, files in os.walk(SAVE_PATH):
-        for file in files:
-            file_path = os.path.join(root, file)
-            relative_path = os.path.relpath(file_path, SAVE_PATH).replace("\\", "/")
-            if os.path.getsize(file_path) > FILE_SIZE_THRESHOLD_MB * 1024 * 1024:
-                r2_link = upload_to_r2(file_path, R2_BUCKET_NAME)
-                if r2_link:
-                    # Update Markdown files if any reference the media
-                    for md_file in [f for f in os.listdir(root) if f.endswith(".md")]:
-                        update_markdown_links(os.path.join(root, md_file), {relative_path: r2_link})
-                    os.remove(file_path)
-                    print(f"Deleted local file: {file_path}")
-    print("Finished scanning and uploading existing media.")
 
 # Function to download and process media
 def download_media(media, folder_path, filename_prefix):
@@ -143,7 +114,7 @@ def process_messages():
                 os.makedirs(media_folder, exist_ok=True)
                 media_filename = download_media(message.media, media_folder, f"{message_id}")
                 if media_filename:
-                    relative_path = os.path.relpath(media_filename, day_folder).replace("\\", "/")
+                    relative_path = normalize_file_key(os.path.relpath(media_filename, day_folder))
 
                     if os.path.getsize(media_filename) > FILE_SIZE_THRESHOLD_MB * 1024 * 1024:
                         r2_link = upload_to_r2(media_filename, R2_BUCKET_NAME)
