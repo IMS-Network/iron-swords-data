@@ -3,6 +3,9 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
+const fs = require('fs');
+console.log('Resolved Docs:', fs.readdirSync('../IDFspokesman'));
+
 
 const config: Config = {
   title: 'My Site',
@@ -37,6 +40,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
+          include: ['../IDFspokesman/**/**/**/*.{md,mdx}'],
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
