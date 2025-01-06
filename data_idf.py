@@ -1,61 +1,64 @@
 import os
 import requests
-from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
 
 # Configuration
 SAVE_PATH = "./IDFspokesman"
 
 # Helper functions
 def download_url_content(url, folder_path):
-    """Download content from a URL, including images, videos, and YouTube videos."""
-    response = requests.get(url)
-    soup = BeautifulSoup(response.text, "html.parser")
+    """Download content from a URL using Playwright and requests."""
     content = []
 
-    if "videoidf.azureedge.net" in url:
-        # Extract video URL directly
-        video_tag = soup.find("video")
-        if video_tag:
-            source_tag = video_tag.find("source")
-            if source_tag and source_tag.get("src"):
-                video_url = source_tag["src"]
-                video_filename = os.path.join(folder_path, os.path.basename(video_url))
-                video_response = requests.get(video_url, stream=True)
-                with open(video_filename, "wb") as f:
-                    for chunk in video_response.iter_content(1024):
-                        f.write(chunk)
-                content.append(f"[Video]({video_filename})")
-    elif "idfanc.activetrail.biz" in url:
-        # Extract content from .bl-block-content
-        block_content = soup.find_all(class_="bl-block-content")
-        for block in block_content:
-            content.append(block.get_text(strip=True))
-    else:
-        # General extraction for images
-        for img in soup.find_all("img"):
-            img_url = img.get("src")
-            if img_url:
-                img_response = requests.get(img_url, stream=True)
-                img_filename = os.path.join(folder_path, os.path.basename(img_url))
-                with open(img_filename, "wb") as f:
-                    for chunk in img_response.iter_content(1024):
-                        f.write(chunk)
-                content.append(f"![Image]({img_filename})")
-
-        # Embed YouTube videos
-        for iframe in soup.find_all("iframe"):
-            src = iframe.get("src")
-            if "youtube.com" in src or "youtu.be" in src:
-                content.append(f"[YouTube Video]({src})")
-
-        # Extract article text
-        holder_content = soup.find_all(class_="holder")
-        if holder_content:
-            for holder in holder_content:
-                content.append(holder.get_text(strip=True))
-        else:
-            for p in soup.find_all("p"):
-                content.append(p.text.strip())
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_page()
+        try:
+            page.goto(url, timeout=60000)
+            if "videoidf.azureedge.net" in url:
+                # Extract video URL
+                video_tag = page.query_selector("video source")
+                if video_tag:
+                    video_url = video_tag.get_attribute("src")
+                    if video_url:
+                        video_filename = os.path.join(folder_path, os.path.basename(video_url))
+                        # Use requests to download video
+                        video_response = requests.get(video_url, stream=True)
+                        with open(video_filename, "wb") as f:
+                            for chunk in video_response.iter_content(1024):
+                                f.write(chunk)
+                        content.append(f"[Video]({video_filename})")
+            elif "idfanc.activetrail.biz" in url:
+                # Extract content from .bl-block-content
+                block_content = page.query_selector_all(".bl-block-content")
+                for block in block_content:
+                    content.append(block.inner_text())
+            else:
+                # Extract general text content
+                holder_content = page.query_selector_all(".holder")
+                for holder in holder_content:
+                    content.append(holder.inner_text())
+                # Extract images
+                img_tags = page.query_selector_all("img")
+                for img in img_tags:
+                    img_url = img.get_attribute("src")
+                    if img_url and img_url.startswith("http"):
+                        img_filename = os.path.join(folder_path, os.path.basename(img_url))
+                        img_response = requests.get(img_url, stream=True)
+                        with open(img_filename, "wb") as f:
+                            for chunk in img_response.iter_content(1024):
+                                f.write(chunk)
+                        content.append(f"![Image]({img_filename})")
+                # Extract YouTube videos
+                iframes = page.query_selector_all("iframe")
+                for iframe in iframes:
+                    src = iframe.get_attribute("src")
+                    if src and ("youtube.com" in src or "youtu.be" in src):
+                        content.append(f"[YouTube Video]({src})")
+        except Exception as e:
+            print(f"Failed to scrape {url}: {e}")
+        finally:
+            browser.close()
 
     return "\n\n".join(content)
 
