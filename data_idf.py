@@ -1,6 +1,7 @@
 import os
 import requests
 from playwright.sync_api import sync_playwright
+from markdownify import markdownify as md
 
 # Configuration
 SAVE_PATH = "./IDFspokesman"
@@ -32,12 +33,12 @@ def download_url_content(url, folder_path):
                 # Extract content from .bl-block-content
                 block_content = page.query_selector_all(".bl-block-content")
                 for block in block_content:
-                    content.append(block.inner_text())
+                    content.append(md(block.inner_html()))
             else:
-                # Extract general text content
-                holder_content = page.query_selector_all(".holder")
-                for holder in holder_content:
-                    content.append(holder.inner_text())
+                # Extract content from .col-md-12.column
+                column_content = page.query_selector_all(".col-md-12.column")
+                for column in column_content:
+                    content.append(md(column.inner_html()))
                 # Extract images
                 img_tags = page.query_selector_all("img")
                 for img in img_tags:
