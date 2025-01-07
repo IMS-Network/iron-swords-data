@@ -10,6 +10,7 @@ SAVE_PATH = "./IDFspokesman"
 def download_url_content(url, folder_path):
     """Download content from a URL using Playwright and requests."""
     content = []
+    base_url = "https://www.idf.il/"
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -43,7 +44,9 @@ def download_url_content(url, folder_path):
                 img_tags = page.query_selector_all("img")
                 for img in img_tags:
                     img_url = img.get_attribute("src")
-                    if img_url and img_url.startswith("http"):
+                    if img_url:
+                        if not img_url.startswith("http"):
+                            img_url = base_url + img_url
                         img_filename = os.path.join(folder_path, os.path.basename(img_url))
                         img_response = requests.get(img_url, stream=True)
                         with open(img_filename, "wb") as f:
