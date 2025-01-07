@@ -1,5 +1,6 @@
 import os
 import requests
+from urllib.parse import urljoin, urlparse
 from playwright.sync_api import sync_playwright
 from markdownify import markdownify as md
 
@@ -7,6 +8,11 @@ from markdownify import markdownify as md
 SAVE_PATH = "./IDFspokesman"
 
 # Helper functions
+def sanitize_url(url):
+    """Remove query strings from a URL."""
+    parsed_url = urlparse(url)
+    return parsed_url.scheme + "://" + parsed_url.netloc + parsed_url.path
+
 def download_url_content(url, folder_path):
     """Download content from a URL using Playwright and preserve structure in markdown."""
     content = []
@@ -27,24 +33,36 @@ def download_url_content(url, folder_path):
             columns = page.query_selector_all(".col-md-12.column")
             for column in columns:
                 column_html = column.inner_html()
-                content.append(md(column_html))
+                column_content = md(column_html)
 
-            # Extract images and embed them
-            img_tags = page.query_selector_all("img")
-            for img in img_tags:
-                img_url = img.get_attribute("src")
-                img_alt = img.get_attribute("alt") or "Image"
-                if img_url:
-                    if not img_url.startswith("http"):
-                        img_url = base_url + img_url
-                    content.append(f"![{img_alt}]({img_url})")
+                # Embed images within the column
+                img_tags = column.query_selector_all("img")
+                for img in img_tags:
+                    img_url = img.get_attribute("src")
+                    img_alt = img.get_attribute("alt") or "Image"
+                    if img_url:
+                        img_url = sanitize_url(urljoin(base_url, img_url))
+                        column_content += f"\n\n![{img_alt}]({img_url})"
 
-            # Extract embedded YouTube videos
-            iframes = page.query_selector_all("iframe")
-            for iframe in iframes:
-                src = iframe.get_attribute("src")
-                if src and ("youtube.com" in src or "youtu.be" in src):
-                    content.append(f'<iframe src="{src}" width="600" height="337" frameborder="0" allowfullscreen></iframe>')
+                # Embed videos within the column
+                iframes = column.query_selector_all("iframe")
+                for iframe in iframes:
+                    src = iframe.get_attribute("src")
+                    if src and ("youtube.com" in src or "youtu.be" in src):
+                        column_content += f'\n\n<iframe src="{src}" width="600" height="337" frameborder="0" allowfullscreen></iframe>'
+
+                content.append(column_content)
+
+            # Handle sliders or galleries as a sequence of images
+            sliders = page.query_selector_all(".image-slider .item-slide")
+            for slider in sliders:
+                img = slider.query_selector("img")
+                if img:
+                    img_url = img.get_attribute("src")
+                    img_alt = img.get_attribute("alt") or "Slider Image"
+                    if img_url:
+                        img_url = sanitize_url(urljoin(base_url, img_url))
+                        content.append(f"![{img_alt}]({img_url})")
 
         except Exception as e:
             print(f"Failed to scrape {url}: {e}")
@@ -56,7 +74,7 @@ def download_url_content(url, folder_path):
 def append_to_markdown(md_filename, additional_content):
     """Append additional content to an existing markdown file."""
     with open(md_filename, "a", encoding="utf-8") as f:
-        f.write(additional_content)
+        f.write("\n\n" + additional_content)
 
 def process_message_files():
     """Process each message file in the folder, scrape content from links, and append to the markdown."""
