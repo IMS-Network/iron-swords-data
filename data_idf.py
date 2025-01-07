@@ -8,7 +8,7 @@ SAVE_PATH = "./IDFspokesman"
 
 # Helper functions
 def download_url_content(url, folder_path):
-    """Download content from a URL using Playwright and requests."""
+    """Download content from a URL using Playwright and preserve structure in markdown."""
     content = []
     base_url = "https://www.idf.il/"
 
@@ -17,48 +17,34 @@ def download_url_content(url, folder_path):
         page = browser.new_page()
         try:
             page.goto(url, timeout=60000)
-            if "videoidf.azureedge.net" in url:
-                # Extract video URL
-                video_tag = page.query_selector("video source")
-                if video_tag:
-                    video_url = video_tag.get_attribute("src")
-                    if video_url:
-                        video_filename = os.path.join(folder_path, os.path.basename(video_url))
-                        # Use requests to download video
-                        video_response = requests.get(video_url, stream=True)
-                        with open(video_filename, "wb") as f:
-                            for chunk in video_response.iter_content(1024):
-                                f.write(chunk)
-                        content.append(f"[Video]({video_filename})")
-            elif "idfanc.activetrail.biz" in url:
-                # Extract content from .bl-block-content
-                block_content = page.query_selector_all(".bl-block-content")
-                for block in block_content:
-                    content.append(md(block.inner_html()))
-            else:
-                # Extract content from .col-md-12.column
-                column_content = page.query_selector_all(".col-md-12.column")
-                for column in column_content:
-                    content.append(md(column.inner_html()))
-                # Extract images
-                img_tags = page.query_selector_all("img")
-                for img in img_tags:
-                    img_url = img.get_attribute("src")
-                    if img_url:
-                        if not img_url.startswith("http"):
-                            img_url = base_url + img_url
-                        img_filename = os.path.join(folder_path, os.path.basename(img_url))
-                        img_response = requests.get(img_url, stream=True)
-                        with open(img_filename, "wb") as f:
-                            for chunk in img_response.iter_content(1024):
-                                f.write(chunk)
-                        content.append(f"![Image]({img_filename})")
-                # Extract YouTube videos
-                iframes = page.query_selector_all("iframe")
-                for iframe in iframes:
-                    src = iframe.get_attribute("src")
-                    if src and ("youtube.com" in src or "youtu.be" in src):
-                        content.append(f"[YouTube Video]({src})")
+
+            # Extract title
+            title = page.query_selector(".heading-default.h1-heading")
+            if title:
+                content.append(f"# {title.inner_text().strip()}")
+
+            # Extract content in .col-md-12.column
+            columns = page.query_selector_all(".col-md-12.column")
+            for column in columns:
+                column_html = column.inner_html()
+                content.append(md(column_html))
+
+            # Extract images and embed them
+            img_tags = page.query_selector_all("img")
+            for img in img_tags:
+                img_url = img.get_attribute("src")
+                if img_url:
+                    if not img_url.startswith("http"):
+                        img_url = base_url + img_url
+                    content.append(f"![Image]({img_url})")
+
+            # Extract embedded YouTube videos
+            iframes = page.query_selector_all("iframe")
+            for iframe in iframes:
+                src = iframe.get_attribute("src")
+                if src and ("youtube.com" in src or "youtu.be" in src):
+                    content.append(f"[YouTube Video]({src})")
+
         except Exception as e:
             print(f"Failed to scrape {url}: {e}")
         finally:
@@ -98,8 +84,8 @@ def process_message_files():
                     print(f"Scraping link: {link}")
                     try:
                         folder_path = os.path.dirname(md_filename)
-                        content = download_url_content(link, folder_path)
-                        scraped_content.append(content)
+                        page_content = download_url_content(link, folder_path)
+                        scraped_content.append(page_content)
                     except Exception as e:
                         print(f"Failed to scrape {link}: {e}")
 
