@@ -22,9 +22,9 @@ def parse_html_content(html, base_url):
     soup = BeautifulSoup(html, "html.parser")
     markdown_parts = []
 
-    for element in soup.children:
+    for element in soup.contents:
         if element.name == "p":  # Text content
-            markdown_parts.append(element.get_text().strip())
+            markdown_parts.append(element.get_text(strip=True))
         elif element.name == "iframe":  # YouTube video
             src = element.get("src")
             if src and ("youtube.com" in src or "youtu.be" in src):
@@ -65,7 +65,8 @@ def download_url_content(url):
             columns = page.query_selector_all(".col-md-12.column")
             for column in columns:
                 html = column.inner_html()
-                content.append(parse_html_content(html, base_url))
+                parsed_content = parse_html_content(html, base_url)
+                content.append(parsed_content)
 
         except Exception as e:
             print(f"Error scraping {url}: {e}")
