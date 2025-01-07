@@ -38,25 +38,24 @@ def download_url_content(url, folder_path):
             columns = page.query_selector_all(".col-md-12.column")
             for column in columns:
                 column_html = column.inner_html()
-                column_content = md(column_html)
+                markdown_column = md(column_html)
 
-                # Embed images within the column
+                # Embed images and videos in order
                 img_tags = column.query_selector_all("img")
                 for img in img_tags:
                     img_url = img.get_attribute("src")
                     img_alt = img.get_attribute("alt") or "Image"
                     if img_url and is_relevant_image(img_url):
                         img_url = sanitize_url(urljoin(base_url, img_url))
-                        column_content += f"\n\n![{img_alt}]({img_url})"
+                        markdown_column += f"\n\n![{img_alt}]({img_url})"
 
-                # Embed videos within the column
                 iframes = column.query_selector_all("iframe")
                 for iframe in iframes:
                     src = iframe.get_attribute("src")
                     if src and ("youtube.com" in src or "youtu.be" in src):
-                        column_content += f'\n\n<iframe src="{src}" width="600" height="337" frameborder="0" allowfullscreen></iframe>'
+                        markdown_column += f'\n\n<iframe src="{src}" width="600" height="337" frameborder="0" allowfullscreen></iframe>'
 
-                content.append(column_content)
+                content.append(markdown_column)
 
             # Handle carousel images
             sliders = page.query_selector_all(".image-slider .item-slide")
