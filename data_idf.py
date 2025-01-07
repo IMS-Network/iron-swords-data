@@ -23,7 +23,7 @@ def parse_html_content(html, base_url):
     markdown_parts = []
 
     for element in soup.contents:
-        if element.name == "p":  # Text content
+        if element.name == "p":  # Paragraph content
             markdown_parts.append(element.get_text(strip=True))
         elif element.name == "iframe":  # YouTube video
             src = element.get("src")
@@ -56,6 +56,7 @@ def download_url_content(url):
         page = browser.new_page()
         try:
             page.goto(url, timeout=60000)
+            
             # Extract title
             title = page.query_selector(".heading-default.h1-heading")
             if title:
