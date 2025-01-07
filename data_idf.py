@@ -33,17 +33,18 @@ def download_url_content(url, folder_path):
             img_tags = page.query_selector_all("img")
             for img in img_tags:
                 img_url = img.get_attribute("src")
+                img_alt = img.get_attribute("alt") or "Image"
                 if img_url:
                     if not img_url.startswith("http"):
                         img_url = base_url + img_url
-                    content.append(f"![Image]({img_url})")
+                    content.append(f"![{img_alt}]({img_url})")
 
             # Extract embedded YouTube videos
             iframes = page.query_selector_all("iframe")
             for iframe in iframes:
                 src = iframe.get_attribute("src")
                 if src and ("youtube.com" in src or "youtu.be" in src):
-                    content.append(f"[YouTube Video]({src})")
+                    content.append(f'<iframe src="{src}" width="600" height="337" frameborder="0" allowfullscreen></iframe>')
 
         except Exception as e:
             print(f"Failed to scrape {url}: {e}")
