@@ -13,6 +13,11 @@ def sanitize_url(url):
     parsed_url = urlparse(url)
     return parsed_url.scheme + "://" + parsed_url.netloc + parsed_url.path
 
+def is_relevant_image(url):
+    """Check if the image is relevant (e.g., ignore icons like 'ico-download-small')."""
+    irrelevant_keywords = ["ico-download-small"]
+    return all(keyword not in url for keyword in irrelevant_keywords)
+
 def download_url_content(url, folder_path):
     """Download content from a URL using Playwright and preserve structure in markdown."""
     content = []
@@ -40,7 +45,7 @@ def download_url_content(url, folder_path):
                 for img in img_tags:
                     img_url = img.get_attribute("src")
                     img_alt = img.get_attribute("alt") or "Image"
-                    if img_url:
+                    if img_url and is_relevant_image(img_url):
                         img_url = sanitize_url(urljoin(base_url, img_url))
                         column_content += f"\n\n![{img_alt}]({img_url})"
 
@@ -53,14 +58,14 @@ def download_url_content(url, folder_path):
 
                 content.append(column_content)
 
-            # Handle sliders or galleries as a sequence of images
+            # Handle carousel images
             sliders = page.query_selector_all(".image-slider .item-slide")
             for slider in sliders:
                 img = slider.query_selector("img")
                 if img:
                     img_url = img.get_attribute("src")
-                    img_alt = img.get_attribute("alt") or "Slider Image"
-                    if img_url:
+                    img_alt = img.get_attribute("alt") or "Carousel Image"
+                    if img_url and is_relevant_image(img_url):
                         img_url = sanitize_url(urljoin(base_url, img_url))
                         content.append(f"![{img_alt}]({img_url})")
 
