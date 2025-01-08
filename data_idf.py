@@ -1,68 +1,85 @@
 import os
-import requests
+from urllib.parse import urljoin, urlparse
+from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 
 # Configuration
 SAVE_PATH = "./IDFspokesman"
 
-# Helper functions
-def download_url_content(url, folder_path):
-    """Download content from a URL, including images, videos, and YouTube videos."""
-    response = requests.get(url)
-    soup = BeautifulSoup(response.text, "html.parser")
+# Helper Functions
+def sanitize_url(url):
+    """Remove query strings from a URL."""
+    parsed_url = urlparse(url)
+    return parsed_url.scheme + "://" + parsed_url.netloc + parsed_url.path
+
+def is_relevant_image(url):
+    """Check if the image is relevant (e.g., ignore icons like 'ico-download-small')."""
+    irrelevant_keywords = ["ico-download-small"]
+    return all(keyword not in url for keyword in irrelevant_keywords)
+
+def parse_html_content(html, base_url):
+    """Parse HTML content and return markdown while maintaining structure."""
+    soup = BeautifulSoup(html, "html.parser")
+    markdown_parts = []
+
+    for element in soup.contents:
+        if element.name == "p":  # Paragraph content
+            markdown_parts.append(element.get_text(strip=True))
+        elif element.name == "iframe":  # YouTube video
+            src = element.get("src")
+            if src and ("youtube.com" in src or "youtu.be" in src):
+                markdown_parts.append(f'<iframe src="{src}" width="600" height="337" frameborder="0" allowfullscreen></iframe>')
+        elif element.name == "img":  # Inline image
+            img_url = element.get("src")
+            alt_text = element.get("alt", "Image")
+            if img_url and is_relevant_image(img_url):
+                img_url = sanitize_url(urljoin(base_url, img_url))
+                markdown_parts.append(f"![{alt_text}]({img_url})")
+        elif element.name == "div" and "image-slider" in element.get("class", []):  # Carousel
+            images = element.select("img")
+            for img in images:
+                img_url = img.get("src")
+                alt_text = img.get("alt", "Carousel Image")
+                if img_url and is_relevant_image(img_url):
+                    img_url = sanitize_url(urljoin(base_url, img_url))
+                    markdown_parts.append(f"![{alt_text}]({img_url})")
+
+    return "\n\n".join(markdown_parts)
+
+def download_url_content(url):
+    """Download and parse content from the given URL."""
+    base_url = "https://www.idf.il/"
     content = []
 
-    if "videoidf.azureedge.net" in url:
-        # Extract video URL directly
-        video_tag = soup.find("video")
-        if video_tag:
-            source_tag = video_tag.find("source")
-            if source_tag and source_tag.get("src"):
-                video_url = source_tag["src"]
-                video_filename = os.path.join(folder_path, os.path.basename(video_url))
-                video_response = requests.get(video_url, stream=True)
-                with open(video_filename, "wb") as f:
-                    for chunk in video_response.iter_content(1024):
-                        f.write(chunk)
-                content.append(f"[Video]({video_filename})")
-    elif "idfanc.activetrail.biz" in url:
-        # Extract content from .bl-block-content
-        block_content = soup.find_all(class_="bl-block-content")
-        for block in block_content:
-            content.append(block.get_text(strip=True))
-    else:
-        # General extraction for images
-        for img in soup.find_all("img"):
-            img_url = img.get("src")
-            if img_url:
-                img_response = requests.get(img_url, stream=True)
-                img_filename = os.path.join(folder_path, os.path.basename(img_url))
-                with open(img_filename, "wb") as f:
-                    for chunk in img_response.iter_content(1024):
-                        f.write(chunk)
-                content.append(f"![Image]({img_filename})")
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_page()
+        try:
+            page.goto(url, timeout=60000)
+            
+            # Extract title
+            title = page.query_selector(".heading-default.h1-heading")
+            if title:
+                content.append(f"# {title.inner_text().strip()}")
 
-        # Embed YouTube videos
-        for iframe in soup.find_all("iframe"):
-            src = iframe.get("src")
-            if "youtube.com" in src or "youtu.be" in src:
-                content.append(f"[YouTube Video]({src})")
+            # Extract main content
+            columns = page.query_selector_all(".col-md-12.column")
+            for column in columns:
+                html = column.inner_html()
+                parsed_content = parse_html_content(html, base_url)
+                content.append(parsed_content)
 
-        # Extract article text
-        holder_content = soup.find_all(class_="holder")
-        if holder_content:
-            for holder in holder_content:
-                content.append(holder.get_text(strip=True))
-        else:
-            for p in soup.find_all("p"):
-                content.append(p.text.strip())
+        except Exception as e:
+            print(f"Error scraping {url}: {e}")
+        finally:
+            browser.close()
 
     return "\n\n".join(content)
 
 def append_to_markdown(md_filename, additional_content):
     """Append additional content to an existing markdown file."""
     with open(md_filename, "a", encoding="utf-8") as f:
-        f.write(additional_content)
+        f.write("\n\n" + additional_content)
 
 def process_message_files():
     """Process each message file in the folder, scrape content from links, and append to the markdown."""
@@ -90,9 +107,8 @@ def process_message_files():
                 for link in links:
                     print(f"Scraping link: {link}")
                     try:
-                        folder_path = os.path.dirname(md_filename)
-                        content = download_url_content(link, folder_path)
-                        scraped_content.append(content)
+                        page_content = download_url_content(link)
+                        scraped_content.append(page_content)
                     except Exception as e:
                         print(f"Failed to scrape {link}: {e}")
 

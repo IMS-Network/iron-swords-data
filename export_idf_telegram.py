@@ -84,6 +84,14 @@ def download_media(media, folder_path, filename_prefix):
     client.download_media(media, file=file_path)
     return file_path
 
+# Function to scan and upload existing files
+def scan_and_upload_existing():
+    for root, dirs, files in os.walk(SAVE_PATH):
+        for file in files:
+            file_path = os.path.join(root, file)
+            if os.path.getsize(file_path) > FILE_SIZE_THRESHOLD_MB * 1024 * 1024:
+                upload_to_r2(file_path, R2_BUCKET_NAME)
+
 # Function to process messages
 def process_messages():
     print("Starting Telegram scraping...")
