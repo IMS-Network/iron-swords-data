@@ -92,6 +92,18 @@ def scan_and_upload_existing():
             if os.path.getsize(file_path) > FILE_SIZE_THRESHOLD_MB * 1024 * 1024:
                 upload_to_r2(file_path, R2_BUCKET_NAME)
 
+# Function to load the last message ID from a state file
+def load_last_message_id():
+    if os.path.exists(STATE_FILE):
+        with open(STATE_FILE, "r", encoding="utf-8") as f:
+            return json.load(f).get("last_message_id", 0)
+    return 0
+
+# Function to save the last message ID to a state file
+def save_last_message_id(last_message_id):
+    with open(STATE_FILE, "w", encoding="utf-8") as f:
+        json.dump({"last_message_id": last_message_id}, f)
+
 # Function to process messages
 def process_messages():
     print("Starting Telegram scraping...")
