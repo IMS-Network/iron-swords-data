@@ -33,6 +33,9 @@ s3_client = boto3.client(
     endpoint_url=R2_ENDPOINT_URL,
 )
 
+# Initialize the Telegram client
+client = TelegramClient('session_name', API_ID, API_HASH)
+
 # Ensure consistent paths for S3 and URLs
 def normalize_file_key(file_path):
     return posixpath.normpath(file_path).replace("\\", "/")
