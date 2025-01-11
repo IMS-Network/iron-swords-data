@@ -12,7 +12,7 @@ load_dotenv()
 API_ID = int(os.getenv("TELEGRAM_API_ID"))
 API_HASH = os.getenv("TELEGRAM_API_HASH")
 NEW_CHANNEL = "@tzevaadomm"  # Replace with the new Telegram channel handle
-SAVE_PATH = "./Tzevaadomm"
+SAVE_PATH = "../Tzevaadomm"
 STATE_FILE = "tzevaadomm_id.json"
 START_DATE = datetime(2023, 10, 7, tzinfo=timezone.utc)  # Start scraping from this date (UTC)
 
