@@ -1,7 +1,5 @@
 import pymysql
 import os
-import json
-import re
 from dotenv import load_dotenv
 
 # Load environment variables
@@ -17,61 +15,42 @@ db_config = {
     "charset": "utf8mb4",
 }
 
-# Exclude specific post IDs
-excluded_ids = [466, 315, 332, 95, 64, 382, 336, 426, 454]
+# List of working post IDs
+working_posts = [64, 95, 315, 332, 336, 382, 426, 454, 466]
 
-# Function to calculate word count
-def calculate_word_count(text):
-    if not text:
-        return 0
-    # Remove HTML tags and count words
-    clean_text = re.sub(r'<[^>]+>', '', text)
-    return len(clean_text.split())
-
-# Function to fetch posts and update _wpml_word_count
-def recount_and_update_word_count():
+def add_missing_language_associations():
     try:
-        # Connect to the database
         connection = pymysql.connect(**db_config)
         with connection.cursor() as cursor:
-            # Fetch posts except the excluded ones
-            find_posts_query = f"""
-            SELECT p.ID, p.post_content
+            # Find posts missing language associations
+            find_missing_query = f"""
+            SELECT p.ID
             FROM 9v533_posts p
-            WHERE p.post_type = 'at_biz_dir' AND p.ID NOT IN ({','.join(map(str, excluded_ids))});
+            LEFT JOIN 9v533_icl_translations t ON p.ID = t.element_id
+            WHERE p.post_type = 'at_biz_dir' 
+              AND t.element_id IS NULL
+              AND p.ID NOT IN ({','.join(map(str, working_posts))});
             """
-            cursor.execute(find_posts_query)
-            posts = cursor.fetchall()
+            cursor.execute(find_missing_query)
+            missing_posts = cursor.fetchall()
 
-            for post in posts:
+            # Insert language associations for missing posts
+            for post in missing_posts:
                 post_id = post[0]
-                post_content = post[1]
+                # Get the next TRID
+                cursor.execute("SELECT MAX(trid) + 1 FROM 9v533_icl_translations")
+                next_trid = cursor.fetchone()[0] or 1
 
-                # Calculate word count
-                word_count = calculate_word_count(post_content)
-
-                # Create _wpml_word_count value
-                wpml_word_count = {
-                    "total": word_count,
-                    "to_translate": {
-                        "en": word_count,
-                        "ru": word_count,
-                    },
-                }
-                wpml_word_count_json = json.dumps(wpml_word_count, ensure_ascii=False)
-
-                # Insert or update _wpml_word_count metadata
                 insert_query = """
-                INSERT INTO 9v533_postmeta (post_id, meta_key, meta_value)
-                VALUES (%s, '_wpml_word_count', %s)
-                ON DUPLICATE KEY UPDATE meta_value = VALUES(meta_value);
+                INSERT INTO 9v533_icl_translations (element_id, element_type, language_code, source_language_code, trid)
+                VALUES (%s, %s, %s, %s, %s);
                 """
-                cursor.execute(insert_query, (post_id, wpml_word_count_json))
-                print(f"Updated _wpml_word_count for post ID {post_id} with {wpml_word_count_json}")
+                cursor.execute(insert_query, (post_id, 'post_at_biz_dir', 'he', None, next_trid))
+                print(f"Added language association for post ID {post_id} with TRID {next_trid}")
 
             # Commit changes
             connection.commit()
-            print("Successfully updated _wpml_word_count for all relevant posts.")
+            print("Successfully added missing language associations.")
     except Exception as e:
         print(f"An error occurred: {e}")
     finally:
@@ -80,4 +59,4 @@ def recount_and_update_word_count():
 
 # Run the script
 if __name__ == "__main__":
-    recount_and_update_word_count()
+    add_missing_language_associations()
