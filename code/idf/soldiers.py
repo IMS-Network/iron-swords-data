@@ -56,51 +56,47 @@ def scrape_idf_casualties():
 
             print(f"Scraping page {page_number}...")
 
-            # Get all soldier listings on the page one by one using the selector that leads to their personal page
+            # Get all soldier listings on the page
             soldier_listings = page.query_selector_all('.col-lg-6.col-md-6.wrap-item')
 
             if not soldier_listings:
                 print(f"No more soldiers found on page {page_number}. Stopping.")
                 break
 
-            # Loop through each soldier item individually
+            # Loop through each soldier listing
             for index in range(len(soldier_listings)):
                 try:
-                    # Find the specific soldier listing again after each iteration
                     soldier_listings = page.query_selector_all('.col-lg-6.col-md-6.wrap-item')
-
-                    # Click on the "לעמוד האישי" link to go to the personal page of the soldier
                     soldier_listings[index].query_selector('span.btn-link-text').click()
-
-                    # Wait for the new page to load
                     page.wait_for_load_state("load")
 
-                    # Extract data from the personal page
+                    # Extract data from the soldier's personal page
                     casualty_data = extract_casualty_data(page)
 
                     if casualty_data:
-                        # Log that the soldier has been added to the data
                         print(f"Soldier: {casualty_data['english_name']} - added to data")
 
-                        # Append the soldier's data to the CSV in real-time
+                        # Append data to the CSV file
                         with open('heroes.csv', 'a', newline='', encoding='utf-8') as csvfile:
                             fieldnames = ['name', 'division', 'date_fallen', 'description', 'english_name', 'image_url']
                             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
                             writer.writerow(casualty_data)
 
-                    # Navigate back to the casualties list page by clicking the "חזרה לדף חללים" link
+                    # Return to the main page
                     back_link = page.query_selector('a.btn-link-text:has-text("חזרה לדף חללים")')
                     if back_link:
                         back_link.click()
                         page.wait_for_load_state("load")
 
                 except Exception as e:
-                    print(f"Error navigating or extracting casualty data for soldier {index + 1} on page {page_number}: {e}")
+                    print(f"Error navigating or extracting data for soldier {index + 1} on page {page_number}: {e}")
 
-            # Check if there's a "Next" page link, if not, stop the loop
-            next_page_link = page.query_selector('.pagination.justify-content-center.mb-0 .page-link[rel="next"]')
+            # Check for the "Next" button
+            next_page_link = page.query_selector('.pagination .page-link[rel="next"]')
             if next_page_link:
-                page_number += 1
+                next_page_link.click()  # Click the "Next" button
+                page.wait_for_load_state("load")  # Wait for the next page to load
+                page_number += 1  # Increment the page counter
             else:
                 print("No more pages. Scraping completed.")
                 break
