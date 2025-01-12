@@ -27,6 +27,41 @@ def execute_query(cursor, query, params):
         print(f"Query failed: {query}\nParams: {params}\nError: {e}")
         raise
 
+# Function to create taxonomy terms if they don't exist
+def create_taxonomy_term(cursor, term_name, taxonomy):
+    term_check_query = (
+        "SELECT term_id FROM 9v533_terms WHERE name = %s AND term_id IN "
+        "(SELECT term_id FROM 9v533_term_taxonomy WHERE taxonomy = %s)"
+    )
+    cursor.execute(term_check_query, (term_name, taxonomy))
+    term = cursor.fetchone()
+
+    if not term:
+        # Insert the term into 9v533_terms
+        insert_term_query = "INSERT INTO 9v533_terms (name, slug) VALUES (%s, %s)"
+        term_slug = term_name.replace(" ", "-").lower()
+        cursor.execute(insert_term_query, (term_name, term_slug))
+        term_id = cursor.lastrowid
+
+        # Associate the term with the taxonomy in 9v533_term_taxonomy
+        insert_taxonomy_query = (
+            "INSERT INTO 9v533_term_taxonomy (term_id, taxonomy) VALUES (%s, %s)"
+        )
+        cursor.execute(insert_taxonomy_query, (term_id, taxonomy))
+        return term_id
+    else:
+        return term[0]
+
+# Function to associate taxonomy terms with a post
+def associate_taxonomy(cursor, post_id, taxonomy_data):
+    for term_name, taxonomy in taxonomy_data:
+        term_id = create_taxonomy_term(cursor, term_name, taxonomy)
+        term_relationship_query = (
+            "INSERT INTO 9v533_term_relationships (object_id, term_taxonomy_id) "
+            "SELECT %s, term_taxonomy_id FROM 9v533_term_taxonomy WHERE term_id = %s"
+        )
+        execute_query(cursor, term_relationship_query, (post_id, term_id))
+
 # Function to insert post data into WordPress
 def insert_post(cursor, post_data):
     post_query = (
@@ -88,6 +123,15 @@ try:
                 }
                 for key, value in metadata.items():
                     insert_metadata(cursor, post_id, key, value)
+
+                # Associate taxonomies
+                taxonomy_data = [
+                    ("חיילים", "atbdp_listing_types"),  # Fixed for all posts
+                    (row["division"], "at_biz_dir-category"),
+                    (row["location"], "at_biz_dir-location"),
+                    (row["tag"], "at_biz_dir-tags"),
+                ]
+                associate_taxonomy(cursor, post_id, taxonomy_data)
 
         connection.commit()
 
