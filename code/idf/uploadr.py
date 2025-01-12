@@ -74,7 +74,11 @@ def insert_post(cursor, post_data):
         "post_modified_gmt, to_ping, pinged, post_content_filtered) "
         "VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
     )
+
+    # Explicitly extract and clean data from the CSV row
     post_content = post_data.get("description", "").strip()  # Map description to post_content
+    if not post_content:
+        post_content = "No description provided."  # Fallback for empty descriptions
     post_title = post_data.get("name", "").strip()  # Map name to post_title
     slug = post_title.replace(" ", "-").lower()  # Generate slug from the title
 
