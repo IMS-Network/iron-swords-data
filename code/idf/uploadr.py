@@ -25,7 +25,6 @@ def execute_query(cursor, query, params):
 
 # Function to create taxonomy terms if they don't exist
 def create_taxonomy_term(cursor, term_name, taxonomy):
-    # Check if the term already exists
     term_check_query = (
         "SELECT term_id FROM 9v533_terms WHERE name = %s AND term_id IN "
         "(SELECT term_id FROM 9v533_term_taxonomy WHERE taxonomy = %s)"
@@ -47,7 +46,6 @@ def create_taxonomy_term(cursor, term_name, taxonomy):
         cursor.execute(insert_taxonomy_query, (term_id, taxonomy))
         return term_id
     else:
-        # Return the existing term_id
         return term["term_id"]
 
 # Function to insert post data into WordPress
@@ -55,27 +53,28 @@ def insert_post(cursor, post_data):
     post_query = (
         "INSERT INTO 9v533_posts (post_author, post_date, post_date_gmt, post_content, post_title, "
         "post_excerpt, post_status, comment_status, ping_status, post_name, post_type, post_modified, "
-        "post_modified_gmt, to_ping, pinged) "
-        "VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
+        "post_modified_gmt, to_ping, pinged, post_content_filtered) "
+        "VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
     )
     cursor.execute(
         post_query,
         (
             3,  # post_author
-            post_data["formatted_fallen_date"],
-            post_data["formatted_fallen_date"],
-            post_data["description"],
-            post_data["name"],
+            post_data["formatted_fallen_date"],  # post_date
+            post_data["formatted_fallen_date"],  # post_date_gmt
+            post_data["description"],  # post_content
+            post_data["name"],  # post_title
             "",  # post_excerpt, default to empty
             "publish",  # post_status
             "open",  # comment_status
             "closed",  # ping_status
-            post_data["slug"],
+            post_data["slug"],  # post_name
             "at_biz_dir",  # post_type
             post_data["formatted_fallen_date"],  # post_modified
             post_data["formatted_fallen_date"],  # post_modified_gmt
             "",  # to_ping, default to empty
             "",  # pinged, default to empty
+            "",  # post_content_filtered, default to empty
         ),
     )
     return cursor.lastrowid
@@ -88,10 +87,7 @@ def insert_metadata(cursor, post_id, meta_key, meta_value):
 # Function to associate taxonomies
 def associate_taxonomy(cursor, post_id, taxonomy_data):
     for term_name, taxonomy in taxonomy_data:
-        # Create the taxonomy term if it doesn't exist
         term_id = create_taxonomy_term(cursor, term_name, taxonomy)
-        
-        # Associate the term with the post
         term_relationship_query = (
             "INSERT INTO 9v533_term_relationships (object_id, term_taxonomy_id) "
             "SELECT %s, term_taxonomy_id FROM 9v533_term_taxonomy WHERE term_id = %s"
@@ -105,7 +101,6 @@ try:
         with open(csv_file_path, "r", encoding="utf-8") as file:
             reader = csv.DictReader(file)
             for row in reader:
-                # Generate slug from name
                 row["slug"] = row["name"].replace(" ", "-").lower()
 
                 # Insert post
@@ -131,7 +126,6 @@ try:
                 ]
                 associate_taxonomy(cursor, post_id, taxonomy_data)
 
-        # Commit changes
         connection.commit()
 
 except Exception as e:
