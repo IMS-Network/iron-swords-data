@@ -57,13 +57,18 @@ def insert_post(cursor, post_data):
         "post_modified_gmt, to_ping, pinged, post_content_filtered) "
         "VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
     )
+    # Map CSV description to post_content
+    post_content = post_data.get("description", "").strip()
+    if not post_content:
+        post_content = "No description available."
+    print(f"Inserting post with content: {post_content}")  # Debug print
     cursor.execute(
         post_query,
         (
             3,  # post_author
             post_data["formatted_fallen_date"],  # post_date
             post_data["formatted_fallen_date"],  # post_date_gmt
-            post_data["description"],  # post_content
+            post_content,  # post_content
             post_data["name"],  # post_title
             "",  # post_excerpt, default to empty
             "publish",  # post_status
@@ -103,6 +108,7 @@ try:
             reader = csv.DictReader(file)
             for row in reader:
                 row["slug"] = row["name"].replace(" ", "-").lower()
+                row["description"] = row.get("description", "").strip()  # Ensure fallback to an empty string
 
                 # Insert post
                 post_id = insert_post(cursor, row)
