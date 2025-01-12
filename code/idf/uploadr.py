@@ -29,6 +29,8 @@ def execute_query(cursor, query, params):
 
 # Function to create taxonomy terms if they don't exist
 def create_taxonomy_term(cursor, term_name, taxonomy):
+    if not term_name:
+        return  # Skip empty taxonomy terms
     term_check_query = (
         "SELECT term_id FROM 9v533_terms WHERE name = %s AND term_id IN "
         "(SELECT term_id FROM 9v533_term_taxonomy WHERE taxonomy = %s)"
