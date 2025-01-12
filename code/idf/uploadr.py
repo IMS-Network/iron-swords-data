@@ -55,6 +55,8 @@ def create_taxonomy_term(cursor, term_name, taxonomy):
 # Function to associate taxonomy terms with a post
 def associate_taxonomy(cursor, post_id, taxonomy_data):
     for term_name, taxonomy in taxonomy_data:
+        if not term_name:
+            continue  # Skip empty terms
         term_id = create_taxonomy_term(cursor, term_name, taxonomy)
         term_relationship_query = (
             "INSERT INTO 9v533_term_relationships (object_id, term_taxonomy_id) "
@@ -70,8 +72,8 @@ def insert_post(cursor, post_data):
         "post_modified_gmt, to_ping, pinged, post_content_filtered) "
         "VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
     )
-    post_content = post_data.get("description", "").strip()  # Correctly map description to post_content
-    post_title = post_data.get("name", "").strip()  # Correctly map name to post_title
+    post_content = post_data.get("description", "").strip()  # Map description to post_content
+    post_title = post_data.get("name", "").strip()  # Map name to post_title
     slug = post_title.replace(" ", "-").lower()  # Generate slug from the title
 
     # Debug information
@@ -128,9 +130,9 @@ try:
                 # Associate taxonomies
                 taxonomy_data = [
                     ("חיילים", "atbdp_listing_types"),  # Fixed for all posts
-                    (row["division"], "at_biz_dir-category"),
-                    (row["location"], "at_biz_dir-location"),
-                    (row["tag"], "at_biz_dir-tags"),
+                    (row.get("division", "").strip(), "at_biz_dir-category"),
+                    (row.get("location", "").strip(), "at_biz_dir-location"),
+                    (row.get("tag", "").strip(), "at_biz_dir-tags"),
                 ]
                 associate_taxonomy(cursor, post_id, taxonomy_data)
 
