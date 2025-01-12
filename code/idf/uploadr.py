@@ -76,9 +76,9 @@ def insert_post(cursor, post_data):
     )
 
     # Explicitly map `description` to `post_content`
-    post_content = post_data["description"].strip()
-    post_title = post_data["name"].strip()
-    slug = post_title.replace(" ", "-").lower()
+    post_content = post_data.get("description", "").strip()  # Map description to post_content
+    post_title = post_data.get("name", "").strip()  # Map name to post_title
+    slug = post_title.replace(" ", "-").lower()  # Generate slug from the title
 
     # Debug information
     print(f"Inserting post with title: {post_title}, content: {post_content}")
@@ -134,9 +134,9 @@ try:
                 # Associate taxonomies
                 taxonomy_data = [
                     ("חיילים", "atbdp_listing_types"),
-                    (row["division"], "at_biz_dir-category"),
-                    (row["location"], "at_biz_dir-location"),
-                    (row["tag"], "at_biz_dir-tags"),
+                    (row.get("division", "").strip(), "at_biz_dir-category"),
+                    (row.get("location", "").strip(), "at_biz_dir-location"),
+                    (row.get("tag", "").strip(), "at_biz_dir-tags"),
                 ]
                 associate_taxonomy(cursor, post_id, taxonomy_data)
 
