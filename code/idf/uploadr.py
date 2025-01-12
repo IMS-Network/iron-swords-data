@@ -21,7 +21,11 @@ csv_file_path = os.getenv("CSV_FILE_PATH", "/mnt/data/heroes_corrected.csv")
 
 # Helper function to execute SQL queries
 def execute_query(cursor, query, params):
-    cursor.execute(query, params)
+    try:
+        cursor.execute(query, params)
+    except Exception as e:
+        print(f"Query failed: {query}\nParams: {params}\nError: {e}")
+        raise
 
 # Function to create taxonomy terms if they don't exist
 def create_taxonomy_term(cursor, term_name, taxonomy):
@@ -46,7 +50,6 @@ def create_taxonomy_term(cursor, term_name, taxonomy):
         cursor.execute(insert_taxonomy_query, (term_id, taxonomy))
         return term_id
     else:
-        # Return the existing term_id (access the first element of the tuple)
         return term[0]
 
 # Function to insert post data into WordPress
@@ -57,11 +60,10 @@ def insert_post(cursor, post_data):
         "post_modified_gmt, to_ping, pinged, post_content_filtered) "
         "VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
     )
-    # Map CSV description to post_content
     post_content = post_data.get("description", "").strip()
     if not post_content:
         post_content = "No description available."
-    print(f"Inserting post with content: {post_content}")  # Debug print
+    print(f"Inserting post with content: {post_content}")
     cursor.execute(
         post_query,
         (
@@ -70,7 +72,7 @@ def insert_post(cursor, post_data):
             post_data["formatted_fallen_date"],  # post_date_gmt
             post_content,  # post_content
             post_data["name"],  # post_title
-            "",  # post_excerpt, default to empty
+            "",  # post_excerpt
             "publish",  # post_status
             "open",  # comment_status
             "closed",  # ping_status
@@ -78,9 +80,9 @@ def insert_post(cursor, post_data):
             "at_biz_dir",  # post_type
             post_data["formatted_fallen_date"],  # post_modified
             post_data["formatted_fallen_date"],  # post_modified_gmt
-            "",  # to_ping, default to empty
-            "",  # pinged, default to empty
-            "",  # post_content_filtered, default to empty
+            "",  # to_ping
+            "",  # pinged
+            "",  # post_content_filtered
         ),
     )
     return cursor.lastrowid
@@ -108,7 +110,7 @@ try:
             reader = csv.DictReader(file)
             for row in reader:
                 row["slug"] = row["name"].replace(" ", "-").lower()
-                row["description"] = row.get("description", "").strip()  # Ensure fallback to an empty string
+                row["description"] = row.get("description", "").strip()
 
                 # Insert post
                 post_id = insert_post(cursor, row)
