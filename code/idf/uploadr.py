@@ -63,28 +63,29 @@ def insert_post(cursor, post_data):
     post_content = post_data.get("description", "").strip()
     if not post_content:
         post_content = "No description available."
+
     print(f"Inserting post with content: {post_content}")
-    cursor.execute(
-        post_query,
-        (
-            3,  # post_author
-            post_data["formatted_fallen_date"],  # post_date
-            post_data["formatted_fallen_date"],  # post_date_gmt
-            post_content,  # post_content
-            post_data["name"],  # post_title
-            "",  # post_excerpt
-            "publish",  # post_status
-            "open",  # comment_status
-            "closed",  # ping_status
-            post_data["slug"],  # post_name
-            "at_biz_dir",  # post_type
-            post_data["formatted_fallen_date"],  # post_modified
-            post_data["formatted_fallen_date"],  # post_modified_gmt
-            "",  # to_ping
-            "",  # pinged
-            "",  # post_content_filtered
-        ),
+
+    params = (
+        3,  # post_author
+        post_data["formatted_fallen_date"],  # post_date
+        post_data["formatted_fallen_date"],  # post_date_gmt
+        post_content,  # post_content
+        post_data["name"],  # post_title
+        "",  # post_excerpt
+        "publish",  # post_status
+        "open",  # comment_status
+        "closed",  # ping_status
+        post_data["slug"],  # post_name
+        "at_biz_dir",  # post_type
+        post_data["formatted_fallen_date"],  # post_modified
+        post_data["formatted_fallen_date"],  # post_modified_gmt
+        "",  # to_ping
+        "",  # pinged
+        "",  # post_content_filtered
     )
+
+    execute_query(cursor, post_query, params)
     return cursor.lastrowid
 
 # Function to insert post metadata
