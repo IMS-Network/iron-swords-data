@@ -71,12 +71,12 @@ def insert_post(cursor, post_data):
     post_query = (
         "INSERT INTO 9v533_posts (post_author, post_date, post_date_gmt, post_content, post_title, "
         "post_excerpt, post_status, comment_status, ping_status, post_name, post_type, post_modified, "
-        "post_modified_gmt, to_ping, pinged, post_content_filtered) "
-        "VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
+        "post_modified_gmt, to_ping, pinged, post_content_filtered, description) "
+        "VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
     )
 
     # Explicitly extract and clean data from the CSV row
-    post_content = post_data["description"].strip()  # Map description to post_content
+    post_content = post_data["description"].strip() if "description" in post_data else ""
     post_title = post_data["name"].strip()  # Map name to post_title
     slug = post_title.replace(" ", "-").lower()  # Generate slug from the title
 
@@ -100,6 +100,7 @@ def insert_post(cursor, post_data):
         "",  # to_ping
         "",  # pinged
         "",  # post_content_filtered
+        post_data["description"]  # new param
     )
 
     execute_query(cursor, post_query, params)
@@ -117,6 +118,7 @@ try:
         with open(csv_file_path, "r", encoding="utf-8") as file:
             reader = csv.DictReader(file)
             for row in reader:
+                print("Row keys:", row.keys())  # Debug to check column names
                 # Ensure the description field is present and mapped
                 if "description" not in row or not row["description"].strip():
                     raise ValueError("Description is missing or empty for a row.")
