@@ -76,10 +76,8 @@ def insert_post(cursor, post_data):
     )
 
     # Explicitly extract and clean data from the CSV row
-    post_content = post_data.get("description", "").strip()  # Map description to post_content
-    if not post_content:
-        post_content = "No description provided."  # Fallback for empty descriptions
-    post_title = post_data.get("name", "").strip()  # Map name to post_title
+    post_content = post_data["description"].strip()  # Map description to post_content
+    post_title = post_data["name"].strip()  # Map name to post_title
     slug = post_title.replace(" ", "-").lower()  # Generate slug from the title
 
     # Debug information
@@ -119,6 +117,10 @@ try:
         with open(csv_file_path, "r", encoding="utf-8") as file:
             reader = csv.DictReader(file)
             for row in reader:
+                # Ensure the description field is present and mapped
+                if "description" not in row or not row["description"].strip():
+                    raise ValueError("Description is missing or empty for a row.")
+
                 # Insert post
                 post_id = insert_post(cursor, row)
 
@@ -136,9 +138,9 @@ try:
                 # Associate taxonomies
                 taxonomy_data = [
                     ("חיילים", "atbdp_listing_types"),  # Fixed for all posts
-                    (row.get("division", "").strip(), "at_biz_dir-category"),
-                    (row.get("location", "").strip(), "at_biz_dir-location"),
-                    (row.get("tag", "").strip(), "at_biz_dir-tags"),
+                    (row["division"], "at_biz_dir-category"),
+                    (row["location"], "at_biz_dir-location"),
+                    (row["tag"], "at_biz_dir-tags"),
                 ]
                 associate_taxonomy(cursor, post_id, taxonomy_data)
 
