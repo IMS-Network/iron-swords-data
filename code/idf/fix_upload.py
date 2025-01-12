@@ -1,5 +1,7 @@
 import pymysql
 import os
+import json
+import re
 from dotenv import load_dotenv
 
 # Load environment variables
@@ -15,38 +17,59 @@ db_config = {
     "charset": "utf8mb4",
 }
 
-# Default _wpml_word_count value
-default_wpml_word_count = '{"total":562,"to_translate":{"en":562,"ru":562}}'
+# Function to calculate word count
+def calculate_word_count(text):
+    if not text:
+        return 0
+    # Remove HTML tags and count words
+    clean_text = re.sub(r'<[^>]+>', '', text)
+    return len(clean_text.split())
 
-# Function to add _wpml_word_count metadata to missing posts
-def add_wpml_word_count():
+# Function to fetch posts and update _wpml_word_count
+def update_wpml_word_count():
     try:
         # Connect to the database
         connection = pymysql.connect(**db_config)
         with connection.cursor() as cursor:
-            # Find all posts missing _wpml_word_count
-            find_missing_query = """
-            SELECT p.ID
+            # Fetch posts missing _wpml_word_count
+            find_posts_query = """
+            SELECT p.ID, p.post_content
             FROM 9v533_posts p
             LEFT JOIN 9v533_postmeta pm ON p.ID = pm.post_id AND pm.meta_key = '_wpml_word_count'
             WHERE p.post_type = 'at_biz_dir' AND pm.meta_id IS NULL;
             """
-            cursor.execute(find_missing_query)
-            missing_posts = cursor.fetchall()
+            cursor.execute(find_posts_query)
+            posts = cursor.fetchall()
 
-            # Add _wpml_word_count for each missing post
-            for post in missing_posts:
+            for post in posts:
                 post_id = post[0]
+                post_content = post[1]
+
+                # Calculate word count
+                word_count = calculate_word_count(post_content)
+
+                # Create _wpml_word_count value
+                wpml_word_count = {
+                    "total": word_count,
+                    "to_translate": {
+                        "en": word_count,
+                        "ru": word_count,
+                    },
+                }
+                wpml_word_count_json = json.dumps(wpml_word_count, ensure_ascii=False)
+
+                # Insert or update _wpml_word_count metadata
                 insert_query = """
                 INSERT INTO 9v533_postmeta (post_id, meta_key, meta_value)
                 VALUES (%s, '_wpml_word_count', %s)
+                ON DUPLICATE KEY UPDATE meta_value = VALUES(meta_value);
                 """
-                cursor.execute(insert_query, (post_id, default_wpml_word_count))
-                print(f"Added _wpml_word_count for post ID {post_id}")
+                cursor.execute(insert_query, (post_id, wpml_word_count_json))
+                print(f"Updated _wpml_word_count for post ID {post_id} with {wpml_word_count_json}")
 
             # Commit changes
             connection.commit()
-            print("Successfully added _wpml_word_count for all missing posts.")
+            print("Successfully updated _wpml_word_count for all relevant posts.")
     except Exception as e:
         print(f"An error occurred: {e}")
     finally:
@@ -55,4 +78,4 @@ def add_wpml_word_count():
 
 # Run the script
 if __name__ == "__main__":
-    add_wpml_word_count()
+    update_wpml_word_count()
