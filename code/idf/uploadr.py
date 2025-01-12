@@ -83,7 +83,7 @@ def insert_post(cursor, post_data):
         3,  # post_author
         post_data["formatted_fallen_date"],  # post_date
         post_data["formatted_fallen_date"],  # post_date_gmt
-        post_content,  # post_content
+        post_content,  # post_content (correctly mapped from CSV description)
         post_title,  # post_title
         "",  # post_excerpt
         "publish",  # post_status
