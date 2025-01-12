@@ -75,10 +75,10 @@ def insert_post(cursor, post_data):
         "VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
     )
 
-    # Explicitly extract and clean data from the CSV row
-    post_content = post_data["description"].strip()  # Use the CSV description for post_content
-    post_title = post_data["name"].strip()  # Map name to post_title
-    slug = post_title.replace(" ", "-").lower()  # Generate slug from the title
+    # Explicitly map `description` to `post_content`
+    post_content = post_data["description"].strip()
+    post_title = post_data["name"].strip()
+    slug = post_title.replace(" ", "-").lower()
 
     # Debug information
     print(f"Inserting post with title: {post_title}, content: {post_content}")
@@ -87,13 +87,13 @@ def insert_post(cursor, post_data):
         3,  # post_author
         post_data["formatted_fallen_date"],  # post_date
         post_data["formatted_fallen_date"],  # post_date_gmt
-        post_content,  # Map to post_content
-        post_title,  # Map to post_title
-        "",  # post_excerpt
+        post_content,  # Map CSV description to post_content
+        post_title,  # Map CSV name to post_title
+        "",  # post_excerpt (default empty)
         "publish",  # post_status
         "open",  # comment_status
         "closed",  # ping_status
-        slug,  # post_name (slug)
+        slug,  # Slug for the post
         "at_biz_dir",  # post_type
         post_data["formatted_fallen_date"],  # post_modified
         post_data["formatted_fallen_date"],  # post_modified_gmt
@@ -117,7 +117,6 @@ try:
         with open(csv_file_path, "r", encoding="utf-8") as file:
             reader = csv.DictReader(file)
             for row in reader:
-                print("Row keys:", row.keys())  # Debug to check column names
                 # Insert post
                 post_id = insert_post(cursor, row)
 
@@ -134,7 +133,7 @@ try:
 
                 # Associate taxonomies
                 taxonomy_data = [
-                    ("חיילים", "atbdp_listing_types"),  # Fixed for all posts
+                    ("חיילים", "atbdp_listing_types"),
                     (row["division"], "at_biz_dir-category"),
                     (row["location"], "at_biz_dir-location"),
                     (row["tag"], "at_biz_dir-tags"),
