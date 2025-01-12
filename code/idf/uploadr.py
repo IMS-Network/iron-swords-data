@@ -47,9 +47,10 @@ def create_taxonomy_term(cursor, term_name, taxonomy):
 
         # Associate the term with the taxonomy in 9v533_term_taxonomy
         insert_taxonomy_query = (
-            "INSERT INTO 9v533_term_taxonomy (term_id, taxonomy) VALUES (%s, %s)"
+            "INSERT INTO 9v533_term_taxonomy (term_id, taxonomy, description) VALUES (%s, %s, %s)"
         )
-        cursor.execute(insert_taxonomy_query, (term_id, taxonomy))
+        # Set a default empty string for description
+        cursor.execute(insert_taxonomy_query, (term_id, taxonomy, ""))
         return term_id
     else:
         return term[0]
