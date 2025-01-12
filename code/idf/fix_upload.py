@@ -17,6 +17,9 @@ db_config = {
     "charset": "utf8mb4",
 }
 
+# Exclude specific post IDs
+excluded_ids = [466, 315, 332, 95, 64, 382, 336, 426, 454]
+
 # Function to calculate word count
 def calculate_word_count(text):
     if not text:
@@ -26,17 +29,16 @@ def calculate_word_count(text):
     return len(clean_text.split())
 
 # Function to fetch posts and update _wpml_word_count
-def update_wpml_word_count():
+def recount_and_update_word_count():
     try:
         # Connect to the database
         connection = pymysql.connect(**db_config)
         with connection.cursor() as cursor:
-            # Fetch posts missing _wpml_word_count
-            find_posts_query = """
+            # Fetch posts except the excluded ones
+            find_posts_query = f"""
             SELECT p.ID, p.post_content
             FROM 9v533_posts p
-            LEFT JOIN 9v533_postmeta pm ON p.ID = pm.post_id AND pm.meta_key = '_wpml_word_count'
-            WHERE p.post_type = 'at_biz_dir' AND pm.meta_id IS NULL;
+            WHERE p.post_type = 'at_biz_dir' AND p.ID NOT IN ({','.join(map(str, excluded_ids))});
             """
             cursor.execute(find_posts_query)
             posts = cursor.fetchall()
@@ -78,4 +80,4 @@ def update_wpml_word_count():
 
 # Run the script
 if __name__ == "__main__":
-    update_wpml_word_count()
+    recount_and_update_word_count()
