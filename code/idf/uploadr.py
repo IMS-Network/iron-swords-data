@@ -54,8 +54,9 @@ def create_taxonomy_term(cursor, term_name, taxonomy):
 def insert_post(cursor, post_data):
     post_query = (
         "INSERT INTO 9v533_posts (post_author, post_date, post_date_gmt, post_content, post_title, "
-        "post_excerpt, post_status, comment_status, ping_status, post_name, post_type, post_modified, post_modified_gmt) "
-        "VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
+        "post_excerpt, post_status, comment_status, ping_status, post_name, post_type, post_modified, "
+        "post_modified_gmt, to_ping, pinged) "
+        "VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
     )
     cursor.execute(
         post_query,
@@ -73,6 +74,8 @@ def insert_post(cursor, post_data):
             "at_biz_dir",  # post_type
             post_data["formatted_fallen_date"],  # post_modified
             post_data["formatted_fallen_date"],  # post_modified_gmt
+            "",  # to_ping, default to empty
+            "",  # pinged, default to empty
         ),
     )
     return cursor.lastrowid
