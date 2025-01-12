@@ -15,38 +15,44 @@ db_config = {
     "charset": "utf8mb4",
 }
 
-# Function to update GUIDs
-def update_guids():
+# Default _wpml_word_count value
+default_wpml_word_count = '{"total":562,"to_translate":{"en":562,"ru":562}}'
+
+# Function to add _wpml_word_count metadata to missing posts
+def add_wpml_word_count():
     try:
         # Connect to the database
         connection = pymysql.connect(**db_config)
         with connection.cursor() as cursor:
-            # Select posts that need GUID updates
-            select_query = """
-            SELECT ID, post_name
-            FROM 9v533_posts
-            WHERE post_type = 'at_biz_dir' AND guid LIKE 'https://heroes.iron-swords.co.il/?p=%';
+            # Find all posts missing _wpml_word_count
+            find_missing_query = """
+            SELECT p.ID
+            FROM 9v533_posts p
+            LEFT JOIN 9v533_postmeta pm ON p.ID = pm.post_id AND pm.meta_key = '_wpml_word_count'
+            WHERE p.post_type = 'at_biz_dir' AND pm.meta_id IS NULL;
             """
-            cursor.execute(select_query)
-            posts = cursor.fetchall()
+            cursor.execute(find_missing_query)
+            missing_posts = cursor.fetchall()
 
-            # Update GUIDs for each post
-            for post in posts:
-                post_id, post_name = post
-                new_guid = f"https://heroes.iron-swords.co.il/directory/{post_name}/"
-                update_query = "UPDATE 9v533_posts SET guid = %s WHERE ID = %s;"
-                cursor.execute(update_query, (new_guid, post_id))
-                print(f"Updated GUID for post ID {post_id} to {new_guid}")
+            # Add _wpml_word_count for each missing post
+            for post in missing_posts:
+                post_id = post[0]
+                insert_query = """
+                INSERT INTO 9v533_postmeta (post_id, meta_key, meta_value)
+                VALUES (%s, '_wpml_word_count', %s)
+                """
+                cursor.execute(insert_query, (post_id, default_wpml_word_count))
+                print(f"Added _wpml_word_count for post ID {post_id}")
 
-            # Commit the changes
+            # Commit changes
             connection.commit()
-            print("All GUIDs have been updated successfully.")
+            print("Successfully added _wpml_word_count for all missing posts.")
     except Exception as e:
         print(f"An error occurred: {e}")
     finally:
         if connection:
             connection.close()
 
-# Run the update function
+# Run the script
 if __name__ == "__main__":
-    update_guids()
+    add_wpml_word_count()
