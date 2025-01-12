@@ -72,8 +72,8 @@ def insert_post(cursor, post_data):
     post_query = (
         "INSERT INTO 9v533_posts (post_author, post_date, post_date_gmt, post_content, post_title, "
         "post_excerpt, post_status, comment_status, ping_status, post_name, post_type, post_modified, "
-        "post_modified_gmt, to_ping, pinged, post_content_filtered) "
-        "VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
+        "post_modified_gmt, to_ping, pinged, post_content_filtered, guid) "
+        "VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
     )
 
     # Explicitly map `description` to `post_content`
@@ -101,10 +101,18 @@ def insert_post(cursor, post_data):
         "",  # to_ping
         "",  # pinged
         "",  # post_content_filtered
+        "",  # guid (placeholder, will be updated after post_id is generated)
     )
 
     execute_query(cursor, post_query, params)
-    return cursor.lastrowid
+    post_id = cursor.lastrowid
+
+    # Update the guid with the correct post_id
+    guid = f"https://example.com/?p={post_id}"  # Replace 'example.com' with your site's URL
+    update_guid_query = "UPDATE 9v533_posts SET guid = %s WHERE ID = %s"
+    execute_query(cursor, update_guid_query, (guid, post_id))
+
+    return post_id
 
 # Function to insert post metadata
 def insert_metadata(cursor, post_id, meta_key, meta_value):
@@ -128,6 +136,7 @@ try:
                     "_directory_type": 2,
                     "_never_expire": 1,
                     "_listing_status": "post_status",
+                    "_custom-text-4": row["job"],  # Add job to metadata
                 }
                 for key, value in metadata.items():
                     insert_metadata(cursor, post_id, key, value)
