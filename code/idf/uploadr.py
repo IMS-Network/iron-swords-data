@@ -46,7 +46,8 @@ def create_taxonomy_term(cursor, term_name, taxonomy):
         cursor.execute(insert_taxonomy_query, (term_id, taxonomy))
         return term_id
     else:
-        return term["term_id"]
+        # Return the existing term_id (access the first element of the tuple)
+        return term[0]
 
 # Function to insert post data into WordPress
 def insert_post(cursor, post_data):
