@@ -51,7 +51,8 @@ def scrape_idf_casualties():
 
         while True:
             # Go to the current page of the casualties list
-            page.goto(f"https://www.idf.il/%D7%A0%D7%95%D7%A4%D7%9C%D7%99%D7%9D/%D7%97%D7%9C%D7%9C%D7%99-%D7%94%D7%9E%D7%9C%D7%97%D7%9E%D7%94/?page={page_number}")
+            list_page_url = f"https://www.idf.il/%D7%A0%D7%95%D7%A4%D7%9C%D7%99%D7%9D/%D7%97%D7%9C%D7%9C%D7%99-%D7%94%D7%9E%D7%9C%D7%97%D7%9E%D7%94/?page={page_number}"
+            page.goto(list_page_url)
             page.wait_for_load_state("load")
 
             print(f"Scraping page {page_number}...")
@@ -82,11 +83,9 @@ def scrape_idf_casualties():
                             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
                             writer.writerow(casualty_data)
 
-                    # Return to the main page
-                    back_link = page.query_selector('a.btn-link-text:has-text("חזרה לדף חללים")')
-                    if back_link:
-                        back_link.click()
-                        page.wait_for_load_state("load")
+                    # Navigate back to the current page
+                    page.goto(list_page_url)
+                    page.wait_for_load_state("load")
 
                 except Exception as e:
                     print(f"Error navigating or extracting data for soldier {index + 1} on page {page_number}: {e}")
