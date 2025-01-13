@@ -22,9 +22,9 @@ jobs:
 
     - name: Decode and decrypt Telegram session file
       run: |
-        echo "${{ secrets.TELEGRAM_SESSION_ENC }}" | base64 --decode > user_session.session.enc
-        openssl enc -aes-256-cbc -pbkdf2 -iter 100000 -d -in user_session.session.enc -out code/telegram/user_session.session -k "${{ secrets.ENCRYPTION_PASSWORD }}"
-        echo "Decryption successful!"
+          echo "${{ secrets.TELEGRAM_SESSION_ENC }}" | base64 --decode > session_telegram_scraper.session.enc
+          openssl enc -aes-256-cbc -pbkdf2 -iter 100000 -d -in session_telegram_scraper.session.enc -out code/telegram/session_telegram_scraper.session -k "${{ secrets.ENCRYPTION_PASSWORD }}"
+          echo "Decryption successful!" 
 
     - name: Set up Python
       uses: actions/setup-python@v5
