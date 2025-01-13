@@ -19,7 +19,7 @@ R2_ENDPOINT_URL = os.getenv("R2_ENDPOINT_URL")
 API_ID = int(os.getenv("TELEGRAM_API_ID"))
 API_HASH = os.getenv("TELEGRAM_API_HASH")
 CHANNEL = "@idf_telegram"
-SAVE_PATH = "../../IDFspokesman"
+SAVE_PATH = "./IDFspokesman"
 STATE_FILE = "last_message_state.json"
 START_DATE = datetime(2023, 10, 7, tzinfo=timezone.utc)  # Start scraping from this date (UTC)
 FILE_SIZE_THRESHOLD_MB = 25
@@ -80,11 +80,6 @@ def file_exists_in_r2(file_key, bucket_name):
 # Function to upload media to R2 with metadata updates
 def upload_to_r2(file_path, bucket_name):
     try:
-        file_size_mb = os.path.getsize(file_path) / (1024 * 1024)
-        if file_size_mb > FILE_SIZE_THRESHOLD_MB:
-            print(f"File {file_path} exceeds the size threshold of {FILE_SIZE_THRESHOLD_MB} MB, skipping upload.")
-            return None
-
         file_key = normalize_file_key(os.path.relpath(file_path, SAVE_PATH))
         if file_exists_in_r2(file_key, bucket_name):
             print(f"File already exists in R2: {file_key}")
@@ -118,32 +113,50 @@ def upload_to_r2(file_path, bucket_name):
         print(f"Failed to upload {file_path}: {e}")
         return None
 
-# Function to load the last scraped message ID
-def load_last_message_id():
-    if os.path.exists(STATE_FILE):
-        with open(STATE_FILE, "r") as f:
-            state = json.load(f)
-            return state.get("last_message_id", 0)
-    return 0
+# Function to update markdown links
+def update_markdown_links(md_filename, media_links):
+    with open(md_filename, "r", encoding="utf-8") as md_file:
+        content = md_file.read()
 
-# Function to save the last scraped message ID
-def save_last_message_id(last_id):
-    state = {"last_message_id": last_id}
-    with open(STATE_FILE, "w") as f:
-        json.dump(state, f)
+    updated_content = content
+    for original, new_link in media_links.items():
+        updated_content = updated_content.replace(original, new_link)
 
-# Function to download and save media
+    with open(md_filename, "w", encoding="utf-8") as md_file:
+        md_file.write(updated_content)
+
+# Function to download and process media
 def download_media(media, folder_path, filename_prefix):
     if isinstance(media, MessageMediaPhoto):
-        filename = f"{filename_prefix}.jpg"
+        filename = f"{filename_prefix}_photo.jpg"
     elif isinstance(media, MessageMediaDocument):
-        filename = f"{filename_prefix}.mp4" if 'video' in media.document.mime_type else f"{filename_prefix}.file"
+        filename = f"{filename_prefix}_media.mp4" if 'video' in media.document.mime_type else f"{filename_prefix}_media"
     else:
         return None
 
     file_path = os.path.join(folder_path, filename)
     client.download_media(media, file=file_path)
     return file_path
+
+# Function to scan and upload existing files
+def scan_and_upload_existing():
+    for root, dirs, files in os.walk(SAVE_PATH):
+        for file in files:
+            file_path = os.path.join(root, file)
+            if os.path.getsize(file_path) > FILE_SIZE_THRESHOLD_MB * 1024 * 1024:
+                upload_to_r2(file_path, R2_BUCKET_NAME)
+
+# Function to load the last message ID from a state file
+def load_last_message_id():
+    if os.path.exists(STATE_FILE):
+        with open(STATE_FILE, "r", encoding="utf-8") as f:
+            return json.load(f).get("last_message_id", 0)
+    return 0
+
+# Function to save the last message ID to a state file
+def save_last_message_id(last_message_id):
+    with open(STATE_FILE, "w", encoding="utf-8") as f:
+        json.dump({"last_message_id": last_message_id}, f)
 
 # Function to process messages
 def process_messages():
@@ -163,46 +176,46 @@ def process_messages():
             year = message_date.year
             month_name = message_date.strftime("%B")
             day = message_date.day
+            message_id = message.id
 
             day_folder = os.path.join(SAVE_PATH, str(year), month_name, f"{day:02}")
-            images_folder = os.path.join(day_folder, "images")
-            md_filename = os.path.join(day_folder, "alerts.md")
+            os.makedirs(day_folder, exist_ok=True)
+            md_filename = os.path.join(day_folder, f"{message_id}.md")
+            media_folder = os.path.join(day_folder, str(message_id))
 
-            os.makedirs(images_folder, exist_ok=True)
+            media_links = {}
+            if message.media:
+                os.makedirs(media_folder, exist_ok=True)
+                media_filename = download_media(message.media, media_folder, f"{message_id}")
+                if media_filename:
+                    relative_path = normalize_file_key(os.path.relpath(media_filename, day_folder))
 
-            timestamp = message_date.strftime("%H:%M")
+                    if os.path.getsize(media_filename) > FILE_SIZE_THRESHOLD_MB * 1024 * 1024:
+                        r2_link = upload_to_r2(media_filename, R2_BUCKET_NAME)
+                        if r2_link:
+                            media_links[relative_path] = r2_link
+                            os.remove(media_filename)
+                            print(f"Deleted local file: {media_filename}")
+                    else:
+                        media_links[relative_path] = relative_path
 
-            # Initialize the Markdown file if it doesn't exist
-            if not os.path.exists(md_filename):
-                with open(md_filename, "w", encoding="utf-8") as f:
-                    f.write(f"# Alerts for {message_date.strftime('%Y-%m-%d')}\n\n")
+            md_content = f"## Message {message_id}\n\n{message.message or ''}\n\n"
+            for original, new_link in media_links.items():
+                if new_link.endswith(".jpg"):
+                    md_content += f"![Photo]({new_link})\n"
+                elif new_link.endswith(".mp4"):
+                    md_content += f"![Video]({new_link})\n"
 
-            # Append message content and media to the Markdown file
-            with open(md_filename, "a", encoding="utf-8") as f:
-                f.write(f"## {timestamp}\n\n")
-                if message.message:
-                    f.write(f"{message.message}\n\n")
+            with open(md_filename, "w", encoding="utf-8") as f:
+                f.write(md_content)
+            print(f"Saved message {message_id} to {md_filename}")
 
-                if message.media:
-                    media_filename = download_media(message.media, images_folder, f"{message.id}")
-                    if media_filename:
-                        relative_path = os.path.relpath(media_filename, day_folder).replace("\\", "/")
-                        if media_filename.endswith(".jpg"):
-                            f.write(f"![Photo](images/{os.path.basename(relative_path)})\n\n")
-                        elif media_filename.endswith(".mp4"):
-                            f.write(f"![Video](images/{os.path.basename(relative_path)})\n\n")
+            update_markdown_links(md_filename, media_links)
 
-            last_message_id = message.id
+            last_message_id = message_id
 
     save_last_message_id(last_message_id)
     print(f"Finished scraping, last message ID: {last_message_id}")
-
-# Function to scan and upload existing files
-def scan_and_upload_existing():
-    for root, _, files in os.walk(SAVE_PATH):
-        for file in files:
-            file_path = os.path.join(root, file)
-            upload_to_r2(file_path, R2_BUCKET_NAME)
 
 if __name__ == "__main__":
     scan_and_upload_existing()
