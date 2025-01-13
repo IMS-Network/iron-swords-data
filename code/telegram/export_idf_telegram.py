@@ -19,7 +19,7 @@ R2_ENDPOINT_URL = os.getenv("R2_ENDPOINT_URL")
 API_ID = int(os.getenv("TELEGRAM_API_ID"))
 API_HASH = os.getenv("TELEGRAM_API_HASH")
 CHANNEL = "@idf_telegram"
-SAVE_PATH = "./IDFspokesman"
+SAVE_PATH = "../../IDFspokesman"
 STATE_FILE = "last_message_state.json"
 START_DATE = datetime(2023, 10, 7, tzinfo=timezone.utc)  # Start scraping from this date (UTC)
 FILE_SIZE_THRESHOLD_MB = 25
