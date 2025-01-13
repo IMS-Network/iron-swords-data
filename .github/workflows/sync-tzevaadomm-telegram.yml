@@ -25,6 +25,10 @@ jobs:
             echo "${{ secrets.TELEGRAM_SESSION_ENC }}" | base64 --decode > session_telegram_scraper.session.enc
             openssl enc -aes-256-cbc -pbkdf2 -iter 100000 -d -in session_telegram_scraper.session.enc -out code/telegram/session_telegram_scraper.session -k "${{ secrets.ENCRYPTION_PASSWORD }}"
             echo "Decryption successful!" 
+            
+    - name: Debug session file
+      run: |
+        ls -l code/telegram/session_telegram_scraper.session
 
     - name: Set up Python
       uses: actions/setup-python@v5
