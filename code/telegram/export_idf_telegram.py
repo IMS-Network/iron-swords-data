@@ -80,6 +80,11 @@ def file_exists_in_r2(file_key, bucket_name):
 # Function to upload media to R2 with metadata updates
 def upload_to_r2(file_path, bucket_name):
     try:
+        file_size_mb = os.path.getsize(file_path) / (1024 * 1024)
+        if file_size_mb > FILE_SIZE_THRESHOLD_MB:
+            print(f"File {file_path} exceeds the size threshold of {FILE_SIZE_THRESHOLD_MB} MB, skipping upload.")
+            return None
+
         file_key = normalize_file_key(os.path.relpath(file_path, SAVE_PATH))
         if file_exists_in_r2(file_key, bucket_name):
             print(f"File already exists in R2: {file_key}")
