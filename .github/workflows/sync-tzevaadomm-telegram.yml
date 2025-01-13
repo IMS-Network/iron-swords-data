@@ -23,7 +23,7 @@ jobs:
     - name: Decode and decrypt Telegram session file
       run: |
         echo "${{ secrets.TELEGRAM_SESSION_ENC }}" | base64 --decode > user_session.session.enc
-        openssl enc -aes-256-cbc -pbkdf2 -iter 100000 -d -in user_session.session.enc -out user_session.session -k "${{ secrets.ENCRYPTION_PASSWORD }}"
+        openssl enc -aes-256-cbc -pbkdf2 -iter 100000 -d -in user_session.session.enc -out code/telegram/user_session.session -k "${{ secrets.ENCRYPTION_PASSWORD }}"
         echo "Decryption successful!"
 
     - name: Set up Python
@@ -35,12 +35,12 @@ jobs:
       uses: actions/cache@v3
       with:
         path: ~/.cache/pip
-        key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+        key: ${{ runner.os }}-pip-${{ hashFiles('code/telegram/requirements.txt') }}
         restore-keys: |
           ${{ runner.os }}-pip-
 
     - name: Install dependencies
-      run: pip install --no-cache-dir -r requirements.txt
+      run: pip install --no-cache-dir -r code/telegram/requirements.txt
 
     - name: Run Tzevaadomm Telegram scraping script
       env:
@@ -48,7 +48,7 @@ jobs:
         TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        python export_tzevaadomm_telegram.py
+        python code/telegram/export_tzevaadomm_telegram.py
 
     - name: Commit and push changes
       run: |
