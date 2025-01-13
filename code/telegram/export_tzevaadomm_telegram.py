@@ -17,7 +17,7 @@ STATE_FILE = "tzevaadomm_id.json"
 START_DATE = datetime(2023, 10, 7, tzinfo=timezone.utc)  # Start scraping from this date (UTC)
 
 # Initialize Telegram client
-client = TelegramClient("new_channel_session", API_ID, API_HASH)
+client = TelegramClient("session_telegram_scraper", API_ID, API_HASH)
 
 # Function to load the last scraped message ID
 def load_last_message_id():
