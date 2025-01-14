@@ -22,9 +22,26 @@ jobs:
 
     - name: Decode and decrypt Telegram session file
       run: |
-          echo "${{ secrets.TELEGRAM_SESSION_ENC }}" | base64 --decode > session_telegram_scraper.session.enc
-          openssl enc -aes-256-cbc -pbkdf2 -iter 100000 -d -in session_telegram_scraper.session.enc -out code/telegram/session_telegram_scraper.session -k "${{ secrets.ENCRYPTION_PASSWORD }}"
-          echo "Decryption successful!" 
+        # Decode Base64-encoded encrypted session file
+        echo "${{ secrets.TELEGRAM_SESSION_ENC }}" | base64 -d > session_telegram_scraper.session.enc
+        
+        # Decrypt the session file
+        openssl enc -aes-256-cbc -pbkdf2 -iter 100000 -d \
+          -in session_telegram_scraper.session.enc \
+          -out code/telegram/session_telegram_scraper.session \
+          -k "${{ secrets.ENCRYPTION_PASSWORD }}"
+        
+        # Check if decryption was successful
+        if [ ! -f code/telegram/session_telegram_scraper.session ]; then
+          echo "Decryption failed: Session file not found!"
+          exit 1
+        fi
+        echo "Decryption successful!"
+
+    - name: Debug session file
+      run: |
+        # Verify the session file exists and display its size
+        ls -l code/telegram/session_telegram_scraper.session
 
     - name: Set up Python
       uses: actions/setup-python@v5
